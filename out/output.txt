@@ -1,0 +1,18 @@
+pos=20 neg=107 cf=5.35000000000000000000
+Reading model...OK. (75 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 75.00% (21 correct, 7 incorrect, 28 total)
+TP:0 FP:3 FN:4
+Precision/recall on test set: 0.00%/0.00%
+F1-measure on test set: -nan%
+
+pos=626 neg=5217 cf=8.33386581469648562300
+Reading model...OK. (1487 support vectors read)
+Classifying test examples..100..200..300..400..500..600..700..800..900..1000..1100..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 86.56% (1024 correct, 159 incorrect, 1183 total)
+TP:55 FP:85 FN:74
+Precision/recall on test set: 39.29%/42.64%
+F1-measure on test set: 40.89%
+

@@ -1,0 +1,165 @@
+Sentence Id: DrugDDI.d505.s0
+No/DT formal/JJ drug/NN /drug/NN interaction/NN studies/NNS with/IN Plenaxis/NN @/NN were/VBD performed/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT No) (JJ formal) (NN drug) (NN /drug) (NN interaction) (NNS studies)) (PP (IN with) (NP (NN Plenaxis) (NN @)))) (VP (VBD were) (VP (VBN performed)))) (. .))))
+
+Sentence Id: DrugDDI.d505.s1
+Cytochrome/NN P-450/NN is/VBZ not/RB known/VBN to/TO be/VB involved/VBN in/IN the/DT metabolism/NN of/IN Plenaxis/NN @./NNS
+
+(ROOT (S1 (S (NP (NP (NN Cytochrome) (NN P-450)) (VP (VBZ is) (RB not) (VP (VBN known) (S (VP (TO to) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (NP (DT the) (NN metabolism)) (PP (IN of) (NP (NN Plenaxis) (NNS @.)))))))))))))))
+
+Sentence Id: DrugDDI.d505.s2
+Plenaxis/NN @/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN proteins/NNS (/-LRB- 96/CD to/TO 99/CD %)./NN
+
+(ROOT (S1 (S (NP (NP (NP (NN Plenaxis) (NN @)) (VP (VBZ is) (ADVP (RB highly)) (VP (VBN bound) (PP (TO to) (NP (NN plasma) (NNS proteins)))))) (-LRB- -LRB-) (NP (QP (CD 96) (TO to) (CD 99)) (NN %-RRB-.))))))
+
+Sentence Id: DrugDDI.d505.s3
+Laboratory/NN Tests/NNS Response/NN to/TO Plenaxis/NN @/NN should/MD be/VB monitored/VBN by/IN measuring/VBG serum/NN total/JJ testosterone/NN concentrations/NNS just/RB prior/RB to/TO administration/NN on/IN Day/NN 29/CD and/CC every/DT 8/CD weeks/NNS thereafter/RB ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Laboratory) (NNS Tests)) (VP (NN Response) (PP (TO to) (NP (NN Plenaxis) (NN @))))) (VP (MD should) (VP (VB be) (VP (VBN monitored) (PP (IN by) (S (VP (VBG measuring) (NP (NP (NN serum) (JJ total) (NN testosterone) (NNS concentrations)) (ADVP (ADVP (RB just) (RB prior)) (PP (TO to) (NP (NN administration))))) (PP (IN on) (NP (NP (NN Day) (CD 29)) (CC and) (NP (NP (DT every) (CD 8) (NNS weeks)) (ADVP (RB thereafter)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d505.s4
+Serum/NN transaminase/NN levels/NNS should/MD be/VB obtained/VBN before/IN starting/VBG treatment/NN with/IN Plenaxis/NN @/NN and/CC periodically/RB during/IN treatment/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Serum) (NN transaminase) (NNS levels)) (VP (MD should) (VP (VB be) (VP (VBN obtained) (PP (PP (IN before) (S (VP (VBG starting) (NP (NP (NN treatment)) (PP (IN with) (NP (NN Plenaxis) (NN @))))))) (CC and) (ADVP (RB periodically)) (PP (IN during) (NP (NN treatment)))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s0
+Certain/JJ drugs/NNS tend/VBP to/TO produce/VB hyperglycemia/NN and/CC may/MD lead/VB to/TO loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Certain) (NNS drugs)) (VP (VP (VBP tend) (S (VP (TO to) (VP (VB produce) (NP (NN hyperglycemia)))))) (CC and) (VP (MD may) (VP (VB lead) (PP (TO to) (NP (NP (NN loss)) (PP (IN of) (NP (NN blood) (NN glucose) (NN control))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s1
+These/DT drugs/NNS include/VBP the/DT thiazides/NNS and/CC other/JJ diuretics/NNS ,/, corticosteroids/NNS ,/, phenothiazines/NNS ,/, thyroid/NN products/NNS ,/, estrogens/NNS ,/, oral/JJ contraceptives/NNS ,/, phenytoin/NN ,/, nicotinic/JJ acid/NN ,/, sympathomimetics/NNS ,/, calcium/NN channel-blocking/JJ drugs/NNS ,/, and/CC isoniazid/NN ./.
+
+(ROOT (S1 (S (S (NP (DT These) (NNS drugs)) (VP (VBP include) (NP (NP (DT the) (NNS thiazides)) (CC and) (NP (NP (JJ other) (NNS diuretics)) (, ,) (NP (NNS corticosteroids)) (, ,) (NP (NNS phenothiazines)) (, ,) (NP (NN thyroid) (NNS products)) (, ,) (NP (NNS estrogens)) (, ,) (NP (JJ oral) (NNS contraceptives)) (, ,) (NP (NN phenytoin)) (, ,) (NP (JJ nicotinic) (NN acid)) (, ,) (NP (NNS sympathomimetics)) (, ,) (NP (NN calcium) (JJ channel-blocking) (NNS drugs)) (, ,) (CC and) (NP (NN isoniazid)))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s2
+When/WRB such/JJ drugs/NNS are/VBP administered/VBN to/TO a/DT patient/NN receiving/VBG Acarbose/NN ,/, the/DT patient/NN should/MD be/VB closely/RB observed/VBN for/IN loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+(ROOT (S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (JJ such) (NNS drugs)) (VP (VBP are) (VP (VBN administered) (PP (TO to) (NP (NP (DT a) (NN patient)) (VP (VBG receiving) (NP (NN Acarbose))))))))) (, ,) (NP (DT the) (NN patient)) (VP (MD should) (VP (VB be) (ADVP (RB closely)) (VP (VBN observed) (PP (IN for) (NP (NP (NN loss)) (PP (IN of) (NP (NN blood) (NN glucose) (NN control))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s3
+When/WRB such/JJ drugs/NNS are/VBP withdrawn/VBN from/IN patients/NNS receiving/VBG Acarbose/NN in/IN combination/NN with/IN sulfonylureas/NN or/CC insulin/NN ,/, patients/NNS should/MD be/VB observed/VBN closely/RB for/IN any/DT evidence/NN of/IN hypoglycemia/NN ./.
+
+(ROOT (S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (JJ such) (NNS drugs)) (VP (VBP are) (VP (VBN withdrawn) (PP (IN from) (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NN Acarbose)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (NN sulfonylureas)) (CC or) (NP (NN insulin))))))))))))) (, ,) (NP (NNS patients)) (VP (MD should) (VP (VB be) (VP (VBN observed) (ADVP (RB closely)) (PP (IN for) (NP (NP (DT any) (NN evidence)) (PP (IN of) (NP (NN hypoglycemia))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s4
+Intestinal/JJ adsorbents/NNS (/-LRB- e./FW g./FW ,/, charcoal/NN )/-RRB- and/CC digestive/JJ enzyme/NN preparations/NNS containing/VBG carbohydrate-splitting/JJ enzymes/NNS (/-LRB- e./FW g./FW ,/, amylase/NN ,/, pancreatin/NN )/-RRB- may/MD reduce/VB the/DT effect/NN of/IN Acarbose/NN and/CC should/MD not/RB be/VB taken/VBN concomitantly/RB ./.
+
+(ROOT (S1 (S (NP (NP (NP (JJ Intestinal) (NNS adsorbents)) (PRN (-LRB- -LRB-) (NP (NP (FW e.) (FW g.)) (, ,) (NP (NN charcoal))) (-RRB- -RRB-))) (CC and) (NP (NP (NP (JJ digestive) (NN enzyme) (NNS preparations)) (VP (VBG containing) (NP (JJ carbohydrate-splitting) (NNS enzymes)))) (PRN (-LRB- -LRB-) (NP (NP (FW e.) (FW g.)) (, ,) (NP (NN amylase)) (, ,) (NP (NN pancreatin))) (-RRB- -RRB-)))) (VP (VP (MD may) (VP (VB reduce) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NN Acarbose)))))) (CC and) (VP (MD should) (RB not) (VP (VB be) (VP (VBN taken) (ADVP (RB concomitantly)))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s5
+Acarbose/NN has/VBZ been/VBN shown/VBN to/TO change/VB the/DT bioavailabillty/NN digoxin/NN when/WRB they/PRP are/VBP co-administered/VBN ,/, which/WDT may/MD require/VB digoxin/NN dose/NN adjustment/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Acarbose)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB change) (NP (DT the) (NN bioavailabillty) (NN digoxin)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (VP (VBN co-administered) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB require) (NP (NN digoxin) (NN dose) (NN adjustment))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s6
+Studies/NNS in/IN healthy/JJ volunteers/NNS have/VBP shown/VBN that/IN Acarbose/NN has/VBZ no/DT effect/NN on/IN either/CC the/DT pharmacokinetics/NNS or/CC pharmacodynamics/NNS of/IN digoxin/NN ,/, nifedipine/NN ,/, propranolol/NN ,/, or/CC ranitidine/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Studies)) (PP (IN in) (NP (JJ healthy) (NNS volunteers)))) (VP (VBP have) (VP (VBN shown) (SBAR (IN that) (S (NP (NN Acarbose)) (VP (VBZ has) (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (CC either) (DT the) (NP (NNS pharmacokinetics)) (CC or) (NP (NNS pharmacodynamics))) (PP (IN of) (NP (NP (NN digoxin)) (, ,) (NP (NN nifedipine)) (, ,) (NP (NN propranolol)) (, ,) (CC or) (NP (NN ranitidine)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s7
+Acarbose/NN did/VBD not/RB interfere/VB with/IN the/DT absorption/NN or/CC disposition/NN of/IN the/DT sulfonylurea/NN glyburide/NN in/IN diabetic/JJ patients/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Acarbose)) (VP (VBD did) (RB not) (VP (VB interfere) (PP (IN with) (NP (NP (DT the) (NP (NN absorption)) (CC or) (NP (NN disposition))) (PP (IN of) (NP (DT the) (NN sulfonylurea) (NN glyburide))) (PP (IN in) (NP (JJ diabetic) (NNS patients)))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s8
+Acarbose/NN may/MD affect/VB digoxin/NN bioavailabillty/NN and/CC may/MD require/VB dose/NN adjustment/NN of/IN digoxin/NN by/IN 16/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 8-23/CD %/NN )/-RRB- ,/, decrease/VB mean/NN C/NN max/NN digoxin/NN by/IN 26/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 16-34/CD %/NN )/-RRB- and/CC decrease/VB mean/JJ trough/NN concentrations/NNS of/IN digoxin/NN by/IN 9/CD %/NN (/-LRB- 90/CD %/NN confidence/NN limit/NN :/: 19/CD %/NN decrease/NN to/TO 2/CD %/NN increase/NN )./NN
+
+(ROOT (S1 (S (S (NP (NN Acarbose)) (VP (VP (MD may) (VP (VB affect) (NP (NN digoxin) (NN bioavailabillty)))) (CC and) (VP (MD may) (VP (VP (VB require) (NP (NP (NN dose) (NN adjustment)) (PP (IN of) (NP (NN digoxin)))) (PP (IN by) (NP (NP (CD 16) (NN %)) (PRN (-LRB- -LRB-) (NP (CD 90) (NN %) (NN confidence) (NN interval) (: :) (CD 8-23) (NN %)) (-RRB- -RRB-))))) (, ,) (VP (VB decrease) (NP (NN mean) (NN C) (NN max) (NN digoxin)) (PP (IN by) (NP (NP (CD 26) (NN %)) (PRN (-LRB- -LRB-) (NP (CD 90) (NN %) (NN confidence) (NN interval) (: :) (CD 16-34) (NN %)) (-RRB- -RRB-))))) (CC and) (VP (VB decrease) (NP (NP (JJ mean) (NN trough) (NNS concentrations)) (PP (IN of) (NP (NN digoxin)))) (PP (IN by) (NP (NP (CD 9) (NN %)) (PRN (-LRB- -LRB-) (NP (CD 90) (NN %) (NN confidence) (NN limit)))))))))) (: :) (NP (NP (ADJP (CD 19) (NN %)) (NN decrease)) (PP (TO to) (NP (NP (ADJP (CD 2) (NN %)) (NN increase)) (NN -RRB-.)))))))
+
+Sentence Id: DrugDDI.d103.s9
+The/DT amount/NN of/IN metformin/NN absorbed/VBD while/IN taking/VBG Acarbose/NN was/VBD bioequivalent/JJ to/TO the/DT amount/NN absorbed/VBN when/WRB taking/VBG placebo/NN ,/, as/IN indicated/VBN by/IN the/DT plasma/NN AUC/NN values/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (NN metformin)))) (VP (VBD absorbed) (SBAR (IN while) (S (PP (VBG taking) (NP (NN Acarbose))) (VP (VBD was) (ADJP (JJ bioequivalent) (PP (TO to) (NP (NP (DT the) (NN amount)) (VP (VBN absorbed) (SBAR (WHADVP (WRB when)) (S (VP (VBG taking) (NP (NN placebo))))))))) (, ,) (SBAR (IN as) (S (VP (VBN indicated) (PP (IN by) (NP (DT the) (NN plasma) (NN AUC) (NNS values))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s10
+However/RB ,/, the/DT peak/JJ plasma/NN level/NN of/IN metformin/NN was/VBD reduced/VBN by/IN approximately/RB 20/CD %/NN when/WRB taking/VBG Acarbose/NN due/IN to/TO a/DT slight/JJ delay/NN in/IN the/DT absorption/NN of/IN metformin/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB However)) (, ,) (NP (NP (DT the) (JJ peak) (NN plasma) (NN level)) (PP (IN of) (NP (NN metformin)))) (VP (VBD was) (VP (VBN reduced) (PP (IN by) (NP (QP (RB approximately) (CD 20)) (NN %))) (SBAR (WHADVP (WRB when)) (S (VP (VBG taking) (NP (NN Acarbose)) (PP (IN due) (TO to) (NP (NP (DT a) (JJ slight) (NN delay)) (PP (IN in) (NP (NP (DT the) (NN absorption)) (PP (IN of) (NP (NN metformin))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d103.s11
+There/EX is/VBZ little/JJ if/IN any/DT clinically/RB significant/JJ interaction/NN between/IN Acarbose/NN and/CC metformin/NN ./.
+
+(ROOT (S1 (S (S (NP (EX There)) (VP (VBZ is) (ADJP (JJ little) (PP (IN if) (NP (NP (DT any) (ADJP (RB clinically) (JJ significant)) (NN interaction)) (PP (IN between) (NP (NP (NN Acarbose)) (CC and) (NP (NN metformin))))))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s0
+Catecholamine-depleting/JJ drugs/NNS ,/, such/JJ as/IN reserpine/NN ,/, may/MD have/VB an/DT additive/JJ effect/NN when/WRB given/VBN with/IN beta-blocking/JJ agent/NN s/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Catecholamine-depleting) (NNS drugs)) (, ,) (PP (JJ such) (IN as) (NP (NN reserpine))) (, ,)) (VP (MD may) (VP (VB have) (NP (DT an) (JJ additive) (NN effect)) (SBAR (WHADVP (WRB when)) (S (VP (VBN given) (PP (IN with) (NP (JJ beta-blocking) (NN agent) (NNS s))))))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s1
+Patients/NNS treated/VBN with/IN acebutolol/NN plus/CC catecholamine/NN depletors/NNS should/MD ,/, therefore/RB ,/, be/VB observed/VBN closely/RB for/IN evidence/NN of/IN marked/JJ bradycardia/NN or/CC hypotension/NN which/WDT may/MD present/VBP as/IN vertigo/NN ,/, syncope/presyncope/NN ,/, or/CC orthostatic/JJ changes/NNS in/IN blood/NN pressure/NN without/IN compensatory/JJ tachycardia/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Patients)) (VP (VBN treated) (PP (IN with) (NP (NP (NN acebutolol)) (CC plus) (NP (NN catecholamine) (NNS depletors)))))) (VP (MD should) (, ,) (ADVP (RB therefore)) (, ,) (VP (VB be) (VP (VBN observed) (ADVP (RB closely)) (PP (IN for) (NP (NP (NN evidence)) (PP (IN of) (NP (NP (NP (JJ marked) (NN bradycardia)) (CC or) (NP (NN hypotension))) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VBP present) (PP (IN as) (NP (NP (NN vertigo)) (, ,) (NP (NN syncope/presyncope)) (, ,) (CC or) (NP (NP (JJ orthostatic) (NNS changes)) (PP (IN in) (NP (NN blood) (NN pressure))) (PP (IN without) (NP (JJ compensatory) (NN tachycardia)))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s2
+Exaggerated/JJ hypertensive/JJ responses/NNS have/VBP been/VBN reported/VBN from/IN the/DT combined/JJ use/NN of/IN beta-adrenergic/JJ antagonist/NN s/NN and/CC alpha-adrenergic/JJ stimulants/NNS ,/, including/VBG those/DT contained/VBN in/IN proprietary/JJ cold/JJ remedies/NNS and/CC vasoconstrictive/JJ nasal/JJ drops/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Exaggerated) (JJ hypertensive) (NNS responses)) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (PP (IN from) (NP (NP (DT the) (JJ combined) (NN use)) (PP (IN of) (NP (NP (JJ beta-adrenergic) (NN antagonist) (NN s)) (CC and) (NP (JJ alpha-adrenergic) (NNS stimulants)))))) (, ,) (PP (VBG including) (NP (NP (DT those)) (VP (VBN contained) (PP (IN in) (NP (NP (JJ proprietary) (JJ cold) (NNS remedies)) (CC and) (NP (JJ vasoconstrictive) (JJ nasal) (NN drops))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s3
+Patients/NNS receiving/VBG beta-blockers/NN should/MD be/VB warned/VBN of/IN this/DT potential/JJ hazard/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Patients)) (VP (VBG receiving) (NP (NN beta-blockers)))) (VP (MD should) (VP (VB be) (VP (VBN warned) (PP (IN of) (NP (DT this) (JJ potential) (NN hazard))))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s4
+Blunting/NN of/IN the/DT antihypertensive/JJ effect/NN of/IN beta-adrenoceptor/NN blocking/NN agent/NN s/NNS by/IN nonsteroidal/JJ anti-inflammatory/JJ drugs/NNS has/VBZ been/VBN reported/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Blunting)) (PP (IN of) (NP (NP (DT the) (JJ antihypertensive) (NN effect)) (PP (IN of) (NP (NN beta-adrenoceptor) (NN blocking) (NN agent) (NNS s))))) (PP (IN by) (NP (JJ nonsteroidal) (JJ anti-inflammatory) (NNS drugs)))) (VP (VBZ has) (VP (VBN been) (VP (VBN reported))))) (. .))))
+
+Sentence Id: DrugDDI.d518.s5
+No/DT significant/JJ interactions/NNS with/IN digoxin/NN ,/, hydrochlorothiazide/NN ,/, hydralazine/NN ,/, sulfinpyrazone/NN ,/, oral/JJ contraceptives/NNS ,/, tolbutamide/NN ,/, or/CC warfarin/NN have/VBP been/VBN observed/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT No) (JJ significant) (NNS interactions)) (PP (IN with) (NP (NP (NN digoxin)) (, ,) (NP (NN hydrochlorothiazide)) (, ,) (NP (NN hydralazine)) (, ,) (NP (NN sulfinpyrazone)) (, ,) (NP (JJ oral) (NNS contraceptives)) (, ,) (NP (NN tolbutamide)) (, ,) (CC or) (NP (NN warfarin))))) (VP (VBP have) (VP (VBN been) (VP (VBN observed))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s0
+DIAMOX/NN modifies/VBZ phenytoin/NN metabolism/NN with/IN increased/VBN serum/NN levels/NNS of/IN phenytoin/NN ./.
+
+(ROOT (S1 (S (S (NP (NN DIAMOX)) (VP (VBZ modifies) (NP (NN phenytoin) (NN metabolism)) (PP (IN with) (NP (NP (VBN increased) (NN serum) (NNS levels)) (PP (IN of) (NP (NN phenytoin))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s1
+This/DT may/MD increase/VB or/CC enhance/VB the/DT occurrence/NN of/IN osteomalacia/NN in/IN some/DT patients/NNS receiving/VBG chronic/JJ phenytoin/NN therapy/NN ./.
+
+(ROOT (S1 (S (S (NP (DT This)) (VP (MD may) (VP (VP (VB increase)) (CC or) (VP (VB enhance) (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (NN osteomalacia))) (PP (IN in) (NP (NP (DT some) (NNS patients)) (VP (VBG receiving) (NP (JJ chronic) (NN phenytoin) (NN therapy)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s3
+By/IN decreasing/VBG the/DT gastrointestinal/JJ absorption/NN of/IN primidone/NN ,/, DIAMOX/NN may/MD decrease/VB serum/NN concentrations/NNS of/IN primidone/NN and/CC its/PRP$ metabolites/NNS ,/, with/IN a/DT consequent/JJ possible/JJ decrease/NN in/IN anticonvulsant/JJ effect/NN ./.
+
+(ROOT (S1 (S (S (PP (IN By) (S (VP (VBG decreasing) (NP (NP (DT the) (JJ gastrointestinal) (NN absorption)) (PP (IN of) (NP (NN primidone))))))) (, ,) (NP (NN DIAMOX)) (VP (MD may) (VP (VB decrease) (NP (NP (NN serum) (NNS concentrations)) (PP (IN of) (NP (NP (NN primidone)) (CC and) (NP (PRP$ its) (NNS metabolites))))) (, ,) (PP (IN with) (NP (NP (DT a) (JJ consequent) (JJ possible) (NN decrease)) (PP (IN in) (NP (JJ anticonvulsant) (NN effect)))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s4
+Caution/NN is/VBZ advised/JJ when/WRB beginning/VBG ,/, discontinuing/VBG ,/, or/CC changing/VBG the/DT dose/NN of/IN DIAMOX/NN in/IN patients/NNS receiving/VBG primidone/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Caution)) (VP (VBZ is) (ADJP (JJ advised)) (SBAR (WHADVP (WRB when)) (S (VP (VP (VBG beginning)) (, ,) (VP (VBG discontinuing)) (, ,) (CC or) (VP (VBG changing) (NP (NP (DT the) (NN dose)) (PP (IN of) (NP (NN DIAMOX))) (PP (IN in) (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NN primidone)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s5
+Because/IN of/IN possible/JJ additive/JJ effects/NNS with/IN other/JJ carbonic/JJ anhydrase/NN inhibitors/NNS ,/, concomitant/JJ use/NN is/VBZ not/RB advisable/JJ ./.
+
+(ROOT (S1 (S (S (PP (IN Because) (PP (IN of) (NP (NP (JJ possible) (JJ additive) (NNS effects)) (PP (IN with) (NP (JJ other) (NP (JJ carbonic) (NN anhydrase)) (NNS inhibitors)))))) (, ,) (NP (JJ concomitant) (NN use)) (VP (VBZ is) (RB not) (ADJP (JJ advisable)))) (. .))))
+
+Sentence Id: DrugDDI.d452.s6
+Acetazolamide/NN may/MD increase/VB the/DT effects/NNS of/IN other/JJ folic/JJ acid/NN antagonists/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Acetazolamide)) (VP (MD may) (VP (VB increase) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (JJ other) (JJ folic) (NN acid) (NNS antagonists))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s7
+Acetazolamide/NN may/MD increase/VB or/CC decrease/VB blood/NN glucose/NN levels/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Acetazolamide)) (VP (MD may) (VP (VP (VB increase)) (CC or) (VP (VB decrease) (NP (NN blood) (NN glucose) (NNS levels)))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s8
+Consideration/NN should/MD be/VB taken/VBN in/IN patients/NNS being/VBG treated/VBN with/IN antidiabetic/JJ agents/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Consideration)) (VP (MD should) (VP (VB be) (VP (VBN taken) (PP (IN in) (NP (NP (NNS patients)) (VP (VBG being) (VP (VBN treated) (PP (IN with) (NP (JJ antidiabetic) (NNS agents))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s9
+Acetazolamide/NN decreases/VBZ urinary/JJ excretion/NN of/IN amphetamine/NN and/CC may/MD enhance/VB the/DT magnitude/NN and/CC duration/NN of/IN their/PRP$ effect/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Acetazolamide)) (VP (VP (VBZ decreases) (NP (NP (JJ urinary) (NN excretion)) (PP (IN of) (NP (NN amphetamine))))) (CC and) (VP (MD may) (VP (VB enhance) (NP (NP (DT the) (NP (NP (NN magnitude)) (CC and) (NP (NN duration)))) (PP (IN of) (NP (PRP$ their) (NN effect)))))))) (. .))))
+
+Sentence Id: DrugDDI.d452.s10
+Acetazolamide/NN reduces/VBZ urinary/JJ excretion/NN of/IN quinidine/NN and/CC may/MD enhance/VB its/PRP$ effect/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Acetazolamide)) (VP (VP (VBZ reduces) (NP (NP (JJ urinary) (NN excretion)) (PP (IN of) (NP (NN quinidine))))) (CC and) (VP (MD may) (VP (VB enhance) (NP (PRP$ its) (NN effect)))))) (. .))))
+

@@ -1,0 +1,1736 @@
+DrugDDI.d201
+DrugDDI.d201.s5
+Drugs that Inhibit or Induce Cytochrome P450 3A4 Enzymes Lapatinib undergoes extensive metabolism by CYP3A4 , and concomitant administration of strong inhibitors or inducers of CYP3A4 alter lapatinib concentrations significantly.
+
+Drugs/NNS that/WDT Inhibit/VBP or/CC Induce/VBP Cytochrome/NN P450/NN 3A4/NN Enzymes/NNS Lapatinib/NN undergoes/VBZ extensive/JJ metabolism/NN by/IN CYP3A4/NN ,/, and/CC concomitant/JJ administration/NN of/IN strong/JJ inhibitors/NNS or/CC inducers/NNS of/IN CYP3A4/NN alter/VB lapatinib/NN concentrations/NNS significantly/RB ./.
+
+
+DrugDDI.d201
+DrugDDI.d201.s6
+Dose adjustment of lapatinib should be considered for patients who must receive concomitant strong inhibitors or concomitant strong inducers of CYP3A4 enzymes.
+
+Dose/NN adjustment/NN of/IN lapatinib/NN should/MD be/VB considered/VBN for/IN patients/NNS who/WP must/MD receive/VBP concomitant/JJ strong/JJ inhibitors/NNS or/CC concomitant/JJ strong/JJ inducers/NNS of/IN CYP3A4/JJ enzymes/NNS ./.
+
+
+DrugDDI.d201
+DrugDDI.d201.s7
+Ketoconazole : In healthy subjects receiving ketoconazole , a CYP3A4 inhibitor, at 200 mg twice daily for 7 days, systemic exposure (AUC) to lapatinib was increased to approximately 3.6-fold of control and half-life increased to 1.7-fold of control.
+
+Ketoconazole/NN :/: In/IN healthy/JJ subjects/NNS receiving/VBG ketoconazole/NN ,/, a/DT CYP3A4/NN inhibitor/NN ,/, at/IN 200/CD mg/NN twice/RB daily/RB for/IN 7/CD days/NNS ,/, systemic/JJ exposure/NN (/-LRB- AUC/NN )/-RRB- to/TO lapatinib/NN was/VBD increased/VBN to/TO approximately/RB 3.6-fold/NN of/IN control/NN and/CC half-life/NN increased/VBD to/TO 1.7-fold/NN of/IN control/NN ./.
+
+
+DrugDDI.d201
+DrugDDI.d201.s8
+Carbamazepine : In healthy subjects receiving the CYP3A4 inducer, carbamazepine , at 100 mg twice daily for 3 days and 200 mg twice daily for 17 days, systemic exposure (AUC) to lapatinib was decreased approximately 72%.
+
+Carbamazepine/NN :/: In/IN healthy/JJ subjects/NNS receiving/VBG the/DT CYP3A4/NN inducer/NN ,/, carbamazepine/NN ,/, at/IN 100/CD mg/NN twice/RB daily/JJ for/IN 3/CD days/NNS and/CC 200/CD mg/NN twice/RB daily/JJ for/IN 17/CD days/NNS ,/, systemic/JJ exposure/NN (/-LRB- AUC/NN )/-RRB- to/TO lapatinib/NN was/VBD decreased/VBN approximately/RB 72/CD %./NN
+
+
+DrugDDI.d201
+DrugDDI.d201.s9
+Drugs that Inhibit Drug Transport Systems Lapatinib is a substrate of the efflux transporter P-glycoprotein (Pgp, ABCB1 ).
+
+Drugs/NNS that/WDT Inhibit/VBP Drug/NN Transport/NN Systems/NNS Lapatinib/NN is/VBZ a/DT substrate/NN of/IN the/DT efflux/NN transporter/NN P-glycoprotein/NN (/-LRB- Pgp/NN ,/, ABCB1/NN )/-RRB- ./.
+
+
+DrugDDI.d201
+DrugDDI.d201.s10
+If TYKERB is administered with drugs that inhibit Pgp, increased concentrations of lapatinib are likely, and caution should be exercised.
+
+If/IN TYKERB/NN is/VBZ administered/VBN with/IN drugs/NNS that/WDT inhibit/VBP Pgp/NN ,/, increased/VBN concentrations/NNS of/IN lapatinib/NN are/VBP likely/JJ ,/, and/CC caution/NN should/MD be/VB exercised/VBN ./.
+
+
+DrugDDI.d201
+DrugDDI.d201.s11
+Other Chemotherapy Agents : In a separate study, concomitant administration of lapatinib with capecitabine did not meaningfully alter the pharmacokinetics of either agent (or the metabolites of capecitabine ).
+
+Other/JJ Chemotherapy/NN Agents/NNS :/: In/IN a/DT separate/JJ study/NN ,/, concomitant/JJ administration/NN of/IN lapatinib/NN with/IN capecitabine/NN did/VBD not/RB meaningfully/RB alter/VB the/DT pharmacokinetics/NNS of/IN either/DT agent/NN (/-LRB- or/CC the/DT metabolites/NNS of/IN capecitabine/NN )/-RRB- ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s0
+Cholestyramine and Charcoal Administration of cholestyramine or activated charcoal in patients (n=13) and volunteers (n=96) resulted in a rapid and significant decrease in plasma M1 (the active metabolite of leflunomide ) concentration .
+
+Cholestyramine/NN and/CC Charcoal/NN Administration/NN of/IN cholestyramine/NN or/CC activated/VBN charcoal/NN in/IN patients/NNS (/-LRB- n=13/NN )/-RRB- and/CC volunteers/NNS (/-LRB- n=96/CD )/-RRB- resulted/VBD in/IN a/DT rapid/JJ and/CC significant/JJ decrease/NN in/IN plasma/NN M1/NN (/-LRB- the/DT active/JJ metabolite/NN of/IN leflunomide/NN )/-RRB- concentration/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s1
+Hepatotoxic Drugs Increased side effects may occur when leflunomide is given concomitantly with hepatotoxic substances.
+
+Hepatotoxic/JJ Drugs/NNS Increased/VBN side/NN effects/NNS may/MD occur/VB when/WRB leflunomide/NN is/VBZ given/VBN concomitantly/RB with/IN hepatotoxic/JJ substances/NNS ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s2
+This is also to be considered when leflunomide treatment is followed by such drugs without a drug elimination procedure.
+
+This/DT is/VBZ also/RB to/TO be/VB considered/VBN when/WRB leflunomide/NN treatment/NN is/VBZ followed/VBN by/IN such/JJ drugs/NNS without/IN a/DT drug/NN elimination/NN procedure/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s3
+In a small (n=30) combination study of ARAVA with methotrexate , a 2- to 3-fold elevation in liver enzymes was seen in 5 of 30 patients.
+
+In/IN a/DT small/JJ (/-LRB- n=30/NN )/-RRB- combination/NN study/NN of/IN ARAVA/NN with/IN methotrexate/NN ,/, a/DT 2-/CD to/TO 3-fold/JJ elevation/NN in/IN liver/NN enzymes/NNS was/VBD seen/VBN in/IN 5/CD of/IN 30/CD patients/NNS ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s4
+All elevations resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+
+All/DT elevations/NNS resolved/VBN ,/, 2/CD with/IN continuation/NN of/IN both/DT drugs/NNS and/CC 3/CD after/IN discontinuation/NN of/IN leflunomide/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s6
+All of these also resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+
+All/DT of/IN these/DT also/RB resolved/VBN ,/, 2/CD with/IN continuation/NN of/IN both/DT drugs/NNS and/CC 3/CD after/IN discontinuation/NN of/IN leflunomide/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s7
+Three patients met ACR criteria for liver biopsy (1: Roegnik Grade I, 2: Roegnik Grade IIIa).
+
+Three/CD patients/NNS met/NN ACR/NN criteria/NNS for/IN liver/NN biopsy/NN (/-LRB- 1/CD :/: Roegnik/NNP Grade/NN I/CD ,/, 2/CD :/: Roegnik/NNP Grade/NN IIIa/NN )./NN
+
+
+DrugDDI.d581
+DrugDDI.d581.s9
+NSAIDs : In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of diclofenac and ibuprofen at concentrations in the clinical range.
+
+NSAIDs/NNS :/: In/IN in/FW vitro/FW studies/NNS ,/, M1/NN was/VBD shown/VBN to/TO cause/VB increases/NNS ranging/VBG from/IN 13/CD -/CC 50/CD %/NN in/IN the/DT free/JJ fraction/NN of/IN diclofenac/NN and/CC ibuprofen/NN at/IN concentrations/NNS in/IN the/DT clinical/JJ range/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s11
+however, there was extensive concomitant use of NSAIDs in clinical studies and no differential effect was observed.
+
+however/RB ,/, there/EX was/VBD extensive/JJ concomitant/JJ use/NN of/IN NSAIDs/NN in/IN clinical/JJ studies/NNS and/CC no/DT differential/JJ effect/NN was/VBD observed/VBN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s12
+Tolbutamide : In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of tolbutamide at concentrations in the clinical range.
+
+Tolbutamide/NN :/: In/IN in/FW vitro/FW studies/NNS ,/, M1/NN was/VBD shown/VBN to/TO cause/VB increases/NNS ranging/VBG from/IN 13/CD -/CC 50/CD %/NN in/IN the/DT free/JJ fraction/NN of/IN tolbutamide/NN at/IN concentrations/NNS in/IN the/DT clinical/JJ range/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s14
+Rifampin Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin , M1 peak levels were increased (~40%) over those seen when ARAVA was given alone.
+
+Rifampin/NN Following/VBG concomitant/JJ administration/NN of/IN a/DT single/JJ dose/NN of/IN ARAVA/NN to/TO subjects/NNS receiving/VBG multiple/JJ doses/NNS of/IN rifampin/NN ,/, M1/NN peak/NN levels/NNS were/VBD increased/VBN (/-LRB- ~40/CD %/NN )/-RRB- over/IN those/DT seen/VBN when/WRB ARAVA/NN was/VBD given/VBN alone/RB ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s15
+Because of the potential for ARAVA levels to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin .
+
+Because/IN of/IN the/DT potential/NN for/IN ARAVA/NN levels/NNS to/TO continue/VBP to/TO increase/VB with/IN multiple/JJ dosing/NN ,/, caution/NN should/MD be/VB used/VBN if/IN patients/NNS are/VBP to/TO be/VB receiving/VBG both/CC ARAVA/NN and/CC rifampin/NN ./.
+
+
+DrugDDI.d581
+DrugDDI.d581.s16
+Warfarin Increased INR (International Normalized Ratio) when ARAVA and warfarin were co-administered has been rarely reported.
+
+Warfarin/JJ Increased/VBN INR/NN (/-LRB- International/NNP Normalized/VBN Ratio/NN )/-RRB- when/WRB ARAVA/NN and/CC warfarin/NN were/VBD co-administered/VBN has/VBZ been/VBN rarely/RB reported/VBN ./.
+
+
+DrugDDI.d379
+DrugDDI.d379.s0
+Clinical interaction studies with cimetidine and warfarin indicated that the coadministration of Femara with these drugs does not result in clinically- significant drug interactions.
+
+Clinical/JJ interaction/NN studies/NNS with/IN cimetidine/NN and/CC warfarin/NN indicated/VBD that/IN the/DT coadministration/NN of/IN Femara/NN with/IN these/DT drugs/NNS does/VBZ not/RB result/VB in/IN clinically-/JJ significant/JJ drug/NN interactions/NNS ./.
+
+
+DrugDDI.d379
+DrugDDI.d379.s1
+(See CLINICAL PHARMACOLOGY) Coadministration of Femara and tamoxifen 20 mg daily resulted in a reduction of letrozole plasma levels by 38% on average.
+
+(/-LRB- See/VB CLINICAL/JJ PHARMACOLOGY/NN )/-RRB- Coadministration/NN of/IN Femara/NN and/CC tamoxifen/NN 20/CD mg/NN daily/RB resulted/VBD in/IN a/DT reduction/NN of/IN letrozole/NN plasma/NN levels/NNS by/IN 38/CD %/NN on/IN average/NN ./.
+
+
+DrugDDI.d379
+DrugDDI.d379.s2
+There is no clinical experience to date on the use of Femara in combination with other anticancer agents.
+
+There/EX is/VBZ no/DT clinical/JJ experience/VBP to/TO date/VB on/IN the/DT use/NN of/IN Femara/NN in/IN combination/NN with/IN other/JJ anticancer/JJ agents/NNS ./.
+
+
+DrugDDI.d379
+DrugDDI.d379.s3
+Drug /Laboratory Test-Interactions None observed.
+
+Drug/NN /Laboratory/NN Test-Interactions/NN None/NN observed/VBN ./.
+
+
+DrugDDI.d341
+DrugDDI.d341.s0
+Folic acid in large amounts may counteract the antiepileptic effect of phenobarbital , phenytoin and primidone , and increase the frequency of seizures in susceptible pediatric patients.
+
+Folic/JJ acid/NN in/IN large/JJ amounts/NNS may/MD counteract/VB the/DT antiepileptic/JJ effect/NN of/IN phenobarbital/NN ,/, phenytoin/NN and/CC primidone/NN ,/, and/CC increase/VB the/DT frequency/NN of/IN seizures/NNS in/IN susceptible/JJ pediatric/JJ patients/NNS ./.
+
+
+DrugDDI.d341
+DrugDDI.d341.s1
+Preliminary animal and human studies have shown that small quantities of systemically administered leucovorin enter the CSF primarily as 5-methyltetrahydro-folate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
+
+Preliminary/JJ animal/JJ and/CC human/JJ studies/NNS have/VBP shown/VBN that/IN small/JJ quantities/NNS of/IN systemically/RB administered/VBN leucovorin/NN enter/VBP the/DT CSF/NN primarily/RB as/IN 5-methyltetrahydro-folate/NN and/CC ,/, in/IN humans/NNS ,/, remain/VBP 1/CD to/TO 3/CD orders/NNS of/IN magnitude/NN lower/JJR than/IN the/DT usual/JJ methotrexate/NN concentrations/NNS following/VBG intrathecal/JJ administration/NN ./.
+
+
+DrugDDI.d341
+DrugDDI.d341.s2
+However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate .
+
+However/RB ,/, high/JJ doses/NNS of/IN leucovorin/NN may/MD reduce/VB the/DT efficacy/NN of/IN intrathecally/RB administered/VBN methotrexate/NN ./.
+
+
+DrugDDI.d341
+DrugDDI.d341.s3
+Leucovorin may enhance the toxicity of 5- fluorouracil .
+
+Leucovorin/NN may/MD enhance/VB the/DT toxicity/NN of/IN 5-/CD fluorouracil/NN ./.
+
+
+DrugDDI.d484
+DrugDDI.d484.s0
+Although BETAGAN used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with BETAGAN and epinephrine may occur.
+
+Although/IN BETAGAN/NN used/VBN alone/RB has/VBZ little/JJ or/CC no/DT effect/NN on/IN pupil/NN size/NN ,/, mydriasis/NNS resulting/VBG from/IN concomitant/JJ therapy/NN with/IN BETAGAN/NN and/CC epinephrine/NN may/MD occur/VB ./.
+
+
+DrugDDI.d484
+DrugDDI.d484.s1
+Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine , because of possible additive effects and the production of hypotension and/or marked bradycardia, which may produce vertigo, syncope or postural hypotension.
+
+Close/JJ observation/NN of/IN the/DT patient/NN is/VBZ recommended/VBN when/WRB a/DT beta-blocker/NN is/VBZ administered/VBN to/TO patients/NNS receiving/VBG catecholamine-depleting/JJ drugs/NNS such/JJ as/IN reserpine/NN ,/, because/IN of/IN possible/JJ additive/JJ effects/NNS and/CC the/DT production/NN of/IN hypotension/NN and/or/CC marked/JJ bradycardia/NN ,/, which/WDT may/MD produce/VB vertigo/NN ,/, syncope/NN or/CC postural/JJ hypotension/NN ./.
+
+
+DrugDDI.d484
+DrugDDI.d484.s2
+Patients receiving beta-adrenergic blocking agents along with either oral or intravenous calcium antagonist s should be monitored for possible atrioventricular conduction disturbances, left ventricular failure and hypotension.
+
+Patients/NNS receiving/VBG beta-adrenergic/JJ blocking/NN agents/NNS along/IN with/IN either/CC oral/JJ or/CC intravenous/JJ calcium/NN antagonist/NN s/NN should/MD be/VB monitored/VBN for/IN possible/JJ atrioventricular/JJ conduction/NN disturbances/NNS ,/, left/JJ ventricular/NN failure/NN and/CC hypotension/NN ./.
+
+
+DrugDDI.d484
+DrugDDI.d484.s4
+The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonist s may have additive effects on prolonging atrioventricular conduction time.
+
+The/DT concomitant/JJ use/NN of/IN beta-adrenergic/JJ blocking/NN agents/NNS with/IN digitalis/NN and/CC calcium/NN antagonist/NN s/NN may/MD have/VB additive/JJ effects/NNS on/IN prolonging/VBG atrioventricular/JJ conduction/NN time/NN ./.
+
+
+DrugDDI.d484
+DrugDDI.d484.s5
+Phenothiazine -related compounds and beta-adrenergic blocking agents may have additive hypotensite effects due to the inhibition of each other@s metabolism.
+
+Phenothiazine/JJ -related/JJ compounds/NNS and/CC beta-adrenergic/JJ blocking/NN agents/NNS may/MD have/VB additive/JJ hypotensite/JJ effects/NNS due/JJ to/TO the/DT inhibition/NN of/IN each/DT other/JJ @/NN s/NN metabolism/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s0
+No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide , digoxin , warfarin , cimetidine and phenobarbital .
+
+No/DT significant/JJ drug-drug/JJ pharmacokinetic/JJ interactions/NNS have/VBP been/VBN found/VBN in/IN interaction/NN studies/NNS with/IN hydrochlorothiazide/NN ,/, digoxin/NN ,/, warfarin/NN ,/, cimetidine/NN and/CC phenobarbital/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s1
+Rifampin , an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite .
+
+Rifampin/NN ,/, an/DT inducer/NN of/IN drug/NN metabolism/NN ,/, decreased/VBD the/DT concentrations/NNS of/IN losartan/NN and/CC its/PRP$ active/JJ metabolite/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s2
+In humans, two inhibitors of P450 3A4 have been studied.
+
+In/IN humans/NNS ,/, two/CD inhibitors/NNS of/IN P450/NN 3A4/NN have/VBP been/VBN studied/VBN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s3
+Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan , and erythromycin had no clinically significant effect after oral administration.
+
+Ketoconazole/NN did/VBD not/RB affect/VB the/DT conversion/NN of/IN losartan/NN to/TO the/DT active/JJ metabolite/NN after/IN intravenous/JJ administration/NN of/IN losartan/NN ,/, and/CC erythromycin/NN had/VBD no/DT clinically/RB significant/JJ effect/NN after/IN oral/JJ administration/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s4
+Fluconazole , an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.
+
+Fluconazole/NN ,/, an/DT inhibitor/NN of/IN P450/NN 2C9/NNS ,/, decreased/VBD active/JJ metabolite/NN concentration/NN and/CC increased/VBD losartan/NN concentration/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s5
+The pharmacodynamic consequences of concomitant use of losartan and inhibitors of P450 2C9 have not been examined.
+
+The/DT pharmacodynamic/JJ consequences/NNS of/IN concomitant/JJ use/NN of/IN losartan/NN and/CC inhibitors/NNS of/IN P450/NN 2C9/NNS have/VBP not/RB been/VBN examined/VBN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s6
+Subjects who do not metabolize losartan to active metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9 .
+
+Subjects/NNS who/WP do/VBP not/RB metabolize/VB losartan/NN to/TO active/JJ metabolite/NN have/VBP been/VBN shown/VBN to/TO have/VB a/DT specific/JJ ,/, rare/JJ defect/NN in/IN cytochrome/NN P450/NN 2C9/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s7
+These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4 .
+
+These/DT data/NNS suggest/VBP that/IN the/DT conversion/NN of/IN losartan/NN to/TO its/PRP$ active/JJ metabolite/NN is/VBZ mediated/VBN primarily/RB by/IN P450/NN 2C9/NN and/CC not/RB P450/NN 3A4/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s8
+As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone , triamterene , amiloride ), potassium supplement s, or salt substitutes containing potassium may lead to increases in serum potassium.
+
+As/IN with/IN other/JJ drugs/NNS that/WDT block/VBP angiotensin/NN II/CD or/CC its/PRP$ effects/NNS ,/, concomitant/JJ use/NN of/IN potassium-sparing/JJ diuretics/NNS (/-LRB- e.g./FW ,/, spironolactone/NN ,/, triamterene/NN ,/, amiloride/NN )/-RRB- ,/, potassium/NN supplement/NN s/NNS ,/, or/CC salt/NN substitutes/VBZ containing/VBG potassium/NN may/MD lead/VB to/TO increases/NNS in/IN serum/NN potassium/NN ./.
+
+
+DrugDDI.d112
+DrugDDI.d112.s9
+As with other antihypertensive agents , the antihypertensive effect of losartan may be blunted by the non-steroidal anti-inflammatory drug indomethacin .
+
+As/IN with/IN other/JJ antihypertensive/JJ agents/NNS ,/, the/DT antihypertensive/JJ effect/NN of/IN losartan/NN may/MD be/VB blunted/VBN by/IN the/DT non-steroidal/JJ anti-inflammatory/JJ drug/NN indomethacin/NN ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s0
+When administered concurrently, the following drugs may interact with beta-adrenergic receptor blocking agents : Anesthetics , general: exaggeration of the hypotension induced by general anesthetics .
+
+When/WRB administered/VBN concurrently/RB ,/, the/DT following/VBG drugs/NNS may/MD interact/VB with/IN beta-adrenergic/JJ receptor/NN blocking/NN agents/NNS :/: Anesthetics/NN ,/, general/JJ :/: exaggeration/NN of/IN the/DT hypotension/NN induced/VBN by/IN general/JJ anesthetics/NNS ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s1
+Antidiabetic drugs (oral agents and insulin ): hypoglycemia or hyperglycemia; .
+
+Antidiabetic/JJ drugs/NNS (/-LRB- oral/JJ agents/NNS and/CC insulin/NN )/-RRB- :/: hypoglycemia/NN or/CC hyperglycemia/NN ;/: ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s2
+adjust dosage of antidiabetic drug accordingly.
+
+adjust/VB dosage/NN of/IN antidiabetic/JJ drug/NN accordingly/RB ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s3
+Catecholamine-depleting drugs (e.g., reserpine ): additive effect; .
+
+Catecholamine-depleting/JJ drugs/NNS (/-LRB- e.g./FW ,/, reserpine/NN )/-RRB- :/: additive/JJ effect/NN ;/: ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s5
+Response to Treatment for Anaphylactic Reaction: While taking beta-blockers , patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+
+Response/NN to/TO Treatment/NN for/IN Anaphylactic/JJ Reaction/NN :/: While/IN taking/VBG beta-blockers/NN ,/, patients/NNS with/IN a/DT history/NN of/IN severe/JJ anaphylactic/JJ reaction/NN to/TO a/DT variety/NN of/IN allergens/NNS may/MD be/VB more/RBR reactive/JJ to/TO repeated/JJ challenge/NN ,/, either/CC accidental/JJ ,/, diagnostic/JJ ,/, or/CC therapeutic/JJ ./.
+
+
+DrugDDI.d464
+DrugDDI.d464.s6
+Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+Such/JJ patients/NNS may/MD be/VB unresponsive/JJ to/TO the/DT usual/JJ doses/NNS of/IN epinephrine/NN used/VBN to/TO treat/VB allergic/JJ reaction/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s0
+Elevated plasma levels of theophylline have been reported with concomitant quinolone use.
+
+Elevated/JJ plasma/NN levels/NNS of/IN theophylline/NN have/VBP been/VBN reported/VBN with/IN concomitant/JJ quinolone/NN use/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s1
+There have been reports of theophylline -related side effects in patients on concomitant therapy with quinolones and theophylline .
+
+There/EX have/VBP been/VBN reports/NNS of/IN theophylline/NN -related/JJ side/JJ effects/NNS in/IN patients/NNS on/IN concomitant/JJ therapy/NN with/IN quinolones/NNS and/CC theophylline/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s2
+Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted, as required.
+
+Therefore/RB ,/, monitoring/NN of/IN theophylline/NN plasma/NN levels/NNS should/MD be/VB considered/VBN and/CC dosage/NN of/IN theophylline/NN adjusted/VBN ,/, as/IN required/VBN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s3
+Quinolones have been shown to interfere with the metabolism of caffeine .
+
+Quinolones/NNS have/VBP been/VBN shown/VBN to/TO interfere/VB with/IN the/DT metabolism/NN of/IN caffeine/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s4
+This may lead to reduced clearance of caffeine and the prolongation of its plasma half-life.
+
+This/DT may/MD lead/VB to/TO reduced/VBN clearance/NN of/IN caffeine/NN and/CC the/DT prolongation/NN of/IN its/PRP$ plasma/NN half-life/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s5
+Quinolones , including nalidixic acid , may enhance the effects of the oral anticoagulant warfarin or its derivatives .
+
+Quinolones/NNS ,/, including/VBG nalidixic/JJ acid/NN ,/, may/MD enhance/VB the/DT effects/NNS of/IN the/DT oral/JJ anticoagulant/NN warfarin/NN or/CC its/PRP$ derivatives/NNS ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s7
+Nitrofurantoin interferes with the therapeutic action of nalidixic acid .
+
+Nitrofurantoin/NN interferes/VBZ with/IN the/DT therapeutic/JJ action/NN of/IN nalidixic/JJ acid/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s8
+Antacids containing magnesium , aluminum, or calcium ; .
+
+Antacids/NNS containing/VBG magnesium/NN ,/, aluminum/NN ,/, or/CC calcium/NN ;/: ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s9
+sucralfate or divalent or trivalent cations such as iron ; .
+
+sucralfate/VBP or/CC divalent/JJ or/CC trivalent/JJ cations/NNS such/JJ as/IN iron/NN ;/: ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s10
+multivitamins containing zinc ; .
+
+multivitamins/NNS containing/VBG zinc/NN ;/: ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s11
+and Videx@, ( Didanosine ), chewable/ buffer ed tablets or the pediatric powder for oral solution may substantially interfere with the absorption of quinolones , resulting in systemic levels considerably lower than desired.
+
+and/CC Videx/NN @/NN ,/, (/-LRB- Didanosine/NN )/-RRB- ,/, chewable//NN buffer/NN ed/NN tablets/NNS or/CC the/DT pediatric/JJ powder/NN for/IN oral/JJ solution/NN may/MD substantially/RB interfere/VB with/IN the/DT absorption/NN of/IN quinolones/NNS ,/, resulting/VBG in/IN systemic/JJ levels/NNS considerably/RB lower/JJR than/IN desired/VBN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s12
+These agents should not be taken within the two hour period before or within the two-hour period after nalidixic acid administration.
+
+These/DT agents/NNS should/MD not/RB be/VB taken/VBN within/IN the/DT two/CD hour/NN period/NN before/IN or/CC within/IN the/DT two-hour/JJ period/NN after/IN nalidixic/JJ acid/NN administration/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s13
+Elevated serum levels of cyclosporine have been reported with the concomitant use of some quinolones and cyclosporine .
+
+Elevated/JJ serum/NN levels/NNS of/IN cyclosporine/NN have/VBP been/VBN reported/VBN with/IN the/DT concomitant/JJ use/NN of/IN some/DT quinolones/NN and/CC cyclosporine/NN ./.
+
+
+DrugDDI.d485
+DrugDDI.d485.s14
+Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.
+
+Therefore/RB ,/, cyclosporine/NN serum/NN levels/NNS should/MD be/VB monitored/VBN and/CC appropriate/JJ cyclosporine/NN dosage/NN adjustments/NNS made/VBD when/WRB these/DT drugs/NNS are/VBP used/VBN concomitantly/RB ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s0
+In vitro drug metabolism studies indicate that Starlix is predominantly metabolized by the cytochrome P450 isozyme CYP2C9 (70%) and to a lesser extent CYP3A4 (30%).
+
+In/FW vitro/FW drug/NN metabolism/NN studies/NNS indicate/VBP that/IN Starlix/NN is/VBZ predominantly/RB metabolized/VBN by/IN the/DT cytochrome/NN P450/NN isozyme/NN CYP2C9/NN (/-LRB- 70/CD %/NN )/-RRB- and/CC to/TO a/DT lesser/JJR extent/NN CYP3A4/NN (/-LRB- 30%)./NN
+
+
+DrugDDI.d249
+DrugDDI.d249.s1
+Starlix is a potential inhibitor of the CYP2C9 isoenzyme in vivo as indicated by its ability to inhibit the in vitro metabolism of tolbutamide .
+
+Starlix/NN is/VBZ a/DT potential/JJ inhibitor/NN of/IN the/DT CYP2C9/NN isoenzyme/NN in/FW vivo/FW as/IN indicated/VBN by/IN its/PRP$ ability/NN to/TO inhibit/VB the/DT in/FW vitro/FW metabolism/NN of/IN tolbutamide/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s2
+Inhibition of CYP3A4 metabolic reactions was not detected in in vitro experiments.
+
+Inhibition/NN of/IN CYP3A4/JJ metabolic/JJ reactions/NNS was/VBD not/RB detected/VBN in/IN in/FW vitro/FW experiments/NNS ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s3
+Glyburide : In a randomized, multiple-dose crossover study, patients with Type 2 diabetes were administered 120 mg Starlix three times a day before meals for 1 day in combination with glyburide 10 mg daily.
+
+Glyburide/NN :/: In/IN a/DT randomized/JJ ,/, multiple-dose/JJ crossover/NN study/NN ,/, patients/NNS with/IN Type/NN 2/CD diabetes/NNS were/VBD administered/VBN 120/CD mg/NN Starlix/NN three/CD times/NNS a/DT day/NN before/IN meals/NN for/IN 1/CD day/NN in/IN combination/NN with/IN glyburide/NN 10/CD mg/NN daily/RB ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s5
+Metformin : When Starlix 120 mg three times daily before meals was administered in combination with metformin 500 mg three times daily to patients with Type 2 diabetes, there were no clinically relevant changes in the pharmacokinetics of either agent.
+
+Metformin/NN :/: When/WRB Starlix/NN 120/CD mg/NN three/CD times/NNS daily/RB before/IN meals/NN was/VBD administered/VBN in/IN combination/NN with/IN metformin/NN 500/CD mg/NN three/CD times/NNS daily/JJ to/TO patients/NNS with/IN Type/NN 2/CD diabetes/NNS ,/, there/EX were/VBD no/DT clinically/RB relevant/JJ changes/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s6
+Digoxin : When Starlix 120 mg before meals was administered in combination with a single 1-mg dose of digoxin to healthy volunteers, there were no clinically relevant changes in the pharmacokinetics of either agent.
+
+Digoxin/NN :/: When/WRB Starlix/NN 120/CD mg/NN before/IN meals/NN was/VBD administered/VBN in/IN combination/NN with/IN a/DT single/JJ 1-mg/JJ dose/NN of/IN digoxin/NN to/TO healthy/JJ volunteers/NNS ,/, there/EX were/VBD no/DT clinically/RB relevant/JJ changes/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s7
+Warfarin : When healthy subjects were administered Starlix 120 mg three times daily before meals for four days in combination with a single dose of warfarin 30 mg on day 2, there were no alterations in the pharmacokinetics of either agent.
+
+Warfarin/NN :/: When/WRB healthy/JJ subjects/NNS were/VBD administered/VBN Starlix/NN 120/CD mg/NN three/CD times/NNS daily/RB before/IN meals/NN for/IN four/CD days/NNS in/IN combination/NN with/IN a/DT single/JJ dose/NN of/IN warfarin/NN 30/CD mg/NN on/IN day/NN 2/CD ,/, there/EX were/VBD no/DT alterations/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s9
+Diclofenac : Administration of morning and lunch doses of Starlix 120 mg in combination with a single 75-mg dose of diclofenac in healthy volunteers resulted in no significant changes to the pharmacokinetics of either agent.
+
+Diclofenac/NN :/: Administration/NN of/IN morning/NN and/CC lunch/NN doses/NNS of/IN Starlix/NN 120/CD mg/NN in/IN combination/NN with/IN a/DT single/JJ 75-mg/NN dose/NN of/IN diclofenac/NN in/IN healthy/JJ volunteers/NNS resulted/VBD in/IN no/DT significant/JJ changes/NNS to/TO the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s10
+Nateglinide is highly bound to plasma proteins (98%), mainly albumin .
+
+Nateglinide/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN proteins/NNS (/-LRB- 98/CD %/NN )/-RRB- ,/, mainly/RB albumin/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s11
+In vitro displacement studies with highly protein -bound drugs such as furosemide , propranolol , captopril , nicardipine , pravastatin , glyburide , warfarin , phenytoin , acetylsalicylic acid , tolbutamide , and metformin showed no influence on the extent of nateglinide protein binding.
+
+In/FW vitro/FW displacement/NN studies/NNS with/IN highly/RB protein/NN -bound/JJ drugs/NNS such/JJ as/IN furosemide/NN ,/, propranolol/NN ,/, captopril/NN ,/, nicardipine/NN ,/, pravastatin/NN ,/, glyburide/NN ,/, warfarin/NN ,/, phenytoin/NN ,/, acetylsalicylic/JJ acid/NN ,/, tolbutamide/NN ,/, and/CC metformin/NN showed/VBD no/DT influence/NN on/IN the/DT extent/NN of/IN nateglinide/JJ protein/NN binding/NN ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s12
+Similarly, nateglinide had no influence on the serum protein binding of propranolol , glyburide , nicardipine , warfarin , phenytoin , acetylsalicylic acid , and tolbutamide in vitro .
+
+Similarly/RB ,/, nateglinide/NN had/VBD no/DT influence/NN on/IN the/DT serum/NN protein/NN binding/NN of/IN propranolol/NN ,/, glyburide/NN ,/, nicardipine/NN ,/, warfarin/NN ,/, phenytoin/NN ,/, acetylsalicylic/JJ acid/NN ,/, and/CC tolbutamide/NN in/FW vitro/FW ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s14
+Certain drugs , including nonsteroidal anti-inflammatory agents ( NSAIDs ), salicylates , monoamine oxidase inhibitors , and non-selective beta-adrenergic-blocking agents may potentiate the hypoglycemic action of Starlix and other oral antidiabetic drugs .
+
+Certain/JJ drugs/NNS ,/, including/VBG nonsteroidal/JJ anti-inflammatory/JJ agents/NNS (/-LRB- NSAIDs/NNS )/-RRB- ,/, salicylates/NNS ,/, monoamine/NN oxidase/NN inhibitors/NNS ,/, and/CC non-selective/JJ beta-adrenergic-blocking/JJ agents/NNS may/MD potentiate/VB the/DT hypoglycemic/JJ action/NN of/IN Starlix/NN and/CC other/JJ oral/JJ antidiabetic/JJ drugs/NNS ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s15
+Certain drugs including thiazides , corticosteroids , thyroid products, and sympathomimetics may reduce the hypoglycemic action of Starlix and other oral antidiabetic drugs .
+
+Certain/JJ drugs/NNS including/VBG thiazides/NNS ,/, corticosteroids/NNS ,/, thyroid/NN products/NNS ,/, and/CC sympathomimetics/NNS may/MD reduce/VB the/DT hypoglycemic/JJ action/NN of/IN Starlix/NN and/CC other/JJ oral/JJ antidiabetic/JJ drugs/NNS ./.
+
+
+DrugDDI.d249
+DrugDDI.d249.s16
+When these drugs are administered to or withdrawn from patients receiving Starlix , the patient should be observed closely for changes in glycemic control.
+
+When/WRB these/DT drugs/NNS are/VBP administered/VBN to/TO or/CC withdrawn/VBN from/IN patients/NNS receiving/VBG Starlix/NN ,/, the/DT patient/NN should/MD be/VB observed/VBN closely/RB for/IN changes/NNS in/IN glycemic/JJ control/NN ./.
+
+
+DrugDDI.d312
+DrugDDI.d312.s0
+In clinical studies, Tilade has been co-administered with other anti-asthma medications , including inhaled and oral bronchodilators , and inhaled corticosteroids , with no evidence of increased frequency of adverse events or laboratory abnormalities.
+
+In/IN clinical/JJ studies/NNS ,/, Tilade/NN has/VBZ been/VBN co-administered/VBN with/IN other/JJ anti-asthma/NN medications/NNS ,/, including/VBG inhaled/JJ and/CC oral/JJ bronchodilators/NNS ,/, and/CC inhaled/JJ corticosteroids/NNS ,/, with/IN no/DT evidence/NN of/IN increased/VBN frequency/NN of/IN adverse/JJ events/NNS or/CC laboratory/NN abnormalities/NNS ./.
+
+
+DrugDDI.d336
+DrugDDI.d336.s0
+Caution should be taken in concurrent or serial use of other neurotoxic and/ or nephrotoxic drugs because of possible enhancement of the nephrotoxicity and/or ototoxicity of neomycin .
+
+Caution/NN should/MD be/VB taken/VBN in/IN concurrent/JJ or/CC serial/JJ use/NN of/IN other/JJ neurotoxic/JJ and//NN or/CC nephrotoxic/JJ drugs/NNS because/IN of/IN possible/JJ enhancement/NN of/IN the/DT nephrotoxicity/NN and/or/CC ototoxicity/NN of/IN neomycin/NN ./.
+
+
+DrugDDI.d336
+DrugDDI.d336.s1
+Caution should also be taken in concurrent or serial use of other aminoglycosides and polymyxins because they may enhance neomycin@s nephrotoxicity and/or ototoxicity and potentiate neomycin sulfate@s neuromuscular blocking effects.
+
+Caution/NN should/MD also/RB be/VB taken/VBN in/IN concurrent/JJ or/CC serial/JJ use/NN of/IN other/JJ aminoglycosides/NNS and/CC polymyxins/NNS because/IN they/PRP may/MD enhance/VB neomycin/NN @/NN s/NN nephrotoxicity/NN and/or/CC ototoxicity/NN and/CC potentiate/VB neomycin/NN sulfate/NN @/NN s/NN neuromuscular/JJ blocking/VBG effects/NNS ./.
+
+
+DrugDDI.d336
+DrugDDI.d336.s2
+Oral neomycin inhibits the gastrointestinal absorption of penicillin V , oral vitamin B-12 , methotrexate and 5-fluorouracil .
+
+Oral/JJ neomycin/NN inhibits/VBZ the/DT gastrointestinal/JJ absorption/NN of/IN penicillin/NN V/NN ,/, oral/JJ vitamin/NN B-12/NN ,/, methotrexate/NN and/CC 5-fluorouracil/NN ./.
+
+
+DrugDDI.d336
+DrugDDI.d336.s3
+The gastrointestinal absorption of digoxin also appears to be inhibited.
+
+The/DT gastrointestinal/JJ absorption/NN of/IN digoxin/NN also/RB appears/VBZ to/TO be/VB inhibited/VBN ./.
+
+
+DrugDDI.d336
+DrugDDI.d336.s5
+Oral neomycin sulfate may enhance the effect of coumarin in anticoagulants by decreasing vitamin K availability.
+
+Oral/JJ neomycin/NN sulfate/NN may/MD enhance/VB the/DT effect/NN of/IN coumarin/NN in/IN anticoagulants/NNS by/IN decreasing/VBG vitamin/NN K/NN availability/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s0
+Beta-adrenergic Blocking Agents : Experience in over 1400 patients in a non-comparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agent s is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension or exacerbation of angina.
+
+Beta-adrenergic/JJ Blocking/NN Agents/NNS :/: Experience/VBP in/IN over/IN 1400/CD patients/NNS in/IN a/DT non-comparative/JJ clinical/JJ trial/NN has/VBZ shown/VBN that/IN concomitant/JJ administration/NN of/IN nifedipine/NN and/CC beta-blocking/JJ agent/NN s/NNS is/VBZ usually/RB well/RB tolerated/VBN ,/, but/CC there/EX have/VBP been/VBN occasional/JJ literature/NN reports/NNS suggesting/VBG that/IN the/DT combination/NN may/MD increase/VBP the/DT likelihood/NN of/IN congestive/JJ heart/NN failure/NN ,/, severe/JJ hypotension/NN or/CC exacerbation/NN of/IN angina/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s1
+Long Acting Nitrates : Nifedipine may be safely co-administered with nitrates , but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+
+Long/JJ Acting/NN Nitrates/NNS :/: Nifedipine/NN may/MD be/VB safely/RB co-administered/VBN with/IN nitrates/NNS ,/, but/CC there/EX have/VBP been/VBN no/DT controlled/JJ studies/NNS to/TO evaluate/VB the/DT antianginal/JJ effectiveness/NN of/IN this/DT combination/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s2
+Digitalis : Immediate Release Capsules: Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and nifedipine , it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
+
+Digitalis/NN :/: Immediate/JJ Release/NN Capsules/NNS :/: Since/IN there/EX have/VBP been/VBN isolated/VBN reports/NNS of/IN patients/NNS with/IN elevated/JJ digoxin/NN levels/NNS ,/, and/CC there/EX is/VBZ a/DT possible/JJ interaction/NN between/IN digoxin/NN and/CC nifedipine/NN ,/, it/PRP is/VBZ recommended/VBN that/IN digoxin/NN levels/NNS be/VB monitored/VBN when/WRB initiating/VBG ,/, adjusting/VBG ,/, and/CC discontinuing/VBG nifedipine/NN to/TO avoid/VB possible/JJ over-/NN or/CC under-digitalization/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s3
+Extended Release Tablets: Administration of nifedipine with digoxin increased digoxin levels in 9 of 12 normal volunteers.
+
+Extended/JJ Release/NN Tablets/NNS :/: Administration/NN of/IN nifedipine/NN with/IN digoxin/NN increased/VBD digoxin/NN levels/NNS in/IN 9/CD of/IN 12/CD normal/JJ volunteers/NNS ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s7
+Since there have been isolated reports of patients with elevated digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
+
+Since/IN there/EX have/VBP been/VBN isolated/VBN reports/NNS of/IN patients/NNS with/IN elevated/JJ digoxin/NN levels/NNS ,/, it/PRP is/VBZ recommended/VBN that/IN digoxin/NN levels/NNS be/VB monitored/VBN when/WRB initiating/VBG ,/, adjusting/VBG ,/, and/CC discontinuing/VBG nifedipine/NN to/TO avoid/VB possible/JJ over-/NN or/CC under-digitalization/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s8
+Quinidine : Immediate Release Capsules: There have been rare reports of an interaction between quinidine and nifedipine (with a decreased plasma level of quinidine ).
+
+Quinidine/NN :/: Immediate/JJ Release/NN Capsules/NNS :/: There/EX have/VBP been/VBN rare/JJ reports/NNS of/IN an/DT interaction/NN between/IN quinidine/NN and/CC nifedipine/NN (/-LRB- with/IN a/DT decreased/VBN plasma/NN level/NN of/IN quinidine/NN )/-RRB- ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s9
+Coumarin Anticoagulant s: There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulant s to whom nifedipine was administered.
+
+Coumarin/NN Anticoagulant/NN s/NNS :/: There/EX have/VBP been/VBN rare/JJ reports/NNS of/IN increased/VBN prothrombin/NN time/NN in/IN patients/NNS taking/VBG coumarin/NN anticoagulant/NN s/NNS to/TO whom/WP nifedipine/NN was/VBD administered/VBN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s10
+However, the relationship to nifedipine therapy is uncertain.
+
+However/RB ,/, the/DT relationship/NN to/TO nifedipine/NN therapy/NN is/VBZ uncertain/JJ ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s11
+Cimetidine : A study in 6 healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%) after a 1 week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day.
+
+Cimetidine/NN :/: A/DT study/NN in/IN 6/CD healthy/JJ volunteers/NNS has/VBZ shown/VBN a/DT significant/JJ increase/NN in/IN peak/NN nifedipine/NN plasma/NN levels/NNS (/-LRB- 80/CD %/NN )/-RRB- and/CC area-under-the-curve/JJ (/-LRB- 74/CD %/NN )/-RRB- after/IN a/DT 1/CD week/NN course/NN of/IN cimetidine/NN at/IN 1000/CD mg/NN per/IN day/NN and/CC nifedipine/NN at/IN 40/CD mg/NN per/IN day/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s12
+Ranitidine produced smaller, non-significant increases.
+
+Ranitidine/NN produced/VBD smaller/JJR ,/, non-significant/JJ increases/NNS ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s13
+The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450 , the enzyme system probably responsible for the first-pass metabolism of nifedipine .
+
+The/DT effect/NN may/MD be/VB mediated/VBN by/IN the/DT known/JJ inhibition/NN of/IN cimetidine/NN on/IN hepatic/JJ cytochrome/NN P-450/NN ,/, the/DT enzyme/NN system/NN probably/RB responsible/JJ for/IN the/DT first-pass/NN metabolism/NN of/IN nifedipine/NN ./.
+
+
+DrugDDI.d266
+DrugDDI.d266.s14
+If nifedipine therapy is initiated in a patient currently receiving cimetidine , cautious titration is advised.
+
+If/IN nifedipine/NN therapy/NN is/VBZ initiated/VBN in/IN a/DT patient/NN currently/RB receiving/VBG cimetidine/NN ,/, cautious/JJ titration/NN is/VBZ advised/VBN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s0
+A 30 to 45% increase in AUC and Cmax of nisoldipine was observed with concomitant administration of cimetidine 400 mg twice daily.
+
+A/DT 30/CD to/TO 45/CD %/NN increase/NN in/IN AUC/NN and/CC Cmax/NN of/IN nisoldipine/NN was/VBD observed/VBN with/IN concomitant/JJ administration/NN of/IN cimetidine/NN 400/CD mg/NN twice/RB daily/RB ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s1
+Ranitidine 150 mg twice daily did not interact significantly with nisoldipine (AUC was decreased by 15-20 %).
+
+Ranitidine/NN 150/CD mg/NN twice/RB daily/RB did/VBD not/RB interact/VB significantly/RB with/IN nisoldipine/NN (/-LRB- AUC/NN was/VBD decreased/VBN by/IN 15-20/CD %/NN )./CD
+
+
+DrugDDI.d234
+DrugDDI.d234.s2
+No pharmacodynamic effects of either histamine H2 receptor antagonist were observed.
+
+No/DT pharmacodynamic/JJ effects/NNS of/IN either/DT histamine/NN H2/NN receptor/NN antagonist/NN were/VBD observed/VBN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s3
+Coadministration of phenytoin with 40 mg SULAR tablets in epileptic patients lowered the nisoldipine plasma concentrations to undetectable levels.
+
+Coadministration/NN of/IN phenytoin/NN with/IN 40/CD mg/NN SULAR/NN tablets/NNS in/IN epileptic/JJ patients/NNS lowered/VBD the/DT nisoldipine/NN plasma/NN concentrations/NNS to/TO undetectable/JJ levels/NNS ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s4
+Coadministration of SULAR with phenytoin or any known CYP3A4 inducer should be avoided and alternative antihypertensive therapy should be considered.
+
+Coadministration/NN of/IN SULAR/NN with/IN phenytoin/NN or/CC any/DT known/JJ CYP3A4/NN inducer/NN should/MD be/VB avoided/VBN and/CC alternative/JJ antihypertensive/JJ therapy/NN should/MD be/VB considered/VBN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s5
+Pharmacokinetic interactions between nisoldipine and beta-blockers ( atenolol , propranolol ) were variable and not significant.
+
+Pharmacokinetic/JJ interactions/NNS between/IN nisoldipine/NN and/CC beta-blockers/NNS (/-LRB- atenolol/NN ,/, propranolol/NN )/-RRB- were/VBD variable/JJ and/CC not/RB significant/JJ ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s6
+Propranolol attenuated the heart rate increase following administration of immediate release nisoldipine .
+
+Propranolol/NN attenuated/VBD the/DT heart/NN rate/NN increase/NN following/VBG administration/NN of/IN immediate/JJ release/NN nisoldipine/NN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s7
+The blood pressure effect of SULAR tended to be greater in patients on atenolol than in patients on no other antihypertensive therapy.
+
+The/DT blood/NN pressure/NN effect/NN of/IN SULAR/NN tended/VBD to/TO be/VB greater/JJR in/IN patients/NNS on/IN atenolol/NN than/IN in/IN patients/NNS on/IN no/DT other/JJ antihypertensive/JJ therapy/NN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s8
+Quinidine at 648 mg bid decreased the bioavailability (AUC) of nisoldipine by 26%, but not the peak concentration.
+
+Quinidine/NN at/IN 648/CD mg/NN bid/NN decreased/VBD the/DT bioavailability/NN (/-LRB- AUC/NN )/-RRB- of/IN nisoldipine/NN by/IN 26/CD %/NN ,/, but/CC not/RB the/DT peak/JJ concentration/NN ./.
+
+
+DrugDDI.d234
+DrugDDI.d234.s9
+The immediate release, but not the coat-core formulation of nisoldipine increased plasma quinidine concentrations by about 20%.
+
+The/DT immediate/JJ release/NN ,/, but/CC not/RB the/DT coat-core/JJ formulation/NN of/IN nisoldipine/NN increased/VBD plasma/NN quinidine/NN concentrations/NNS by/IN about/RB 20/CD %./NN
+
+
+DrugDDI.d234
+DrugDDI.d234.s11
+No significant interactions were found between nisoldipine and warfarin or digoxin .
+
+No/DT significant/JJ interactions/NNS were/VBD found/VBN between/IN nisoldipine/NN and/CC warfarin/NN or/CC digoxin/NN ./.
+
+
+DrugDDI.d306
+DrugDDI.d306.s0
+Tizoxanide is highly bound to plasma protein ( 99.9%).
+
+Tizoxanide/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN protein/NN (/-LRB- 99.9/CD %)./NN
+
+
+DrugDDI.d306
+DrugDDI.d306.s1
+Therefore, caution should be used when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin ).
+
+Therefore/RB ,/, caution/NN should/MD be/VB used/VBN when/WRB administering/VBG nitazoxanide/NN concurrently/RB with/IN other/JJ highly/RB plasma/NN protein-bound/JJ drugs/NNS with/IN narrow/JJ therapeutic/JJ indices/NNS ,/, as/IN competition/NN for/IN binding/NN sites/NNS may/MD occur/VB (/-LRB- e.g./FW ,/, warfarin/NN )/-RRB- ./.
+
+
+DrugDDI.d306
+DrugDDI.d306.s2
+In vitro metabolism studies have demonstrated that tizoxanide has no significant inhibitory effect on cytochrome P450 enzymes.
+
+In/FW vitro/FW metabolism/NN studies/NNS have/VBP demonstrated/VBN that/IN tizoxanide/NN has/VBZ no/DT significant/JJ inhibitory/JJ effect/NN on/IN cytochrome/NN P450/NN enzymes/NNS ./.
+
+
+DrugDDI.d306
+DrugDDI.d306.s3
+Although no drug-drug interaction studies have been conducted in vivo, it is expected that no significant interaction would occur when nitazoxanide is co-administered with drugs that either are metabolized by or inhibit cytochrome P450 enzymes.
+
+Although/IN no/DT drug-drug/JJ interaction/NN studies/NNS have/VBP been/VBN conducted/VBN in/FW vivo/FW ,/, it/PRP is/VBZ expected/VBN that/IN no/DT significant/JJ interaction/NN would/MD occur/VB when/WRB nitazoxanide/NN is/VBZ co-administered/VBN with/IN drugs/NNS that/WDT either/RB are/VBP metabolized/VBN by/IN or/CC inhibit/VB cytochrome/NN P450/NN enzymes/NNS ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s0
+Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4 /5 with potentially important effects on plasma concentrations of other drugs .
+
+Oxcarbazepine/NN can/MD inhibit/VB CYP2C19/NN and/CC induce/VB CYP3A4/NN /5/NN with/IN potentially/RB important/JJ effects/NNS on/IN plasma/NN concentrations/NNS of/IN other/JJ drugs/NNS ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s1
+In addition, several AED@s that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
+
+In/IN addition/NN ,/, several/JJ AED/JJ @/NN s/NNS that/WDT are/VBP cytochrome/NN P450/NN inducers/NNS can/MD decrease/VB plasma/NN concentrations/NNS of/IN oxcarbazepine/NN and/CC MHD/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s2
+Oxcarbazepine was evaluated in human liver microsomes to determine its capacity to inhibit the major cytochrome P450 enzymes responsible for the metabolism of other drugs .
+
+Oxcarbazepine/NN was/VBD evaluated/VBN in/IN human/JJ liver/NN microsomes/NNS to/TO determine/VB its/PRP$ capacity/NN to/TO inhibit/VB the/DT major/JJ cytochrome/NN P450/NN enzymes/NNS responsible/JJ for/IN the/DT metabolism/NN of/IN other/JJ drugs/NNS ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s3
+Results demonstrate that oxcarbazepine and its pharmacologically active 10-monohydroxy metabolite (MHD) have little or no capacity to function as inhibitors for most of the human cytochrome P450 enzymes evaluated ( CYP1A2 , CYP2A6 , CYP2C9 , CYP2D6 , CYP2E1 , CYP4A9 and CYP4A11 ) with the exception of CYP2C19 and CYP3A4 /5.
+
+Results/NNS demonstrate/VBP that/IN oxcarbazepine/NN and/CC its/PRP$ pharmacologically/RB active/JJ 10-monohydroxy/NN metabolite/NN (/-LRB- MHD/NN )/-RRB- have/VBP little/JJ or/CC no/DT capacity/NN to/TO function/VB as/IN inhibitors/NNS for/IN most/JJS of/IN the/DT human/JJ cytochrome/NN P450/NN enzymes/NNS evaluated/VBN (/-LRB- CYP1A2/NN ,/, CYP2A6/NN ,/, CYP2C9/NN ,/, CYP2D6/NN ,/, CYP2E1/NN ,/, CYP4A9/NN and/CC CYP4A11/NN )/-RRB- with/IN the/DT exception/NN of/IN CYP2C19/NN and/CC CYP3A4/NN /5/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s4
+Although inhibition of CYP 3A4/5 by OXC and MHD did occur at high concentrations, it is not likely to be of clinical significance.
+
+Although/IN inhibition/NN of/IN CYP/NN 3A4/5/NN by/IN OXC/NN and/CC MHD/NN did/VBD occur/VB at/IN high/JJ concentrations/NNS ,/, it/PRP is/VBZ not/RB likely/JJ to/TO be/VB of/IN clinical/JJ significance/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s5
+The inhibition of CYP-2C19 by OXC and MHD, however, is clinically relevant.
+
+The/DT inhibition/NN of/IN CYP-2C19/NN by/IN OXC/NN and/CC MHD/NN ,/, however/RB ,/, is/VBZ clinically/RB relevant/JJ ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s6
+In vitro, the UDP-glucuronyl transferase level was increased, indicating induction of this enzyme.
+
+In/FW vitro/FW ,/, the/DT UDP-glucuronyl/JJ transferase/NN level/NN was/VBD increased/VBN ,/, indicating/VBG induction/NN of/IN this/DT enzyme/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s7
+Increases of 22% with MHD and 47% with oxcarbazepine were observed.
+
+Increases/NNS of/IN 22/CD %/NN with/IN MHD/NN and/CC 47/CD %/NN with/IN oxcarbazepine/NN were/VBD observed/VBN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s8
+As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase , it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid , lamotrigine ).
+
+As/IN MHD/NN ,/, the/DT predominant/JJ plasma/NN substrate/NN ,/, is/VBZ only/RB a/DT weak/JJ inducer/NN of/IN UDP-glucuronyl/NN transferase/NN ,/, it/PRP is/VBZ unlikely/JJ to/TO have/VB an/DT effect/NN on/IN drugs/NNS that/WDT are/VBP mainly/RB eliminated/VBN by/IN conjugation/NN through/IN UDP-glucuronyl/JJ transferase/NN (/-LRB- e.g./FW ,/, valproic/JJ acid/NN ,/, lamotrigine/NN )/-RRB- ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s9
+In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family ( CYP3A4 and CYP3A5 ) responsible for the metabolism of dihydropyridine calcium antagonist s and oral contraceptives , resulting in a lower plasma concentration of these drugs .
+
+In/IN addition/NN ,/, oxcarbazepine/NN and/CC MHD/NN induce/VBP a/DT subgroup/NN of/IN the/DT cytochrome/NN P450/NN 3A/NN family/NN (/-LRB- CYP3A4/NN and/CC CYP3A5/NN )/-RRB- responsible/JJ for/IN the/DT metabolism/NN of/IN dihydropyridine/NN calcium/NN antagonist/NN s/NN and/CC oral/JJ contraceptives/NNS ,/, resulting/VBG in/IN a/DT lower/JJR plasma/NN concentration/NN of/IN these/DT drugs/NNS ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s10
+As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
+
+As/IN binding/NN of/IN MHD/NN to/TO plasma/NN proteins/NNS is/VBZ low/JJ (/-LRB- 40/CD %/NN )/-RRB- ,/, clinically/RB significant/JJ interactions/NNS with/IN other/JJ drugs/NNS through/IN competition/NN for/IN protein/NN binding/NN sites/NNS are/VBP unlikely/JJ ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s11
+Antiepileptic drugs Potential interactions between Trileptal and other AEDs were assessed in clinical studies.
+
+Antiepileptic/JJ drugs/NNS Potential/JJ interactions/NNS between/IN Trileptal/NNP and/CC other/JJ AEDs/NNS were/VBD assessed/VBN in/IN clinical/JJ studies/NNS ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s12
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 2: Table 2: Summary of AED interactions with Trileptal .
+
+The/DT effect/NN of/IN these/DT interactions/NNS on/IN mean/JJ AUCs/NNS and/CC Cmin/NN are/VBP summarized/VBN in/IN Table/NN 2/CD :/: Table/NN 2/CD :/: Summary/NN of/IN AED/JJ interactions/NNS with/IN Trileptal/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s15
+Trileptal dose (mg/day) .
+
+Trileptal/JJ dose/NN (/-LRB- mg/day/NN )/-RRB- ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s16
+Influence of Trileptal on AED Concentration (Mean change, 90% Confidence Interval) .
+
+Influence/NN of/IN Trileptal/NN on/IN AED/JJ Concentration/NN (/-LRB- Mean/NN change/NN ,/, 90/CD %/NN Confidence/NN Interval/NN )/-RRB- ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s18
+Carbamazepine .
+
+Carbamazepine/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s22
+Phenobarbital .
+
+Phenobarbital/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s26
+Phenytoin .
+
+Phenytoin/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s31
+Valproic acid .
+
+Valproic/JJ acid/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s35
+1- nc denotes a mean change of less than 10% 2- Pediatrics 3- Mean increase in adults at high Trileptal doses In vivo, the plasma levels of phenytoin increased by up to 40%, when Trileptal was given at doses above 1200 mg/day.
+
+1-/CD nc/NN denotes/VBZ a/DT mean/JJ change/NN of/IN less/JJR than/IN 10/CD %/NN 2-/CD Pediatrics/NN 3-/CD Mean/NN increase/NN in/IN adults/NNS at/IN high/JJ Trileptal/NN doses/NNS In/FW vivo/FW ,/, the/DT plasma/NN levels/NNS of/IN phenytoin/NN increased/VBD by/IN up/RB to/TO 40/CD %/NN ,/, when/WRB Trileptal/NN was/VBD given/VBN at/IN doses/NNS above/IN 1200/CD mg/day/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s36
+Therefore, when using doses of Trileptal greater than 1200 mg/day during adjunctive therapy, a decrease in the dose of phenytoin may be required.
+
+Therefore/RB ,/, when/WRB using/VBG doses/NNS of/IN Trileptal/NN greater/JJR than/IN 1200/CD mg/day/NN during/IN adjunctive/JJ therapy/NN ,/, a/DT decrease/NN in/IN the/DT dose/NN of/IN phenytoin/NN may/MD be/VB required/VBN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s37
+The increase of phenobarbital level, however, is small (15%) when given with Trileptal .
+
+The/DT increase/NN of/IN phenobarbital/NN level/NN ,/, however/RB ,/, is/VBZ small/JJ (/-LRB- 15/CD %/NN )/-RRB- when/WRB given/VBN with/IN Trileptal/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s38
+Strong inducers of cytochrome P450 enzymes (i.e. carbamazepine , phenytoin and phenobarbital ) have been shown to decrease the plasma levels of MHD (29-40%).
+
+Strong/JJ inducers/NNS of/IN cytochrome/NN P450/NN enzymes/NNS (/-LRB- i.e./FW carbamazepine/NN ,/, phenytoin/NN and/CC phenobarbital/NN )/-RRB- have/VBP been/VBN shown/VBN to/TO decrease/VB the/DT plasma/NN levels/NNS of/IN MHD/NN (/-LRB- 29-40%)./NN
+
+
+DrugDDI.d20
+DrugDDI.d20.s39
+No autoinduction has been observed with Trileptal .
+
+No/DT autoinduction/NN has/VBZ been/VBN observed/VBN with/IN Trileptal/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s40
+Hormonal contraceptives Co-administration of Trileptal with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG).
+
+Hormonal/JJ contraceptives/NNS Co-administration/NN of/IN Trileptal/NN with/IN an/DT oral/JJ contraceptive/NN has/VBZ been/VBN shown/VBN to/TO influence/VB the/DT plasma/NN concentrations/NNS of/IN the/DT two/CD hormonal/JJ components/NNS ,/, ethinylestradiol/NN (/-LRB- EE/NN )/-RRB- and/CC levonorgestrel/NN (/-LRB- LNG)./NN
+
+
+DrugDDI.d20
+DrugDDI.d20.s43
+Therefore, concurrent use of Trileptal with hormonal contraceptives may render these contraceptives less effective.
+
+Therefore/RB ,/, concurrent/JJ use/NN of/IN Trileptal/NN with/IN hormonal/JJ contraceptives/NNS may/MD render/VB these/DT contraceptives/NNS less/RBR effective/JJ ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s44
+Studies with other oral or implant contraceptives have not been conducted.
+
+Studies/NNS with/IN other/JJ oral/JJ or/CC implant/JJ contraceptives/NNS have/VBP not/RB been/VBN conducted/VBN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s45
+Calcium Antagonist s After repeated co-administration of Trileptal , the AUC of felodipine was lowered by 28% [90% CI: 20-33].
+
+Calcium/NN Antagonist/NN s/NN After/IN repeated/JJ co-administration/NN of/IN Trileptal/NN ,/, the/DT AUC/NN of/IN felodipine/NN was/VBD lowered/VBN by/IN 28/CD %/NN [90/CD %/NN CI/NN :/: 20-33/CD ]./NN
+
+
+DrugDDI.d20
+DrugDDI.d20.s46
+Verapamil produced a decrease of 20% [90% CI: 18-27] of the plasma levels of MHD.
+
+Verapamil/NN produced/VBD a/DT decrease/NN of/IN 20/CD %/NN [90/CD %/NN CI/CD :/: 18-27/CD ]/-RRB- of/IN the/DT plasma/NN levels/NNS of/IN MHD/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s47
+Other drug interactions Cimetidine , erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.
+
+Other/JJ drug/NN interactions/NNS Cimetidine/NN ,/, erythromycin/NN and/CC dextropropoxyphene/NN had/VBD no/DT effect/NN on/IN the/DT pharmacokinetics/NNS of/IN MHD/NN ./.
+
+
+DrugDDI.d20
+DrugDDI.d20.s48
+Results with warfarin wshow no evidence of interaction with either single or repeated doses of Trileptal .
+
+Results/NNS with/IN warfarin/NN wshow/VBP no/DT evidence/NN of/IN interaction/NN with/IN either/CC single/JJ or/CC repeated/JJ doses/NNS of/IN Trileptal/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s0
+In a Phase : I trial using escalating doses of TAXOL (110-200 mg/m2) and cisplatin (50 or 75 mg/m2) given as sequential infusions, myelosuppression was more profound when TAXOL was given after cisplatin than with the alternate sequence (ie, TAXOL before cisplatin ).
+
+In/IN a/DT Phase/NN :/: I/NN trial/NN using/VBG escalating/JJ doses/NNS of/IN TAXOL/NN (/-LRB- 110-200/CD mg/m2/NN )/-RRB- and/CC cisplatin/NN (/-LRB- 50/CD or/CC 75/CD mg/m2/NN )/-RRB- given/VBN as/IN sequential/JJ infusions/NNS ,/, myelosuppression/NN was/VBD more/RBR profound/JJ when/WRB TAXOL/NN was/VBD given/VBN after/IN cisplatin/NN than/IN with/IN the/DT alternate/JJ sequence/NN (/-LRB- ie/FW ,/, TAXOL/NN before/IN cisplatin/NN )/-RRB- ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s1
+Pharmacokinetic data from these patients demonstrated a decrease in paclitaxel clearance of approximately 33% when TAXOL was administered following cisplatin .
+
+Pharmacokinetic/JJ data/NNS from/IN these/DT patients/NNS demonstrated/VBD a/DT decrease/NN in/IN paclitaxel/NN clearance/NN of/IN approximately/RB 33/CD %/NN when/WRB TAXOL/NN was/VBD administered/VBN following/VBG cisplatin/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s2
+The metabolism of TAXOL is catalyzed by cytochrome P450 isoen-zymes CYP2C8 and CYP3A4 .
+
+The/DT metabolism/NN of/IN TAXOL/NN is/VBZ catalyzed/VBN by/IN cytochrome/NN P450/NN isoen-zymes/NNS CYP2C8/NN and/CC CYP3A4/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s3
+In the absence of formal clinical drug interaction studies, caution should be exercised when administering TAXOL concomitantly with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4 .
+
+In/IN the/DT absence/NN of/IN formal/JJ clinical/JJ drug/NN interaction/NN studies/NNS ,/, caution/NN should/MD be/VB exercised/VBN when/WRB administering/VBG TAXOL/NN concomitantly/RB with/IN known/JJ substrates/NNS or/CC inhibitors/NNS of/IN the/DT cytochrome/NN P450/NN isoenzymes/NNS CYP2C8/NN and/CC CYP3A4/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s4
+Potential interactions between TAXOL , a substrate of CYP3A4 , and protease inhibitors ( ritonavir , saquinavir , indinavir , and nelfinavir ), which are substrates and/or inhibitors of CYP3A4 , have not been evaluated in clinical trials.
+
+Potential/JJ interactions/NNS between/IN TAXOL/NN ,/, a/DT substrate/NN of/IN CYP3A4/NN ,/, and/CC protease/NN inhibitors/NNS (/-LRB- ritonavir/NN ,/, saquinavir/NN ,/, indinavir/NN ,/, and/CC nelfinavir/NN )/-RRB- ,/, which/WDT are/VBP substrates/NNS and/or/CC inhibitors/NNS of/IN CYP3A4/NN ,/, have/VBP not/RB been/VBN evaluated/VBN in/IN clinical/JJ trials/NNS ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s5
+Reports in the literature suggest that plasma levels of doxorubicin (and its active metabolite doxorubicinol) may be increased when paclitaxel and doxorubicin are used in combination.
+
+Reports/NNS in/IN the/DT literature/NN suggest/VBP that/IN plasma/NN levels/NNS of/IN doxorubicin/NN (/-LRB- and/CC its/PRP$ active/JJ metabolite/NN doxorubicinol/NN )/-RRB- may/MD be/VB increased/VBN when/WRB paclitaxel/NN and/CC doxorubicin/NN are/VBP used/VBN in/IN combination/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s6
+Hematology: TAXOL therapy should not be administered to patients with baseline neutrophil counts of less than 1,500 cells/mm3.
+
+Hematology/NNP :/: TAXOL/NN therapy/NN should/MD not/RB be/VB administered/VBN to/TO patients/NNS with/IN baseline/NN neutrophil/NN counts/NNS of/IN less/JJR than/IN 1,500/CD cells/mm3/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s7
+In order to monitor the occurrence of myelotoxicity, it is recommended that frequent peripheral blood cell counts be performed on all patients receiving TAXOL .
+
+In/IN order/NN to/TO monitor/VB the/DT occurrence/NN of/IN myelotoxicity/NN ,/, it/PRP is/VBZ recommended/VBN that/IN frequent/JJ peripheral/JJ blood/NN cell/NN counts/NNS be/VB performed/VBN on/IN all/DT patients/NNS receiving/VBG TAXOL/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s8
+Patients should not be re-treated with subsequent cycles of TAXOL until neutrophils recover to a level 1500 cells/mm3 and platelets recover to a level 100,000 cells/mm3.
+
+Patients/NNS should/MD not/RB be/VB re-treated/VBN with/IN subsequent/JJ cycles/NNS of/IN TAXOL/NN until/IN neutrophils/NNS recover/VBP to/TO a/DT level/NN 1500/CD cells/mm3/NN and/CC platelets/NNS recover/VBP to/TO a/DT level/NN 100,000/CD cells/mm3/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s9
+In the case of severe neutropenia ( 500 cells/mm3 for seven days or more) during a course of TAXOL therapy, a 20% reduction in dose for subsequent courses of therapy is recommended.
+
+In/IN the/DT case/NN of/IN severe/JJ neutropenia/NN (/-LRB- 500/CD cells/mm3/NN for/IN seven/CD days/NNS or/CC more/JJR )/-RRB- during/IN a/DT course/NN of/IN TAXOL/NN therapy/NN ,/, a/DT 20/CD %/NN reduction/NN in/IN dose/NN for/IN subsequent/JJ courses/NNS of/IN therapy/NN is/VBZ recommended/VBN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s10
+For patients with advanced HIV disease and poor-risk AIDS-related Kaposi@s sarcoma, TAXOL , at the recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1000 cells/mm3.
+
+For/IN patients/NNS with/IN advanced/JJ HIV/NN disease/NN and/CC poor-risk/JJ AIDS-related/JJ Kaposi/NN @/NN s/NN sarcoma/NN ,/, TAXOL/NN ,/, at/IN the/DT recommended/VBN dose/NN for/IN this/DT disease/NN ,/, can/MD be/VB initiated/VBN and/CC repeated/VBN if/IN the/DT neutrophil/NN count/NN is/VBZ at/IN least/JJS 1000/CD cells/mm3/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s11
+Hypersensitivity Reactions: Patients with a history of severe hypersensitivity reactions to products containing Cremophor@ EL (eg, cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with TAXOL .
+
+Hypersensitivity/NN Reactions/NNS :/: Patients/NNS with/IN a/DT history/NN of/IN severe/JJ hypersensitivity/NN reactions/NNS to/TO products/NNS containing/VBG Cremophor/NN @/NN EL/NN (/-LRB- eg/NN ,/, cyclosporin/NN for/IN injection/NN concentrate/NN and/CC teniposide/NN for/IN injection/NN concentrate/NN )/-RRB- should/MD not/RB be/VB treated/VBN with/IN TAXOL/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s12
+In order to avoid the occurrence of severe hypersensitivity reactions, all patients treated with TAXOL should be premedicated with corticosteroids (such as dexamethasone ), diphen -hydramine and H2 antagonists (such as cimetidine or ranitidine ).
+
+In/IN order/NN to/TO avoid/VB the/DT occurrence/NN of/IN severe/JJ hypersensitivity/NN reactions/NNS ,/, all/DT patients/NNS treated/VBN with/IN TAXOL/NN should/MD be/VB premedicated/VBN with/IN corticosteroids/NNS (/-LRB- such/JJ as/IN dexamethasone/NN )/-RRB- ,/, diphen/NN -hydramine/NN and/CC H2/NN antagonists/NNS (/-LRB- such/JJ as/IN cimetidine/NN or/CC ranitidine/NN )/-RRB- ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s14
+However, severe reactions, such as hypotension requiring treatment, dyspnea requiring bronchodilators , angioedema, or generalized urticaria require immediate discontinuation of TAXOL and aggressive symptomatic therapy.
+
+However/RB ,/, severe/JJ reactions/NNS ,/, such/JJ as/IN hypotension/NN requiring/VBG treatment/NN ,/, dyspnea/NN requiring/VBG bronchodilators/NNS ,/, angioedema/NN ,/, or/CC generalized/JJ urticaria/NN require/VBP immediate/JJ discontinuation/NN of/IN TAXOL/NN and/CC aggressive/JJ symptomatic/JJ therapy/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s15
+Patients who have developed severe hypersensitivity reactions should not be rechallenged with TAXOL .
+
+Patients/NNS who/WP have/VBP developed/VBN severe/JJ hypersensitivity/NN reactions/NNS should/MD not/RB be/VB rechallenged/VBN with/IN TAXOL/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s16
+Cardiovascular: Hypotension, bradycardia, and hypertension have been observed during administration of TAXOL , but generally do not require treatment.
+
+Cardiovascular/NN :/: Hypotension/NN ,/, bradycardia/NN ,/, and/CC hypertension/NN have/VBP been/VBN observed/VBN during/IN administration/NN of/IN TAXOL/NN ,/, but/CC generally/RB do/VBP not/RB require/VB treatment/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s17
+Occasionally TAXOL infusions must be interrupted or discontinued because of initial or recurrent hypertension.
+
+Occasionally/RB TAXOL/NN infusions/NNS must/MD be/VB interrupted/VBN or/CC discontinued/VBD because/IN of/IN initial/JJ or/CC recurrent/JJ hypertension/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s18
+Frequent vital sign monitoring, particularly during the first hour of TAXOL infusion, is recommended.
+
+Frequent/JJ vital/JJ sign/NN monitoring/NN ,/, particularly/RB during/IN the/DT first/JJ hour/NN of/IN TAXOL/NN infusion/NN ,/, is/VBZ recommended/VBN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s20
+Nervous System: Although the occurrence of peripheral neuropathy is frequent, the development of severe symptomatology is unusual and requires a dose reduction of 20% for all subsequentcourses of TAXOL .
+
+Nervous/JJ System/NN :/: Although/IN the/DT occurrence/NN of/IN peripheral/JJ neuropathy/NN is/VBZ frequent/JJ ,/, the/DT development/NN of/IN severe/JJ symptomatology/NN is/VBZ unusual/JJ and/CC requires/VBZ a/DT dose/NN reduction/NN of/IN 20/CD %/NN for/IN all/DT subsequentcourses/NNS of/IN TAXOL/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s21
+TAXOL contains dehydrated alcohol USP , 396 mg/mL; .
+
+TAXOL/NN contains/VBZ dehydrated/JJ alcohol/NN USP/NN ,/, 396/CD mg/mL/NN ;/: ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s22
+consideration should be given to possible CNS and other effects of alcohol .
+
+consideration/NN should/MD be/VB given/VBN to/TO possible/JJ CNS/NNS and/CC other/JJ effects/NNS of/IN alcohol/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s23
+Hepatic: There is limited evidence that the myelotoxicity of TAXOL may be exacerbated in patients with serum total bilirubin 2 times ULN.
+
+Hepatic/JJ :/: There/EX is/VBZ limited/JJ evidence/NN that/IN the/DT myelotoxicity/NN of/IN TAXOL/NN may/MD be/VB exacerbated/JJ in/IN patients/NNS with/IN serum/NN total/JJ bilirubin/NN 2/CD times/NNS ULN/NN ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s24
+Extreme caution should be exercised when administering TAXOL to such patients, with dose reduction as recommended in DOSAGE AND ADMINISTRATION, Table 17.
+
+Extreme/JJ caution/NN should/MD be/VB exercised/VBN when/WRB administering/VBG TAXOL/NN to/TO such/JJ patients/NNS ,/, with/IN dose/NN reduction/NN as/IN recommended/VBN in/IN DOSAGE/NN AND/CC ADMINISTRATION/NN ,/, Table/NN 17/CD ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s27
+Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, recall, has been reported rarely.
+
+Recurrence/NN of/IN skin/NN reactions/NNS at/IN a/DT site/NN of/IN previous/JJ extravasation/NN following/VBG administration/NN of/IN TAXOL/NN at/IN a/DT different/JJ site/NN ,/, ie/FW ,/, recall/NN ,/, has/VBZ been/VBN reported/VBN rarely/RB ./.
+
+
+DrugDDI.d480
+DrugDDI.d480.s28
+Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been received as part of the continuing surveillance of TAXOL safety.
+
+Rare/JJ reports/NNS of/IN more/RBR severe/JJ events/NNS such/JJ as/IN phlebitis/NN ,/, cellulitis/NN ,/, induration/NN ,/, skin/NN exfoliation/NN ,/, necrosis/NN ,/, and/CC fibrosis/NN have/VBP been/VBN received/VBN as/IN part/NN of/IN the/DT continuing/VBG surveillance/NN of/IN TAXOL/NN safety/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s0
+Aminoglycosides : The mixing of piperacillin with an aminoglycoside in vitro can result in substantial inactivation of the aminoglycoside .
+
+Aminoglycosides/NNS :/: The/DT mixing/NN of/IN piperacillin/NN with/IN an/DT aminoglycoside/NN in/IN vitro/FW can/MD result/VB in/IN substantial/JJ inactivation/NN of/IN the/DT aminoglycoside/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s1
+Vecuronium : When used in the perioperative period, piperacillin has been implicated in the prolongation of the neuromuscular blockade of vecuronium .
+
+Vecuronium/NN :/: When/WRB used/VBN in/IN the/DT perioperative/JJ period/NN ,/, piperacillin/NN has/VBZ been/VBN implicated/VBN in/IN the/DT prolongation/NN of/IN the/DT neuromuscular/JJ blockade/NN of/IN vecuronium/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s2
+Caution is indicated when piperacillin is used perioperatively.
+
+Caution/NN is/VBZ indicated/VBN when/WRB piperacillin/NN is/VBZ used/VBN perioperatively/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s3
+In one controlled clinical study, the ureidopenicillins, including piperacillin , were reported to prolong the action of vecuronium .
+
+In/IN one/CD controlled/JJ clinical/JJ study/NN ,/, the/DT ureidopenicillins/NNS ,/, including/VBG piperacillin/NN ,/, were/VBD reported/VBN to/TO prolong/VB the/DT action/NN of/IN vecuronium/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s4
+Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin .
+
+Due/JJ to/TO their/PRP$ similar/JJ mechanism/NN of/IN action/NN ,/, it/PRP is/VBZ expected/VBN that/IN the/DT neuromuscular/JJ blockade/NN produced/VBN by/IN any/DT of/IN the/DT non-depolarizing/JJ muscle/NN relaxants/NNS could/MD be/VB prolonged/VBD in/IN the/DT presence/NN of/IN piperacillin/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s5
+Probenecid : The oral combination of probenecid before intramuscular injection of PIPRACIL produces an increase in piperacillin peak serum level of about 30%.
+
+Probenecid/NN :/: The/DT oral/JJ combination/NN of/IN probenecid/NN before/IN intramuscular/JJ injection/NN of/IN PIPRACIL/NN produces/VBZ an/DT increase/NN in/IN piperacillin/JJ peak/JJ serum/NN level/NN of/IN about/RB 30/CD %./NN
+
+
+DrugDDI.d235
+DrugDDI.d235.s6
+Anticoagulants Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin , oral anticoagulants , or other drugs that may affect the blood coagulation system or the thrombocyte function.
+
+Anticoagulants/NNS Coagulation/NN parameters/NNS should/MD be/VB tested/VBN more/RBR frequently/RB and/CC monitored/VBN regularly/RB during/IN simultaneous/JJ administration/NN of/IN high/JJ doses/NNS of/IN heparin/NN ,/, oral/JJ anticoagulants/NNS ,/, or/CC other/JJ drugs/NNS that/WDT may/MD affect/VB the/DT blood/NN coagulation/NN system/NN or/CC the/DT thrombocyte/JJ function/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s7
+Methotrexate Piperacillin sodium may reduce the excretion of methotrexate .
+
+Methotrexate/NN Piperacillin/NN sodium/NN may/MD reduce/VB the/DT excretion/NN of/IN methotrexate/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s8
+Therefore, serum levels of methotrexate should be monitored in patients to avoid drug toxicity.
+
+Therefore/RB ,/, serum/NN levels/NNS of/IN methotrexate/NN should/MD be/VB monitored/VBN in/IN patients/NNS to/TO avoid/VB drug/NN toxicity/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s9
+Drug /Laboratory Test Interactions : As with other penicillins , the administration of PIPRACIL may result in a false-positive reaction for glucose in the urine using a copper -reduction method.
+
+Drug/NN /Laboratory/NN Test/NN Interactions/NNS :/: As/IN with/IN other/JJ penicillins/NNS ,/, the/DT administration/NN of/IN PIPRACIL/NN may/MD result/VB in/IN a/DT false-positive/JJ reaction/NN for/IN glucose/NN in/IN the/DT urine/NN using/VBG a/DT copper/NN -reduction/NN method/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s10
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.
+
+It/PRP is/VBZ recommended/VBN that/IN glucose/NN tests/NNS based/VBN on/IN enzymatic/JJ glucose/NN oxidase/NN reactions/NNS be/VB used/VBN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s11
+There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin / tazobactam injection who were subsequently found to be free of Aspergillus infection.
+
+There/EX have/VBP been/VBN reports/NNS of/IN positive/JJ test/NN results/NNS using/VBG the/DT Bio-Rad/JJ Laboratories/NNS Platelia/NN Aspergillus/NN EIA/NN test/NN in/IN patients/NNS receiving/VBG piperacillin/NN //: tazobactam/NN injection/NN who/WP were/VBD subsequently/RB found/VBN to/TO be/VB free/JJ of/IN Aspergillus/JJ infection/NN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s12
+Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.
+
+Cross-reactions/NNS with/IN non-Aspergillus/JJ polysaccharides/NNS and/CC polyfuranoses/NNS with/IN the/DT Bio-Rad/JJ Laboratories/NNS Platelia/FW Aspergillus/FW EIA/NN test/NN have/VBP been/VBN reported/VBN ./.
+
+
+DrugDDI.d235
+DrugDDI.d235.s13
+Therefore, positive test results in patients receiving piperacillin should be interpreted cautiously and confirmed by other diagnostic methods.
+
+Therefore/RB ,/, positive/JJ test/NN results/NNS in/IN patients/NNS receiving/VBG piperacillin/NN should/MD be/VB interpreted/VBN cautiously/RB and/CC confirmed/VBN by/IN other/JJ diagnostic/JJ methods/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s0
+Effect of other drugs on Vardenafil .
+
+Effect/NN of/IN other/JJ drugs/NNS on/IN Vardenafil/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s1
+In vitro studies: Studies in human liver microsomes showed that vardenafil is metabolized primarily by cytochrome P450 ( CYP ) isoforms 3A4/5, and to a lesser degree by CYP2C9 .
+
+In/FW vitro/FW studies/NNS :/: Studies/NNS in/IN human/JJ liver/NN microsomes/NNS showed/VBD that/IN vardenafil/NN is/VBZ metabolized/VBN primarily/RB by/IN cytochrome/NN P450/NN (/-LRB- CYP/NN )/-RRB- isoforms/NNS 3A4/5/NN ,/, and/CC to/TO a/DT lesser/JJR degree/NN by/IN CYP2C9/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s2
+Therefore, inhibitors of these enzymes are expected to reduce vardenafil clearance.
+
+Therefore/RB ,/, inhibitors/NNS of/IN these/DT enzymes/NNS are/VBP expected/VBN to/TO reduce/VB vardenafil/NN clearance/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s3
+In vivo studies: Cytochrome P450 Inhibitors .
+
+In/FW vivo/FW studies/NNS :/: Cytochrome/NN P450/NN Inhibitors/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s4
+Cimetidine (400 mg b.i.d.) had no effect on vardenafil bioavailability (AUC) and maximum concentration (Cmax) of vardenafil when co-administered with 20 mg Vardenafil in healthy volunteers.
+
+Cimetidine/NN (/-LRB- 400/CD mg/NN b.i.d./NN )/-RRB- had/VBD no/DT effect/NN on/IN vardenafil/NN bioavailability/NN (/-LRB- AUC/NN )/-RRB- and/CC maximum/NN concentration/NN (/-LRB- Cmax/NN )/-RRB- of/IN vardenafil/NN when/WRB co-administered/VBN with/IN 20/CD mg/NN Vardenafil/NN in/IN healthy/JJ volunteers/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s5
+Erythromycin ( 500 mg t.i.d) produced a 4-fold increase in vardenafil AUC and a 3-fold increase in Cmax when co-administered with Vardenafil 5 mg in healthy volunteers.
+
+Erythromycin/NN (/-LRB- 500/CD mg/NN t.i.d/CD )/-RRB- produced/VBD a/DT 4-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 3-fold/JJ increase/NN in/IN Cmax/NN when/WRB co-administered/VBN with/IN Vardenafil/NN 5/CD mg/NN in/IN healthy/JJ volunteers/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s6
+It is recommended not to exceed a single 5 mg dose of Vardenafil in a 24-hour period when used in combination with erythromycin .
+
+It/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 5/CD mg/NN dose/NN of/IN Vardenafil/NN in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN erythromycin/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s7
+Ketoconazole (200 mg once daily) produced a 10-fold increase in vardenafil AUC and a 4-fold increase in Cmax when co-administered with Vardenafil (5 mg) in healthy volunteers.
+
+Ketoconazole/NN (/-LRB- 200/CD mg/NN once/RB daily/JJ )/-RRB- produced/VBD a/DT 10-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 4-fold/JJ increase/NN in/IN Cmax/NN when/WRB co-administered/VBN with/IN Vardenafil/NN (/-LRB- 5/CD mg/NN )/-RRB- in/IN healthy/JJ volunteers/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s8
+A 5-mg Vardenafil dose should not be exceeded when used in combination with 200 mg once daily ketoconazole .
+
+A/DT 5-mg/JJ Vardenafil/NN dose/NN should/MD not/RB be/VB exceeded/VBD when/WRB used/VBN in/IN combination/NN with/IN 200/CD mg/NN once/IN daily/JJ ketoconazole/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s9
+Since higher doses of ketoconazole (400 mg daily) may result in higher increases in Cmax and AUC, a single 2.5 mg dose of Vardenafil should not be exceeded in a 24-hour period when used in combination with ketoconazole 400 mg daily.
+
+Since/IN higher/JJR doses/NNS of/IN ketoconazole/NN (/-LRB- 400/CD mg/NN daily/RB )/-RRB- may/MD result/VB in/IN higher/JJR increases/NNS in/IN Cmax/NN and/CC AUC/NN ,/, a/DT single/JJ 2.5/CD mg/NN dose/NN of/IN Vardenafil/NN should/MD not/RB be/VB exceeded/VBD in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN ketoconazole/NN 400/CD mg/NN daily/RB ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s10
+HIV Protease Inhibitors : Indinavir ( 800 mg t.i.d.) co-administered with Vardenafil 10 mg resulted in a 16-fold increase in vardenafil AUC, a 7-fold increase in vardenafil Cmax and a 2-fold increase in vardenafil half-life.
+
+HIV/NN Protease/NN Inhibitors/NNS :/: Indinavir/NN (/-LRB- 800/CD mg/NN t.i.d./NN )/-RRB- co-administered/VBN with/IN Vardenafil/NN 10/CD mg/NN resulted/VBD in/IN a/DT 16-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN ,/, a/DT 7-fold/JJ increase/NN in/IN vardenafil/NN Cmax/NN and/CC a/DT 2-fold/JJ increase/NN in/IN vardenafil/NN half-life/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s11
+It is recommended not to exceed a single 2.5 mg Vardenafil dose in a 24-hour period when used in combination with indinavir .
+
+It/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 2.5/CD mg/NN Vardenafil/NN dose/NN in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN indinavir/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s12
+Ritonavir (600 mg b.i.d.) co-administered with Vardenafil 5 mg resulted in a 49-fold increase in vardenafil AUC and a 13-fold increase in vardenafil Cmax.
+
+Ritonavir/NN (/-LRB- 600/CD mg/NN b.i.d./NN )/-RRB- co-administered/VBN with/IN Vardenafil/NN 5/CD mg/NN resulted/VBD in/IN a/DT 49-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 13-fold/RB increase/NN in/IN vardenafil/NN Cmax/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s13
+The interaction is a consequence of blocking hepatic metabolism of vardenafil by ritonavir , a highly potent CYP3A4 inhibitor, which also inhibits CYP2C9 .
+
+The/DT interaction/NN is/VBZ a/DT consequence/NN of/IN blocking/VBG hepatic/JJ metabolism/NN of/IN vardenafil/NN by/IN ritonavir/NN ,/, a/DT highly/RB potent/JJ CYP3A4/NN inhibitor/NN ,/, which/WDT also/RB inhibits/VBZ CYP2C9/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s14
+Ritonavir significantly prolonged the half-life of vardenafil to 26 hours.
+
+Ritonavir/NN significantly/RB prolonged/VBD the/DT half-life/NN of/IN vardenafil/NN to/TO 26/CD hours/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s15
+Consequently, it is recommended not to exceed a single 2.5 mg Vardenafil dose in a 72-hour period when used in combination with ritonavir .
+
+Consequently/RB ,/, it/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 2.5/CD mg/NN Vardenafil/NN dose/NN in/IN a/DT 72-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN ritonavir/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s16
+Other Drug Interactions: No pharmacokinetic interactions were observed between vardenafil and the following drugs : glyburide , warfarin , digoxin , Maalox , and ranitidine .
+
+Other/JJ Drug/NN Interactions/NNS :/: No/DT pharmacokinetic/JJ interactions/NNS were/VBD observed/VBN between/IN vardenafil/NN and/CC the/DT following/JJ drugs/NNS :/: glyburide/NN ,/, warfarin/NN ,/, digoxin/NN ,/, Maalox/NN ,/, and/CC ranitidine/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s17
+In the warfarin study, vardenafil had no effect on the prothrombin time or other pharmacodynamic parameters.
+
+In/IN the/DT warfarin/JJ study/NN ,/, vardenafil/NN had/VBD no/DT effect/NN on/IN the/DT prothrombin/NN time/NN or/CC other/JJ pharmacodynamic/JJ parameters/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s18
+Effects of Vardenafil on other drugs .
+
+Effects/NNS of/IN Vardenafil/NN on/IN other/JJ drugs/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s19
+In vitro studies: Vardenafil and its metabolites had no effect on CYP1A2 , 2A6, and 2E1 ( Ki 100uM ).
+
+In/FW vitro/FW studies/NNS :/: Vardenafil/NN and/CC its/PRP$ metabolites/NNS had/VBD no/DT effect/NN on/IN CYP1A2/NN ,/, 2A6/NN ,/, and/CC 2E1/NN (/-LRB- Ki/NN 100uM/NN )/-RRB- ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s20
+Weak inhibitory effects toward other isoforms ( CYP2C8 , 2C9, 2C19, 2D6, 3A4) were found, but Ki values were in excess of plasma concentrations achieved following dosing.
+
+Weak/JJ inhibitory/JJ effects/NNS toward/IN other/JJ isoforms/NNS (/-LRB- CYP2C8/NN ,/, 2C9/NN ,/, 2C19/NN ,/, 2D6/NN ,/, 3A4/NN )/-RRB- were/VBD found/VBN ,/, but/CC Ki/NN values/NNS were/VBD in/IN excess/NN of/IN plasma/NN concentrations/NNS achieved/VBN following/VBG dosing/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s21
+The most potent inhibitory activity was observed for vardenafil metabolite M1, which had a Ki of 1.4 uM toward CYP3A4 , which is about 20 times higher than the M1 Cmax values after an 80 mg Vardenafil dose.
+
+The/DT most/RBS potent/JJ inhibitory/JJ activity/NN was/VBD observed/VBN for/IN vardenafil/NN metabolite/NN M1/NN ,/, which/WDT had/VBD a/DT Ki/NN of/IN 1.4/CD uM/NN toward/IN CYP3A4/NN ,/, which/WDT is/VBZ about/RB 20/CD times/NNS higher/JJR than/IN the/DT M1/NN Cmax/NN values/NNS after/IN an/DT 80/CD mg/NN Vardenafil/NN dose/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s22
+In vivo studies: Nitrates : The blood pressure lowering effects of sublingual nitrates (0.4 mg) taken 1 and 4 hours after vardenafil and increases in heart rate when taken at 1, 4 and 8 hours were potentiated by a 20 mg dose of Vardenafil in healthy middle-aged subjects.
+
+In/FW vivo/FW studies/NNS :/: Nitrates/NNS :/: The/DT blood/NN pressure/NN lowering/JJ effects/NNS of/IN sublingual/JJ nitrates/NNS (/-LRB- 0.4/CD mg/NN )/-RRB- taken/VBN 1/CD and/CC 4/CD hours/NNS after/IN vardenafil/NN and/CC increases/NNS in/IN heart/NN rate/NN when/WRB taken/VBN at/IN 1/CD ,/, 4/CD and/CC 8/CD hours/NNS were/VBD potentiated/VBN by/IN a/DT 20/CD mg/NN dose/NN of/IN Vardenafil/NN in/IN healthy/JJ middle-aged/JJ subjects/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s23
+These effects were not observed when Vardenafil 20 mg was taken 24 hours before the NTG.
+
+These/DT effects/NNS were/VBD not/RB observed/VBN when/WRB Vardenafil/NN 20/CD mg/NN was/VBD taken/VBN 24/CD hours/NNS before/IN the/DT NTG/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s24
+Potentiation of the hypotensive effects of nitrates for patients with ischemic heart disease has not been evaluated, and concomitant use of Vardenafil and nitrates is contraindicated.
+
+Potentiation/NN of/IN the/DT hypotensive/JJ effects/NNS of/IN nitrates/NNS for/IN patients/NNS with/IN ischemic/JJ heart/NN disease/NN has/VBZ not/RB been/VBN evaluated/VBN ,/, and/CC concomitant/JJ use/NN of/IN Vardenafil/NN and/CC nitrates/NNS is/VBZ contraindicated/VBN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s25
+Nifedipine : Vardenafil 20 mg , when co-administered with slow-release nifedipine 30 mg or 60 mg once daily, did not affect the relative bioavailability (AUC) or maximum concentration (Cmax) of nifedipine , a drug that is metabolized via CYP3A4 .
+
+Nifedipine/NN :/: Vardenafil/NN 20/CD mg/NN ,/, when/WRB co-administered/VBN with/IN slow-release/JJ nifedipine/NN 30/CD mg/NN or/CC 60/CD mg/NN once/RB daily/RB ,/, did/VBD not/RB affect/VB the/DT relative/JJ bioavailability/NN (/-LRB- AUC/NN )/-RRB- or/CC maximum/JJ concentration/NN (/-LRB- Cmax/NN )/-RRB- of/IN nifedipine/NN ,/, a/DT drug/NN that/WDT is/VBZ metabolized/VBN via/IN CYP3A4/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s26
+Nifedipine did not alter the plasma levels of Vardenafil when taken in combination.
+
+Nifedipine/NN did/VBD not/RB alter/VB the/DT plasma/NN levels/NNS of/IN Vardenafil/NN when/WRB taken/VBN in/IN combination/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s27
+In these patients whose hypertension was controlled with nifedipine , Vardenafil 20 mg produced mean additional supine systolic/diastolic blood pressure reductions of 6/5 mm Hg compared to placebo.
+
+In/IN these/DT patients/NNS whose/WP$ hypertension/NN was/VBD controlled/VBN with/IN nifedipine/NN ,/, Vardenafil/NN 20/CD mg/NN produced/VBD mean/JJ additional/JJ supine/NN systolic/diastolic/JJ blood/NN pressure/NN reductions/NNS of/IN 6/5/CD mm/NN Hg/NN compared/VBN to/TO placebo/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s28
+Alpha-blockers: When Vardenafil 10 or 20 mg was given to healthy volunteers either simultaneously or 6 hours after a 10 mg dose of terazosin , significant hypotension developed in a substantial number of subjects.
+
+Alpha-blockers/NNS :/: When/WRB Vardenafil/NN 10/CD or/CC 20/CD mg/NN was/VBD given/VBN to/TO healthy/JJ volunteers/NNS either/CC simultaneously/RB or/CC 6/CD hours/NNS after/IN a/DT 10/CD mg/NN dose/NN of/IN terazosin/NN ,/, significant/JJ hypotension/NN developed/VBD in/IN a/DT substantial/JJ number/NN of/IN subjects/NNS ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s29
+With simultaneous dosing of Vardenafil 10 mg and terazosin 10 mg, 6 of 8 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.
+
+With/IN simultaneous/JJ dosing/NN of/IN Vardenafil/NN 10/CD mg/NN and/CC terazosin/NN 10/CD mg/NN ,/, 6/CD of/IN 8/CD subjects/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN of/IN less/JJR than/IN 85/CD mm/NN Hg/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s30
+With simultaneous dosing of Vardenafil 20 mg and terazosin 10 mg, 2 of 9 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.
+
+With/IN simultaneous/JJ dosing/NN of/IN Vardenafil/NN 20/CD mg/NN and/CC terazosin/NN 10/CD mg/NN ,/, 2/CD of/IN 9/CD subjects/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN of/IN less/JJR than/IN 85/CD mm/NN Hg/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s31
+When Vardenafil dosing was separated from terazosin 10 mg by 6 hours, 7 of 28 subjects who received 20 mg of Vardenafil experienced a decrease in standing systolic blood pressure below 85 mm Hg.
+
+When/WRB Vardenafil/NN dosing/NN was/VBD separated/VBN from/IN terazosin/NN 10/CD mg/NN by/IN 6/CD hours/NNS ,/, 7/CD of/IN 28/CD subjects/NNS who/WP received/VBD 20/CD mg/NN of/IN Vardenafil/NN experienced/VBN a/DT decrease/NN in/IN standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s32
+In a similar study with tamsulosin in healthy volunteers, 1 of 24 subjects dosed with Vardenafil 20 mg and tamsulosin 0.4 mg separated by 6 hours experienced a standing systolic blood pressure below 85 mm Hg.
+
+In/IN a/DT similar/JJ study/NN with/IN tamsulosin/NN in/IN healthy/JJ volunteers/NNS ,/, 1/CD of/IN 24/CD subjects/NNS dosed/VBN with/IN Vardenafil/NN 20/CD mg/NN and/CC tamsulosin/NN 0.4/CD mg/NN separated/VBN by/IN 6/CD hours/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s33
+Two of 16 subjects dosed simultaneously with Vardenafil 10 mg and tamsulosin 0.4 mg experienced a standing systolic blood pressure below 85 mm Hg.
+
+Two/CD of/IN 16/CD subjects/NNS dosed/VBN simultaneously/RB with/IN Vardenafil/NN 10/CD mg/NN and/CC tamsulosin/NN 0.4/CD mg/NN experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s34
+The administration of lower doses of Vardenafil with alpha-blockers has not been completely evaluated to determine if they can be safely administered together.
+
+The/DT administration/NN of/IN lower/JJR doses/NNS of/IN Vardenafil/NN with/IN alpha-blockers/NNS has/VBZ not/RB been/VBN completely/RB evaluated/VBN to/TO determine/VB if/IN they/PRP can/MD be/VB safely/RB administered/VBN together/RB ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s35
+Based on these data, Vardenafil should not be used in patients on alpha-blocker therapy.
+
+Based/VBN on/IN these/DT data/NNS ,/, Vardenafil/NN should/MD not/RB be/VB used/VBN in/IN patients/NNS on/IN alpha-blocker/NN therapy/NN ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s36
+Ritonavir and indinavir : Upon concomitant administration of 5 mg of Vardenafil with 600 mg BID ritonavir , the Cmax and AUC of ritonavir were reduced by approximately 20%.
+
+Ritonavir/NN and/CC indinavir/NN :/: Upon/IN concomitant/JJ administration/NN of/IN 5/CD mg/NN of/IN Vardenafil/NN with/IN 600/CD mg/NN BID/NN ritonavir/NN ,/, the/DT Cmax/NN and/CC AUC/NN of/IN ritonavir/NN were/VBD reduced/VBN by/IN approximately/RB 20/CD %./NN
+
+
+DrugDDI.d253
+DrugDDI.d253.s37
+Upon administration of 10 mg of Vardenafil with 800 mg TID indinavir , the Cmax and AUC of indinavir were reduced by 40% and 30%, respectively.
+
+Upon/IN administration/NN of/IN 10/CD mg/NN of/IN Vardenafil/NN with/IN 800/CD mg/NN TID/NN indinavir/NN ,/, the/DT Cmax/NN and/CC AUC/NN of/IN indinavir/NN were/VBD reduced/VBN by/IN 40/CD %/NN and/CC 30/CD %/NN ,/, respectively/RB ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s38
+Alcohol : Alcohol (0.5 g/kg body weight: approximately 40 mL of absolute alcohol in a 70 kg person) and vardenafil plasma levels were not altered when dosed simultaneously.
+
+Alcohol/NN :/: Alcohol/NN (/-LRB- 0.5/CD g/kg/NN body/NN weight/NN :/: approximately/RB 40/CD mL/NN of/IN absolute/JJ alcohol/NN in/IN a/DT 70/CD kg/NN person/NN )/-RRB- and/CC vardenafil/NN plasma/NN levels/NNS were/VBD not/RB altered/VBN when/WRB dosed/VBN simultaneously/RB ./.
+
+
+DrugDDI.d253
+DrugDDI.d253.s39
+Vardenafil (20 mg) did not potentiate the hypotensive effects of alcohol during the 4-hour observation period in healthy volunteers when administered with alcohol (0.5 g/kg body weight).
+
+Vardenafil/NN (/-LRB- 20/CD mg/NN )/-RRB- did/VBD not/RB potentiate/VB the/DT hypotensive/JJ effects/NNS of/IN alcohol/NN during/IN the/DT 4-hour/JJ observation/NN period/NN in/IN healthy/JJ volunteers/NNS when/WRB administered/VBN with/IN alcohol/NN (/-LRB- 0.5/CD g/kg/NN body/NN weight/NN )./CD
+
+
+DrugDDI.d253
+DrugDDI.d253.s40
+Aspirin : Vardenafil (10 mg and 20 mg) did not potentiate the increase in bleeding time caused by aspirin (two 81 mg tablets).
+
+Aspirin/NN :/: Vardenafil/NN (/-LRB- 10/CD mg/NN and/CC 20/CD mg/NN )/-RRB- did/VBD not/RB potentiate/VB the/DT increase/NN in/IN bleeding/JJ time/NN caused/VBN by/IN aspirin/NN (/-LRB- two/CD 81/CD mg/NN tablets/NNS )./CD
+
+
+DrugDDI.d253
+DrugDDI.d253.s41
+Other interactions: Vardenafil had no effect on the pharmacodynamics of glyburide ( glucose and insulin concentrations) and warfarin (prothrombin time or other pharmacodynamic parameters).
+
+Other/JJ interactions/NNS :/: Vardenafil/NN had/VBD no/DT effect/NN on/IN the/DT pharmacodynamics/NNS of/IN glyburide/NN (/-LRB- glucose/NN and/CC insulin/NN concentrations/NNS )/-RRB- and/CC warfarin/NN (/-LRB- prothrombin/NN time/NN or/CC other/JJ pharmacodynamic/JJ parameters/NNS )./NN
+
+
+DrugDDI.d528
+DrugDDI.d528.s0
+Zidovudine : There is no significant pharmacokinetic interaction between ZDV and zalcitabine which has been confirmed clinically.
+
+Zidovudine/NN :/: There/EX is/VBZ no/DT significant/JJ pharmacokinetic/JJ interaction/NN between/IN ZDV/NN and/CC zalcitabine/NN which/WDT has/VBZ been/VBN confirmed/VBN clinically/RB ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s1
+Zalcitabine also has no significant effect on the intracellular phosphorylation of ZDV , as shown in vitro in peripheral blood mononuclear cells or in two other cell lines (U937 and Molt-4).
+
+Zalcitabine/NN also/RB has/VBZ no/DT significant/JJ effect/NN on/IN the/DT intracellular/JJ phosphorylation/NN of/IN ZDV/NN ,/, as/IN shown/VBN in/FW vitro/FW in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS or/CC in/IN two/CD other/JJ cell/NN lines/NNS (/-LRB- U937/NN and/CC Molt-4/NN )./NN
+
+
+DrugDDI.d528
+DrugDDI.d528.s2
+In the same study it was shown that didanosine and stavudine had no significant effect on the intracellular phosphorylation of zalcitabine in peripheral blood mononuclear cells.
+
+In/IN the/DT same/JJ study/NN it/PRP was/VBD shown/VBN that/IN didanosine/NN and/CC stavudine/NN had/VBD no/DT significant/JJ effect/NN on/IN the/DT intracellular/JJ phosphorylation/NN of/IN zalcitabine/NN in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s3
+Lamivudine : In vitro studies in peripheral blood mononuclear cells, U937 and Molt-4 cells revealed that lamivudine significantly inhibited zalcitabine phosphorylation in a dose dependent manner.
+
+Lamivudine/NN :/: In/FW vitro/FW studies/NNS in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS ,/, U937/NN and/CC Molt-4/NN cells/NNS revealed/VBD that/IN lamivudine/NN significantly/RB inhibited/VBD zalcitabine/NN phosphorylation/NN in/IN a/DT dose/NN dependent/JJ manner/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s4
+Effects were already seen with doses corresponding to relevant plasma levels in humans, and the intracellular phosphorylation of zalcitabine to its three metabolites (including the active zalcitabine triphosphate metabolite) was significantly inhibited.
+
+Effects/NNS were/VBD already/RB seen/VBN with/IN doses/NNS corresponding/VBG to/TO relevant/JJ plasma/NN levels/NNS in/IN humans/NNS ,/, and/CC the/DT intracellular/JJ phosphorylation/NN of/IN zalcitabine/NN to/TO its/PRP$ three/CD metabolites/NNS (/-LRB- including/VBG the/DT active/JJ zalcitabine/NN triphosphate/NN metabolite/NN )/-RRB- was/VBD significantly/RB inhibited/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s5
+Zalcitabine inhibited lamivudine phosphorylation at high concentration ratios (10 and 100); .
+
+Zalcitabine/NN inhibited/VBD lamivudine/NN phosphorylation/NN at/IN high/JJ concentration/NN ratios/NNS (/-LRB- 10/CD and/CC 100/CD )/-RRB- ;/: ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s6
+however, it is considered to be unlikely that this decrease of phosphorylated lamivudine concentration is of clinical significance, as lamivudine is a more efficient substrate for deoxycytidine kinase than zalcitabine .
+
+however/RB ,/, it/PRP is/VBZ considered/VBN to/TO be/VB unlikely/JJ that/IN this/DT decrease/NN of/IN phosphorylated/VBN lamivudine/NN concentration/NN is/VBZ of/IN clinical/JJ significance/NN ,/, as/IN lamivudine/NN is/VBZ a/DT more/RBR efficient/JJ substrate/NN for/IN deoxycytidine/NN kinase/NN than/IN zalcitabine/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s7
+These in vitro studies suggest that concomitant administration of zalcitabine and lamivudine in humans may result in sub-therapeutic concentrations of active phosphorylated zalcitabine , which may lead to a decreased antiretroviral effect of zalcitabine .
+
+These/DT in/FW vitro/FW studies/NNS suggest/VBP that/IN concomitant/JJ administration/NN of/IN zalcitabine/NN and/CC lamivudine/NN in/IN humans/NNS may/MD result/VB in/IN sub-therapeutic/JJ concentrations/NNS of/IN active/JJ phosphorylated/JJ zalcitabine/NN ,/, which/WDT may/MD lead/VB to/TO a/DT decreased/VBN antiretroviral/JJ effect/NN of/IN zalcitabine/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s9
+Concomitant use of zalcitabine and lamivudine is not recommended.
+
+Concomitant/JJ use/NN of/IN zalcitabine/NN and/CC lamivudine/NN is/VBZ not/RB recommended/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s10
+Saquinavir : The combination of HIVID , saquinavir , and ZDV has been studied (as triple combination) in adults.
+
+Saquinavir/NN :/: The/DT combination/NN of/IN HIVID/NN ,/, saquinavir/NN ,/, and/CC ZDV/NN has/VBZ been/VBN studied/VBN (/-LRB- as/IN triple/JJ combination/NN )/-RRB- in/IN adults/NNS ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s11
+Pharmacokinetic data suggest that absorption, metabolism, and elimination of each of these drugs are unchanged when they are used together.
+
+Pharmacokinetic/JJ data/NNS suggest/VBP that/IN absorption/NN ,/, metabolism/NN ,/, and/CC elimination/NN of/IN each/DT of/IN these/DT drugs/NNS are/VBP unchanged/JJ when/WRB they/PRP are/VBP used/VBN together/RB ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s12
+Drugs Associated With Peripheral Neuropathy: The concomitant use of HIVID with drugs that have the potential to cause peripheral neuropathy should be avoided where possible.
+
+Drugs/NNS Associated/VBN With/IN Peripheral/JJ Neuropathy/NN :/: The/DT concomitant/JJ use/NN of/IN HIVID/NN with/IN drugs/NNS that/WDT have/VBP the/DT potential/NN to/TO cause/VB peripheral/JJ neuropathy/NN should/MD be/VB avoided/VBN where/WRB possible/JJ ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s13
+Drugs that have been associated with peripheral neuropathy include antiretroviral nucleoside analogues , chloramphenicol , cisplatin , dapsone , disulfiram , ethionamide , glutethimide , gold , hydralazine , iodoquinol , isoniazid , metronidazole , nitrofurantoin , phenytoin , ribavirin , and vincristine .
+
+Drugs/NNS that/WDT have/VBP been/VBN associated/VBN with/IN peripheral/JJ neuropathy/NN include/VBP antiretroviral/JJ nucleoside/NN analogues/NNS ,/, chloramphenicol/NN ,/, cisplatin/NN ,/, dapsone/NN ,/, disulfiram/NN ,/, ethionamide/NN ,/, glutethimide/NN ,/, gold/NN ,/, hydralazine/NN ,/, iodoquinol/NN ,/, isoniazid/NN ,/, metronidazole/NN ,/, nitrofurantoin/NN ,/, phenytoin/NN ,/, ribavirin/NN ,/, and/CC vincristine/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s14
+Concomitant use of HIVID with didanosine is not recommended.
+
+Concomitant/JJ use/NN of/IN HIVID/NN with/IN didanosine/NN is/VBZ not/RB recommended/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s15
+Intravenous Pentamidin e: Treatment with HIVID should be interrupted when the use of a drug that has the potential to cause pancreatitis is required.
+
+Intravenous/JJ Pentamidin/NN e/NN :/: Treatment/NN with/IN HIVID/NN should/MD be/VB interrupted/VBN when/WRB the/DT use/NN of/IN a/DT drug/NN that/WDT has/VBZ the/DT potential/NN to/TO cause/VB pancreatitis/NN is/VBZ required/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s16
+Death due to fulminant pancreatitis possibly related to intravenous pentamidin e and HIVID has been reported.
+
+Death/NN due/IN to/TO fulminant/JJ pancreatitis/NN possibly/RB related/JJ to/TO intravenous/JJ pentamidin/NN e/NN and/CC HIVID/NN has/VBZ been/VBN reported/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s17
+If intravenous pentamidin e is required to treat Pneumocystis carinii pneumonia, treatment with HIVID should be interrupted.
+
+If/IN intravenous/JJ pentamidin/NN e/NN is/VBZ required/VBN to/TO treat/VB Pneumocystis/NN carinii/NN pneumonia/NNS ,/, treatment/NN with/IN HIVID/NN should/MD be/VB interrupted/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s18
+Amphotericin , Foscarnet , and Aminoglycosides : Drugs such as amphotericin , foscarnet , and aminoglycosides may increase the risk of developing peripheral neuropathy or other HIVID -associated adverse events by interfering with the renal clearance of zalcitabine (thereby raising systemic exposure).
+
+Amphotericin/NN ,/, Foscarnet/NN ,/, and/CC Aminoglycosides/NN :/: Drugs/NNS such/JJ as/IN amphotericin/NN ,/, foscarnet/NN ,/, and/CC aminoglycosides/NNS may/MD increase/VB the/DT risk/NN of/IN developing/VBG peripheral/JJ neuropathy/NN or/CC other/JJ HIVID/NN -associated/JJ adverse/JJ events/NNS by/IN interfering/VBG with/IN the/DT renal/JJ clearance/NN of/IN zalcitabine/NN (/-LRB- thereby/RB raising/VBG systemic/JJ exposure/NN )./NN
+
+
+DrugDDI.d528
+DrugDDI.d528.s19
+Patients who require the use of one of these drugs with HIVID should have frequent clinical and laboratory monitoring with dosage adjustment for any significant change in renal function.
+
+Patients/NNS who/WP require/VBP the/DT use/NN of/IN one/CD of/IN these/DT drugs/NNS with/IN HIVID/NN should/MD have/VBP frequent/JJ clinical/JJ and/CC laboratory/JJ monitoring/NN with/IN dosage/JJ adjustment/NN for/IN any/DT significant/JJ change/NN in/IN renal/JJ function/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s20
+Probenecid or Cimetidine : Concomitant administration of probenecid or cimetidine decreases the elimination of zalcitabine , most likely by inhibition of renal tubular secretion of zalcitabine .
+
+Probenecid/NN or/CC Cimetidine/NN :/: Concomitant/JJ administration/NN of/IN probenecid/NN or/CC cimetidine/NN decreases/VBZ the/DT elimination/NN of/IN zalcitabine/NN ,/, most/RBS likely/RB by/IN inhibition/NN of/IN renal/JJ tubular/JJ secretion/NN of/IN zalcitabine/NN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s21
+Patients receiving these drugs in combination with zalcitabine should be monitored for signs of toxicity and the dose of zalcitabine reduced if warranted.
+
+Patients/NNS receiving/VBG these/DT drugs/NNS in/IN combination/NN with/IN zalcitabine/NN should/MD be/VB monitored/VBN for/IN signs/NNS of/IN toxicity/NN and/CC the/DT dose/NN of/IN zalcitabine/NN reduced/VBD if/IN warranted/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s22
+Magnesium /Aluminum-containing Antacid Products: Absorption of zalcitabine is moderately reduced (approximately 25%) when coadministered with magnesium /aluminum-containing antacid products.
+
+Magnesium/NN /Aluminum-containing/JJ Antacid/JJ Products/NNS :/: Absorption/NN of/IN zalcitabine/NN is/VBZ moderately/RB reduced/VBN (/-LRB- approximately/RB 25/CD %/NN )/-RRB- when/WRB coadministered/VBN with/IN magnesium/NN /aluminum-containing/NN antacid/JJ products/NNS ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s23
+The clinical significance of this reduction is not known, hence zalcitabine is not recommended to be ingested simultaneously with magnesium / aluminum-containing antacids .
+
+The/DT clinical/JJ significance/NN of/IN this/DT reduction/NN is/VBZ not/RB known/VBN ,/, hence/RB zalcitabine/NN is/VBZ not/RB recommended/VBN to/TO be/VB ingested/VBN simultaneously/RB with/IN magnesium/NN //: aluminum-containing/JJ antacids/NNS ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s24
+Metoclopramide : Bioavailability is mildly reduced (approximately 10%) when zalcitabine and metoclopramide are coadministered.
+
+Metoclopramide/NN :/: Bioavailability/NN is/VBZ mildly/RB reduced/VBN (/-LRB- approximately/RB 10/CD %/NN )/-RRB- when/WRB zalcitabine/NN and/CC metoclopramide/NN are/VBP coadministered/VBN ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s25
+Doxorubicin : Doxorubicin caused a decrease in zalcitabine phosphorylation ( 50% inhibition of total phosphate formation) in U937/Molt 4 cells.
+
+Doxorubicin/NN :/: Doxorubicin/NN caused/VBD a/DT decrease/NN in/IN zalcitabine/NN phosphorylation/NN (/-LRB- 50/CD %/NN inhibition/NN of/IN total/JJ phosphate/NN formation/NN )/-RRB- in/IN U937/Molt/NN 4/CD cells/NNS ./.
+
+
+DrugDDI.d528
+DrugDDI.d528.s26
+Although there may be decreased zalcitabine activity because of lessened active metabolite formation, the clinical relevance of these in vitro results are not known.
+
+Although/IN there/EX may/MD be/VB decreased/VBN zalcitabine/NN activity/NN because/IN of/IN lessened/JJ active/JJ metabolite/NN formation/NN ,/, the/DT clinical/JJ relevance/NN of/IN these/DT in/FW vitro/FW results/NNS are/VBP not/RB known/VBN ./.
+
+

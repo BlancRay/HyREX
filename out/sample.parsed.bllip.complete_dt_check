@@ -1,0 +1,231 @@
+DrugDDI.d505
+DrugDDI.d505.s0
+No formal drug /drug interaction studies with Plenaxis@ were performed.
+
+No/DT formal/JJ drug/NN /drug/NN interaction/NN studies/NNS with/IN Plenaxis/NN @/NN were/VBD performed/VBN ./.
+
+
+DrugDDI.d505
+DrugDDI.d505.s1
+Cytochrome P-450 is not known to be involved in the metabolism of Plenaxis@.
+
+Cytochrome/NN P-450/NN is/VBZ not/RB known/VBN to/TO be/VB involved/VBN in/IN the/DT metabolism/NN of/IN Plenaxis/NN @./NNS
+
+
+DrugDDI.d505
+DrugDDI.d505.s2
+Plenaxis@ is highly bound to plasma proteins (96 to 99%).
+
+Plenaxis/NN @/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN proteins/NNS (/-LRB- 96/CD to/TO 99/CD %)./NN
+
+
+DrugDDI.d505
+DrugDDI.d505.s3
+Laboratory Tests Response to Plenaxis@ should be monitored by measuring serum total testosterone concentrations just prior to administration on Day 29 and every 8 weeks thereafter.
+
+Laboratory/NN Tests/NNS Response/NN to/TO Plenaxis/NN @/NN should/MD be/VB monitored/VBN by/IN measuring/VBG serum/NN total/JJ testosterone/NN concentrations/NNS just/RB prior/RB to/TO administration/NN on/IN Day/NN 29/CD and/CC every/DT 8/CD weeks/NNS thereafter/RB ./.
+
+
+DrugDDI.d505
+DrugDDI.d505.s4
+Serum transaminase levels should be obtained before starting treatment with Plenaxis@ and periodically during treatment.
+
+Serum/NN transaminase/NN levels/NNS should/MD be/VB obtained/VBN before/IN starting/VBG treatment/NN with/IN Plenaxis/NN @/NN and/CC periodically/RB during/IN treatment/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s0
+Certain drugs tend to produce hyperglycemia and may lead to loss of blood glucose control.
+
+Certain/JJ drugs/NNS tend/VBP to/TO produce/VB hyperglycemia/NN and/CC may/MD lead/VB to/TO loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s1
+These drugs include the thiazides and other diuretics , corticosteroids , phenothiazines , thyroid products, estrogens , oral contraceptives , phenytoin , nicotinic acid , sympathomimetics , calcium channel-blocking drugs , and isoniazid .
+
+These/DT drugs/NNS include/VBP the/DT thiazides/NNS and/CC other/JJ diuretics/NNS ,/, corticosteroids/NNS ,/, phenothiazines/NNS ,/, thyroid/NN products/NNS ,/, estrogens/NNS ,/, oral/JJ contraceptives/NNS ,/, phenytoin/NN ,/, nicotinic/JJ acid/NN ,/, sympathomimetics/NNS ,/, calcium/NN channel-blocking/JJ drugs/NNS ,/, and/CC isoniazid/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s2
+When such drugs are administered to a patient receiving Acarbose , the patient should be closely observed for loss of blood glucose control.
+
+When/WRB such/JJ drugs/NNS are/VBP administered/VBN to/TO a/DT patient/NN receiving/VBG Acarbose/NN ,/, the/DT patient/NN should/MD be/VB closely/RB observed/VBN for/IN loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s3
+When such drugs are withdrawn from patients receiving Acarbose in combination with sulfonylureas or insulin , patients should be observed closely for any evidence of hypoglycemia.
+
+When/WRB such/JJ drugs/NNS are/VBP withdrawn/VBN from/IN patients/NNS receiving/VBG Acarbose/NN in/IN combination/NN with/IN sulfonylureas/NN or/CC insulin/NN ,/, patients/NNS should/MD be/VB observed/VBN closely/RB for/IN any/DT evidence/NN of/IN hypoglycemia/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s4
+Intestinal adsorbents (e. g., charcoal ) and digestive enzyme preparations containing carbohydrate-splitting enzymes (e. g., amylase , pancreatin ) may reduce the effect of Acarbose and should not be taken concomitantly.
+
+Intestinal/JJ adsorbents/NNS (/-LRB- e./FW g./FW ,/, charcoal/NN )/-RRB- and/CC digestive/JJ enzyme/NN preparations/NNS containing/VBG carbohydrate-splitting/JJ enzymes/NNS (/-LRB- e./FW g./FW ,/, amylase/NN ,/, pancreatin/NN )/-RRB- may/MD reduce/VB the/DT effect/NN of/IN Acarbose/NN and/CC should/MD not/RB be/VB taken/VBN concomitantly/RB ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s5
+Acarbose has been shown to change the bioavailabillty digoxin when they are co-administered, which may require digoxin dose adjustment.
+
+Acarbose/NN has/VBZ been/VBN shown/VBN to/TO change/VB the/DT bioavailabillty/NN digoxin/NN when/WRB they/PRP are/VBP co-administered/VBN ,/, which/WDT may/MD require/VB digoxin/NN dose/NN adjustment/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s6
+Studies in healthy volunteers have shown that Acarbose has no effect on either the pharmacokinetics or pharmacodynamics of digoxin , nifedipine , propranolol , or ranitidine .
+
+Studies/NNS in/IN healthy/JJ volunteers/NNS have/VBP shown/VBN that/IN Acarbose/NN has/VBZ no/DT effect/NN on/IN either/CC the/DT pharmacokinetics/NNS or/CC pharmacodynamics/NNS of/IN digoxin/NN ,/, nifedipine/NN ,/, propranolol/NN ,/, or/CC ranitidine/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s7
+Acarbose did not interfere with the absorption or disposition of the sulfonylurea glyburide in diabetic patients.
+
+Acarbose/NN did/VBD not/RB interfere/VB with/IN the/DT absorption/NN or/CC disposition/NN of/IN the/DT sulfonylurea/NN glyburide/NN in/IN diabetic/JJ patients/NNS ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s8
+Acarbose may affect digoxin bioavailabillty and may require dose adjustment of digoxin by 16% (90% confidence interval: 8-23%), decrease mean C max digoxin by 26% (90% confidence interval: 16-34%) and decrease mean trough concentrations of digoxin by 9% (90% confidence limit: 19% decrease to 2% increase).
+
+Acarbose/NN may/MD affect/VB digoxin/NN bioavailabillty/NN and/CC may/MD require/VB dose/NN adjustment/NN of/IN digoxin/NN by/IN 16/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 8-23/CD %/NN )/-RRB- ,/, decrease/VB mean/NN C/NN max/NN digoxin/NN by/IN 26/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 16-34/CD %/NN )/-RRB- and/CC decrease/VB mean/JJ trough/NN concentrations/NNS of/IN digoxin/NN by/IN 9/CD %/NN (/-LRB- 90/CD %/NN confidence/NN limit/NN :/: 19/CD %/NN decrease/NN to/TO 2/CD %/NN increase/NN )./NN
+
+
+DrugDDI.d103
+DrugDDI.d103.s9
+The amount of metformin absorbed while taking Acarbose was bioequivalent to the amount absorbed when taking placebo, as indicated by the plasma AUC values.
+
+The/DT amount/NN of/IN metformin/NN absorbed/VBD while/IN taking/VBG Acarbose/NN was/VBD bioequivalent/JJ to/TO the/DT amount/NN absorbed/VBN when/WRB taking/VBG placebo/NN ,/, as/IN indicated/VBN by/IN the/DT plasma/NN AUC/NN values/NNS ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s10
+However, the peak plasma level of metformin was reduced by approximately 20% when taking Acarbose due to a slight delay in the absorption of metformin .
+
+However/RB ,/, the/DT peak/JJ plasma/NN level/NN of/IN metformin/NN was/VBD reduced/VBN by/IN approximately/RB 20/CD %/NN when/WRB taking/VBG Acarbose/NN due/IN to/TO a/DT slight/JJ delay/NN in/IN the/DT absorption/NN of/IN metformin/NN ./.
+
+
+DrugDDI.d103
+DrugDDI.d103.s11
+There is little if any clinically significant interaction between Acarbose and metformin .
+
+There/EX is/VBZ little/JJ if/IN any/DT clinically/RB significant/JJ interaction/NN between/IN Acarbose/NN and/CC metformin/NN ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s0
+Catecholamine-depleting drugs , such as reserpine , may have an additive effect when given with beta-blocking agent s.
+
+Catecholamine-depleting/JJ drugs/NNS ,/, such/JJ as/IN reserpine/NN ,/, may/MD have/VB an/DT additive/JJ effect/NN when/WRB given/VBN with/IN beta-blocking/JJ agent/NN s/NNS ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s1
+Patients treated with acebutolol plus catecholamine depletors should, therefore, be observed closely for evidence of marked bradycardia or hypotension which may present as vertigo, syncope/presyncope, or orthostatic changes in blood pressure without compensatory tachycardia.
+
+Patients/NNS treated/VBN with/IN acebutolol/NN plus/CC catecholamine/NN depletors/NNS should/MD ,/, therefore/RB ,/, be/VB observed/VBN closely/RB for/IN evidence/NN of/IN marked/JJ bradycardia/NN or/CC hypotension/NN which/WDT may/MD present/VBP as/IN vertigo/NN ,/, syncope/presyncope/NN ,/, or/CC orthostatic/JJ changes/NNS in/IN blood/NN pressure/NN without/IN compensatory/JJ tachycardia/NN ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s2
+Exaggerated hypertensive responses have been reported from the combined use of beta-adrenergic antagonist s and alpha-adrenergic stimulants , including those contained in proprietary cold remedies and vasoconstrictive nasal drops.
+
+Exaggerated/JJ hypertensive/JJ responses/NNS have/VBP been/VBN reported/VBN from/IN the/DT combined/JJ use/NN of/IN beta-adrenergic/JJ antagonist/NN s/NN and/CC alpha-adrenergic/JJ stimulants/NNS ,/, including/VBG those/DT contained/VBN in/IN proprietary/JJ cold/JJ remedies/NNS and/CC vasoconstrictive/JJ nasal/JJ drops/NN ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s3
+Patients receiving beta-blockers should be warned of this potential hazard.
+
+Patients/NNS receiving/VBG beta-blockers/NN should/MD be/VB warned/VBN of/IN this/DT potential/JJ hazard/NN ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s4
+Blunting of the antihypertensive effect of beta-adrenoceptor blocking agent s by nonsteroidal anti-inflammatory drugs has been reported.
+
+Blunting/NN of/IN the/DT antihypertensive/JJ effect/NN of/IN beta-adrenoceptor/NN blocking/NN agent/NN s/NNS by/IN nonsteroidal/JJ anti-inflammatory/JJ drugs/NNS has/VBZ been/VBN reported/VBN ./.
+
+
+DrugDDI.d518
+DrugDDI.d518.s5
+No significant interactions with digoxin , hydrochlorothiazide , hydralazine , sulfinpyrazone , oral contraceptives , tolbutamide , or warfarin have been observed.
+
+No/DT significant/JJ interactions/NNS with/IN digoxin/NN ,/, hydrochlorothiazide/NN ,/, hydralazine/NN ,/, sulfinpyrazone/NN ,/, oral/JJ contraceptives/NNS ,/, tolbutamide/NN ,/, or/CC warfarin/NN have/VBP been/VBN observed/VBN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s0
+DIAMOX modifies phenytoin metabolism with increased serum levels of phenytoin .
+
+DIAMOX/NN modifies/VBZ phenytoin/NN metabolism/NN with/IN increased/VBN serum/NN levels/NNS of/IN phenytoin/NN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s1
+This may increase or enhance the occurrence of osteomalacia in some patients receiving chronic phenytoin therapy.
+
+This/DT may/MD increase/VB or/CC enhance/VB the/DT occurrence/NN of/IN osteomalacia/NN in/IN some/DT patients/NNS receiving/VBG chronic/JJ phenytoin/NN therapy/NN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s3
+By decreasing the gastrointestinal absorption of primidone , DIAMOX may decrease serum concentrations of primidone and its metabolites , with a consequent possible decrease in anticonvulsant effect.
+
+By/IN decreasing/VBG the/DT gastrointestinal/JJ absorption/NN of/IN primidone/NN ,/, DIAMOX/NN may/MD decrease/VB serum/NN concentrations/NNS of/IN primidone/NN and/CC its/PRP$ metabolites/NNS ,/, with/IN a/DT consequent/JJ possible/JJ decrease/NN in/IN anticonvulsant/JJ effect/NN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s4
+Caution is advised when beginning, discontinuing, or changing the dose of DIAMOX in patients receiving primidone .
+
+Caution/NN is/VBZ advised/JJ when/WRB beginning/VBG ,/, discontinuing/VBG ,/, or/CC changing/VBG the/DT dose/NN of/IN DIAMOX/NN in/IN patients/NNS receiving/VBG primidone/NN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s5
+Because of possible additive effects with other carbonic anhydrase inhibitors , concomitant use is not advisable.
+
+Because/IN of/IN possible/JJ additive/JJ effects/NNS with/IN other/JJ carbonic/JJ anhydrase/NN inhibitors/NNS ,/, concomitant/JJ use/NN is/VBZ not/RB advisable/JJ ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s6
+Acetazolamide may increase the effects of other folic acid antagonists .
+
+Acetazolamide/NN may/MD increase/VB the/DT effects/NNS of/IN other/JJ folic/JJ acid/NN antagonists/NNS ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s7
+Acetazolamide may increase or decrease blood glucose levels.
+
+Acetazolamide/NN may/MD increase/VB or/CC decrease/VB blood/NN glucose/NN levels/NNS ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s8
+Consideration should be taken in patients being treated with antidiabetic agents .
+
+Consideration/NN should/MD be/VB taken/VBN in/IN patients/NNS being/VBG treated/VBN with/IN antidiabetic/JJ agents/NNS ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s9
+Acetazolamide decreases urinary excretion of amphetamine and may enhance the magnitude and duration of their effect.
+
+Acetazolamide/NN decreases/VBZ urinary/JJ excretion/NN of/IN amphetamine/NN and/CC may/MD enhance/VB the/DT magnitude/NN and/CC duration/NN of/IN their/PRP$ effect/NN ./.
+
+
+DrugDDI.d452
+DrugDDI.d452.s10
+Acetazolamide reduces urinary excretion of quinidine and may enhance its effect.
+
+Acetazolamide/NN reduces/VBZ urinary/JJ excretion/NN of/IN quinidine/NN and/CC may/MD enhance/VB its/PRP$ effect/NN ./.
+
+

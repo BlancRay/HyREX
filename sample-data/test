@@ -1,0 +1,4947 @@
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s5
+Drugs that Inhibit or Induce Cytochrome P450 3A4 Enzymes Lapatinib undergoes extensive metabolism by CYP3A4 , and concomitant administration of strong inhibitors or inducers of CYP3A4 alter lapatinib concentrations significantly.
+
+DrugDDI.d201.s5.e0 0 4
+drug
+Drugs
+DrugDDI.d201.s5.e1 24 40
+drug
+Cytochrome P450 3A4
+DrugDDI.d201.s5.e2 87 92
+drug
+CYP3A4
+DrugDDI.d201.s5.e3 152 157
+drug
+CYP3A4
+DrugDDI.d201.s5.e4 163 171
+drug
+lapatinib
+
+interaction DrugDDI.d201.s5.e0 DrugDDI.d201.s5.e1 false
+interaction DrugDDI.d201.s5.e0 DrugDDI.d201.s5.e2 false
+interaction DrugDDI.d201.s5.e0 DrugDDI.d201.s5.e3 false
+interaction DrugDDI.d201.s5.e0 DrugDDI.d201.s5.e4 false
+interaction DrugDDI.d201.s5.e1 DrugDDI.d201.s5.e2 false
+interaction DrugDDI.d201.s5.e1 DrugDDI.d201.s5.e3 false
+interaction DrugDDI.d201.s5.e1 DrugDDI.d201.s5.e4 false
+interaction DrugDDI.d201.s5.e2 DrugDDI.d201.s5.e3 false
+interaction DrugDDI.d201.s5.e2 DrugDDI.d201.s5.e4 false
+interaction DrugDDI.d201.s5.e3 DrugDDI.d201.s5.e4 true
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s6
+Dose adjustment of lapatinib should be considered for patients who must receive concomitant strong inhibitors or concomitant strong inducers of CYP3A4 enzymes.
+
+DrugDDI.d201.s6.e0 16 24
+drug
+lapatinib
+DrugDDI.d201.s6.e1 124 129
+drug
+CYP3A4
+
+interaction DrugDDI.d201.s6.e0 DrugDDI.d201.s6.e1 true
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s7
+Ketoconazole : In healthy subjects receiving ketoconazole , a CYP3A4 inhibitor, at 200 mg twice daily for 7 days, systemic exposure (AUC) to lapatinib was increased to approximately 3.6-fold of control and half-life increased to 1.7-fold of control.
+
+DrugDDI.d201.s7.e0 0 11
+drug
+Ketoconazole
+DrugDDI.d201.s7.e1 39 50
+drug
+ketoconazole
+DrugDDI.d201.s7.e2 53 58
+drug
+CYP3A4
+DrugDDI.d201.s7.e3 118 126
+drug
+lapatinib
+
+interaction DrugDDI.d201.s7.e0 DrugDDI.d201.s7.e1 false
+interaction DrugDDI.d201.s7.e0 DrugDDI.d201.s7.e2 false
+interaction DrugDDI.d201.s7.e0 DrugDDI.d201.s7.e3 false
+interaction DrugDDI.d201.s7.e1 DrugDDI.d201.s7.e2 false
+interaction DrugDDI.d201.s7.e1 DrugDDI.d201.s7.e3 true
+interaction DrugDDI.d201.s7.e2 DrugDDI.d201.s7.e3 false
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s8
+Carbamazepine : In healthy subjects receiving the CYP3A4 inducer, carbamazepine , at 100 mg twice daily for 3 days and 200 mg twice daily for 17 days, systemic exposure (AUC) to lapatinib was decreased approximately 72%.
+
+DrugDDI.d201.s8.e0 0 12
+drug
+Carbamazepine
+DrugDDI.d201.s8.e1 43 48
+drug
+CYP3A4
+DrugDDI.d201.s8.e2 57 69
+drug
+carbamazepine
+DrugDDI.d201.s8.e3 147 155
+drug
+lapatinib
+
+interaction DrugDDI.d201.s8.e0 DrugDDI.d201.s8.e1 false
+interaction DrugDDI.d201.s8.e0 DrugDDI.d201.s8.e2 false
+interaction DrugDDI.d201.s8.e0 DrugDDI.d201.s8.e3 false
+interaction DrugDDI.d201.s8.e1 DrugDDI.d201.s8.e2 false
+interaction DrugDDI.d201.s8.e1 DrugDDI.d201.s8.e3 false
+interaction DrugDDI.d201.s8.e2 DrugDDI.d201.s8.e3 true
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s9
+Drugs that Inhibit Drug Transport Systems Lapatinib is a substrate of the efflux transporter P-glycoprotein (Pgp, ABCB1 ).
+
+DrugDDI.d201.s9.e0 0 4
+drug
+Drugs
+DrugDDI.d201.s9.e1 36 44
+drug
+Lapatinib
+DrugDDI.d201.s9.e2 68 78
+drug
+transporter
+DrugDDI.d201.s9.e3 98 102
+drug
+ABCB1
+
+interaction DrugDDI.d201.s9.e0 DrugDDI.d201.s9.e1 false
+interaction DrugDDI.d201.s9.e0 DrugDDI.d201.s9.e2 false
+interaction DrugDDI.d201.s9.e0 DrugDDI.d201.s9.e3 false
+interaction DrugDDI.d201.s9.e1 DrugDDI.d201.s9.e2 false
+interaction DrugDDI.d201.s9.e1 DrugDDI.d201.s9.e3 false
+interaction DrugDDI.d201.s9.e2 DrugDDI.d201.s9.e3 false
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s10
+If TYKERB is administered with drugs that inhibit Pgp, increased concentrations of lapatinib are likely, and caution should be exercised.
+
+DrugDDI.d201.s10.e0 26 30
+drug
+drugs
+DrugDDI.d201.s10.e1 71 79
+drug
+lapatinib
+
+interaction DrugDDI.d201.s10.e0 DrugDDI.d201.s10.e1 false
+
+Abstract Id: DrugDDI.d201
+Sentence Id: DrugDDI.d201.s11
+Other Chemotherapy Agents : In a separate study, concomitant administration of lapatinib with capecitabine did not meaningfully alter the pharmacokinetics of either agent (or the metabolites of capecitabine ).
+
+DrugDDI.d201.s11.e0 68 76
+drug
+lapatinib
+DrugDDI.d201.s11.e1 81 92
+drug
+capecitabine
+DrugDDI.d201.s11.e2 154 164
+drug
+metabolites
+DrugDDI.d201.s11.e3 167 178
+drug
+capecitabine
+
+interaction DrugDDI.d201.s11.e0 DrugDDI.d201.s11.e1 false
+interaction DrugDDI.d201.s11.e0 DrugDDI.d201.s11.e2 false
+interaction DrugDDI.d201.s11.e0 DrugDDI.d201.s11.e3 false
+interaction DrugDDI.d201.s11.e1 DrugDDI.d201.s11.e2 false
+interaction DrugDDI.d201.s11.e1 DrugDDI.d201.s11.e3 false
+interaction DrugDDI.d201.s11.e2 DrugDDI.d201.s11.e3 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s0
+Cholestyramine and Charcoal Administration of cholestyramine or activated charcoal in patients (n=13) and volunteers (n=96) resulted in a rapid and significant decrease in plasma M1 (the active metabolite of leflunomide ) concentration .
+
+DrugDDI.d581.s0.e0 0 13
+drug
+Cholestyramine
+DrugDDI.d581.s0.e1 17 24
+drug
+Charcoal
+DrugDDI.d581.s0.e2 41 54
+drug
+cholestyramine
+DrugDDI.d581.s0.e3 57 73
+drug
+activated charcoal
+DrugDDI.d581.s0.e4 161 176
+drug
+active metabolite
+DrugDDI.d581.s0.e5 179 189
+drug
+leflunomide
+
+interaction DrugDDI.d581.s0.e0 DrugDDI.d581.s0.e1 false
+interaction DrugDDI.d581.s0.e0 DrugDDI.d581.s0.e2 true
+interaction DrugDDI.d581.s0.e0 DrugDDI.d581.s0.e3 false
+interaction DrugDDI.d581.s0.e0 DrugDDI.d581.s0.e4 false
+interaction DrugDDI.d581.s0.e0 DrugDDI.d581.s0.e5 false
+interaction DrugDDI.d581.s0.e1 DrugDDI.d581.s0.e2 false
+interaction DrugDDI.d581.s0.e1 DrugDDI.d581.s0.e3 false
+interaction DrugDDI.d581.s0.e1 DrugDDI.d581.s0.e4 false
+interaction DrugDDI.d581.s0.e1 DrugDDI.d581.s0.e5 false
+interaction DrugDDI.d581.s0.e2 DrugDDI.d581.s0.e3 false
+interaction DrugDDI.d581.s0.e2 DrugDDI.d581.s0.e4 false
+interaction DrugDDI.d581.s0.e2 DrugDDI.d581.s0.e5 false
+interaction DrugDDI.d581.s0.e3 DrugDDI.d581.s0.e4 false
+interaction DrugDDI.d581.s0.e3 DrugDDI.d581.s0.e5 false
+interaction DrugDDI.d581.s0.e4 DrugDDI.d581.s0.e5 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s1
+Hepatotoxic Drugs Increased side effects may occur when leflunomide is given concomitantly with hepatotoxic substances.
+
+DrugDDI.d581.s1.e0 11 15
+drug
+Drugs
+DrugDDI.d581.s1.e1 48 58
+drug
+leflunomide
+
+interaction DrugDDI.d581.s1.e0 DrugDDI.d581.s1.e1 true
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s2
+This is also to be considered when leflunomide treatment is followed by such drugs without a drug elimination procedure.
+
+DrugDDI.d581.s2.e0 28 38
+drug
+leflunomide
+DrugDDI.d581.s2.e1 64 68
+drug
+drugs
+
+interaction DrugDDI.d581.s2.e0 DrugDDI.d581.s2.e1 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s3
+In a small (n=30) combination study of ARAVA with methotrexate , a 2- to 3-fold elevation in liver enzymes was seen in 5 of 30 patients.
+
+DrugDDI.d581.s3.e0 32 36
+drug
+ARAVA
+DrugDDI.d581.s3.e1 41 52
+drug
+methotrexate
+DrugDDI.d581.s3.e2 76 87
+drug
+liver enzymes
+
+interaction DrugDDI.d581.s3.e0 DrugDDI.d581.s3.e1 true
+interaction DrugDDI.d581.s3.e0 DrugDDI.d581.s3.e2 false
+interaction DrugDDI.d581.s3.e1 DrugDDI.d581.s3.e2 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s4
+All elevations resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+
+DrugDDI.d581.s4.e0 45 49
+drug
+drugs
+DrugDDI.d581.s4.e1 76 86
+drug
+leflunomide
+
+interaction DrugDDI.d581.s4.e0 DrugDDI.d581.s4.e1 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s6
+All of these also resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide .
+
+DrugDDI.d581.s6.e0 46 50
+drug
+drugs
+DrugDDI.d581.s6.e1 77 87
+drug
+leflunomide
+
+interaction DrugDDI.d581.s6.e0 DrugDDI.d581.s6.e1 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s7
+Three patients met ACR criteria for liver biopsy (1: Roegnik Grade I, 2: Roegnik Grade IIIa).
+
+DrugDDI.d581.s7.e0 13 15
+drug
+met
+
+
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s9
+NSAIDs : In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of diclofenac and ibuprofen at concentrations in the clinical range.
+
+DrugDDI.d581.s9.e0 0 5
+drug
+NSAIDs
+DrugDDI.d581.s9.e1 86 95
+drug
+diclofenac
+DrugDDI.d581.s9.e2 99 107
+drug
+ibuprofen
+
+interaction DrugDDI.d581.s9.e0 DrugDDI.d581.s9.e1 false
+interaction DrugDDI.d581.s9.e0 DrugDDI.d581.s9.e2 false
+interaction DrugDDI.d581.s9.e1 DrugDDI.d581.s9.e2 true
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s11
+however, there was extensive concomitant use of NSAIDs in clinical studies and no differential effect was observed.
+
+DrugDDI.d581.s11.e0 41 46
+drug
+NSAIDs
+
+
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s12
+Tolbutamide : In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of tolbutamide at concentrations in the clinical range.
+
+DrugDDI.d581.s12.e0 0 10
+drug
+Tolbutamide
+DrugDDI.d581.s12.e1 91 101
+drug
+tolbutamide
+
+interaction DrugDDI.d581.s12.e0 DrugDDI.d581.s12.e1 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s14
+Rifampin Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin , M1 peak levels were increased (~40%) over those seen when ARAVA was given alone.
+
+DrugDDI.d581.s14.e0 0 7
+drug
+Rifampin
+DrugDDI.d581.s14.e1 57 61
+drug
+ARAVA
+DrugDDI.d581.s14.e2 96 103
+drug
+rifampin
+DrugDDI.d581.s14.e3 153 157
+drug
+ARAVA
+
+interaction DrugDDI.d581.s14.e0 DrugDDI.d581.s14.e1 false
+interaction DrugDDI.d581.s14.e0 DrugDDI.d581.s14.e2 false
+interaction DrugDDI.d581.s14.e0 DrugDDI.d581.s14.e3 false
+interaction DrugDDI.d581.s14.e1 DrugDDI.d581.s14.e2 true
+interaction DrugDDI.d581.s14.e1 DrugDDI.d581.s14.e3 false
+interaction DrugDDI.d581.s14.e2 DrugDDI.d581.s14.e3 false
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s15
+Because of the potential for ARAVA levels to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin .
+
+DrugDDI.d581.s15.e0 24 28
+drug
+ARAVA
+DrugDDI.d581.s15.e1 123 127
+drug
+ARAVA
+DrugDDI.d581.s15.e2 131 138
+drug
+rifampin
+
+interaction DrugDDI.d581.s15.e0 DrugDDI.d581.s15.e1 false
+interaction DrugDDI.d581.s15.e0 DrugDDI.d581.s15.e2 false
+interaction DrugDDI.d581.s15.e1 DrugDDI.d581.s15.e2 true
+
+Abstract Id: DrugDDI.d581
+Sentence Id: DrugDDI.d581.s16
+Warfarin Increased INR (International Normalized Ratio) when ARAVA and warfarin were co-administered has been rarely reported.
+
+DrugDDI.d581.s16.e0 0 7
+drug
+Warfarin
+DrugDDI.d581.s16.e1 54 58
+drug
+ARAVA
+DrugDDI.d581.s16.e2 62 69
+drug
+warfarin
+
+interaction DrugDDI.d581.s16.e0 DrugDDI.d581.s16.e1 false
+interaction DrugDDI.d581.s16.e0 DrugDDI.d581.s16.e2 false
+interaction DrugDDI.d581.s16.e1 DrugDDI.d581.s16.e2 true
+
+Abstract Id: DrugDDI.d379
+Sentence Id: DrugDDI.d379.s0
+Clinical interaction studies with cimetidine and warfarin indicated that the coadministration of Femara with these drugs does not result in clinically- significant drug interactions.
+
+DrugDDI.d379.s0.e0 30 39
+drug
+cimetidine
+DrugDDI.d379.s0.e1 43 50
+drug
+warfarin
+DrugDDI.d379.s0.e2 85 90
+drug
+Femara
+DrugDDI.d379.s0.e3 100 104
+drug
+drugs
+
+interaction DrugDDI.d379.s0.e0 DrugDDI.d379.s0.e1 false
+interaction DrugDDI.d379.s0.e0 DrugDDI.d379.s0.e2 false
+interaction DrugDDI.d379.s0.e0 DrugDDI.d379.s0.e3 false
+interaction DrugDDI.d379.s0.e1 DrugDDI.d379.s0.e2 false
+interaction DrugDDI.d379.s0.e1 DrugDDI.d379.s0.e3 false
+interaction DrugDDI.d379.s0.e2 DrugDDI.d379.s0.e3 false
+
+Abstract Id: DrugDDI.d379
+Sentence Id: DrugDDI.d379.s1
+(See CLINICAL PHARMACOLOGY) Coadministration of Femara and tamoxifen 20 mg daily resulted in a reduction of letrozole plasma levels by 38% on average.
+
+DrugDDI.d379.s1.e0 43 48
+drug
+Femara
+DrugDDI.d379.s1.e1 52 64
+drug
+tamoxifen 20 mg
+DrugDDI.d379.s1.e2 92 100
+drug
+letrozole
+
+interaction DrugDDI.d379.s1.e0 DrugDDI.d379.s1.e1 true
+interaction DrugDDI.d379.s1.e0 DrugDDI.d379.s1.e2 false
+interaction DrugDDI.d379.s1.e1 DrugDDI.d379.s1.e2 false
+
+Abstract Id: DrugDDI.d379
+Sentence Id: DrugDDI.d379.s2
+There is no clinical experience to date on the use of Femara in combination with other anticancer agents.
+
+DrugDDI.d379.s2.e0 43 48
+drug
+Femara
+
+
+
+Abstract Id: DrugDDI.d379
+Sentence Id: DrugDDI.d379.s3
+Drug /Laboratory Test-Interactions None observed.
+
+DrugDDI.d379.s3.e0 0 3
+drug
+Drug
+
+
+
+Abstract Id: DrugDDI.d341
+Sentence Id: DrugDDI.d341.s0
+Folic acid in large amounts may counteract the antiepileptic effect of phenobarbital , phenytoin and primidone , and increase the frequency of seizures in susceptible pediatric patients.
+
+DrugDDI.d341.s0.e0 0 8
+drug
+Folic acid
+DrugDDI.d341.s0.e1 39 51
+drug
+antiepileptic
+DrugDDI.d341.s0.e2 60 72
+drug
+phenobarbital
+DrugDDI.d341.s0.e3 74 82
+drug
+phenytoin
+DrugDDI.d341.s0.e4 86 94
+drug
+primidone
+DrugDDI.d341.s0.e5 142 150
+drug
+pediatric
+
+interaction DrugDDI.d341.s0.e0 DrugDDI.d341.s0.e1 false
+interaction DrugDDI.d341.s0.e0 DrugDDI.d341.s0.e2 true
+interaction DrugDDI.d341.s0.e0 DrugDDI.d341.s0.e3 false
+interaction DrugDDI.d341.s0.e0 DrugDDI.d341.s0.e4 true
+interaction DrugDDI.d341.s0.e0 DrugDDI.d341.s0.e5 false
+interaction DrugDDI.d341.s0.e1 DrugDDI.d341.s0.e2 false
+interaction DrugDDI.d341.s0.e1 DrugDDI.d341.s0.e3 false
+interaction DrugDDI.d341.s0.e1 DrugDDI.d341.s0.e4 false
+interaction DrugDDI.d341.s0.e1 DrugDDI.d341.s0.e5 false
+interaction DrugDDI.d341.s0.e2 DrugDDI.d341.s0.e3 false
+interaction DrugDDI.d341.s0.e2 DrugDDI.d341.s0.e4 false
+interaction DrugDDI.d341.s0.e2 DrugDDI.d341.s0.e5 false
+interaction DrugDDI.d341.s0.e3 DrugDDI.d341.s0.e4 false
+interaction DrugDDI.d341.s0.e3 DrugDDI.d341.s0.e5 false
+interaction DrugDDI.d341.s0.e4 DrugDDI.d341.s0.e5 false
+
+Abstract Id: DrugDDI.d341
+Sentence Id: DrugDDI.d341.s1
+Preliminary animal and human studies have shown that small quantities of systemically administered leucovorin enter the CSF primarily as 5-methyltetrahydro-folate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
+
+DrugDDI.d341.s1.e0 86 95
+drug
+leucovorin
+DrugDDI.d341.s1.e1 200 211
+drug
+methotrexate
+
+interaction DrugDDI.d341.s1.e0 DrugDDI.d341.s1.e1 false
+
+Abstract Id: DrugDDI.d341
+Sentence Id: DrugDDI.d341.s2
+However, high doses of leucovorin may reduce the efficacy of intrathecally administered methotrexate .
+
+DrugDDI.d341.s2.e0 19 28
+drug
+leucovorin
+DrugDDI.d341.s2.e1 76 87
+drug
+methotrexate
+
+interaction DrugDDI.d341.s2.e0 DrugDDI.d341.s2.e1 true
+
+Abstract Id: DrugDDI.d341
+Sentence Id: DrugDDI.d341.s3
+Leucovorin may enhance the toxicity of 5- fluorouracil .
+
+DrugDDI.d341.s3.e0 0 9
+drug
+Leucovorin
+DrugDDI.d341.s3.e1 35 46
+drug
+fluorouracil
+
+interaction DrugDDI.d341.s3.e0 DrugDDI.d341.s3.e1 true
+
+Abstract Id: DrugDDI.d484
+Sentence Id: DrugDDI.d484.s0
+Although BETAGAN used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with BETAGAN and epinephrine may occur.
+
+DrugDDI.d484.s0.e0 8 14
+drug
+BETAGAN
+DrugDDI.d484.s0.e1 99 105
+drug
+BETAGAN
+DrugDDI.d484.s0.e2 109 119
+drug
+epinephrine
+
+interaction DrugDDI.d484.s0.e0 DrugDDI.d484.s0.e1 false
+interaction DrugDDI.d484.s0.e0 DrugDDI.d484.s0.e2 false
+interaction DrugDDI.d484.s0.e1 DrugDDI.d484.s0.e2 false
+
+Abstract Id: DrugDDI.d484
+Sentence Id: DrugDDI.d484.s1
+Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine , because of possible additive effects and the production of hypotension and/or marked bradycardia, which may produce vertigo, syncope or postural hypotension.
+
+DrugDDI.d484.s1.e0 46 57
+drug
+beta-blocker
+DrugDDI.d484.s1.e1 114 118
+drug
+drugs
+DrugDDI.d484.s1.e2 125 133
+drug
+reserpine
+
+interaction DrugDDI.d484.s1.e0 DrugDDI.d484.s1.e1 true
+interaction DrugDDI.d484.s1.e0 DrugDDI.d484.s1.e2 false
+interaction DrugDDI.d484.s1.e1 DrugDDI.d484.s1.e2 false
+
+Abstract Id: DrugDDI.d484
+Sentence Id: DrugDDI.d484.s2
+Patients receiving beta-adrenergic blocking agents along with either oral or intravenous calcium antagonist s should be monitored for possible atrioventricular conduction disturbances, left ventricular failure and hypotension.
+
+DrugDDI.d484.s2.e0 17 45
+drug
+beta-adrenergic blocking agents
+DrugDDI.d484.s2.e1 78 94
+drug
+calcium antagonist
+DrugDDI.d484.s2.new.DISO.e2 124 161
+DISO
+atrioventricular conduction disturbances
+DrugDDI.d484.s2.new.DISO.e3 167 184
+DISO
+ventricular failure
+
+interaction DrugDDI.d484.s2.e0 DrugDDI.d484.s2.e1 true
+
+Abstract Id: DrugDDI.d484
+Sentence Id: DrugDDI.d484.s4
+The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonist s may have additive effects on prolonging atrioventricular conduction time.
+
+DrugDDI.d484.s4.e0 19 47
+drug
+beta-adrenergic blocking agents
+DrugDDI.d484.s4.e1 52 60
+drug
+digitalis
+DrugDDI.d484.s4.e2 64 80
+drug
+calcium antagonist
+
+interaction DrugDDI.d484.s4.e0 DrugDDI.d484.s4.e1 true
+interaction DrugDDI.d484.s4.e0 DrugDDI.d484.s4.e2 false
+interaction DrugDDI.d484.s4.e1 DrugDDI.d484.s4.e2 false
+
+Abstract Id: DrugDDI.d484
+Sentence Id: DrugDDI.d484.s5
+Phenothiazine -related compounds and beta-adrenergic blocking agents may have additive hypotensite effects due to the inhibition of each other@s metabolism.
+
+DrugDDI.d484.s5.e0 0 12
+drug
+Phenothiazine
+DrugDDI.d484.s5.e1 33 61
+drug
+beta-adrenergic blocking agents
+
+interaction DrugDDI.d484.s5.e0 DrugDDI.d484.s5.e1 true
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s0
+No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide , digoxin , warfarin , cimetidine and phenobarbital .
+
+DrugDDI.d112.s0.e0 86 104
+drug
+hydrochlorothiazide
+DrugDDI.d112.s0.e1 106 112
+drug
+digoxin
+DrugDDI.d112.s0.e2 114 121
+drug
+warfarin
+DrugDDI.d112.s0.e3 123 132
+drug
+cimetidine
+DrugDDI.d112.s0.e4 136 148
+drug
+phenobarbital
+
+interaction DrugDDI.d112.s0.e0 DrugDDI.d112.s0.e1 false
+interaction DrugDDI.d112.s0.e0 DrugDDI.d112.s0.e2 false
+interaction DrugDDI.d112.s0.e0 DrugDDI.d112.s0.e3 false
+interaction DrugDDI.d112.s0.e0 DrugDDI.d112.s0.e4 false
+interaction DrugDDI.d112.s0.e1 DrugDDI.d112.s0.e2 false
+interaction DrugDDI.d112.s0.e1 DrugDDI.d112.s0.e3 false
+interaction DrugDDI.d112.s0.e1 DrugDDI.d112.s0.e4 false
+interaction DrugDDI.d112.s0.e2 DrugDDI.d112.s0.e3 false
+interaction DrugDDI.d112.s0.e2 DrugDDI.d112.s0.e4 false
+interaction DrugDDI.d112.s0.e3 DrugDDI.d112.s0.e4 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s1
+Rifampin , an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite .
+
+DrugDDI.d112.s1.e0 0 7
+drug
+Rifampin
+DrugDDI.d112.s1.e1 63 70
+drug
+losartan
+DrugDDI.d112.s1.e2 77 92
+drug
+active metabolite
+
+interaction DrugDDI.d112.s1.e0 DrugDDI.d112.s1.e1 true
+interaction DrugDDI.d112.s1.e0 DrugDDI.d112.s1.e2 false
+interaction DrugDDI.d112.s1.e1 DrugDDI.d112.s1.e2 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s2
+In humans, two inhibitors of P450 3A4 have been studied.
+
+DrugDDI.d112.s2.e0 24 30
+drug
+P450 3A4
+
+
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s3
+Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan , and erythromycin had no clinically significant effect after oral administration.
+
+DrugDDI.d112.s3.e0 0 11
+drug
+Ketoconazole
+DrugDDI.d112.s3.e1 39 46
+drug
+losartan
+DrugDDI.d112.s3.e2 52 67
+drug
+active metabolite
+DrugDDI.d112.s3.e3 100 107
+drug
+losartan
+DrugDDI.d112.s3.e4 112 123
+drug
+erythromycin
+
+interaction DrugDDI.d112.s3.e0 DrugDDI.d112.s3.e1 false
+interaction DrugDDI.d112.s3.e0 DrugDDI.d112.s3.e2 false
+interaction DrugDDI.d112.s3.e0 DrugDDI.d112.s3.e3 false
+interaction DrugDDI.d112.s3.e0 DrugDDI.d112.s3.e4 false
+interaction DrugDDI.d112.s3.e1 DrugDDI.d112.s3.e2 false
+interaction DrugDDI.d112.s3.e1 DrugDDI.d112.s3.e3 false
+interaction DrugDDI.d112.s3.e1 DrugDDI.d112.s3.e4 false
+interaction DrugDDI.d112.s3.e2 DrugDDI.d112.s3.e3 false
+interaction DrugDDI.d112.s3.e2 DrugDDI.d112.s3.e4 false
+interaction DrugDDI.d112.s3.e3 DrugDDI.d112.s3.e4 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s4
+Fluconazole , an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.
+
+DrugDDI.d112.s4.e0 0 10
+drug
+Fluconazole
+DrugDDI.d112.s4.e1 25 28
+drug
+P450
+DrugDDI.d112.s4.e2 42 57
+drug
+active metabolite
+DrugDDI.d112.s4.e3 83 90
+drug
+losartan
+
+interaction DrugDDI.d112.s4.e0 DrugDDI.d112.s4.e1 false
+interaction DrugDDI.d112.s4.e0 DrugDDI.d112.s4.e2 true
+interaction DrugDDI.d112.s4.e0 DrugDDI.d112.s4.e3 false
+interaction DrugDDI.d112.s4.e1 DrugDDI.d112.s4.e2 false
+interaction DrugDDI.d112.s4.e1 DrugDDI.d112.s4.e3 false
+interaction DrugDDI.d112.s4.e2 DrugDDI.d112.s4.e3 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s5
+The pharmacodynamic consequences of concomitant use of losartan and inhibitors of P450 2C9 have not been examined.
+
+DrugDDI.d112.s5.e0 48 55
+drug
+losartan
+DrugDDI.d112.s5.e1 71 74
+drug
+P450
+
+interaction DrugDDI.d112.s5.e0 DrugDDI.d112.s5.e1 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s6
+Subjects who do not metabolize losartan to active metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9 .
+
+DrugDDI.d112.s6.e0 26 33
+drug
+losartan
+DrugDDI.d112.s6.e1 36 51
+drug
+active metabolite
+DrugDDI.d112.s6.e2 93 109
+drug
+cytochrome P450 2C9
+
+interaction DrugDDI.d112.s6.e0 DrugDDI.d112.s6.e1 false
+interaction DrugDDI.d112.s6.e0 DrugDDI.d112.s6.e2 false
+interaction DrugDDI.d112.s6.e1 DrugDDI.d112.s6.e2 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s7
+These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4 .
+
+DrugDDI.d112.s7.e0 35 42
+drug
+losartan
+DrugDDI.d112.s7.e1 48 63
+drug
+active metabolite
+DrugDDI.d112.s7.e2 85 88
+drug
+P450
+DrugDDI.d112.s7.e3 98 104
+drug
+P450 3A4
+
+interaction DrugDDI.d112.s7.e0 DrugDDI.d112.s7.e1 false
+interaction DrugDDI.d112.s7.e0 DrugDDI.d112.s7.e2 true
+interaction DrugDDI.d112.s7.e0 DrugDDI.d112.s7.e3 false
+interaction DrugDDI.d112.s7.e1 DrugDDI.d112.s7.e2 false
+interaction DrugDDI.d112.s7.e1 DrugDDI.d112.s7.e3 false
+interaction DrugDDI.d112.s7.e2 DrugDDI.d112.s7.e3 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s8
+As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone , triamterene , amiloride ), potassium supplement s, or salt substitutes containing potassium may lead to increases in serum potassium.
+
+DrugDDI.d112.s8.e0 11 15
+drug
+drugs
+DrugDDI.d112.s8.e1 25 37
+drug
+angiotensin II
+DrugDDI.d112.s8.e2 67 92
+drug
+potassium-sparing diuretics
+DrugDDI.d112.s8.e3 99 112
+drug
+spironolactone
+DrugDDI.d112.s8.e4 114 124
+drug
+triamterene
+DrugDDI.d112.s8.e5 126 134
+drug
+amiloride
+DrugDDI.d112.s8.e6 137 155
+drug
+potassium supplement
+DrugDDI.d112.s8.e7 160 163
+drug
+salt
+DrugDDI.d112.s8.e8 185 193
+drug
+potassium
+
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e1 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e2 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e3 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e4 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e5 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e6 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e7 false
+interaction DrugDDI.d112.s8.e0 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e2 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e3 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e4 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e5 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e6 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e7 false
+interaction DrugDDI.d112.s8.e1 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e3 false
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e4 false
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e5 false
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e6 true
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e7 false
+interaction DrugDDI.d112.s8.e2 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e3 DrugDDI.d112.s8.e4 false
+interaction DrugDDI.d112.s8.e3 DrugDDI.d112.s8.e5 false
+interaction DrugDDI.d112.s8.e3 DrugDDI.d112.s8.e6 false
+interaction DrugDDI.d112.s8.e3 DrugDDI.d112.s8.e7 true
+interaction DrugDDI.d112.s8.e3 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e4 DrugDDI.d112.s8.e5 false
+interaction DrugDDI.d112.s8.e4 DrugDDI.d112.s8.e6 true
+interaction DrugDDI.d112.s8.e4 DrugDDI.d112.s8.e7 false
+interaction DrugDDI.d112.s8.e4 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e5 DrugDDI.d112.s8.e6 false
+interaction DrugDDI.d112.s8.e5 DrugDDI.d112.s8.e7 true
+interaction DrugDDI.d112.s8.e5 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e6 DrugDDI.d112.s8.e7 false
+interaction DrugDDI.d112.s8.e6 DrugDDI.d112.s8.e8 false
+interaction DrugDDI.d112.s8.e7 DrugDDI.d112.s8.e8 false
+
+Abstract Id: DrugDDI.d112
+Sentence Id: DrugDDI.d112.s9
+As with other antihypertensive agents , the antihypertensive effect of losartan may be blunted by the non-steroidal anti-inflammatory drug indomethacin .
+
+DrugDDI.d112.s9.e0 11 32
+drug
+antihypertensive agents
+DrugDDI.d112.s9.e1 37 52
+drug
+antihypertensive
+DrugDDI.d112.s9.e2 61 68
+drug
+losartan
+DrugDDI.d112.s9.e3 86 119
+drug
+non-steroidal anti-inflammatory drug
+
+interaction DrugDDI.d112.s9.e0 DrugDDI.d112.s9.e1 false
+interaction DrugDDI.d112.s9.e0 DrugDDI.d112.s9.e2 false
+interaction DrugDDI.d112.s9.e0 DrugDDI.d112.s9.e3 false
+interaction DrugDDI.d112.s9.e1 DrugDDI.d112.s9.e2 false
+interaction DrugDDI.d112.s9.e1 DrugDDI.d112.s9.e3 false
+interaction DrugDDI.d112.s9.e2 DrugDDI.d112.s9.e3 true
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s0
+When administered concurrently, the following drugs may interact with beta-adrenergic receptor blocking agents : Anesthetics , general: exaggeration of the hypotension induced by general anesthetics .
+
+DrugDDI.d464.s0.e0 41 45
+drug
+drugs
+DrugDDI.d464.s0.e1 61 97
+drug
+beta-adrenergic receptor blocking agents
+DrugDDI.d464.s0.e2 99 109
+drug
+Anesthetics
+DrugDDI.d464.s0.e3 156 173
+drug
+general anesthetics
+
+interaction DrugDDI.d464.s0.e0 DrugDDI.d464.s0.e1 true
+interaction DrugDDI.d464.s0.e0 DrugDDI.d464.s0.e2 false
+interaction DrugDDI.d464.s0.e0 DrugDDI.d464.s0.e3 false
+interaction DrugDDI.d464.s0.e1 DrugDDI.d464.s0.e2 true
+interaction DrugDDI.d464.s0.e1 DrugDDI.d464.s0.e3 false
+interaction DrugDDI.d464.s0.e2 DrugDDI.d464.s0.e3 false
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s1
+Antidiabetic drugs (oral agents and insulin ): hypoglycemia or hyperglycemia; .
+
+DrugDDI.d464.s1.e0 0 16
+drug
+Antidiabetic drugs
+DrugDDI.d464.s1.e1 31 37
+drug
+insulin
+DrugDDI.d464.s1.new.DISO.e2 40 51
+DISO
+hypoglycemia
+DrugDDI.d464.s1.new.DISO.e3 54 66
+DISO
+hyperglycemia
+
+interaction DrugDDI.d464.s1.e0 DrugDDI.d464.s1.e1 false
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s2
+adjust dosage of antidiabetic drug accordingly.
+
+DrugDDI.d464.s2.e0 14 29
+drug
+antidiabetic drug
+
+
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s3
+Catecholamine-depleting drugs (e.g., reserpine ): additive effect; .
+
+DrugDDI.d464.s3.e0 23 27
+drug
+drugs
+DrugDDI.d464.s3.e1 34 42
+drug
+reserpine
+
+interaction DrugDDI.d464.s3.e0 DrugDDI.d464.s3.e1 false
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s5
+Response to Treatment for Anaphylactic Reaction: While taking beta-blockers , patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+
+DrugDDI.d464.s5.e0 54 66
+drug
+beta-blockers
+
+
+
+Abstract Id: DrugDDI.d464
+Sentence Id: DrugDDI.d464.s6
+Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+DrugDDI.d464.s6.e0 46 56
+drug
+epinephrine
+
+
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s0
+Elevated plasma levels of theophylline have been reported with concomitant quinolone use.
+
+DrugDDI.d485.s0.e0 22 33
+drug
+theophylline
+DrugDDI.d485.s0.e1 65 73
+drug
+quinolone
+
+interaction DrugDDI.d485.s0.e0 DrugDDI.d485.s0.e1 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s1
+There have been reports of theophylline -related side effects in patients on concomitant therapy with quinolones and theophylline .
+
+DrugDDI.d485.s1.e0 22 33
+drug
+theophylline
+DrugDDI.d485.s1.e1 87 96
+drug
+quinolones
+DrugDDI.d485.s1.e2 100 111
+drug
+theophylline
+
+interaction DrugDDI.d485.s1.e0 DrugDDI.d485.s1.e1 false
+interaction DrugDDI.d485.s1.e0 DrugDDI.d485.s1.e2 false
+interaction DrugDDI.d485.s1.e1 DrugDDI.d485.s1.e2 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s2
+Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted, as required.
+
+DrugDDI.d485.s2.e0 22 33
+drug
+theophylline
+
+
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s3
+Quinolones have been shown to interfere with the metabolism of caffeine .
+
+DrugDDI.d485.s3.e0 0 9
+drug
+Quinolones
+DrugDDI.d485.s3.e1 53 60
+drug
+caffeine
+
+interaction DrugDDI.d485.s3.e0 DrugDDI.d485.s3.e1 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s4
+This may lead to reduced clearance of caffeine and the prolongation of its plasma half-life.
+
+DrugDDI.d485.s4.e0 31 38
+drug
+caffeine
+
+
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s5
+Quinolones , including nalidixic acid , may enhance the effects of the oral anticoagulant warfarin or its derivatives .
+
+DrugDDI.d485.s5.e0 0 9
+drug
+Quinolones
+DrugDDI.d485.s5.e1 20 32
+drug
+nalidixic acid
+DrugDDI.d485.s5.e2 59 83
+drug
+oral anticoagulant warfarin
+DrugDDI.d485.s5.e3 89 99
+drug
+derivatives
+
+interaction DrugDDI.d485.s5.e0 DrugDDI.d485.s5.e1 false
+interaction DrugDDI.d485.s5.e0 DrugDDI.d485.s5.e2 true
+interaction DrugDDI.d485.s5.e0 DrugDDI.d485.s5.e3 false
+interaction DrugDDI.d485.s5.e1 DrugDDI.d485.s5.e2 false
+interaction DrugDDI.d485.s5.e1 DrugDDI.d485.s5.e3 true
+interaction DrugDDI.d485.s5.e2 DrugDDI.d485.s5.e3 false
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s7
+Nitrofurantoin interferes with the therapeutic action of nalidixic acid .
+
+DrugDDI.d485.s7.e0 0 13
+drug
+Nitrofurantoin
+DrugDDI.d485.s7.e1 50 62
+drug
+nalidixic acid
+
+interaction DrugDDI.d485.s7.e0 DrugDDI.d485.s7.e1 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s8
+Antacids containing magnesium , aluminum, or calcium ; .
+
+DrugDDI.d485.s8.e0 0 7
+drug
+Antacids
+DrugDDI.d485.s8.e1 18 26
+drug
+magnesium
+DrugDDI.d485.s8.e2 39 45
+drug
+calcium
+
+interaction DrugDDI.d485.s8.e0 DrugDDI.d485.s8.e1 false
+interaction DrugDDI.d485.s8.e0 DrugDDI.d485.s8.e2 false
+interaction DrugDDI.d485.s8.e1 DrugDDI.d485.s8.e2 false
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s9
+sucralfate or divalent or trivalent cations such as iron ; .
+
+DrugDDI.d485.s9.e0 0 9
+drug
+sucralfate
+DrugDDI.d485.s9.e1 31 37
+drug
+cations
+DrugDDI.d485.s9.e2 44 47
+drug
+iron
+
+interaction DrugDDI.d485.s9.e0 DrugDDI.d485.s9.e1 false
+interaction DrugDDI.d485.s9.e0 DrugDDI.d485.s9.e2 false
+interaction DrugDDI.d485.s9.e1 DrugDDI.d485.s9.e2 false
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s10
+multivitamins containing zinc ; .
+
+DrugDDI.d485.s10.e0 0 12
+drug
+multivitamins
+DrugDDI.d485.s10.e1 23 26
+drug
+zinc
+
+interaction DrugDDI.d485.s10.e0 DrugDDI.d485.s10.e1 false
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s11
+and Videx@, ( Didanosine ), chewable/ buffer ed tablets or the pediatric powder for oral solution may substantially interfere with the absorption of quinolones , resulting in systemic levels considerably lower than desired.
+
+DrugDDI.d485.s11.e0 11 20
+drug
+Didanosine
+DrugDDI.d485.s11.e1 32 37
+drug
+buffer
+DrugDDI.d485.s11.e2 52 60
+drug
+pediatric
+DrugDDI.d485.s11.e3 126 135
+drug
+quinolones
+
+interaction DrugDDI.d485.s11.e0 DrugDDI.d485.s11.e1 false
+interaction DrugDDI.d485.s11.e0 DrugDDI.d485.s11.e2 false
+interaction DrugDDI.d485.s11.e0 DrugDDI.d485.s11.e3 true
+interaction DrugDDI.d485.s11.e1 DrugDDI.d485.s11.e2 false
+interaction DrugDDI.d485.s11.e1 DrugDDI.d485.s11.e3 true
+interaction DrugDDI.d485.s11.e2 DrugDDI.d485.s11.e3 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s12
+These agents should not be taken within the two hour period before or within the two-hour period after nalidixic acid administration.
+
+DrugDDI.d485.s12.e0 85 97
+drug
+nalidixic acid
+
+
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s13
+Elevated serum levels of cyclosporine have been reported with the concomitant use of some quinolones and cyclosporine .
+
+DrugDDI.d485.s13.e0 21 32
+drug
+cyclosporine
+DrugDDI.d485.s13.e1 76 85
+drug
+quinolones
+DrugDDI.d485.s13.e2 89 100
+drug
+cyclosporine
+
+interaction DrugDDI.d485.s13.e0 DrugDDI.d485.s13.e1 false
+interaction DrugDDI.d485.s13.e0 DrugDDI.d485.s13.e2 false
+interaction DrugDDI.d485.s13.e1 DrugDDI.d485.s13.e2 true
+
+Abstract Id: DrugDDI.d485
+Sentence Id: DrugDDI.d485.s14
+Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.
+
+DrugDDI.d485.s14.e0 10 21
+drug
+cyclosporine
+DrugDDI.d485.s14.e1 64 75
+drug
+cyclosporine
+DrugDDI.d485.s14.e2 106 110
+drug
+drugs
+
+interaction DrugDDI.d485.s14.e0 DrugDDI.d485.s14.e1 false
+interaction DrugDDI.d485.s14.e0 DrugDDI.d485.s14.e2 false
+interaction DrugDDI.d485.s14.e1 DrugDDI.d485.s14.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s0
+In vitro drug metabolism studies indicate that Starlix is predominantly metabolized by the cytochrome P450 isozyme CYP2C9 (70%) and to a lesser extent CYP3A4 (30%).
+
+DrugDDI.d249.s0.e0 40 46
+drug
+Starlix
+DrugDDI.d249.s0.e1 78 91
+drug
+cytochrome P450
+DrugDDI.d249.s0.e2 128 133
+drug
+CYP3A4
+
+interaction DrugDDI.d249.s0.e0 DrugDDI.d249.s0.e1 true
+interaction DrugDDI.d249.s0.e0 DrugDDI.d249.s0.e2 false
+interaction DrugDDI.d249.s0.e1 DrugDDI.d249.s0.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s1
+Starlix is a potential inhibitor of the CYP2C9 isoenzyme in vivo as indicated by its ability to inhibit the in vitro metabolism of tolbutamide .
+
+DrugDDI.d249.s1.e0 0 6
+drug
+Starlix
+DrugDDI.d249.s1.e1 33 47
+drug
+CYP2C9 isoenzyme
+DrugDDI.d249.s1.e2 108 118
+drug
+tolbutamide
+
+interaction DrugDDI.d249.s1.e0 DrugDDI.d249.s1.e1 true
+interaction DrugDDI.d249.s1.e0 DrugDDI.d249.s1.e2 false
+interaction DrugDDI.d249.s1.e1 DrugDDI.d249.s1.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s2
+Inhibition of CYP3A4 metabolic reactions was not detected in in vitro experiments.
+
+DrugDDI.d249.s2.e0 12 17
+drug
+CYP3A4
+
+
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s3
+Glyburide : In a randomized, multiple-dose crossover study, patients with Type 2 diabetes were administered 120 mg Starlix three times a day before meals for 1 day in combination with glyburide 10 mg daily.
+
+DrugDDI.d249.s3.e0 0 8
+drug
+Glyburide
+DrugDDI.d249.s3.e1 98 104
+drug
+Starlix
+DrugDDI.d249.s3.e2 154 162
+drug
+glyburide
+
+interaction DrugDDI.d249.s3.e0 DrugDDI.d249.s3.e1 false
+interaction DrugDDI.d249.s3.e0 DrugDDI.d249.s3.e2 false
+interaction DrugDDI.d249.s3.e1 DrugDDI.d249.s3.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s5
+Metformin : When Starlix 120 mg three times daily before meals was administered in combination with metformin 500 mg three times daily to patients with Type 2 diabetes, there were no clinically relevant changes in the pharmacokinetics of either agent.
+
+DrugDDI.d249.s5.e0 0 8
+drug
+Metformin
+DrugDDI.d249.s5.e1 14 20
+drug
+Starlix
+DrugDDI.d249.s5.e2 84 97
+drug
+metformin 500 mg
+DrugDDI.d249.s5.new.DISO.e3 127 139
+DISO
+Type 2 diabetes
+
+interaction DrugDDI.d249.s5.e0 DrugDDI.d249.s5.e1 false
+interaction DrugDDI.d249.s5.e0 DrugDDI.d249.s5.e2 false
+interaction DrugDDI.d249.s5.e1 DrugDDI.d249.s5.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s6
+Digoxin : When Starlix 120 mg before meals was administered in combination with a single 1-mg dose of digoxin to healthy volunteers, there were no clinically relevant changes in the pharmacokinetics of either agent.
+
+DrugDDI.d249.s6.e0 0 6
+drug
+Digoxin
+DrugDDI.d249.s6.e1 12 18
+drug
+Starlix
+DrugDDI.d249.s6.e2 84 90
+drug
+digoxin
+
+interaction DrugDDI.d249.s6.e0 DrugDDI.d249.s6.e1 false
+interaction DrugDDI.d249.s6.e0 DrugDDI.d249.s6.e2 false
+interaction DrugDDI.d249.s6.e1 DrugDDI.d249.s6.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s7
+Warfarin : When healthy subjects were administered Starlix 120 mg three times daily before meals for four days in combination with a single dose of warfarin 30 mg on day 2, there were no alterations in the pharmacokinetics of either agent.
+
+DrugDDI.d249.s7.e0 0 7
+drug
+Warfarin
+DrugDDI.d249.s7.e1 44 50
+drug
+Starlix
+DrugDDI.d249.s7.e2 123 130
+drug
+warfarin
+
+interaction DrugDDI.d249.s7.e0 DrugDDI.d249.s7.e1 false
+interaction DrugDDI.d249.s7.e0 DrugDDI.d249.s7.e2 false
+interaction DrugDDI.d249.s7.e1 DrugDDI.d249.s7.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s9
+Diclofenac : Administration of morning and lunch doses of Starlix 120 mg in combination with a single 75-mg dose of diclofenac in healthy volunteers resulted in no significant changes to the pharmacokinetics of either agent.
+
+DrugDDI.d249.s9.e0 0 9
+drug
+Diclofenac
+DrugDDI.d249.s9.e1 49 55
+drug
+Starlix
+DrugDDI.d249.s9.e2 96 105
+drug
+diclofenac
+
+interaction DrugDDI.d249.s9.e0 DrugDDI.d249.s9.e1 false
+interaction DrugDDI.d249.s9.e0 DrugDDI.d249.s9.e2 false
+interaction DrugDDI.d249.s9.e1 DrugDDI.d249.s9.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s10
+Nateglinide is highly bound to plasma proteins (98%), mainly albumin .
+
+DrugDDI.d249.s10.e0 0 10
+drug
+Nateglinide
+DrugDDI.d249.s10.e1 26 39
+drug
+plasma proteins
+DrugDDI.d249.s10.e2 52 58
+drug
+albumin
+
+interaction DrugDDI.d249.s10.e0 DrugDDI.d249.s10.e1 false
+interaction DrugDDI.d249.s10.e0 DrugDDI.d249.s10.e2 false
+interaction DrugDDI.d249.s10.e1 DrugDDI.d249.s10.e2 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s11
+In vitro displacement studies with highly protein -bound drugs such as furosemide , propranolol , captopril , nicardipine , pravastatin , glyburide , warfarin , phenytoin , acetylsalicylic acid , tolbutamide , and metformin showed no influence on the extent of nateglinide protein binding.
+
+DrugDDI.d249.s11.e0 36 42
+drug
+protein
+DrugDDI.d249.s11.e1 60 69
+drug
+furosemide
+DrugDDI.d249.s11.e2 71 81
+drug
+propranolol
+DrugDDI.d249.s11.e3 83 91
+drug
+captopril
+DrugDDI.d249.s11.e4 93 103
+drug
+nicardipine
+DrugDDI.d249.s11.e5 105 115
+drug
+pravastatin
+DrugDDI.d249.s11.e6 117 125
+drug
+glyburide
+DrugDDI.d249.s11.e7 127 134
+drug
+warfarin
+DrugDDI.d249.s11.e8 136 144
+drug
+phenytoin
+DrugDDI.d249.s11.e9 146 164
+drug
+acetylsalicylic acid
+DrugDDI.d249.s11.e10 166 176
+drug
+tolbutamide
+DrugDDI.d249.s11.e11 181 189
+drug
+metformin
+DrugDDI.d249.s11.e12 220 230
+drug
+nateglinide
+
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e1 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e2 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e3 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e4 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e5 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e0 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e2 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e3 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e4 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e5 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e1 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e3 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e4 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e5 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e2 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e4 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e5 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e3 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e5 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e4 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e6 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e5 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e7 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e6 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e7 DrugDDI.d249.s11.e8 false
+interaction DrugDDI.d249.s11.e7 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e7 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e7 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e7 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e8 DrugDDI.d249.s11.e9 false
+interaction DrugDDI.d249.s11.e8 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e8 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e8 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e9 DrugDDI.d249.s11.e10 false
+interaction DrugDDI.d249.s11.e9 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e9 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e10 DrugDDI.d249.s11.e11 false
+interaction DrugDDI.d249.s11.e10 DrugDDI.d249.s11.e12 false
+interaction DrugDDI.d249.s11.e11 DrugDDI.d249.s11.e12 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s12
+Similarly, nateglinide had no influence on the serum protein binding of propranolol , glyburide , nicardipine , warfarin , phenytoin , acetylsalicylic acid , and tolbutamide in vitro .
+
+DrugDDI.d249.s12.e0 10 20
+drug
+nateglinide
+DrugDDI.d249.s12.e1 45 58
+drug
+protein binding
+DrugDDI.d249.s12.e2 61 71
+drug
+propranolol
+DrugDDI.d249.s12.e3 73 81
+drug
+glyburide
+DrugDDI.d249.s12.e4 83 93
+drug
+nicardipine
+DrugDDI.d249.s12.e5 95 102
+drug
+warfarin
+DrugDDI.d249.s12.e6 104 112
+drug
+phenytoin
+DrugDDI.d249.s12.e7 114 132
+drug
+acetylsalicylic acid
+DrugDDI.d249.s12.e8 137 147
+drug
+tolbutamide
+
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e1 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e2 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e3 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e4 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e5 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e0 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e2 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e3 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e4 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e5 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e1 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e3 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e4 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e5 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e2 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e3 DrugDDI.d249.s12.e4 false
+interaction DrugDDI.d249.s12.e3 DrugDDI.d249.s12.e5 false
+interaction DrugDDI.d249.s12.e3 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e3 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e3 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e4 DrugDDI.d249.s12.e5 false
+interaction DrugDDI.d249.s12.e4 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e4 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e4 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e5 DrugDDI.d249.s12.e6 false
+interaction DrugDDI.d249.s12.e5 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e5 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e6 DrugDDI.d249.s12.e7 false
+interaction DrugDDI.d249.s12.e6 DrugDDI.d249.s12.e8 false
+interaction DrugDDI.d249.s12.e7 DrugDDI.d249.s12.e8 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s14
+Certain drugs , including nonsteroidal anti-inflammatory agents ( NSAIDs ), salicylates , monoamine oxidase inhibitors , and non-selective beta-adrenergic-blocking agents may potentiate the hypoglycemic action of Starlix and other oral antidiabetic drugs .
+
+DrugDDI.d249.s14.e0 7 11
+drug
+drugs
+DrugDDI.d249.s14.e1 22 56
+drug
+nonsteroidal anti-inflammatory agents
+DrugDDI.d249.s14.e2 58 63
+drug
+NSAIDs
+DrugDDI.d249.s14.e3 66 76
+drug
+salicylates
+DrugDDI.d249.s14.e4 78 103
+drug
+monoamine oxidase inhibitors
+DrugDDI.d249.s14.e5 108 150
+drug
+non-selective beta-adrenergic-blocking agents
+DrugDDI.d249.s14.e6 167 184
+drug
+hypoglycemic action
+DrugDDI.d249.s14.e7 187 193
+drug
+Starlix
+DrugDDI.d249.s14.e8 206 222
+drug
+antidiabetic drugs
+
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e1 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e2 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e3 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e4 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e5 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e0 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e2 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e3 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e4 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e5 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e1 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e3 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e4 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e5 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e2 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e3 DrugDDI.d249.s14.e4 false
+interaction DrugDDI.d249.s14.e3 DrugDDI.d249.s14.e5 false
+interaction DrugDDI.d249.s14.e3 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e3 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e3 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e4 DrugDDI.d249.s14.e5 false
+interaction DrugDDI.d249.s14.e4 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e4 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e4 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e5 DrugDDI.d249.s14.e6 false
+interaction DrugDDI.d249.s14.e5 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e5 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e6 DrugDDI.d249.s14.e7 false
+interaction DrugDDI.d249.s14.e6 DrugDDI.d249.s14.e8 false
+interaction DrugDDI.d249.s14.e7 DrugDDI.d249.s14.e8 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s15
+Certain drugs including thiazides , corticosteroids , thyroid products, and sympathomimetics may reduce the hypoglycemic action of Starlix and other oral antidiabetic drugs .
+
+DrugDDI.d249.s15.e0 7 11
+drug
+drugs
+DrugDDI.d249.s15.e1 21 29
+drug
+thiazides
+DrugDDI.d249.s15.e2 31 45
+drug
+corticosteroids
+DrugDDI.d249.s15.e3 47 53
+drug
+thyroid
+DrugDDI.d249.s15.e4 66 81
+drug
+sympathomimetics
+DrugDDI.d249.s15.e5 94 111
+drug
+hypoglycemic action
+DrugDDI.d249.s15.e6 114 120
+drug
+Starlix
+DrugDDI.d249.s15.e7 133 149
+drug
+antidiabetic drugs
+
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e1 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e2 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e3 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e4 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e5 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e0 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e2 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e3 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e4 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e5 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e1 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e2 DrugDDI.d249.s15.e3 false
+interaction DrugDDI.d249.s15.e2 DrugDDI.d249.s15.e4 false
+interaction DrugDDI.d249.s15.e2 DrugDDI.d249.s15.e5 false
+interaction DrugDDI.d249.s15.e2 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e2 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e3 DrugDDI.d249.s15.e4 false
+interaction DrugDDI.d249.s15.e3 DrugDDI.d249.s15.e5 false
+interaction DrugDDI.d249.s15.e3 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e3 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e4 DrugDDI.d249.s15.e5 false
+interaction DrugDDI.d249.s15.e4 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e4 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e5 DrugDDI.d249.s15.e6 false
+interaction DrugDDI.d249.s15.e5 DrugDDI.d249.s15.e7 false
+interaction DrugDDI.d249.s15.e6 DrugDDI.d249.s15.e7 false
+
+Abstract Id: DrugDDI.d249
+Sentence Id: DrugDDI.d249.s16
+When these drugs are administered to or withdrawn from patients receiving Starlix , the patient should be observed closely for changes in glycemic control.
+
+DrugDDI.d249.s16.e0 9 13
+drug
+drugs
+DrugDDI.d249.s16.e1 63 69
+drug
+Starlix
+
+interaction DrugDDI.d249.s16.e0 DrugDDI.d249.s16.e1 false
+
+Abstract Id: DrugDDI.d312
+Sentence Id: DrugDDI.d312.s0
+In clinical studies, Tilade has been co-administered with other anti-asthma medications , including inhaled and oral bronchodilators , and inhaled corticosteroids , with no evidence of increased frequency of adverse events or laboratory abnormalities.
+
+DrugDDI.d312.s0.e0 18 23
+drug
+Tilade
+DrugDDI.d312.s0.e1 55 76
+drug
+anti-asthma medications
+DrugDDI.d312.s0.e2 101 115
+drug
+bronchodilators
+DrugDDI.d312.s0.e3 127 141
+drug
+corticosteroids
+
+interaction DrugDDI.d312.s0.e0 DrugDDI.d312.s0.e1 false
+interaction DrugDDI.d312.s0.e0 DrugDDI.d312.s0.e2 false
+interaction DrugDDI.d312.s0.e0 DrugDDI.d312.s0.e3 false
+interaction DrugDDI.d312.s0.e1 DrugDDI.d312.s0.e2 false
+interaction DrugDDI.d312.s0.e1 DrugDDI.d312.s0.e3 false
+interaction DrugDDI.d312.s0.e2 DrugDDI.d312.s0.e3 false
+
+Abstract Id: DrugDDI.d336
+Sentence Id: DrugDDI.d336.s0
+Caution should be taken in concurrent or serial use of other neurotoxic and/ or nephrotoxic drugs because of possible enhancement of the nephrotoxicity and/or ototoxicity of neomycin .
+
+DrugDDI.d336.s0.e0 77 81
+drug
+drugs
+DrugDDI.d336.s0.new.DISO.e2 115 128
+DISO
+nephrotoxicity
+DrugDDI.d336.s0.e1 148 155
+drug
+neomycin
+
+interaction DrugDDI.d336.s0.e0 DrugDDI.d336.s0.e1 true
+
+Abstract Id: DrugDDI.d336
+Sentence Id: DrugDDI.d336.s1
+Caution should also be taken in concurrent or serial use of other aminoglycosides and polymyxins because they may enhance neomycin@s nephrotoxicity and/or ototoxicity and potentiate neomycin sulfate@s neuromuscular blocking effects.
+
+DrugDDI.d336.s1.e0 54 68
+drug
+aminoglycosides
+DrugDDI.d336.s1.e1 72 81
+drug
+polymyxins
+DrugDDI.d336.s1.new.DISO.e3 113 126
+DISO
+nephrotoxicity
+DrugDDI.d336.s1.e2 157 164
+drug
+neomycin
+
+interaction DrugDDI.d336.s1.e0 DrugDDI.d336.s1.e1 true
+interaction DrugDDI.d336.s1.e0 DrugDDI.d336.s1.e2 false
+interaction DrugDDI.d336.s1.e1 DrugDDI.d336.s1.e2 false
+
+Abstract Id: DrugDDI.d336
+Sentence Id: DrugDDI.d336.s2
+Oral neomycin inhibits the gastrointestinal absorption of penicillin V , oral vitamin B-12 , methotrexate and 5-fluorouracil .
+
+DrugDDI.d336.s2.e0 0 11
+drug
+Oral neomycin
+DrugDDI.d336.s2.e1 51 61
+drug
+penicillin V
+DrugDDI.d336.s2.e2 63 77
+drug
+oral vitamin B-12
+DrugDDI.d336.s2.e3 79 90
+drug
+methotrexate
+DrugDDI.d336.s2.e4 94 107
+drug
+5-fluorouracil
+
+interaction DrugDDI.d336.s2.e0 DrugDDI.d336.s2.e1 true
+interaction DrugDDI.d336.s2.e0 DrugDDI.d336.s2.e2 false
+interaction DrugDDI.d336.s2.e0 DrugDDI.d336.s2.e3 true
+interaction DrugDDI.d336.s2.e0 DrugDDI.d336.s2.e4 false
+interaction DrugDDI.d336.s2.e1 DrugDDI.d336.s2.e2 false
+interaction DrugDDI.d336.s2.e1 DrugDDI.d336.s2.e3 false
+interaction DrugDDI.d336.s2.e1 DrugDDI.d336.s2.e4 false
+interaction DrugDDI.d336.s2.e2 DrugDDI.d336.s2.e3 false
+interaction DrugDDI.d336.s2.e2 DrugDDI.d336.s2.e4 false
+interaction DrugDDI.d336.s2.e3 DrugDDI.d336.s2.e4 false
+
+Abstract Id: DrugDDI.d336
+Sentence Id: DrugDDI.d336.s3
+The gastrointestinal absorption of digoxin also appears to be inhibited.
+
+DrugDDI.d336.s3.e0 31 37
+drug
+digoxin
+
+
+
+Abstract Id: DrugDDI.d336
+Sentence Id: DrugDDI.d336.s5
+Oral neomycin sulfate may enhance the effect of coumarin in anticoagulants by decreasing vitamin K availability.
+
+DrugDDI.d336.s5.e0 0 11
+drug
+Oral neomycin
+DrugDDI.d336.s5.e1 40 47
+drug
+coumarin
+DrugDDI.d336.s5.e2 50 63
+drug
+anticoagulants
+
+interaction DrugDDI.d336.s5.e0 DrugDDI.d336.s5.e1 true
+interaction DrugDDI.d336.s5.e0 DrugDDI.d336.s5.e2 false
+interaction DrugDDI.d336.s5.e1 DrugDDI.d336.s5.e2 false
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s0
+Beta-adrenergic Blocking Agents : Experience in over 1400 patients in a non-comparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agent s is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension or exacerbation of angina.
+
+DrugDDI.d266.s0.e0 0 28
+drug
+Beta-adrenergic Blocking Agents
+DrugDDI.d266.s0.e1 128 137
+drug
+nifedipine
+DrugDDI.d266.s0.e2 141 158
+drug
+beta-blocking agent
+DrugDDI.d266.s0.new.DISO.e3 280 301
+DISO
+congestive heart failure
+
+interaction DrugDDI.d266.s0.e0 DrugDDI.d266.s0.e1 false
+interaction DrugDDI.d266.s0.e0 DrugDDI.d266.s0.e2 false
+interaction DrugDDI.d266.s0.e1 DrugDDI.d266.s0.e2 true
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s1
+Long Acting Nitrates : Nifedipine may be safely co-administered with nitrates , but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+
+DrugDDI.d266.s1.e0 10 17
+drug
+Nitrates
+DrugDDI.d266.s1.e1 19 28
+drug
+Nifedipine
+DrugDDI.d266.s1.e2 59 66
+drug
+nitrates
+
+interaction DrugDDI.d266.s1.e0 DrugDDI.d266.s1.e1 false
+interaction DrugDDI.d266.s1.e0 DrugDDI.d266.s1.e2 false
+interaction DrugDDI.d266.s1.e1 DrugDDI.d266.s1.e2 false
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s2
+Digitalis : Immediate Release Capsules: Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and nifedipine , it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
+
+DrugDDI.d266.s2.e0 0 8
+drug
+Digitalis
+DrugDDI.d266.s2.e1 141 147
+drug
+digoxin
+DrugDDI.d266.s2.e2 151 160
+drug
+nifedipine
+DrugDDI.d266.s2.e3 246 255
+drug
+nifedipine
+
+interaction DrugDDI.d266.s2.e0 DrugDDI.d266.s2.e1 false
+interaction DrugDDI.d266.s2.e0 DrugDDI.d266.s2.e2 false
+interaction DrugDDI.d266.s2.e0 DrugDDI.d266.s2.e3 false
+interaction DrugDDI.d266.s2.e1 DrugDDI.d266.s2.e2 true
+interaction DrugDDI.d266.s2.e1 DrugDDI.d266.s2.e3 false
+interaction DrugDDI.d266.s2.e2 DrugDDI.d266.s2.e3 false
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s3
+Extended Release Tablets: Administration of nifedipine with digoxin increased digoxin levels in 9 of 12 normal volunteers.
+
+DrugDDI.d266.s3.e0 39 48
+drug
+nifedipine
+DrugDDI.d266.s3.e1 53 59
+drug
+digoxin
+
+interaction DrugDDI.d266.s3.e0 DrugDDI.d266.s3.e1 true
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s7
+Since there have been isolated reports of patients with elevated digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
+
+DrugDDI.d266.s7.e0 153 162
+drug
+nifedipine
+
+
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s8
+Quinidine : Immediate Release Capsules: There have been rare reports of an interaction between quinidine and nifedipine (with a decreased plasma level of quinidine ).
+
+DrugDDI.d266.s8.e0 0 8
+drug
+Quinidine
+DrugDDI.d266.s8.e1 81 89
+drug
+quinidine
+DrugDDI.d266.s8.e2 93 102
+drug
+nifedipine
+DrugDDI.d266.s8.e3 131 139
+drug
+quinidine
+
+interaction DrugDDI.d266.s8.e0 DrugDDI.d266.s8.e1 false
+interaction DrugDDI.d266.s8.e0 DrugDDI.d266.s8.e2 false
+interaction DrugDDI.d266.s8.e0 DrugDDI.d266.s8.e3 false
+interaction DrugDDI.d266.s8.e1 DrugDDI.d266.s8.e2 true
+interaction DrugDDI.d266.s8.e1 DrugDDI.d266.s8.e3 false
+interaction DrugDDI.d266.s8.e2 DrugDDI.d266.s8.e3 false
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s9
+Coumarin Anticoagulant s: There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulant s to whom nifedipine was administered.
+
+DrugDDI.d266.s9.e0 0 20
+drug
+Coumarin Anticoagulant
+DrugDDI.d266.s9.e1 89 109
+drug
+coumarin anticoagulant
+DrugDDI.d266.s9.e2 117 126
+drug
+nifedipine
+
+interaction DrugDDI.d266.s9.e0 DrugDDI.d266.s9.e1 false
+interaction DrugDDI.d266.s9.e0 DrugDDI.d266.s9.e2 false
+interaction DrugDDI.d266.s9.e1 DrugDDI.d266.s9.e2 true
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s10
+However, the relationship to nifedipine therapy is uncertain.
+
+DrugDDI.d266.s10.e0 25 34
+drug
+nifedipine
+
+
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s11
+Cimetidine : A study in 6 healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%) after a 1 week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day.
+
+DrugDDI.d266.s11.e0 0 9
+drug
+Cimetidine
+DrugDDI.d266.s11.e1 71 80
+drug
+nifedipine
+DrugDDI.d266.s11.e2 145 154
+drug
+cimetidine
+DrugDDI.d266.s11.e3 172 181
+drug
+nifedipine
+
+interaction DrugDDI.d266.s11.e0 DrugDDI.d266.s11.e1 false
+interaction DrugDDI.d266.s11.e0 DrugDDI.d266.s11.e2 false
+interaction DrugDDI.d266.s11.e0 DrugDDI.d266.s11.e3 false
+interaction DrugDDI.d266.s11.e1 DrugDDI.d266.s11.e2 false
+interaction DrugDDI.d266.s11.e1 DrugDDI.d266.s11.e3 false
+interaction DrugDDI.d266.s11.e2 DrugDDI.d266.s11.e3 true
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s12
+Ranitidine produced smaller, non-significant increases.
+
+DrugDDI.d266.s12.e0 0 9
+drug
+Ranitidine
+
+
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s13
+The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450 , the enzyme system probably responsible for the first-pass metabolism of nifedipine .
+
+DrugDDI.d266.s13.e0 44 53
+drug
+cimetidine
+DrugDDI.d266.s13.e1 63 77
+drug
+cytochrome P-450
+DrugDDI.d266.s13.e2 141 150
+drug
+nifedipine
+
+interaction DrugDDI.d266.s13.e0 DrugDDI.d266.s13.e1 false
+interaction DrugDDI.d266.s13.e0 DrugDDI.d266.s13.e2 true
+interaction DrugDDI.d266.s13.e1 DrugDDI.d266.s13.e2 false
+
+Abstract Id: DrugDDI.d266
+Sentence Id: DrugDDI.d266.s14
+If nifedipine therapy is initiated in a patient currently receiving cimetidine , cautious titration is advised.
+
+DrugDDI.d266.s14.e0 2 11
+drug
+nifedipine
+DrugDDI.d266.s14.e1 58 67
+drug
+cimetidine
+
+interaction DrugDDI.d266.s14.e0 DrugDDI.d266.s14.e1 true
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s0
+A 30 to 45% increase in AUC and Cmax of nisoldipine was observed with concomitant administration of cimetidine 400 mg twice daily.
+
+DrugDDI.d234.s0.e0 30 40
+drug
+nisoldipine
+DrugDDI.d234.s0.e1 83 97
+drug
+cimetidine 400 mg
+
+interaction DrugDDI.d234.s0.e0 DrugDDI.d234.s0.e1 true
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s1
+Ranitidine 150 mg twice daily did not interact significantly with nisoldipine (AUC was decreased by 15-20 %).
+
+DrugDDI.d234.s1.e0 0 14
+drug
+Ranitidine 150 mg
+DrugDDI.d234.s1.e1 56 66
+drug
+nisoldipine
+
+interaction DrugDDI.d234.s1.e0 DrugDDI.d234.s1.e1 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s2
+No pharmacodynamic effects of either histamine H2 receptor antagonist were observed.
+
+DrugDDI.d234.s2.e0 32 60
+drug
+histamine H2 receptor antagonist
+
+
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s3
+Coadministration of phenytoin with 40 mg SULAR tablets in epileptic patients lowered the nisoldipine plasma concentrations to undetectable levels.
+
+DrugDDI.d234.s3.e0 18 26
+drug
+phenytoin
+DrugDDI.d234.s3.e1 35 39
+drug
+SULAR
+DrugDDI.d234.s3.e2 76 86
+drug
+nisoldipine
+
+interaction DrugDDI.d234.s3.e0 DrugDDI.d234.s3.e1 true
+interaction DrugDDI.d234.s3.e0 DrugDDI.d234.s3.e2 false
+interaction DrugDDI.d234.s3.e1 DrugDDI.d234.s3.e2 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s4
+Coadministration of SULAR with phenytoin or any known CYP3A4 inducer should be avoided and alternative antihypertensive therapy should be considered.
+
+DrugDDI.d234.s4.e0 18 22
+drug
+SULAR
+DrugDDI.d234.s4.e1 27 35
+drug
+phenytoin
+DrugDDI.d234.s4.e2 46 51
+drug
+CYP3A4
+DrugDDI.d234.s4.e3 88 103
+drug
+antihypertensive
+
+interaction DrugDDI.d234.s4.e0 DrugDDI.d234.s4.e1 true
+interaction DrugDDI.d234.s4.e0 DrugDDI.d234.s4.e2 false
+interaction DrugDDI.d234.s4.e0 DrugDDI.d234.s4.e3 false
+interaction DrugDDI.d234.s4.e1 DrugDDI.d234.s4.e2 false
+interaction DrugDDI.d234.s4.e1 DrugDDI.d234.s4.e3 false
+interaction DrugDDI.d234.s4.e2 DrugDDI.d234.s4.e3 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s5
+Pharmacokinetic interactions between nisoldipine and beta-blockers ( atenolol , propranolol ) were variable and not significant.
+
+DrugDDI.d234.s5.e0 34 44
+drug
+nisoldipine
+DrugDDI.d234.s5.e1 48 60
+drug
+beta-blockers
+DrugDDI.d234.s5.e2 62 69
+drug
+atenolol
+DrugDDI.d234.s5.e3 71 81
+drug
+propranolol
+
+interaction DrugDDI.d234.s5.e0 DrugDDI.d234.s5.e1 true
+interaction DrugDDI.d234.s5.e0 DrugDDI.d234.s5.e2 false
+interaction DrugDDI.d234.s5.e0 DrugDDI.d234.s5.e3 true
+interaction DrugDDI.d234.s5.e1 DrugDDI.d234.s5.e2 false
+interaction DrugDDI.d234.s5.e1 DrugDDI.d234.s5.e3 false
+interaction DrugDDI.d234.s5.e2 DrugDDI.d234.s5.e3 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s6
+Propranolol attenuated the heart rate increase following administration of immediate release nisoldipine .
+
+DrugDDI.d234.s6.e0 0 10
+drug
+Propranolol
+DrugDDI.d234.s6.e1 82 92
+drug
+nisoldipine
+
+interaction DrugDDI.d234.s6.e0 DrugDDI.d234.s6.e1 true
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s7
+The blood pressure effect of SULAR tended to be greater in patients on atenolol than in patients on no other antihypertensive therapy.
+
+DrugDDI.d234.s7.e0 24 28
+drug
+SULAR
+DrugDDI.d234.s7.e1 58 65
+drug
+atenolol
+DrugDDI.d234.s7.e2 89 104
+drug
+antihypertensive
+
+interaction DrugDDI.d234.s7.e0 DrugDDI.d234.s7.e1 true
+interaction DrugDDI.d234.s7.e0 DrugDDI.d234.s7.e2 false
+interaction DrugDDI.d234.s7.e1 DrugDDI.d234.s7.e2 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s8
+Quinidine at 648 mg bid decreased the bioavailability (AUC) of nisoldipine by 26%, but not the peak concentration.
+
+DrugDDI.d234.s8.e0 0 8
+drug
+Quinidine
+DrugDDI.d234.s8.e1 16 18
+drug
+bid
+DrugDDI.d234.s8.e2 53 63
+drug
+nisoldipine
+
+interaction DrugDDI.d234.s8.e0 DrugDDI.d234.s8.e1 false
+interaction DrugDDI.d234.s8.e0 DrugDDI.d234.s8.e2 true
+interaction DrugDDI.d234.s8.e1 DrugDDI.d234.s8.e2 false
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s9
+The immediate release, but not the coat-core formulation of nisoldipine increased plasma quinidine concentrations by about 20%.
+
+DrugDDI.d234.s9.e0 51 61
+drug
+nisoldipine
+
+
+
+Abstract Id: DrugDDI.d234
+Sentence Id: DrugDDI.d234.s11
+No significant interactions were found between nisoldipine and warfarin or digoxin .
+
+DrugDDI.d234.s11.e0 41 51
+drug
+nisoldipine
+DrugDDI.d234.s11.e1 55 62
+drug
+warfarin
+DrugDDI.d234.s11.e2 65 71
+drug
+digoxin
+
+interaction DrugDDI.d234.s11.e0 DrugDDI.d234.s11.e1 false
+interaction DrugDDI.d234.s11.e0 DrugDDI.d234.s11.e2 false
+interaction DrugDDI.d234.s11.e1 DrugDDI.d234.s11.e2 false
+
+Abstract Id: DrugDDI.d306
+Sentence Id: DrugDDI.d306.s0
+Tizoxanide is highly bound to plasma protein ( 99.9%).
+
+DrugDDI.d306.s0.e0 0 9
+drug
+Tizoxanide
+DrugDDI.d306.s0.e1 25 37
+drug
+plasma protein
+
+interaction DrugDDI.d306.s0.e0 DrugDDI.d306.s0.e1 true
+
+Abstract Id: DrugDDI.d306
+Sentence Id: DrugDDI.d306.s1
+Therefore, caution should be used when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin ).
+
+DrugDDI.d306.s1.e0 46 57
+drug
+nitazoxanide
+DrugDDI.d306.s1.e1 180 187
+drug
+warfarin
+
+interaction DrugDDI.d306.s1.e0 DrugDDI.d306.s1.e1 true
+
+Abstract Id: DrugDDI.d306
+Sentence Id: DrugDDI.d306.s2
+In vitro metabolism studies have demonstrated that tizoxanide has no significant inhibitory effect on cytochrome P450 enzymes.
+
+DrugDDI.d306.s2.e0 44 53
+drug
+tizoxanide
+DrugDDI.d306.s2.e1 88 101
+drug
+cytochrome P450
+
+interaction DrugDDI.d306.s2.e0 DrugDDI.d306.s2.e1 false
+
+Abstract Id: DrugDDI.d306
+Sentence Id: DrugDDI.d306.s3
+Although no drug-drug interaction studies have been conducted in vivo, it is expected that no significant interaction would occur when nitazoxanide is co-administered with drugs that either are metabolized by or inhibit cytochrome P450 enzymes.
+
+DrugDDI.d306.s3.e0 115 126
+drug
+nitazoxanide
+DrugDDI.d306.s3.e1 148 152
+drug
+drugs
+DrugDDI.d306.s3.e2 188 201
+drug
+cytochrome P450
+
+interaction DrugDDI.d306.s3.e0 DrugDDI.d306.s3.e1 false
+interaction DrugDDI.d306.s3.e0 DrugDDI.d306.s3.e2 false
+interaction DrugDDI.d306.s3.e1 DrugDDI.d306.s3.e2 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s0
+Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4 /5 with potentially important effects on plasma concentrations of other drugs .
+
+DrugDDI.d20.s0.e0 0 12
+drug
+Oxcarbazepine
+DrugDDI.d20.s0.e1 23 29
+drug
+CYP2C19
+DrugDDI.d20.s0.e2 39 44
+drug
+CYP3A4
+DrugDDI.d20.s0.e3 107 111
+drug
+drugs
+
+interaction DrugDDI.d20.s0.e0 DrugDDI.d20.s0.e1 false
+interaction DrugDDI.d20.s0.e0 DrugDDI.d20.s0.e2 false
+interaction DrugDDI.d20.s0.e0 DrugDDI.d20.s0.e3 true
+interaction DrugDDI.d20.s0.e1 DrugDDI.d20.s0.e2 false
+interaction DrugDDI.d20.s0.e1 DrugDDI.d20.s0.e3 false
+interaction DrugDDI.d20.s0.e2 DrugDDI.d20.s0.e3 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s1
+In addition, several AED@s that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
+
+DrugDDI.d20.s1.e0 30 43
+drug
+cytochrome P450
+DrugDDI.d20.s1.e1 85 97
+drug
+oxcarbazepine
+
+interaction DrugDDI.d20.s1.e0 DrugDDI.d20.s1.e1 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s2
+Oxcarbazepine was evaluated in human liver microsomes to determine its capacity to inhibit the major cytochrome P450 enzymes responsible for the metabolism of other drugs .
+
+DrugDDI.d20.s2.e0 0 12
+drug
+Oxcarbazepine
+DrugDDI.d20.s2.e1 86 99
+drug
+cytochrome P450
+DrugDDI.d20.s2.e2 141 145
+drug
+drugs
+
+interaction DrugDDI.d20.s2.e0 DrugDDI.d20.s2.e1 false
+interaction DrugDDI.d20.s2.e0 DrugDDI.d20.s2.e2 false
+interaction DrugDDI.d20.s2.e1 DrugDDI.d20.s2.e2 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s3
+Results demonstrate that oxcarbazepine and its pharmacologically active 10-monohydroxy metabolite (MHD) have little or no capacity to function as inhibitors for most of the human cytochrome P450 enzymes evaluated ( CYP1A2 , CYP2A6 , CYP2C9 , CYP2D6 , CYP2E1 , CYP4A9 and CYP4A11 ) with the exception of CYP2C19 and CYP3A4 /5.
+
+DrugDDI.d20.s3.e0 22 34
+drug
+oxcarbazepine
+DrugDDI.d20.s3.e1 58 87
+drug
+active 10-monohydroxy metabolite
+DrugDDI.d20.s3.e2 154 167
+drug
+cytochrome P450
+DrugDDI.d20.s3.e3 185 190
+drug
+CYP1A2
+DrugDDI.d20.s3.e4 192 197
+drug
+CYP2A6
+DrugDDI.d20.s3.e5 199 204
+drug
+CYP2C9
+DrugDDI.d20.s3.e6 206 211
+drug
+CYP2D6
+DrugDDI.d20.s3.e7 213 218
+drug
+CYP2E1
+DrugDDI.d20.s3.e8 229 235
+drug
+CYP4A11
+DrugDDI.d20.s3.e9 255 261
+drug
+CYP2C19
+DrugDDI.d20.s3.e10 265 270
+drug
+CYP3A4
+
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e1 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e2 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e3 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e4 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e5 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e0 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e2 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e3 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e4 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e5 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e1 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e3 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e4 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e5 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e2 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e4 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e5 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e3 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e5 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e4 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e5 DrugDDI.d20.s3.e6 false
+interaction DrugDDI.d20.s3.e5 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e5 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e5 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e5 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e6 DrugDDI.d20.s3.e7 false
+interaction DrugDDI.d20.s3.e6 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e6 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e6 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e7 DrugDDI.d20.s3.e8 false
+interaction DrugDDI.d20.s3.e7 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e7 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e8 DrugDDI.d20.s3.e9 false
+interaction DrugDDI.d20.s3.e8 DrugDDI.d20.s3.e10 false
+interaction DrugDDI.d20.s3.e9 DrugDDI.d20.s3.e10 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s4
+Although inhibition of CYP 3A4/5 by OXC and MHD did occur at high concentrations, it is not likely to be of clinical significance.
+
+DrugDDI.d20.s4.e0 20 22
+drug
+CYP
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s5
+The inhibition of CYP-2C19 by OXC and MHD, however, is clinically relevant.
+
+DrugDDI.d20.s5.e0 15 22
+drug
+CYP-2C19
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s6
+In vitro, the UDP-glucuronyl transferase level was increased, indicating induction of this enzyme.
+
+DrugDDI.d20.s6.e0 11 35
+drug
+UDP-glucuronyl transferase
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s7
+Increases of 22% with MHD and 47% with oxcarbazepine were observed.
+
+DrugDDI.d20.s7.e0 31 43
+drug
+oxcarbazepine
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s8
+As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase , it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid , lamotrigine ).
+
+DrugDDI.d20.s8.e0 56 80
+drug
+UDP-glucuronyl transferase
+DrugDDI.d20.s8.e1 110 114
+drug
+drugs
+DrugDDI.d20.s8.e2 158 182
+drug
+UDP-glucuronyl transferase
+DrugDDI.d20.s8.e3 189 200
+drug
+valproic acid
+DrugDDI.d20.s8.e4 202 212
+drug
+lamotrigine
+
+interaction DrugDDI.d20.s8.e0 DrugDDI.d20.s8.e1 false
+interaction DrugDDI.d20.s8.e0 DrugDDI.d20.s8.e2 false
+interaction DrugDDI.d20.s8.e0 DrugDDI.d20.s8.e3 false
+interaction DrugDDI.d20.s8.e0 DrugDDI.d20.s8.e4 false
+interaction DrugDDI.d20.s8.e1 DrugDDI.d20.s8.e2 false
+interaction DrugDDI.d20.s8.e1 DrugDDI.d20.s8.e3 false
+interaction DrugDDI.d20.s8.e1 DrugDDI.d20.s8.e4 false
+interaction DrugDDI.d20.s8.e2 DrugDDI.d20.s8.e3 false
+interaction DrugDDI.d20.s8.e2 DrugDDI.d20.s8.e4 false
+interaction DrugDDI.d20.s8.e3 DrugDDI.d20.s8.e4 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s9
+In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family ( CYP3A4 and CYP3A5 ) responsible for the metabolism of dihydropyridine calcium antagonist s and oral contraceptives , resulting in a lower plasma concentration of these drugs .
+
+DrugDDI.d20.s9.e0 11 23
+drug
+oxcarbazepine
+DrugDDI.d20.s9.e1 50 65
+drug
+cytochrome P450 3A
+DrugDDI.d20.s9.e2 73 78
+drug
+CYP3A4
+DrugDDI.d20.s9.e3 82 87
+drug
+CYP3A5
+DrugDDI.d20.s9.e4 133 149
+drug
+calcium antagonist
+DrugDDI.d20.s9.e5 154 171
+drug
+oral contraceptives
+DrugDDI.d20.s9.e6 216 220
+drug
+drugs
+
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e1 false
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e2 false
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e3 false
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e4 true
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e5 true
+interaction DrugDDI.d20.s9.e0 DrugDDI.d20.s9.e6 false
+interaction DrugDDI.d20.s9.e1 DrugDDI.d20.s9.e2 false
+interaction DrugDDI.d20.s9.e1 DrugDDI.d20.s9.e3 false
+interaction DrugDDI.d20.s9.e1 DrugDDI.d20.s9.e4 false
+interaction DrugDDI.d20.s9.e1 DrugDDI.d20.s9.e5 false
+interaction DrugDDI.d20.s9.e1 DrugDDI.d20.s9.e6 false
+interaction DrugDDI.d20.s9.e2 DrugDDI.d20.s9.e3 false
+interaction DrugDDI.d20.s9.e2 DrugDDI.d20.s9.e4 false
+interaction DrugDDI.d20.s9.e2 DrugDDI.d20.s9.e5 false
+interaction DrugDDI.d20.s9.e2 DrugDDI.d20.s9.e6 false
+interaction DrugDDI.d20.s9.e3 DrugDDI.d20.s9.e4 false
+interaction DrugDDI.d20.s9.e3 DrugDDI.d20.s9.e5 false
+interaction DrugDDI.d20.s9.e3 DrugDDI.d20.s9.e6 false
+interaction DrugDDI.d20.s9.e4 DrugDDI.d20.s9.e5 false
+interaction DrugDDI.d20.s9.e4 DrugDDI.d20.s9.e6 false
+interaction DrugDDI.d20.s9.e5 DrugDDI.d20.s9.e6 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s10
+As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
+
+DrugDDI.d20.s10.e0 16 29
+drug
+plasma proteins
+DrugDDI.d20.s10.e1 83 87
+drug
+drugs
+DrugDDI.d20.s10.e2 109 115
+drug
+protein
+
+interaction DrugDDI.d20.s10.e0 DrugDDI.d20.s10.e1 false
+interaction DrugDDI.d20.s10.e0 DrugDDI.d20.s10.e2 false
+interaction DrugDDI.d20.s10.e1 DrugDDI.d20.s10.e2 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s11
+Antiepileptic drugs Potential interactions between Trileptal and other AEDs were assessed in clinical studies.
+
+DrugDDI.d20.s11.e0 0 17
+drug
+Antiepileptic drugs
+DrugDDI.d20.s11.e1 46 54
+drug
+Trileptal
+
+interaction DrugDDI.d20.s11.e0 DrugDDI.d20.s11.e1 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s12
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 2: Table 2: Summary of AED interactions with Trileptal .
+
+DrugDDI.d20.s12.e0 102 110
+drug
+Trileptal
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s15
+Trileptal dose (mg/day) .
+
+DrugDDI.d20.s15.e0 0 8
+drug
+Trileptal
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s16
+Influence of Trileptal on AED Concentration (Mean change, 90% Confidence Interval) .
+
+DrugDDI.d20.s16.e0 11 19
+drug
+Trileptal
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s18
+Carbamazepine .
+
+DrugDDI.d20.s18.e0 0 12
+drug
+Carbamazepine
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s22
+Phenobarbital .
+
+DrugDDI.d20.s22.e0 0 12
+drug
+Phenobarbital
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s26
+Phenytoin .
+
+DrugDDI.d20.s26.e0 0 8
+drug
+Phenytoin
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s31
+Valproic acid .
+
+DrugDDI.d20.s31.e0 0 11
+drug
+Valproic acid
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s35
+1- nc denotes a mean change of less than 10% 2- Pediatrics 3- Mean increase in adults at high Trileptal doses In vivo, the plasma levels of phenytoin increased by up to 40%, when Trileptal was given at doses above 1200 mg/day.
+
+DrugDDI.d20.s35.e0 75 83
+drug
+Trileptal
+DrugDDI.d20.s35.e1 113 121
+drug
+phenytoin
+DrugDDI.d20.s35.e2 145 153
+drug
+Trileptal
+
+interaction DrugDDI.d20.s35.e0 DrugDDI.d20.s35.e1 false
+interaction DrugDDI.d20.s35.e0 DrugDDI.d20.s35.e2 false
+interaction DrugDDI.d20.s35.e1 DrugDDI.d20.s35.e2 true
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s36
+Therefore, when using doses of Trileptal greater than 1200 mg/day during adjunctive therapy, a decrease in the dose of phenytoin may be required.
+
+DrugDDI.d20.s36.e0 26 34
+drug
+Trileptal
+DrugDDI.d20.s36.e1 100 108
+drug
+phenytoin
+
+interaction DrugDDI.d20.s36.e0 DrugDDI.d20.s36.e1 true
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s37
+The increase of phenobarbital level, however, is small (15%) when given with Trileptal .
+
+DrugDDI.d20.s37.e0 65 73
+drug
+Trileptal
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s38
+Strong inducers of cytochrome P450 enzymes (i.e. carbamazepine , phenytoin and phenobarbital ) have been shown to decrease the plasma levels of MHD (29-40%).
+
+DrugDDI.d20.s38.e0 16 29
+drug
+cytochrome P450
+DrugDDI.d20.s38.e1 42 54
+drug
+carbamazepine
+DrugDDI.d20.s38.e2 56 64
+drug
+phenytoin
+DrugDDI.d20.s38.e3 68 80
+drug
+phenobarbital
+
+interaction DrugDDI.d20.s38.e0 DrugDDI.d20.s38.e1 false
+interaction DrugDDI.d20.s38.e0 DrugDDI.d20.s38.e2 false
+interaction DrugDDI.d20.s38.e0 DrugDDI.d20.s38.e3 false
+interaction DrugDDI.d20.s38.e1 DrugDDI.d20.s38.e2 false
+interaction DrugDDI.d20.s38.e1 DrugDDI.d20.s38.e3 false
+interaction DrugDDI.d20.s38.e2 DrugDDI.d20.s38.e3 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s39
+No autoinduction has been observed with Trileptal .
+
+DrugDDI.d20.s39.e0 34 42
+drug
+Trileptal
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s40
+Hormonal contraceptives Co-administration of Trileptal with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG).
+
+DrugDDI.d20.s40.e0 41 49
+drug
+Trileptal
+DrugDDI.d20.s40.e1 56 72
+drug
+oral contraceptive
+DrugDDI.d20.s40.e2 146 161
+drug
+ethinylestradiol
+DrugDDI.d20.s40.e3 169 182
+drug
+levonorgestrel
+
+interaction DrugDDI.d20.s40.e0 DrugDDI.d20.s40.e1 true
+interaction DrugDDI.d20.s40.e0 DrugDDI.d20.s40.e2 false
+interaction DrugDDI.d20.s40.e0 DrugDDI.d20.s40.e3 false
+interaction DrugDDI.d20.s40.e1 DrugDDI.d20.s40.e2 false
+interaction DrugDDI.d20.s40.e1 DrugDDI.d20.s40.e3 false
+interaction DrugDDI.d20.s40.e2 DrugDDI.d20.s40.e3 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s43
+Therefore, concurrent use of Trileptal with hormonal contraceptives may render these contraceptives less effective.
+
+DrugDDI.d20.s43.e0 25 33
+drug
+Trileptal
+DrugDDI.d20.s43.e1 46 59
+drug
+contraceptives
+DrugDDI.d20.s43.e2 74 87
+drug
+contraceptives
+
+interaction DrugDDI.d20.s43.e0 DrugDDI.d20.s43.e1 true
+interaction DrugDDI.d20.s43.e0 DrugDDI.d20.s43.e2 false
+interaction DrugDDI.d20.s43.e1 DrugDDI.d20.s43.e2 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s44
+Studies with other oral or implant contraceptives have not been conducted.
+
+DrugDDI.d20.s44.e0 29 42
+drug
+contraceptives
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s45
+Calcium Antagonist s After repeated co-administration of Trileptal , the AUC of felodipine was lowered by 28% [90% CI: 20-33].
+
+DrugDDI.d20.s45.e0 0 16
+drug
+Calcium Antagonist
+DrugDDI.d20.s45.e1 50 58
+drug
+Trileptal
+DrugDDI.d20.s45.e2 68 77
+drug
+felodipine
+
+interaction DrugDDI.d20.s45.e0 DrugDDI.d20.s45.e1 false
+interaction DrugDDI.d20.s45.e0 DrugDDI.d20.s45.e2 false
+interaction DrugDDI.d20.s45.e1 DrugDDI.d20.s45.e2 true
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s46
+Verapamil produced a decrease of 20% [90% CI: 18-27] of the plasma levels of MHD.
+
+DrugDDI.d20.s46.e0 0 8
+drug
+Verapamil
+
+
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s47
+Other drug interactions Cimetidine , erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.
+
+DrugDDI.d20.s47.e0 21 30
+drug
+Cimetidine
+DrugDDI.d20.s47.e1 32 43
+drug
+erythromycin
+DrugDDI.d20.s47.e2 47 64
+drug
+dextropropoxyphene
+
+interaction DrugDDI.d20.s47.e0 DrugDDI.d20.s47.e1 false
+interaction DrugDDI.d20.s47.e0 DrugDDI.d20.s47.e2 false
+interaction DrugDDI.d20.s47.e1 DrugDDI.d20.s47.e2 false
+
+Abstract Id: DrugDDI.d20
+Sentence Id: DrugDDI.d20.s48
+Results with warfarin wshow no evidence of interaction with either single or repeated doses of Trileptal .
+
+DrugDDI.d20.s48.e0 11 18
+drug
+warfarin
+DrugDDI.d20.s48.e1 80 88
+drug
+Trileptal
+
+interaction DrugDDI.d20.s48.e0 DrugDDI.d20.s48.e1 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s0
+In a Phase : I trial using escalating doses of TAXOL (110-200 mg/m2) and cisplatin (50 or 75 mg/m2) given as sequential infusions, myelosuppression was more profound when TAXOL was given after cisplatin than with the alternate sequence (ie, TAXOL before cisplatin ).
+
+DrugDDI.d480.s0.e0 37 41
+drug
+TAXOL
+DrugDDI.d480.s0.e1 59 67
+drug
+cisplatin
+DrugDDI.d480.s0.e2 143 147
+drug
+TAXOL
+DrugDDI.d480.s0.e3 161 169
+drug
+cisplatin
+DrugDDI.d480.s0.e4 202 206
+drug
+TAXOL
+DrugDDI.d480.s0.e5 213 221
+drug
+cisplatin
+
+interaction DrugDDI.d480.s0.e0 DrugDDI.d480.s0.e1 false
+interaction DrugDDI.d480.s0.e0 DrugDDI.d480.s0.e2 false
+interaction DrugDDI.d480.s0.e0 DrugDDI.d480.s0.e3 false
+interaction DrugDDI.d480.s0.e0 DrugDDI.d480.s0.e4 false
+interaction DrugDDI.d480.s0.e0 DrugDDI.d480.s0.e5 false
+interaction DrugDDI.d480.s0.e1 DrugDDI.d480.s0.e2 false
+interaction DrugDDI.d480.s0.e1 DrugDDI.d480.s0.e3 false
+interaction DrugDDI.d480.s0.e1 DrugDDI.d480.s0.e4 false
+interaction DrugDDI.d480.s0.e1 DrugDDI.d480.s0.e5 false
+interaction DrugDDI.d480.s0.e2 DrugDDI.d480.s0.e3 false
+interaction DrugDDI.d480.s0.e2 DrugDDI.d480.s0.e4 false
+interaction DrugDDI.d480.s0.e2 DrugDDI.d480.s0.e5 false
+interaction DrugDDI.d480.s0.e3 DrugDDI.d480.s0.e4 false
+interaction DrugDDI.d480.s0.e3 DrugDDI.d480.s0.e5 false
+interaction DrugDDI.d480.s0.e4 DrugDDI.d480.s0.e5 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s1
+Pharmacokinetic data from these patients demonstrated a decrease in paclitaxel clearance of approximately 33% when TAXOL was administered following cisplatin .
+
+DrugDDI.d480.s1.e0 59 68
+drug
+paclitaxel
+DrugDDI.d480.s1.e1 100 104
+drug
+TAXOL
+DrugDDI.d480.s1.e2 129 137
+drug
+cisplatin
+
+interaction DrugDDI.d480.s1.e0 DrugDDI.d480.s1.e1 false
+interaction DrugDDI.d480.s1.e0 DrugDDI.d480.s1.e2 false
+interaction DrugDDI.d480.s1.e1 DrugDDI.d480.s1.e2 true
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s2
+The metabolism of TAXOL is catalyzed by cytochrome P450 isoen-zymes CYP2C8 and CYP3A4 .
+
+DrugDDI.d480.s2.e0 15 19
+drug
+TAXOL
+DrugDDI.d480.s2.e1 33 46
+drug
+cytochrome P450
+DrugDDI.d480.s2.e2 67 72
+drug
+CYP3A4
+
+interaction DrugDDI.d480.s2.e0 DrugDDI.d480.s2.e1 true
+interaction DrugDDI.d480.s2.e0 DrugDDI.d480.s2.e2 true
+interaction DrugDDI.d480.s2.e1 DrugDDI.d480.s2.e2 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s3
+In the absence of formal clinical drug interaction studies, caution should be exercised when administering TAXOL concomitantly with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4 .
+
+DrugDDI.d480.s3.e0 92 96
+drug
+TAXOL
+DrugDDI.d480.s3.e1 146 159
+drug
+cytochrome P450
+DrugDDI.d480.s3.e2 179 184
+drug
+CYP3A4
+
+interaction DrugDDI.d480.s3.e0 DrugDDI.d480.s3.e1 true
+interaction DrugDDI.d480.s3.e0 DrugDDI.d480.s3.e2 true
+interaction DrugDDI.d480.s3.e1 DrugDDI.d480.s3.e2 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s4
+Potential interactions between TAXOL , a substrate of CYP3A4 , and protease inhibitors ( ritonavir , saquinavir , indinavir , and nelfinavir ), which are substrates and/or inhibitors of CYP3A4 , have not been evaluated in clinical trials.
+
+DrugDDI.d480.s4.e0 28 32
+drug
+TAXOL
+DrugDDI.d480.s4.e1 46 51
+drug
+CYP3A4
+DrugDDI.d480.s4.e2 56 73
+drug
+protease inhibitors
+DrugDDI.d480.s4.e3 75 83
+drug
+ritonavir
+DrugDDI.d480.s4.e4 85 94
+drug
+saquinavir
+DrugDDI.d480.s4.e5 96 104
+drug
+indinavir
+DrugDDI.d480.s4.e6 109 118
+drug
+nelfinavir
+DrugDDI.d480.s4.e7 157 162
+drug
+CYP3A4
+
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e1 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e2 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e3 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e4 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e5 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e0 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e2 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e3 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e4 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e5 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e1 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e2 DrugDDI.d480.s4.e3 false
+interaction DrugDDI.d480.s4.e2 DrugDDI.d480.s4.e4 false
+interaction DrugDDI.d480.s4.e2 DrugDDI.d480.s4.e5 false
+interaction DrugDDI.d480.s4.e2 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e2 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e3 DrugDDI.d480.s4.e4 false
+interaction DrugDDI.d480.s4.e3 DrugDDI.d480.s4.e5 false
+interaction DrugDDI.d480.s4.e3 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e3 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e4 DrugDDI.d480.s4.e5 false
+interaction DrugDDI.d480.s4.e4 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e4 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e5 DrugDDI.d480.s4.e6 false
+interaction DrugDDI.d480.s4.e5 DrugDDI.d480.s4.e7 false
+interaction DrugDDI.d480.s4.e6 DrugDDI.d480.s4.e7 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s5
+Reports in the literature suggest that plasma levels of doxorubicin (and its active metabolite doxorubicinol) may be increased when paclitaxel and doxorubicin are used in combination.
+
+DrugDDI.d480.s5.e0 47 57
+drug
+doxorubicin
+DrugDDI.d480.s5.e1 65 80
+drug
+active metabolite
+DrugDDI.d480.s5.e2 113 122
+drug
+paclitaxel
+DrugDDI.d480.s5.e3 126 136
+drug
+doxorubicin
+
+interaction DrugDDI.d480.s5.e0 DrugDDI.d480.s5.e1 false
+interaction DrugDDI.d480.s5.e0 DrugDDI.d480.s5.e2 false
+interaction DrugDDI.d480.s5.e0 DrugDDI.d480.s5.e3 false
+interaction DrugDDI.d480.s5.e1 DrugDDI.d480.s5.e2 false
+interaction DrugDDI.d480.s5.e1 DrugDDI.d480.s5.e3 false
+interaction DrugDDI.d480.s5.e2 DrugDDI.d480.s5.e3 true
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s6
+Hematology: TAXOL therapy should not be administered to patients with baseline neutrophil counts of less than 1,500 cells/mm3.
+
+DrugDDI.d480.s6.e0 11 15
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s7
+In order to monitor the occurrence of myelotoxicity, it is recommended that frequent peripheral blood cell counts be performed on all patients receiving TAXOL .
+
+DrugDDI.d480.s7.e0 130 134
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s8
+Patients should not be re-treated with subsequent cycles of TAXOL until neutrophils recover to a level 1500 cells/mm3 and platelets recover to a level 100,000 cells/mm3.
+
+DrugDDI.d480.s8.e0 51 55
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s9
+In the case of severe neutropenia ( 500 cells/mm3 for seven days or more) during a course of TAXOL therapy, a 20% reduction in dose for subsequent courses of therapy is recommended.
+
+DrugDDI.d480.s9.new.DISO.e1 17 27
+DISO
+neutropenia
+DrugDDI.d480.s9.e0 75 79
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s10
+For patients with advanced HIV disease and poor-risk AIDS-related Kaposi@s sarcoma, TAXOL , at the recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1000 cells/mm3.
+
+DrugDDI.d480.s10.e0 23 25
+drug
+HIV
+DrugDDI.d480.s10.new.DISO.e2 65 71
+DISO
+sarcoma
+DrugDDI.d480.s10.e1 73 77
+drug
+TAXOL
+
+interaction DrugDDI.d480.s10.e0 DrugDDI.d480.s10.e1 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s11
+Hypersensitivity Reactions: Patients with a history of severe hypersensitivity reactions to products containing Cremophor@ EL (eg, cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with TAXOL .
+
+DrugDDI.d480.s11.e0 115 125
+drug
+cyclosporin
+DrugDDI.d480.s11.e1 152 161
+drug
+teniposide
+DrugDDI.d480.s11.e2 208 212
+drug
+TAXOL
+
+interaction DrugDDI.d480.s11.e0 DrugDDI.d480.s11.e1 false
+interaction DrugDDI.d480.s11.e0 DrugDDI.d480.s11.e2 true
+interaction DrugDDI.d480.s11.e1 DrugDDI.d480.s11.e2 true
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s12
+In order to avoid the occurrence of severe hypersensitivity reactions, all patients treated with TAXOL should be premedicated with corticosteroids (such as dexamethasone ), diphen -hydramine and H2 antagonists (such as cimetidine or ranitidine ).
+
+DrugDDI.d480.s12.e0 83 87
+drug
+TAXOL
+DrugDDI.d480.s12.e1 112 126
+drug
+corticosteroids
+DrugDDI.d480.s12.e2 134 146
+drug
+dexamethasone
+DrugDDI.d480.s12.e3 149 154
+drug
+diphen
+DrugDDI.d480.s12.e4 188 197
+drug
+cimetidine
+DrugDDI.d480.s12.e5 200 209
+drug
+ranitidine
+
+interaction DrugDDI.d480.s12.e0 DrugDDI.d480.s12.e1 false
+interaction DrugDDI.d480.s12.e0 DrugDDI.d480.s12.e2 false
+interaction DrugDDI.d480.s12.e0 DrugDDI.d480.s12.e3 false
+interaction DrugDDI.d480.s12.e0 DrugDDI.d480.s12.e4 false
+interaction DrugDDI.d480.s12.e0 DrugDDI.d480.s12.e5 false
+interaction DrugDDI.d480.s12.e1 DrugDDI.d480.s12.e2 false
+interaction DrugDDI.d480.s12.e1 DrugDDI.d480.s12.e3 false
+interaction DrugDDI.d480.s12.e1 DrugDDI.d480.s12.e4 false
+interaction DrugDDI.d480.s12.e1 DrugDDI.d480.s12.e5 false
+interaction DrugDDI.d480.s12.e2 DrugDDI.d480.s12.e3 false
+interaction DrugDDI.d480.s12.e2 DrugDDI.d480.s12.e4 false
+interaction DrugDDI.d480.s12.e2 DrugDDI.d480.s12.e5 false
+interaction DrugDDI.d480.s12.e3 DrugDDI.d480.s12.e4 false
+interaction DrugDDI.d480.s12.e3 DrugDDI.d480.s12.e5 false
+interaction DrugDDI.d480.s12.e4 DrugDDI.d480.s12.e5 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s14
+However, severe reactions, such as hypotension requiring treatment, dyspnea requiring bronchodilators , angioedema, or generalized urticaria require immediate discontinuation of TAXOL and aggressive symptomatic therapy.
+
+DrugDDI.d480.s14.e0 76 90
+drug
+bronchodilators
+DrugDDI.d480.s14.e1 158 162
+drug
+TAXOL
+
+interaction DrugDDI.d480.s14.e0 DrugDDI.d480.s14.e1 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s15
+Patients who have developed severe hypersensitivity reactions should not be rechallenged with TAXOL .
+
+DrugDDI.d480.s15.e0 82 86
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s16
+Cardiovascular: Hypotension, bradycardia, and hypertension have been observed during administration of TAXOL , but generally do not require treatment.
+
+DrugDDI.d480.s16.e0 92 96
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s17
+Occasionally TAXOL infusions must be interrupted or discontinued because of initial or recurrent hypertension.
+
+DrugDDI.d480.s17.e0 12 16
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s18
+Frequent vital sign monitoring, particularly during the first hour of TAXOL infusion, is recommended.
+
+DrugDDI.d480.s18.e0 60 64
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s20
+Nervous System: Although the occurrence of peripheral neuropathy is frequent, the development of severe symptomatology is unusual and requires a dose reduction of 20% for all subsequentcourses of TAXOL .
+
+DrugDDI.d480.s20.new.DISO.e1 37 56
+DISO
+peripheral neuropathy
+DrugDDI.d480.s20.e0 168 172
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s21
+TAXOL contains dehydrated alcohol USP , 396 mg/mL; .
+
+DrugDDI.d480.s21.e0 0 4
+drug
+TAXOL
+DrugDDI.d480.s21.e1 13 32
+drug
+dehydrated alcohol USP
+
+interaction DrugDDI.d480.s21.e0 DrugDDI.d480.s21.e1 false
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s22
+consideration should be given to possible CNS and other effects of alcohol .
+
+DrugDDI.d480.s22.e0 56 62
+drug
+alcohol
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s23
+Hepatic: There is limited evidence that the myelotoxicity of TAXOL may be exacerbated in patients with serum total bilirubin 2 times ULN.
+
+DrugDDI.d480.s23.e0 52 56
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s24
+Extreme caution should be exercised when administering TAXOL to such patients, with dose reduction as recommended in DOSAGE AND ADMINISTRATION, Table 17.
+
+DrugDDI.d480.s24.e0 48 52
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s27
+Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, recall, has been reported rarely.
+
+DrugDDI.d480.s27.e0 80 84
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d480
+Sentence Id: DrugDDI.d480.s28
+Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been received as part of the continuing surveillance of TAXOL safety.
+
+DrugDDI.d480.s28.new.DISO.e1 35 43
+DISO
+phlebitis
+DrugDDI.d480.s28.new.DISO.e2 45 54
+DISO
+cellulitis
+DrugDDI.d480.s28.new.DISO.e3 83 90
+DISO
+necrosis
+DrugDDI.d480.s28.new.DISO.e4 95 102
+DISO
+fibrosis
+DrugDDI.d480.s28.e0 154 158
+drug
+TAXOL
+
+
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s0
+Aminoglycosides : The mixing of piperacillin with an aminoglycoside in vitro can result in substantial inactivation of the aminoglycoside .
+
+DrugDDI.d235.s0.e0 0 14
+drug
+Aminoglycosides
+DrugDDI.d235.s0.e1 27 38
+drug
+piperacillin
+DrugDDI.d235.s0.e2 45 58
+drug
+aminoglycoside
+DrugDDI.d235.s0.e3 105 118
+drug
+aminoglycoside
+
+interaction DrugDDI.d235.s0.e0 DrugDDI.d235.s0.e1 false
+interaction DrugDDI.d235.s0.e0 DrugDDI.d235.s0.e2 false
+interaction DrugDDI.d235.s0.e0 DrugDDI.d235.s0.e3 false
+interaction DrugDDI.d235.s0.e1 DrugDDI.d235.s0.e2 true
+interaction DrugDDI.d235.s0.e1 DrugDDI.d235.s0.e3 false
+interaction DrugDDI.d235.s0.e2 DrugDDI.d235.s0.e3 false
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s1
+Vecuronium : When used in the perioperative period, piperacillin has been implicated in the prolongation of the neuromuscular blockade of vecuronium .
+
+DrugDDI.d235.s1.e0 0 9
+drug
+Vecuronium
+DrugDDI.d235.s1.e1 44 55
+drug
+piperacillin
+DrugDDI.d235.s1.e2 118 127
+drug
+vecuronium
+
+interaction DrugDDI.d235.s1.e0 DrugDDI.d235.s1.e1 false
+interaction DrugDDI.d235.s1.e0 DrugDDI.d235.s1.e2 false
+interaction DrugDDI.d235.s1.e1 DrugDDI.d235.s1.e2 true
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s2
+Caution is indicated when piperacillin is used perioperatively.
+
+DrugDDI.d235.s2.e0 22 33
+drug
+piperacillin
+
+
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s3
+In one controlled clinical study, the ureidopenicillins, including piperacillin , were reported to prolong the action of vecuronium .
+
+DrugDDI.d235.s3.e0 59 70
+drug
+piperacillin
+DrugDDI.d235.s3.e1 104 113
+drug
+vecuronium
+
+interaction DrugDDI.d235.s3.e0 DrugDDI.d235.s3.e1 true
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s4
+Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin .
+
+DrugDDI.d235.s4.e0 93 123
+drug
+non-depolarizing muscle relaxants
+DrugDDI.d235.s4.e1 155 166
+drug
+piperacillin
+
+interaction DrugDDI.d235.s4.e0 DrugDDI.d235.s4.e1 true
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s5
+Probenecid : The oral combination of probenecid before intramuscular injection of PIPRACIL produces an increase in piperacillin peak serum level of about 30%.
+
+DrugDDI.d235.s5.e0 0 9
+drug
+Probenecid
+DrugDDI.d235.s5.e1 31 40
+drug
+probenecid
+DrugDDI.d235.s5.e2 71 78
+drug
+PIPRACIL
+DrugDDI.d235.s5.e3 99 110
+drug
+piperacillin
+
+interaction DrugDDI.d235.s5.e0 DrugDDI.d235.s5.e1 false
+interaction DrugDDI.d235.s5.e0 DrugDDI.d235.s5.e2 false
+interaction DrugDDI.d235.s5.e0 DrugDDI.d235.s5.e3 false
+interaction DrugDDI.d235.s5.e1 DrugDDI.d235.s5.e2 true
+interaction DrugDDI.d235.s5.e1 DrugDDI.d235.s5.e3 false
+interaction DrugDDI.d235.s5.e2 DrugDDI.d235.s5.e3 false
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s6
+Anticoagulants Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin , oral anticoagulants , or other drugs that may affect the blood coagulation system or the thrombocyte function.
+
+DrugDDI.d235.s6.e0 0 13
+drug
+Anticoagulants
+DrugDDI.d235.s6.e1 129 135
+drug
+heparin
+DrugDDI.d235.s6.e2 137 154
+drug
+oral anticoagulants
+DrugDDI.d235.s6.e3 163 167
+drug
+drugs
+
+interaction DrugDDI.d235.s6.e0 DrugDDI.d235.s6.e1 false
+interaction DrugDDI.d235.s6.e0 DrugDDI.d235.s6.e2 false
+interaction DrugDDI.d235.s6.e0 DrugDDI.d235.s6.e3 false
+interaction DrugDDI.d235.s6.e1 DrugDDI.d235.s6.e2 false
+interaction DrugDDI.d235.s6.e1 DrugDDI.d235.s6.e3 false
+interaction DrugDDI.d235.s6.e2 DrugDDI.d235.s6.e3 false
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s7
+Methotrexate Piperacillin sodium may reduce the excretion of methotrexate .
+
+DrugDDI.d235.s7.e0 0 23
+drug
+Methotrexate Piperacillin
+DrugDDI.d235.s7.e1 53 64
+drug
+methotrexate
+
+interaction DrugDDI.d235.s7.e0 DrugDDI.d235.s7.e1 true
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s8
+Therefore, serum levels of methotrexate should be monitored in patients to avoid drug toxicity.
+
+DrugDDI.d235.s8.e0 23 34
+drug
+methotrexate
+DrugDDI.d235.s8.new.DISO.e1 69 80
+DISO
+drug toxicity
+
+
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s9
+Drug /Laboratory Test Interactions : As with other penicillins , the administration of PIPRACIL may result in a false-positive reaction for glucose in the urine using a copper -reduction method.
+
+DrugDDI.d235.s9.e0 0 3
+drug
+Drug
+DrugDDI.d235.s9.e1 38 53
+drug
+other penicillins
+DrugDDI.d235.s9.e2 74 81
+drug
+PIPRACIL
+DrugDDI.d235.s9.e3 119 125
+drug
+glucose
+DrugDDI.d235.s9.e4 142 147
+drug
+copper
+
+interaction DrugDDI.d235.s9.e0 DrugDDI.d235.s9.e1 false
+interaction DrugDDI.d235.s9.e0 DrugDDI.d235.s9.e2 false
+interaction DrugDDI.d235.s9.e0 DrugDDI.d235.s9.e3 false
+interaction DrugDDI.d235.s9.e0 DrugDDI.d235.s9.e4 false
+interaction DrugDDI.d235.s9.e1 DrugDDI.d235.s9.e2 false
+interaction DrugDDI.d235.s9.e1 DrugDDI.d235.s9.e3 false
+interaction DrugDDI.d235.s9.e1 DrugDDI.d235.s9.e4 false
+interaction DrugDDI.d235.s9.e2 DrugDDI.d235.s9.e3 false
+interaction DrugDDI.d235.s9.e2 DrugDDI.d235.s9.e4 false
+interaction DrugDDI.d235.s9.e3 DrugDDI.d235.s9.e4 false
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s10
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.
+
+DrugDDI.d235.s10.e0 47 60
+drug
+glucose oxidase
+
+
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s11
+There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin / tazobactam injection who were subsequently found to be free of Aspergillus infection.
+
+DrugDDI.d235.s11.e0 113 124
+drug
+piperacillin
+DrugDDI.d235.s11.e1 126 135
+drug
+tazobactam
+DrugDDI.d235.s11.new.DISO.e2 179 198
+DISO
+Aspergillus infection
+
+interaction DrugDDI.d235.s11.e0 DrugDDI.d235.s11.e1 false
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s12
+Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.
+
+DrugDDI.d235.s12.e0 34 48
+drug
+polysaccharides
+
+
+
+Abstract Id: DrugDDI.d235
+Sentence Id: DrugDDI.d235.s13
+Therefore, positive test results in patients receiving piperacillin should be interpreted cautiously and confirmed by other diagnostic methods.
+
+DrugDDI.d235.s13.e0 48 59
+drug
+piperacillin
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s0
+Effect of other drugs on Vardenafil .
+
+DrugDDI.d253.s0.e0 13 17
+drug
+drugs
+DrugDDI.d253.s0.e1 20 29
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s0.e0 DrugDDI.d253.s0.e1 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s1
+In vitro studies: Studies in human liver microsomes showed that vardenafil is metabolized primarily by cytochrome P450 ( CYP ) isoforms 3A4/5, and to a lesser degree by CYP2C9 .
+
+DrugDDI.d253.s1.e0 54 63
+drug
+vardenafil
+DrugDDI.d253.s1.e1 88 101
+drug
+cytochrome P450
+DrugDDI.d253.s1.e2 103 105
+drug
+CYP
+DrugDDI.d253.s1.e3 107 114
+drug
+isoforms
+DrugDDI.d253.s1.e4 141 146
+drug
+CYP2C9
+
+interaction DrugDDI.d253.s1.e0 DrugDDI.d253.s1.e1 false
+interaction DrugDDI.d253.s1.e0 DrugDDI.d253.s1.e2 false
+interaction DrugDDI.d253.s1.e0 DrugDDI.d253.s1.e3 false
+interaction DrugDDI.d253.s1.e0 DrugDDI.d253.s1.e4 false
+interaction DrugDDI.d253.s1.e1 DrugDDI.d253.s1.e2 false
+interaction DrugDDI.d253.s1.e1 DrugDDI.d253.s1.e3 false
+interaction DrugDDI.d253.s1.e1 DrugDDI.d253.s1.e4 false
+interaction DrugDDI.d253.s1.e2 DrugDDI.d253.s1.e3 false
+interaction DrugDDI.d253.s1.e2 DrugDDI.d253.s1.e4 false
+interaction DrugDDI.d253.s1.e3 DrugDDI.d253.s1.e4 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s2
+Therefore, inhibitors of these enzymes are expected to reduce vardenafil clearance.
+
+DrugDDI.d253.s2.e0 53 62
+drug
+vardenafil
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s3
+In vivo studies: Cytochrome P450 Inhibitors .
+
+DrugDDI.d253.s3.e0 14 27
+drug
+Cytochrome P450
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s4
+Cimetidine (400 mg b.i.d.) had no effect on vardenafil bioavailability (AUC) and maximum concentration (Cmax) of vardenafil when co-administered with 20 mg Vardenafil in healthy volunteers.
+
+DrugDDI.d253.s4.e0 0 9
+drug
+Cimetidine
+DrugDDI.d253.s4.e1 36 45
+drug
+vardenafil
+DrugDDI.d253.s4.e2 97 106
+drug
+vardenafil
+DrugDDI.d253.s4.e3 134 143
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s4.e0 DrugDDI.d253.s4.e1 false
+interaction DrugDDI.d253.s4.e0 DrugDDI.d253.s4.e2 false
+interaction DrugDDI.d253.s4.e0 DrugDDI.d253.s4.e3 false
+interaction DrugDDI.d253.s4.e1 DrugDDI.d253.s4.e2 false
+interaction DrugDDI.d253.s4.e1 DrugDDI.d253.s4.e3 false
+interaction DrugDDI.d253.s4.e2 DrugDDI.d253.s4.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s5
+Erythromycin ( 500 mg t.i.d) produced a 4-fold increase in vardenafil AUC and a 3-fold increase in Cmax when co-administered with Vardenafil 5 mg in healthy volunteers.
+
+DrugDDI.d253.s5.e0 0 11
+drug
+Erythromycin
+DrugDDI.d253.s5.e1 13 15
+drug
+500
+DrugDDI.d253.s5.e2 49 58
+drug
+vardenafil
+DrugDDI.d253.s5.e3 109 121
+drug
+Vardenafil 5 mg
+
+interaction DrugDDI.d253.s5.e0 DrugDDI.d253.s5.e1 false
+interaction DrugDDI.d253.s5.e0 DrugDDI.d253.s5.e2 true
+interaction DrugDDI.d253.s5.e0 DrugDDI.d253.s5.e3 false
+interaction DrugDDI.d253.s5.e1 DrugDDI.d253.s5.e2 false
+interaction DrugDDI.d253.s5.e1 DrugDDI.d253.s5.e3 false
+interaction DrugDDI.d253.s5.e2 DrugDDI.d253.s5.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s6
+It is recommended not to exceed a single 5 mg dose of Vardenafil in a 24-hour period when used in combination with erythromycin .
+
+DrugDDI.d253.s6.e0 42 51
+drug
+Vardenafil
+DrugDDI.d253.s6.e1 93 104
+drug
+erythromycin
+
+interaction DrugDDI.d253.s6.e0 DrugDDI.d253.s6.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s7
+Ketoconazole (200 mg once daily) produced a 10-fold increase in vardenafil AUC and a 4-fold increase in Cmax when co-administered with Vardenafil (5 mg) in healthy volunteers.
+
+DrugDDI.d253.s7.e0 0 11
+drug
+Ketoconazole
+DrugDDI.d253.s7.e1 54 63
+drug
+vardenafil
+DrugDDI.d253.s7.e2 114 123
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s7.e0 DrugDDI.d253.s7.e1 true
+interaction DrugDDI.d253.s7.e0 DrugDDI.d253.s7.e2 false
+interaction DrugDDI.d253.s7.e1 DrugDDI.d253.s7.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s8
+A 5-mg Vardenafil dose should not be exceeded when used in combination with 200 mg once daily ketoconazole .
+
+DrugDDI.d253.s8.e0 5 14
+drug
+Vardenafil
+DrugDDI.d253.s8.e1 77 88
+drug
+ketoconazole
+
+interaction DrugDDI.d253.s8.e0 DrugDDI.d253.s8.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s9
+Since higher doses of ketoconazole (400 mg daily) may result in higher increases in Cmax and AUC, a single 2.5 mg dose of Vardenafil should not be exceeded in a 24-hour period when used in combination with ketoconazole 400 mg daily.
+
+DrugDDI.d253.s9.e0 18 29
+drug
+ketoconazole
+DrugDDI.d253.s9.e1 99 108
+drug
+Vardenafil
+DrugDDI.d253.s9.e2 169 185
+drug
+ketoconazole 400 mg
+
+interaction DrugDDI.d253.s9.e0 DrugDDI.d253.s9.e1 true
+interaction DrugDDI.d253.s9.e0 DrugDDI.d253.s9.e2 false
+interaction DrugDDI.d253.s9.e1 DrugDDI.d253.s9.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s10
+HIV Protease Inhibitors : Indinavir ( 800 mg t.i.d.) co-administered with Vardenafil 10 mg resulted in a 16-fold increase in vardenafil AUC, a 7-fold increase in vardenafil Cmax and a 2-fold increase in vardenafil half-life.
+
+DrugDDI.d253.s10.e0 0 20
+drug
+HIV Protease Inhibitors
+DrugDDI.d253.s10.e1 22 30
+drug
+Indinavir
+DrugDDI.d253.s10.e2 32 34
+drug
+800
+DrugDDI.d253.s10.e3 63 76
+drug
+Vardenafil 10 mg
+DrugDDI.d253.s10.e4 105 114
+drug
+vardenafil
+DrugDDI.d253.s10.e5 136 145
+drug
+vardenafil
+DrugDDI.d253.s10.e6 170 179
+drug
+vardenafil
+
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e1 false
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e2 false
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e3 false
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e4 false
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e5 false
+interaction DrugDDI.d253.s10.e0 DrugDDI.d253.s10.e6 false
+interaction DrugDDI.d253.s10.e1 DrugDDI.d253.s10.e2 false
+interaction DrugDDI.d253.s10.e1 DrugDDI.d253.s10.e3 true
+interaction DrugDDI.d253.s10.e1 DrugDDI.d253.s10.e4 false
+interaction DrugDDI.d253.s10.e1 DrugDDI.d253.s10.e5 false
+interaction DrugDDI.d253.s10.e1 DrugDDI.d253.s10.e6 false
+interaction DrugDDI.d253.s10.e2 DrugDDI.d253.s10.e3 false
+interaction DrugDDI.d253.s10.e2 DrugDDI.d253.s10.e4 false
+interaction DrugDDI.d253.s10.e2 DrugDDI.d253.s10.e5 false
+interaction DrugDDI.d253.s10.e2 DrugDDI.d253.s10.e6 false
+interaction DrugDDI.d253.s10.e3 DrugDDI.d253.s10.e4 false
+interaction DrugDDI.d253.s10.e3 DrugDDI.d253.s10.e5 false
+interaction DrugDDI.d253.s10.e3 DrugDDI.d253.s10.e6 false
+interaction DrugDDI.d253.s10.e4 DrugDDI.d253.s10.e5 false
+interaction DrugDDI.d253.s10.e4 DrugDDI.d253.s10.e6 false
+interaction DrugDDI.d253.s10.e5 DrugDDI.d253.s10.e6 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s11
+It is recommended not to exceed a single 2.5 mg Vardenafil dose in a 24-hour period when used in combination with indinavir .
+
+DrugDDI.d253.s11.e0 93 101
+drug
+indinavir
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s12
+Ritonavir (600 mg b.i.d.) co-administered with Vardenafil 5 mg resulted in a 49-fold increase in vardenafil AUC and a 13-fold increase in vardenafil Cmax.
+
+DrugDDI.d253.s12.e0 0 8
+drug
+Ritonavir
+DrugDDI.d253.s12.e1 41 53
+drug
+Vardenafil 5 mg
+DrugDDI.d253.s12.e2 82 91
+drug
+vardenafil
+DrugDDI.d253.s12.e3 116 125
+drug
+vardenafil
+
+interaction DrugDDI.d253.s12.e0 DrugDDI.d253.s12.e1 true
+interaction DrugDDI.d253.s12.e0 DrugDDI.d253.s12.e2 false
+interaction DrugDDI.d253.s12.e0 DrugDDI.d253.s12.e3 false
+interaction DrugDDI.d253.s12.e1 DrugDDI.d253.s12.e2 false
+interaction DrugDDI.d253.s12.e1 DrugDDI.d253.s12.e3 false
+interaction DrugDDI.d253.s12.e2 DrugDDI.d253.s12.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s13
+The interaction is a consequence of blocking hepatic metabolism of vardenafil by ritonavir , a highly potent CYP3A4 inhibitor, which also inhibits CYP2C9 .
+
+DrugDDI.d253.s13.e0 57 66
+drug
+vardenafil
+DrugDDI.d253.s13.e1 69 77
+drug
+ritonavir
+DrugDDI.d253.s13.e2 92 97
+drug
+CYP3A4
+DrugDDI.d253.s13.e3 125 130
+drug
+CYP2C9
+
+interaction DrugDDI.d253.s13.e0 DrugDDI.d253.s13.e1 true
+interaction DrugDDI.d253.s13.e0 DrugDDI.d253.s13.e2 false
+interaction DrugDDI.d253.s13.e0 DrugDDI.d253.s13.e3 false
+interaction DrugDDI.d253.s13.e1 DrugDDI.d253.s13.e2 false
+interaction DrugDDI.d253.s13.e1 DrugDDI.d253.s13.e3 false
+interaction DrugDDI.d253.s13.e2 DrugDDI.d253.s13.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s14
+Ritonavir significantly prolonged the half-life of vardenafil to 26 hours.
+
+DrugDDI.d253.s14.e0 0 8
+drug
+Ritonavir
+DrugDDI.d253.s14.e1 45 54
+drug
+vardenafil
+
+interaction DrugDDI.d253.s14.e0 DrugDDI.d253.s14.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s15
+Consequently, it is recommended not to exceed a single 2.5 mg Vardenafil dose in a 72-hour period when used in combination with ritonavir .
+
+DrugDDI.d253.s15.e0 106 114
+drug
+ritonavir
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s16
+Other Drug Interactions: No pharmacokinetic interactions were observed between vardenafil and the following drugs : glyburide , warfarin , digoxin , Maalox , and ranitidine .
+
+DrugDDI.d253.s16.e0 70 79
+drug
+vardenafil
+DrugDDI.d253.s16.e1 95 99
+drug
+drugs
+DrugDDI.d253.s16.e2 101 109
+drug
+glyburide
+DrugDDI.d253.s16.e3 111 118
+drug
+warfarin
+DrugDDI.d253.s16.e4 120 126
+drug
+digoxin
+DrugDDI.d253.s16.e5 128 133
+drug
+Maalox
+DrugDDI.d253.s16.e6 138 147
+drug
+ranitidine
+
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e1 false
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e2 false
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e3 false
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e4 false
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e5 false
+interaction DrugDDI.d253.s16.e0 DrugDDI.d253.s16.e6 false
+interaction DrugDDI.d253.s16.e1 DrugDDI.d253.s16.e2 false
+interaction DrugDDI.d253.s16.e1 DrugDDI.d253.s16.e3 false
+interaction DrugDDI.d253.s16.e1 DrugDDI.d253.s16.e4 false
+interaction DrugDDI.d253.s16.e1 DrugDDI.d253.s16.e5 false
+interaction DrugDDI.d253.s16.e1 DrugDDI.d253.s16.e6 false
+interaction DrugDDI.d253.s16.e2 DrugDDI.d253.s16.e3 false
+interaction DrugDDI.d253.s16.e2 DrugDDI.d253.s16.e4 false
+interaction DrugDDI.d253.s16.e2 DrugDDI.d253.s16.e5 false
+interaction DrugDDI.d253.s16.e2 DrugDDI.d253.s16.e6 false
+interaction DrugDDI.d253.s16.e3 DrugDDI.d253.s16.e4 false
+interaction DrugDDI.d253.s16.e3 DrugDDI.d253.s16.e5 false
+interaction DrugDDI.d253.s16.e3 DrugDDI.d253.s16.e6 false
+interaction DrugDDI.d253.s16.e4 DrugDDI.d253.s16.e5 false
+interaction DrugDDI.d253.s16.e4 DrugDDI.d253.s16.e6 false
+interaction DrugDDI.d253.s16.e5 DrugDDI.d253.s16.e6 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s17
+In the warfarin study, vardenafil had no effect on the prothrombin time or other pharmacodynamic parameters.
+
+DrugDDI.d253.s17.e0 5 12
+drug
+warfarin
+DrugDDI.d253.s17.e1 19 28
+drug
+vardenafil
+
+interaction DrugDDI.d253.s17.e0 DrugDDI.d253.s17.e1 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s18
+Effects of Vardenafil on other drugs .
+
+DrugDDI.d253.s18.e0 9 18
+drug
+Vardenafil
+DrugDDI.d253.s18.e1 26 30
+drug
+drugs
+
+interaction DrugDDI.d253.s18.e0 DrugDDI.d253.s18.e1 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s19
+In vitro studies: Vardenafil and its metabolites had no effect on CYP1A2 , 2A6, and 2E1 ( Ki 100uM ).
+
+DrugDDI.d253.s19.e0 15 24
+drug
+Vardenafil
+DrugDDI.d253.s19.e1 31 41
+drug
+metabolites
+DrugDDI.d253.s19.e2 55 60
+drug
+CYP1A2
+DrugDDI.d253.s19.e3 73 79
+drug
+Ki   100uM
+
+interaction DrugDDI.d253.s19.e0 DrugDDI.d253.s19.e1 false
+interaction DrugDDI.d253.s19.e0 DrugDDI.d253.s19.e2 false
+interaction DrugDDI.d253.s19.e0 DrugDDI.d253.s19.e3 false
+interaction DrugDDI.d253.s19.e1 DrugDDI.d253.s19.e2 false
+interaction DrugDDI.d253.s19.e1 DrugDDI.d253.s19.e3 false
+interaction DrugDDI.d253.s19.e2 DrugDDI.d253.s19.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s20
+Weak inhibitory effects toward other isoforms ( CYP2C8 , 2C9, 2C19, 2D6, 3A4) were found, but Ki values were in excess of plasma concentrations achieved following dosing.
+
+DrugDDI.d253.s20.e0 32 39
+drug
+isoforms
+DrugDDI.d253.s20.e1 41 46
+drug
+CYP2C8
+
+interaction DrugDDI.d253.s20.e0 DrugDDI.d253.s20.e1 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s21
+The most potent inhibitory activity was observed for vardenafil metabolite M1, which had a Ki of 1.4 uM toward CYP3A4 , which is about 20 times higher than the M1 Cmax values after an 80 mg Vardenafil dose.
+
+DrugDDI.d253.s21.e0 45 54
+drug
+vardenafil
+DrugDDI.d253.s21.e1 92 97
+drug
+CYP3A4
+DrugDDI.d253.s21.e2 154 163
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s21.e0 DrugDDI.d253.s21.e1 false
+interaction DrugDDI.d253.s21.e0 DrugDDI.d253.s21.e2 false
+interaction DrugDDI.d253.s21.e1 DrugDDI.d253.s21.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s22
+In vivo studies: Nitrates : The blood pressure lowering effects of sublingual nitrates (0.4 mg) taken 1 and 4 hours after vardenafil and increases in heart rate when taken at 1, 4 and 8 hours were potentiated by a 20 mg dose of Vardenafil in healthy middle-aged subjects.
+
+DrugDDI.d253.s22.e0 14 21
+drug
+Nitrates
+DrugDDI.d253.s22.e1 66 73
+drug
+nitrates
+DrugDDI.d253.s22.e2 101 110
+drug
+vardenafil
+DrugDDI.d253.s22.e3 185 194
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s22.e0 DrugDDI.d253.s22.e1 false
+interaction DrugDDI.d253.s22.e0 DrugDDI.d253.s22.e2 false
+interaction DrugDDI.d253.s22.e0 DrugDDI.d253.s22.e3 false
+interaction DrugDDI.d253.s22.e1 DrugDDI.d253.s22.e2 false
+interaction DrugDDI.d253.s22.e1 DrugDDI.d253.s22.e3 false
+interaction DrugDDI.d253.s22.e2 DrugDDI.d253.s22.e3 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s23
+These effects were not observed when Vardenafil 20 mg was taken 24 hours before the NTG.
+
+DrugDDI.d253.s23.e0 31 44
+drug
+Vardenafil 20 mg
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s24
+Potentiation of the hypotensive effects of nitrates for patients with ischemic heart disease has not been evaluated, and concomitant use of Vardenafil and nitrates is contraindicated.
+
+DrugDDI.d253.s24.e0 37 44
+drug
+nitrates
+DrugDDI.d253.s24.new.DISO.e3 60 79
+DISO
+ischemic heart disease
+DrugDDI.d253.s24.e1 119 128
+drug
+Vardenafil
+DrugDDI.d253.s24.e2 132 139
+drug
+nitrates
+
+interaction DrugDDI.d253.s24.e0 DrugDDI.d253.s24.e1 false
+interaction DrugDDI.d253.s24.e0 DrugDDI.d253.s24.e2 false
+interaction DrugDDI.d253.s24.e1 DrugDDI.d253.s24.e2 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s25
+Nifedipine : Vardenafil 20 mg , when co-administered with slow-release nifedipine 30 mg or 60 mg once daily, did not affect the relative bioavailability (AUC) or maximum concentration (Cmax) of nifedipine , a drug that is metabolized via CYP3A4 .
+
+DrugDDI.d253.s25.e0 0 9
+drug
+Nifedipine
+DrugDDI.d253.s25.e1 11 24
+drug
+Vardenafil 20 mg
+DrugDDI.d253.s25.e2 61 74
+drug
+nifedipine 30 mg
+DrugDDI.d253.s25.e3 164 173
+drug
+nifedipine
+DrugDDI.d253.s25.e4 176 179
+drug
+drug
+DrugDDI.d253.s25.e5 200 205
+drug
+CYP3A4
+
+interaction DrugDDI.d253.s25.e0 DrugDDI.d253.s25.e1 false
+interaction DrugDDI.d253.s25.e0 DrugDDI.d253.s25.e2 false
+interaction DrugDDI.d253.s25.e0 DrugDDI.d253.s25.e3 false
+interaction DrugDDI.d253.s25.e0 DrugDDI.d253.s25.e4 false
+interaction DrugDDI.d253.s25.e0 DrugDDI.d253.s25.e5 false
+interaction DrugDDI.d253.s25.e1 DrugDDI.d253.s25.e2 false
+interaction DrugDDI.d253.s25.e1 DrugDDI.d253.s25.e3 false
+interaction DrugDDI.d253.s25.e1 DrugDDI.d253.s25.e4 false
+interaction DrugDDI.d253.s25.e1 DrugDDI.d253.s25.e5 false
+interaction DrugDDI.d253.s25.e2 DrugDDI.d253.s25.e3 false
+interaction DrugDDI.d253.s25.e2 DrugDDI.d253.s25.e4 false
+interaction DrugDDI.d253.s25.e2 DrugDDI.d253.s25.e5 false
+interaction DrugDDI.d253.s25.e3 DrugDDI.d253.s25.e4 false
+interaction DrugDDI.d253.s25.e3 DrugDDI.d253.s25.e5 false
+interaction DrugDDI.d253.s25.e4 DrugDDI.d253.s25.e5 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s26
+Nifedipine did not alter the plasma levels of Vardenafil when taken in combination.
+
+DrugDDI.d253.s26.e0 0 9
+drug
+Nifedipine
+DrugDDI.d253.s26.e1 38 47
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s26.e0 DrugDDI.d253.s26.e1 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s27
+In these patients whose hypertension was controlled with nifedipine , Vardenafil 20 mg produced mean additional supine systolic/diastolic blood pressure reductions of 6/5 mm Hg compared to placebo.
+
+DrugDDI.d253.s27.e0 49 58
+drug
+nifedipine
+DrugDDI.d253.s27.e1 60 73
+drug
+Vardenafil 20 mg
+
+interaction DrugDDI.d253.s27.e0 DrugDDI.d253.s27.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s28
+Alpha-blockers: When Vardenafil 10 or 20 mg was given to healthy volunteers either simultaneously or 6 hours after a 10 mg dose of terazosin , significant hypotension developed in a substantial number of subjects.
+
+DrugDDI.d253.s28.e0 19 28
+drug
+Vardenafil
+DrugDDI.d253.s28.e1 108 116
+drug
+terazosin
+
+interaction DrugDDI.d253.s28.e0 DrugDDI.d253.s28.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s29
+With simultaneous dosing of Vardenafil 10 mg and terazosin 10 mg, 6 of 8 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.
+
+DrugDDI.d253.s29.e0 24 37
+drug
+Vardenafil 10 mg
+DrugDDI.d253.s29.e1 41 51
+drug
+terazosin 10
+
+interaction DrugDDI.d253.s29.e0 DrugDDI.d253.s29.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s30
+With simultaneous dosing of Vardenafil 20 mg and terazosin 10 mg, 2 of 9 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.
+
+DrugDDI.d253.s30.e0 24 37
+drug
+Vardenafil 20 mg
+DrugDDI.d253.s30.e1 41 51
+drug
+terazosin 10
+
+interaction DrugDDI.d253.s30.e0 DrugDDI.d253.s30.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s31
+When Vardenafil dosing was separated from terazosin 10 mg by 6 hours, 7 of 28 subjects who received 20 mg of Vardenafil experienced a decrease in standing systolic blood pressure below 85 mm Hg.
+
+DrugDDI.d253.s31.e0 4 13
+drug
+Vardenafil
+DrugDDI.d253.s31.e1 36 46
+drug
+terazosin 10
+DrugDDI.d253.s31.e2 88 97
+drug
+Vardenafil
+
+interaction DrugDDI.d253.s31.e0 DrugDDI.d253.s31.e1 false
+interaction DrugDDI.d253.s31.e0 DrugDDI.d253.s31.e2 false
+interaction DrugDDI.d253.s31.e1 DrugDDI.d253.s31.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s32
+In a similar study with tamsulosin in healthy volunteers, 1 of 24 subjects dosed with Vardenafil 20 mg and tamsulosin 0.4 mg separated by 6 hours experienced a standing systolic blood pressure below 85 mm Hg.
+
+DrugDDI.d253.s32.e0 19 28
+drug
+tamsulosin
+DrugDDI.d253.s32.e1 71 84
+drug
+Vardenafil 20 mg
+DrugDDI.d253.s32.e2 88 102
+drug
+tamsulosin 0.4 mg
+
+interaction DrugDDI.d253.s32.e0 DrugDDI.d253.s32.e1 false
+interaction DrugDDI.d253.s32.e0 DrugDDI.d253.s32.e2 false
+interaction DrugDDI.d253.s32.e1 DrugDDI.d253.s32.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s33
+Two of 16 subjects dosed simultaneously with Vardenafil 10 mg and tamsulosin 0.4 mg experienced a standing systolic blood pressure below 85 mm Hg.
+
+DrugDDI.d253.s33.e0 38 51
+drug
+Vardenafil 10 mg
+DrugDDI.d253.s33.e1 55 69
+drug
+tamsulosin 0.4 mg
+
+interaction DrugDDI.d253.s33.e0 DrugDDI.d253.s33.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s34
+The administration of lower doses of Vardenafil with alpha-blockers has not been completely evaluated to determine if they can be safely administered together.
+
+DrugDDI.d253.s34.e0 31 40
+drug
+Vardenafil
+
+
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s35
+Based on these data, Vardenafil should not be used in patients on alpha-blocker therapy.
+
+DrugDDI.d253.s35.e0 17 26
+drug
+Vardenafil
+DrugDDI.d253.s35.e1 54 66
+drug
+alpha-blocker
+
+interaction DrugDDI.d253.s35.e0 DrugDDI.d253.s35.e1 true
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s36
+Ritonavir and indinavir : Upon concomitant administration of 5 mg of Vardenafil with 600 mg BID ritonavir , the Cmax and AUC of ritonavir were reduced by approximately 20%.
+
+DrugDDI.d253.s36.e0 0 8
+drug
+Ritonavir
+DrugDDI.d253.s36.e1 12 20
+drug
+indinavir
+DrugDDI.d253.s36.e2 58 67
+drug
+Vardenafil
+DrugDDI.d253.s36.e3 80 88
+drug
+ritonavir
+DrugDDI.d253.s36.e4 105 113
+drug
+ritonavir
+
+interaction DrugDDI.d253.s36.e0 DrugDDI.d253.s36.e1 false
+interaction DrugDDI.d253.s36.e0 DrugDDI.d253.s36.e2 false
+interaction DrugDDI.d253.s36.e0 DrugDDI.d253.s36.e3 false
+interaction DrugDDI.d253.s36.e0 DrugDDI.d253.s36.e4 false
+interaction DrugDDI.d253.s36.e1 DrugDDI.d253.s36.e2 false
+interaction DrugDDI.d253.s36.e1 DrugDDI.d253.s36.e3 false
+interaction DrugDDI.d253.s36.e1 DrugDDI.d253.s36.e4 false
+interaction DrugDDI.d253.s36.e2 DrugDDI.d253.s36.e3 true
+interaction DrugDDI.d253.s36.e2 DrugDDI.d253.s36.e4 false
+interaction DrugDDI.d253.s36.e3 DrugDDI.d253.s36.e4 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s37
+Upon administration of 10 mg of Vardenafil with 800 mg TID indinavir , the Cmax and AUC of indinavir were reduced by 40% and 30%, respectively.
+
+DrugDDI.d253.s37.e0 26 35
+drug
+Vardenafil
+DrugDDI.d253.s37.e1 48 56
+drug
+indinavir
+DrugDDI.d253.s37.e2 73 81
+drug
+indinavir
+
+interaction DrugDDI.d253.s37.e0 DrugDDI.d253.s37.e1 true
+interaction DrugDDI.d253.s37.e0 DrugDDI.d253.s37.e2 false
+interaction DrugDDI.d253.s37.e1 DrugDDI.d253.s37.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s38
+Alcohol : Alcohol (0.5 g/kg body weight: approximately 40 mL of absolute alcohol in a 70 kg person) and vardenafil plasma levels were not altered when dosed simultaneously.
+
+DrugDDI.d253.s38.e0 0 6
+drug
+Alcohol
+DrugDDI.d253.s38.e1 8 14
+drug
+Alcohol
+DrugDDI.d253.s38.e2 85 94
+drug
+vardenafil
+
+interaction DrugDDI.d253.s38.e0 DrugDDI.d253.s38.e1 false
+interaction DrugDDI.d253.s38.e0 DrugDDI.d253.s38.e2 false
+interaction DrugDDI.d253.s38.e1 DrugDDI.d253.s38.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s39
+Vardenafil (20 mg) did not potentiate the hypotensive effects of alcohol during the 4-hour observation period in healthy volunteers when administered with alcohol (0.5 g/kg body weight).
+
+DrugDDI.d253.s39.e0 0 9
+drug
+Vardenafil
+DrugDDI.d253.s39.e1 55 61
+drug
+alcohol
+DrugDDI.d253.s39.e2 133 139
+drug
+alcohol
+
+interaction DrugDDI.d253.s39.e0 DrugDDI.d253.s39.e1 false
+interaction DrugDDI.d253.s39.e0 DrugDDI.d253.s39.e2 false
+interaction DrugDDI.d253.s39.e1 DrugDDI.d253.s39.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s40
+Aspirin : Vardenafil (10 mg and 20 mg) did not potentiate the increase in bleeding time caused by aspirin (two 81 mg tablets).
+
+DrugDDI.d253.s40.e0 0 6
+drug
+Aspirin
+DrugDDI.d253.s40.e1 8 17
+drug
+Vardenafil
+DrugDDI.d253.s40.e2 80 86
+drug
+aspirin
+
+interaction DrugDDI.d253.s40.e0 DrugDDI.d253.s40.e1 false
+interaction DrugDDI.d253.s40.e0 DrugDDI.d253.s40.e2 false
+interaction DrugDDI.d253.s40.e1 DrugDDI.d253.s40.e2 false
+
+Abstract Id: DrugDDI.d253
+Sentence Id: DrugDDI.d253.s41
+Other interactions: Vardenafil had no effect on the pharmacodynamics of glyburide ( glucose and insulin concentrations) and warfarin (prothrombin time or other pharmacodynamic parameters).
+
+DrugDDI.d253.s41.e0 18 27
+drug
+Vardenafil
+DrugDDI.d253.s41.e1 62 70
+drug
+glyburide
+DrugDDI.d253.s41.e2 72 78
+drug
+glucose
+DrugDDI.d253.s41.e3 82 88
+drug
+insulin
+DrugDDI.d253.s41.e4 107 114
+drug
+warfarin
+
+interaction DrugDDI.d253.s41.e0 DrugDDI.d253.s41.e1 false
+interaction DrugDDI.d253.s41.e0 DrugDDI.d253.s41.e2 false
+interaction DrugDDI.d253.s41.e0 DrugDDI.d253.s41.e3 false
+interaction DrugDDI.d253.s41.e0 DrugDDI.d253.s41.e4 false
+interaction DrugDDI.d253.s41.e1 DrugDDI.d253.s41.e2 false
+interaction DrugDDI.d253.s41.e1 DrugDDI.d253.s41.e3 false
+interaction DrugDDI.d253.s41.e1 DrugDDI.d253.s41.e4 false
+interaction DrugDDI.d253.s41.e2 DrugDDI.d253.s41.e3 false
+interaction DrugDDI.d253.s41.e2 DrugDDI.d253.s41.e4 false
+interaction DrugDDI.d253.s41.e3 DrugDDI.d253.s41.e4 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s0
+Zidovudine : There is no significant pharmacokinetic interaction between ZDV and zalcitabine which has been confirmed clinically.
+
+DrugDDI.d528.s0.e0 0 9
+drug
+Zidovudine
+DrugDDI.d528.s0.e1 64 66
+drug
+ZDV
+DrugDDI.d528.s0.e2 70 80
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s0.e0 DrugDDI.d528.s0.e1 false
+interaction DrugDDI.d528.s0.e0 DrugDDI.d528.s0.e2 false
+interaction DrugDDI.d528.s0.e1 DrugDDI.d528.s0.e2 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s1
+Zalcitabine also has no significant effect on the intracellular phosphorylation of ZDV , as shown in vitro in peripheral blood mononuclear cells or in two other cell lines (U937 and Molt-4).
+
+DrugDDI.d528.s1.e0 0 10
+drug
+Zalcitabine
+DrugDDI.d528.s1.e1 72 74
+drug
+ZDV
+
+interaction DrugDDI.d528.s1.e0 DrugDDI.d528.s1.e1 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s2
+In the same study it was shown that didanosine and stavudine had no significant effect on the intracellular phosphorylation of zalcitabine in peripheral blood mononuclear cells.
+
+DrugDDI.d528.s2.e0 28 37
+drug
+didanosine
+DrugDDI.d528.s2.e1 41 49
+drug
+stavudine
+DrugDDI.d528.s2.e2 107 117
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s2.e0 DrugDDI.d528.s2.e1 false
+interaction DrugDDI.d528.s2.e0 DrugDDI.d528.s2.e2 false
+interaction DrugDDI.d528.s2.e1 DrugDDI.d528.s2.e2 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s3
+Lamivudine : In vitro studies in peripheral blood mononuclear cells, U937 and Molt-4 cells revealed that lamivudine significantly inhibited zalcitabine phosphorylation in a dose dependent manner.
+
+DrugDDI.d528.s3.e0 0 9
+drug
+Lamivudine
+DrugDDI.d528.s3.e1 89 98
+drug
+lamivudine
+DrugDDI.d528.s3.e2 121 131
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s3.e0 DrugDDI.d528.s3.e1 false
+interaction DrugDDI.d528.s3.e0 DrugDDI.d528.s3.e2 false
+interaction DrugDDI.d528.s3.e1 DrugDDI.d528.s3.e2 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s4
+Effects were already seen with doses corresponding to relevant plasma levels in humans, and the intracellular phosphorylation of zalcitabine to its three metabolites (including the active zalcitabine triphosphate metabolite) was significantly inhibited.
+
+DrugDDI.d528.s4.e0 111 121
+drug
+zalcitabine
+DrugDDI.d528.s4.e1 132 142
+drug
+metabolites
+DrugDDI.d528.s4.e2 162 172
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s4.e0 DrugDDI.d528.s4.e1 false
+interaction DrugDDI.d528.s4.e0 DrugDDI.d528.s4.e2 false
+interaction DrugDDI.d528.s4.e1 DrugDDI.d528.s4.e2 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s5
+Zalcitabine inhibited lamivudine phosphorylation at high concentration ratios (10 and 100); .
+
+DrugDDI.d528.s5.e0 0 10
+drug
+Zalcitabine
+DrugDDI.d528.s5.e1 20 29
+drug
+lamivudine
+
+interaction DrugDDI.d528.s5.e0 DrugDDI.d528.s5.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s6
+however, it is considered to be unlikely that this decrease of phosphorylated lamivudine concentration is of clinical significance, as lamivudine is a more efficient substrate for deoxycytidine kinase than zalcitabine .
+
+DrugDDI.d528.s6.e0 66 75
+drug
+lamivudine
+DrugDDI.d528.s6.e1 116 125
+drug
+lamivudine
+DrugDDI.d528.s6.e2 154 172
+drug
+deoxycytidine kinase
+DrugDDI.d528.s6.e3 177 187
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s6.e0 DrugDDI.d528.s6.e1 false
+interaction DrugDDI.d528.s6.e0 DrugDDI.d528.s6.e2 false
+interaction DrugDDI.d528.s6.e0 DrugDDI.d528.s6.e3 false
+interaction DrugDDI.d528.s6.e1 DrugDDI.d528.s6.e2 false
+interaction DrugDDI.d528.s6.e1 DrugDDI.d528.s6.e3 false
+interaction DrugDDI.d528.s6.e2 DrugDDI.d528.s6.e3 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s7
+These in vitro studies suggest that concomitant administration of zalcitabine and lamivudine in humans may result in sub-therapeutic concentrations of active phosphorylated zalcitabine , which may lead to a decreased antiretroviral effect of zalcitabine .
+
+DrugDDI.d528.s7.e0 57 67
+drug
+zalcitabine
+DrugDDI.d528.s7.e1 71 80
+drug
+lamivudine
+DrugDDI.d528.s7.e2 151 161
+drug
+zalcitabine
+DrugDDI.d528.s7.e3 209 219
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s7.e0 DrugDDI.d528.s7.e1 true
+interaction DrugDDI.d528.s7.e0 DrugDDI.d528.s7.e2 false
+interaction DrugDDI.d528.s7.e0 DrugDDI.d528.s7.e3 false
+interaction DrugDDI.d528.s7.e1 DrugDDI.d528.s7.e2 false
+interaction DrugDDI.d528.s7.e1 DrugDDI.d528.s7.e3 false
+interaction DrugDDI.d528.s7.e2 DrugDDI.d528.s7.e3 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s9
+Concomitant use of zalcitabine and lamivudine is not recommended.
+
+DrugDDI.d528.s9.e0 16 26
+drug
+zalcitabine
+DrugDDI.d528.s9.e1 30 39
+drug
+lamivudine
+
+interaction DrugDDI.d528.s9.e0 DrugDDI.d528.s9.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s10
+Saquinavir : The combination of HIVID , saquinavir , and ZDV has been studied (as triple combination) in adults.
+
+DrugDDI.d528.s10.e0 0 9
+drug
+Saquinavir
+DrugDDI.d528.s10.e1 27 31
+drug
+HIVID
+DrugDDI.d528.s10.e2 33 42
+drug
+saquinavir
+DrugDDI.d528.s10.e3 47 49
+drug
+ZDV
+
+interaction DrugDDI.d528.s10.e0 DrugDDI.d528.s10.e1 false
+interaction DrugDDI.d528.s10.e0 DrugDDI.d528.s10.e2 false
+interaction DrugDDI.d528.s10.e0 DrugDDI.d528.s10.e3 false
+interaction DrugDDI.d528.s10.e1 DrugDDI.d528.s10.e2 false
+interaction DrugDDI.d528.s10.e1 DrugDDI.d528.s10.e3 false
+interaction DrugDDI.d528.s10.e2 DrugDDI.d528.s10.e3 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s11
+Pharmacokinetic data suggest that absorption, metabolism, and elimination of each of these drugs are unchanged when they are used together.
+
+DrugDDI.d528.s11.e0 79 83
+drug
+drugs
+
+
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s12
+Drugs Associated With Peripheral Neuropathy: The concomitant use of HIVID with drugs that have the potential to cause peripheral neuropathy should be avoided where possible.
+
+DrugDDI.d528.s12.e0 0 4
+drug
+Drugs
+DrugDDI.d528.s12.new.DISO.e3 19 38
+DISO
+Peripheral Neuropathy
+DrugDDI.d528.s12.e1 59 63
+drug
+HIVID
+DrugDDI.d528.s12.e2 68 72
+drug
+drugs
+DrugDDI.d528.s12.new.DISO.e4 110 119
+DISO
+neuropathy
+
+interaction DrugDDI.d528.s12.e0 DrugDDI.d528.s12.e1 false
+interaction DrugDDI.d528.s12.e0 DrugDDI.d528.s12.e2 false
+interaction DrugDDI.d528.s12.e1 DrugDDI.d528.s12.e2 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s13
+Drugs that have been associated with peripheral neuropathy include antiretroviral nucleoside analogues , chloramphenicol , cisplatin , dapsone , disulfiram , ethionamide , glutethimide , gold , hydralazine , iodoquinol , isoniazid , metronidazole , nitrofurantoin , phenytoin , ribavirin , and vincristine .
+
+DrugDDI.d528.s13.e0 0 4
+drug
+Drugs
+DrugDDI.d528.s13.new.DISO.e17 31 50
+DISO
+peripheral neuropathy
+DrugDDI.d528.s13.e1 58 90
+drug
+antiretroviral nucleoside analogues
+DrugDDI.d528.s13.e2 92 106
+drug
+chloramphenicol
+DrugDDI.d528.s13.e3 108 116
+drug
+cisplatin
+DrugDDI.d528.s13.e4 118 124
+drug
+dapsone
+DrugDDI.d528.s13.e5 126 135
+drug
+disulfiram
+DrugDDI.d528.s13.e6 137 147
+drug
+ethionamide
+DrugDDI.d528.s13.e7 149 160
+drug
+glutethimide
+DrugDDI.d528.s13.e8 162 165
+drug
+gold
+DrugDDI.d528.s13.e9 167 177
+drug
+hydralazine
+DrugDDI.d528.s13.e10 179 188
+drug
+iodoquinol
+DrugDDI.d528.s13.e11 190 198
+drug
+isoniazid
+DrugDDI.d528.s13.e12 200 212
+drug
+metronidazole
+DrugDDI.d528.s13.e13 214 227
+drug
+nitrofurantoin
+DrugDDI.d528.s13.e14 229 237
+drug
+phenytoin
+DrugDDI.d528.s13.e15 239 247
+drug
+ribavirin
+DrugDDI.d528.s13.e16 252 262
+drug
+vincristine
+
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e1 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e2 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e3 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e4 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e5 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e0 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e2 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e3 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e4 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e5 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e1 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e3 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e4 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e5 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e2 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e4 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e5 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e3 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e5 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e4 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e6 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e5 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e7 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e6 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e8 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e7 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e9 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e8 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e10 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e9 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e11 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e10 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e11 DrugDDI.d528.s13.e12 false
+interaction DrugDDI.d528.s13.e11 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e11 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e11 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e11 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e12 DrugDDI.d528.s13.e13 false
+interaction DrugDDI.d528.s13.e12 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e12 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e12 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e13 DrugDDI.d528.s13.e14 false
+interaction DrugDDI.d528.s13.e13 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e13 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e14 DrugDDI.d528.s13.e15 false
+interaction DrugDDI.d528.s13.e14 DrugDDI.d528.s13.e16 false
+interaction DrugDDI.d528.s13.e15 DrugDDI.d528.s13.e16 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s14
+Concomitant use of HIVID with didanosine is not recommended.
+
+DrugDDI.d528.s14.e0 16 20
+drug
+HIVID
+DrugDDI.d528.s14.e1 25 34
+drug
+didanosine
+
+interaction DrugDDI.d528.s14.e0 DrugDDI.d528.s14.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s15
+Intravenous Pentamidin e: Treatment with HIVID should be interrupted when the use of a drug that has the potential to cause pancreatitis is required.
+
+DrugDDI.d528.s15.e0 11 20
+drug
+Pentamidin
+DrugDDI.d528.s15.e1 36 40
+drug
+HIVID
+DrugDDI.d528.s15.e2 73 76
+drug
+drug
+DrugDDI.d528.s15.new.DISO.e3 103 114
+DISO
+pancreatitis
+
+interaction DrugDDI.d528.s15.e0 DrugDDI.d528.s15.e1 false
+interaction DrugDDI.d528.s15.e0 DrugDDI.d528.s15.e2 false
+interaction DrugDDI.d528.s15.e1 DrugDDI.d528.s15.e2 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s16
+Death due to fulminant pancreatitis possibly related to intravenous pentamidin e and HIVID has been reported.
+
+DrugDDI.d528.s16.new.DISO.e2 19 30
+DISO
+pancreatitis
+DrugDDI.d528.s16.e0 59 68
+drug
+pentamidin
+DrugDDI.d528.s16.e1 73 77
+drug
+HIVID
+
+interaction DrugDDI.d528.s16.e0 DrugDDI.d528.s16.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s17
+If intravenous pentamidin e is required to treat Pneumocystis carinii pneumonia, treatment with HIVID should be interrupted.
+
+DrugDDI.d528.s17.e0 13 22
+drug
+pentamidin
+DrugDDI.d528.s17.new.DISO.e2 41 68
+DISO
+Pneumocystis carinii pneumonia
+DrugDDI.d528.s17.e1 83 87
+drug
+HIVID
+
+interaction DrugDDI.d528.s17.e0 DrugDDI.d528.s17.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s18
+Amphotericin , Foscarnet , and Aminoglycosides : Drugs such as amphotericin , foscarnet , and aminoglycosides may increase the risk of developing peripheral neuropathy or other HIVID -associated adverse events by interfering with the renal clearance of zalcitabine (thereby raising systemic exposure).
+
+DrugDDI.d528.s18.e0 0 11
+drug
+Amphotericin
+DrugDDI.d528.s18.e1 13 21
+drug
+Foscarnet
+DrugDDI.d528.s18.e2 26 40
+drug
+Aminoglycosides
+DrugDDI.d528.s18.e3 42 46
+drug
+Drugs
+DrugDDI.d528.s18.e4 53 64
+drug
+amphotericin
+DrugDDI.d528.s18.e5 66 74
+drug
+foscarnet
+DrugDDI.d528.s18.e6 79 93
+drug
+aminoglycosides
+DrugDDI.d528.s18.new.DISO.e9 124 143
+DISO
+peripheral neuropathy
+DrugDDI.d528.s18.e7 151 155
+drug
+HIVID
+DrugDDI.d528.s18.e8 216 226
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e1 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e2 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e3 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e4 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e5 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e0 DrugDDI.d528.s18.e8 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e2 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e3 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e4 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e5 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e1 DrugDDI.d528.s18.e8 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e3 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e4 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e5 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e2 DrugDDI.d528.s18.e8 false
+interaction DrugDDI.d528.s18.e3 DrugDDI.d528.s18.e4 false
+interaction DrugDDI.d528.s18.e3 DrugDDI.d528.s18.e5 false
+interaction DrugDDI.d528.s18.e3 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e3 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e3 DrugDDI.d528.s18.e8 true
+interaction DrugDDI.d528.s18.e4 DrugDDI.d528.s18.e5 false
+interaction DrugDDI.d528.s18.e4 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e4 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e4 DrugDDI.d528.s18.e8 true
+interaction DrugDDI.d528.s18.e5 DrugDDI.d528.s18.e6 false
+interaction DrugDDI.d528.s18.e5 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e5 DrugDDI.d528.s18.e8 true
+interaction DrugDDI.d528.s18.e6 DrugDDI.d528.s18.e7 false
+interaction DrugDDI.d528.s18.e6 DrugDDI.d528.s18.e8 true
+interaction DrugDDI.d528.s18.e7 DrugDDI.d528.s18.e8 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s19
+Patients who require the use of one of these drugs with HIVID should have frequent clinical and laboratory monitoring with dosage adjustment for any significant change in renal function.
+
+DrugDDI.d528.s19.e0 36 40
+drug
+drugs
+DrugDDI.d528.s19.e1 45 49
+drug
+HIVID
+
+interaction DrugDDI.d528.s19.e0 DrugDDI.d528.s19.e1 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s20
+Probenecid or Cimetidine : Concomitant administration of probenecid or cimetidine decreases the elimination of zalcitabine , most likely by inhibition of renal tubular secretion of zalcitabine .
+
+DrugDDI.d528.s20.e0 0 9
+drug
+Probenecid
+DrugDDI.d528.s20.e1 12 21
+drug
+Cimetidine
+DrugDDI.d528.s20.e2 50 59
+drug
+probenecid
+DrugDDI.d528.s20.e3 62 71
+drug
+cimetidine
+DrugDDI.d528.s20.e4 97 107
+drug
+zalcitabine
+DrugDDI.d528.s20.e5 156 166
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s20.e0 DrugDDI.d528.s20.e1 false
+interaction DrugDDI.d528.s20.e0 DrugDDI.d528.s20.e2 false
+interaction DrugDDI.d528.s20.e0 DrugDDI.d528.s20.e3 false
+interaction DrugDDI.d528.s20.e0 DrugDDI.d528.s20.e4 false
+interaction DrugDDI.d528.s20.e0 DrugDDI.d528.s20.e5 false
+interaction DrugDDI.d528.s20.e1 DrugDDI.d528.s20.e2 false
+interaction DrugDDI.d528.s20.e1 DrugDDI.d528.s20.e3 false
+interaction DrugDDI.d528.s20.e1 DrugDDI.d528.s20.e4 false
+interaction DrugDDI.d528.s20.e1 DrugDDI.d528.s20.e5 false
+interaction DrugDDI.d528.s20.e2 DrugDDI.d528.s20.e3 false
+interaction DrugDDI.d528.s20.e2 DrugDDI.d528.s20.e4 true
+interaction DrugDDI.d528.s20.e2 DrugDDI.d528.s20.e5 false
+interaction DrugDDI.d528.s20.e3 DrugDDI.d528.s20.e4 true
+interaction DrugDDI.d528.s20.e3 DrugDDI.d528.s20.e5 false
+interaction DrugDDI.d528.s20.e4 DrugDDI.d528.s20.e5 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s21
+Patients receiving these drugs in combination with zalcitabine should be monitored for signs of toxicity and the dose of zalcitabine reduced if warranted.
+
+DrugDDI.d528.s21.e0 22 26
+drug
+drugs
+DrugDDI.d528.s21.e1 44 54
+drug
+zalcitabine
+DrugDDI.d528.s21.e2 102 112
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s21.e0 DrugDDI.d528.s21.e1 true
+interaction DrugDDI.d528.s21.e0 DrugDDI.d528.s21.e2 false
+interaction DrugDDI.d528.s21.e1 DrugDDI.d528.s21.e2 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s22
+Magnesium /Aluminum-containing Antacid Products: Absorption of zalcitabine is moderately reduced (approximately 25%) when coadministered with magnesium /aluminum-containing antacid products.
+
+DrugDDI.d528.s22.e0 0 8
+drug
+Magnesium
+DrugDDI.d528.s22.e1 9 35
+drug
+/Aluminum-containing Antacid
+DrugDDI.d528.s22.e2 57 67
+drug
+zalcitabine
+DrugDDI.d528.s22.e3 127 135
+drug
+magnesium
+DrugDDI.d528.s22.e4 136 162
+drug
+/aluminum-containing antacid
+
+interaction DrugDDI.d528.s22.e0 DrugDDI.d528.s22.e1 false
+interaction DrugDDI.d528.s22.e0 DrugDDI.d528.s22.e2 false
+interaction DrugDDI.d528.s22.e0 DrugDDI.d528.s22.e3 false
+interaction DrugDDI.d528.s22.e0 DrugDDI.d528.s22.e4 false
+interaction DrugDDI.d528.s22.e1 DrugDDI.d528.s22.e2 false
+interaction DrugDDI.d528.s22.e1 DrugDDI.d528.s22.e3 false
+interaction DrugDDI.d528.s22.e1 DrugDDI.d528.s22.e4 false
+interaction DrugDDI.d528.s22.e2 DrugDDI.d528.s22.e3 true
+interaction DrugDDI.d528.s22.e2 DrugDDI.d528.s22.e4 true
+interaction DrugDDI.d528.s22.e3 DrugDDI.d528.s22.e4 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s23
+The clinical significance of this reduction is not known, hence zalcitabine is not recommended to be ingested simultaneously with magnesium / aluminum-containing antacids .
+
+DrugDDI.d528.s23.e0 54 64
+drug
+zalcitabine
+DrugDDI.d528.s23.e1 111 119
+drug
+magnesium
+DrugDDI.d528.s23.e2 121 147
+drug
+aluminum-containing antacids
+
+interaction DrugDDI.d528.s23.e0 DrugDDI.d528.s23.e1 true
+interaction DrugDDI.d528.s23.e0 DrugDDI.d528.s23.e2 true
+interaction DrugDDI.d528.s23.e1 DrugDDI.d528.s23.e2 false
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s24
+Metoclopramide : Bioavailability is mildly reduced (approximately 10%) when zalcitabine and metoclopramide are coadministered.
+
+DrugDDI.d528.s24.e0 0 13
+drug
+Metoclopramide
+DrugDDI.d528.s24.e1 67 77
+drug
+zalcitabine
+DrugDDI.d528.s24.e2 81 94
+drug
+metoclopramide
+
+interaction DrugDDI.d528.s24.e0 DrugDDI.d528.s24.e1 false
+interaction DrugDDI.d528.s24.e0 DrugDDI.d528.s24.e2 false
+interaction DrugDDI.d528.s24.e1 DrugDDI.d528.s24.e2 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s25
+Doxorubicin : Doxorubicin caused a decrease in zalcitabine phosphorylation ( 50% inhibition of total phosphate formation) in U937/Molt 4 cells.
+
+DrugDDI.d528.s25.e0 0 10
+drug
+Doxorubicin
+DrugDDI.d528.s25.e1 12 22
+drug
+Doxorubicin
+DrugDDI.d528.s25.e2 40 50
+drug
+zalcitabine
+
+interaction DrugDDI.d528.s25.e0 DrugDDI.d528.s25.e1 false
+interaction DrugDDI.d528.s25.e0 DrugDDI.d528.s25.e2 false
+interaction DrugDDI.d528.s25.e1 DrugDDI.d528.s25.e2 true
+
+Abstract Id: DrugDDI.d528
+Sentence Id: DrugDDI.d528.s26
+Although there may be decreased zalcitabine activity because of lessened active metabolite formation, the clinical relevance of these in vitro results are not known.
+
+DrugDDI.d528.s26.e0 27 37
+drug
+zalcitabine
+DrugDDI.d528.s26.e1 63 78
+drug
+active metabolite
+
+interaction DrugDDI.d528.s26.e0 DrugDDI.d528.s26.e1 false
+

@@ -1,0 +1,1240 @@
+Sentence Id: DrugDDI.d201.s5
+Drugs/NNS that/WDT Inhibit/VBP or/CC Induce/VBP Cytochrome/NN P450/NN 3A4/NN Enzymes/NNS Lapatinib/NN undergoes/VBZ extensive/JJ metabolism/NN by/IN CYP3A4/NN ,/, and/CC concomitant/JJ administration/NN of/IN strong/JJ inhibitors/NNS or/CC inducers/NNS of/IN CYP3A4/NN alter/VB lapatinib/NN concentrations/NNS significantly/RB ./.
+
+(ROOT (S1 (S (NP (NP (NNS Drugs)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP Inhibit)) (CC or) (VP (VBP Induce) (NP (NP (NP (NN Cytochrome) (NN P450) (NN 3A4)) (NNS Enzymes)) (S (S (NP (NN Lapatinib)) (VP (VBZ undergoes) (NP (JJ extensive) (NN metabolism)) (PP (IN by) (NP (NN CYP3A4))))) (, ,) (CC and) (S (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (JJ strong) (NNS inhibitors)) (CC or) (NP (NP (NNS inducers)) (PP (IN of) (NP (NN CYP3A4))))))) (VP (VB alter) (NP (NN lapatinib) (NNS concentrations)) (ADVP (RB significantly)))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d201.s6
+Dose/NN adjustment/NN of/IN lapatinib/NN should/MD be/VB considered/VBN for/IN patients/NNS who/WP must/MD receive/VBP concomitant/JJ strong/JJ inhibitors/NNS or/CC concomitant/JJ strong/JJ inducers/NNS of/IN CYP3A4/JJ enzymes/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Dose) (NN adjustment)) (PP (IN of) (NP (NN lapatinib)))) (VP (MD should) (VP (VB be) (VP (VBN considered) (PP (IN for) (NP (NP (NNS patients)) (SBAR (WHNP (WP who)) (S (VP (MD must) (VP (VBP receive) (NP (NP (NP (JJ concomitant) (JJ strong) (NNS inhibitors)) (CC or) (NP (JJ concomitant) (JJ strong) (NNS inducers))) (PP (IN of) (NP (JJ CYP3A4) (NNS enzymes)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d201.s7
+Ketoconazole/NN :/: In/IN healthy/JJ subjects/NNS receiving/VBG ketoconazole/NN ,/, a/DT CYP3A4/NN inhibitor/NN ,/, at/IN 200/CD mg/NN twice/RB daily/RB for/IN 7/CD days/NNS ,/, systemic/JJ exposure/NN (/-LRB- AUC/NN )/-RRB- to/TO lapatinib/NN was/VBD increased/VBN to/TO approximately/RB 3.6-fold/NN of/IN control/NN and/CC half-life/NN increased/VBD to/TO 1.7-fold/NN of/IN control/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Ketoconazole)) (: :) (S (PP (IN In) (NP (NP (JJ healthy) (NNS subjects)) (VP (VBG receiving) (NP (NP (NN ketoconazole)) (, ,) (NP (DT a) (NN CYP3A4) (NN inhibitor)) (, ,)) (PP (IN at) (NP (NP (CD 200) (NN mg)) (ADVP (RB twice) (RB daily) (PP (IN for) (NP (CD 7) (NNS days))))))))) (, ,) (NP (NP (NP (JJ systemic) (NN exposure)) (PRN (-LRB- -LRB-) (NP (NN AUC)) (-RRB- -RRB-))) (PP (TO to) (NP (NN lapatinib)))) (VP (VBD was) (VP (VBN increased) (PP (TO to) (NP (NP (RB approximately) (NN 3.6-fold)) (PP (IN of) (NP (NP (NN control)) (CC and) (NP (NN half-life)))) (VP (VBD increased) (PP (TO to) (NP (NP (NN 1.7-fold)) (PP (IN of) (NP (NN control))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d201.s8
+Carbamazepine/NN :/: In/IN healthy/JJ subjects/NNS receiving/VBG the/DT CYP3A4/NN inducer/NN ,/, carbamazepine/NN ,/, at/IN 100/CD mg/NN twice/RB daily/JJ for/IN 3/CD days/NNS and/CC 200/CD mg/NN twice/RB daily/JJ for/IN 17/CD days/NNS ,/, systemic/JJ exposure/NN (/-LRB- AUC/NN )/-RRB- to/TO lapatinib/NN was/VBD decreased/VBN approximately/RB 72/CD %./NN
+
+(ROOT (S1 (S (NP (NP (NN Carbamazepine)) (: :) (S (PP (IN In) (NP (NP (JJ healthy) (NNS subjects)) (VP (VBG receiving) (NP (NP (DT the) (NN CYP3A4) (NN inducer)) (, ,) (NP (NN carbamazepine)) (, ,)) (PP (IN at) (NP (NP (NP (CD 100) (NN mg)) (ADJP (RB twice) (JJ daily) (PP (IN for) (NP (CD 3) (NNS days))))) (CC and) (NP (NP (CD 200) (NN mg)) (ADJP (RB twice) (JJ daily) (PP (IN for) (NP (CD 17) (NNS days)))))))))) (, ,) (NP (NP (NP (JJ systemic) (NN exposure)) (PRN (-LRB- -LRB-) (NP (NN AUC)) (-RRB- -RRB-))) (PP (TO to) (NP (NN lapatinib)))) (VP (VBD was) (VP (VBN decreased) (NP (QP (RB approximately) (CD 72)) (NN %.)))))))))
+
+Sentence Id: DrugDDI.d201.s9
+Drugs/NNS that/WDT Inhibit/VBP Drug/NN Transport/NN Systems/NNS Lapatinib/NN is/VBZ a/DT substrate/NN of/IN the/DT efflux/NN transporter/NN P-glycoprotein/NN (/-LRB- Pgp/NN ,/, ABCB1/NN )/-RRB- ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP Inhibit) (NP (NP (NN Drug) (NN Transport) (NNS Systems)) (NN Lapatinib)))))) (VP (VBZ is) (NP (NP (DT a) (NN substrate)) (PP (IN of) (NP (NP (DT the) (NN efflux) (NN transporter) (NN P-glycoprotein)) (PRN (-LRB- -LRB-) (NP (NP (NN Pgp)) (, ,) (NP (NN ABCB1))) (-RRB- -RRB-))))))) (. .))))
+
+Sentence Id: DrugDDI.d201.s10
+If/IN TYKERB/NN is/VBZ administered/VBN with/IN drugs/NNS that/WDT inhibit/VBP Pgp/NN ,/, increased/VBN concentrations/NNS of/IN lapatinib/NN are/VBP likely/JJ ,/, and/CC caution/NN should/MD be/VB exercised/VBN ./.
+
+(ROOT (S1 (S (S (SBAR (IN If) (S (NP (NN TYKERB)) (VP (VBZ is) (VP (VBN administered) (PP (IN with) (NP (NP (NNS drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP inhibit) (NP (NN Pgp))))))))))) (, ,) (S (S (NP (NP (VBN increased) (NNS concentrations)) (PP (IN of) (NP (NN lapatinib)))) (VP (VBP are) (ADJP (JJ likely)))) (, ,) (CC and) (S (NP (NN caution)) (VP (MD should) (VP (VB be) (VP (VBN exercised))))))) (. .))))
+
+Sentence Id: DrugDDI.d201.s11
+Other/JJ Chemotherapy/NN Agents/NNS :/: In/IN a/DT separate/JJ study/NN ,/, concomitant/JJ administration/NN of/IN lapatinib/NN with/IN capecitabine/NN did/VBD not/RB meaningfully/RB alter/VB the/DT pharmacokinetics/NNS of/IN either/DT agent/NN (/-LRB- or/CC the/DT metabolites/NNS of/IN capecitabine/NN )/-RRB- ./.
+
+(ROOT (S1 (S (NP (NP (JJ Other) (NN Chemotherapy) (NNS Agents)) (: :) (S (PP (IN In) (NP (DT a) (JJ separate) (NN study))) (, ,) (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NN lapatinib))) (PP (IN with) (NP (NN capecitabine)))) (VP (VBD did) (RB not) (ADVP (RB meaningfully)) (VP (VB alter) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (DT either) (NN agent)))) (PRN (-LRB- -LRB-) (CC or) (NP (NP (DT the) (NNS metabolites)) (PP (IN of) (NP (NN capecitabine)))) (-RRB- -RRB-))))) (. .)))))
+
+Sentence Id: DrugDDI.d581.s0
+Cholestyramine/NN and/CC Charcoal/NN Administration/NN of/IN cholestyramine/NN or/CC activated/VBN charcoal/NN in/IN patients/NNS (/-LRB- n=13/NN )/-RRB- and/CC volunteers/NNS (/-LRB- n=96/CD )/-RRB- resulted/VBD in/IN a/DT rapid/JJ and/CC significant/JJ decrease/NN in/IN plasma/NN M1/NN (/-LRB- the/DT active/JJ metabolite/NN of/IN leflunomide/NN )/-RRB- concentration/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (NN Cholestyramine)) (CC and) (NP (NN Charcoal) (NN Administration))) (PP (IN of) (NP (NP (NN cholestyramine)) (CC or) (NP (VBN activated) (NN charcoal)))) (PP (IN in) (NP (NP (NP (NNS patients)) (PRN (-LRB- -LRB-) (NP (NN n=13)) (-RRB- -RRB-))) (CC and) (NP (NP (NNS volunteers)) (PRN (-LRB- -LRB-) (NP (CD n=96)) (-RRB- -RRB-)))))) (VP (VBD resulted) (PP (IN in) (NP (NP (DT a) (ADJP (ADJP (JJ rapid)) (CC and) (ADJP (JJ significant))) (NN decrease)) (PP (IN in) (NP (NN plasma) (NP (NP (NN M1)) (PRN (-LRB- -LRB-) (NP (NP (DT the) (JJ active) (NN metabolite)) (PP (IN of) (NP (NN leflunomide)))) (-RRB- -RRB-))) (NN concentration))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s1
+Hepatotoxic/JJ Drugs/NNS Increased/VBN side/NN effects/NNS may/MD occur/VB when/WRB leflunomide/NN is/VBZ given/VBN concomitantly/RB with/IN hepatotoxic/JJ substances/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Hepatotoxic) (NNS Drugs)) (VBN Increased) (NN side) (NNS effects)) (VP (MD may) (VP (VB occur) (SBAR (WHADVP (WRB when)) (S (NP (NN leflunomide)) (VP (VBZ is) (VP (VBN given) (ADVP (RB concomitantly)) (PP (IN with) (NP (JJ hepatotoxic) (NNS substances)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s2
+This/DT is/VBZ also/RB to/TO be/VB considered/VBN when/WRB leflunomide/NN treatment/NN is/VBZ followed/VBN by/IN such/JJ drugs/NNS without/IN a/DT drug/NN elimination/NN procedure/NN ./.
+
+(ROOT (S1 (S (S (NP (DT This)) (VP (VBZ is) (ADVP (RB also)) (S (VP (TO to) (VP (VB be) (VP (VBN considered) (SBAR (WHADVP (WRB when)) (S (NP (NN leflunomide) (NN treatment)) (VP (VBZ is) (VP (VBN followed) (PP (IN by) (NP (JJ such) (NNS drugs))) (PP (IN without) (NP (DT a) (NN drug) (NN elimination) (NN procedure))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s3
+In/IN a/DT small/JJ (/-LRB- n=30/NN )/-RRB- combination/NN study/NN of/IN ARAVA/NN with/IN methotrexate/NN ,/, a/DT 2-/CD to/TO 3-fold/JJ elevation/NN in/IN liver/NN enzymes/NNS was/VBD seen/VBN in/IN 5/CD of/IN 30/CD patients/NNS ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (NP (DT a) (ADJP (ADJP (JJ small)) (PRN (-LRB- -LRB-) (NP (NN n=30)) (-RRB- -RRB-))) (NN combination) (NN study)) (PP (IN of) (NP (NN ARAVA))) (PP (IN with) (NP (NN methotrexate))))) (, ,) (NP (NP (DT a) (ADJP (CD 2-) (TO to) (JJ 3-fold)) (NN elevation)) (PP (IN in) (NP (NN liver) (NNS enzymes)))) (VP (VBD was) (VP (VBN seen) (PP (IN in) (NP (NP (CD 5)) (PP (IN of) (NP (CD 30) (NNS patients)))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s4
+All/DT elevations/NNS resolved/VBN ,/, 2/CD with/IN continuation/NN of/IN both/DT drugs/NNS and/CC 3/CD after/IN discontinuation/NN of/IN leflunomide/NN ./.
+
+(ROOT (S1 (S (S (NP (DT All) (NNS elevations)) (VP (VBN resolved) (, ,) (NP (NP (NP (CD 2)) (PP (IN with) (NP (NP (NN continuation)) (PP (IN of) (NP (DT both) (NNS drugs)))))) (CC and) (NP (NP (CD 3)) (PP (IN after) (NP (NP (NN discontinuation)) (PP (IN of) (NP (NN leflunomide))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s6
+All/DT of/IN these/DT also/RB resolved/VBN ,/, 2/CD with/IN continuation/NN of/IN both/DT drugs/NNS and/CC 3/CD after/IN discontinuation/NN of/IN leflunomide/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT All)) (PP (IN of) (NP (DT these)))) (ADVP (RB also)) (VP (VBN resolved) (, ,) (NP (NP (NP (CD 2)) (PP (IN with) (NP (NP (NN continuation)) (PP (IN of) (NP (DT both) (NNS drugs)))))) (CC and) (NP (NP (CD 3)) (PP (IN after) (NP (NP (NN discontinuation)) (PP (IN of) (NP (NN leflunomide))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s7
+Three/CD patients/NNS met/NN ACR/NN criteria/NNS for/IN liver/NN biopsy/NN (/-LRB- 1/CD :/: Roegnik/NNP Grade/NN I/CD ,/, 2/CD :/: Roegnik/NNP Grade/NN IIIa/NN )./NN
+
+(ROOT (S1 (S (NP (NP (NP (CD Three) (NNS patients) (NN met) (NN ACR) (NNS criteria)) (PP (IN for) (NP (NN liver) (NN biopsy)))) (-LRB- -LRB-) (NP (CD 1) (: :) (NP (NP (NNP Roegnik)) (NP (NN Grade) (CD I) (, ,) (CD 2))) (: :) (NP (NP (NNP Roegnik)) (NP (NN Grade) (NN IIIa) (NN -RRB-.))))))))
+
+Sentence Id: DrugDDI.d581.s9
+NSAIDs/NNS :/: In/IN in/FW vitro/FW studies/NNS ,/, M1/NN was/VBD shown/VBN to/TO cause/VB increases/NNS ranging/VBG from/IN 13/CD -/CC 50/CD %/NN in/IN the/DT free/JJ fraction/NN of/IN diclofenac/NN and/CC ibuprofen/NN at/IN concentrations/NNS in/IN the/DT clinical/JJ range/NN ./.
+
+(ROOT (S1 (S (NP (NP (NNS NSAIDs)) (: :) (S (PP (IN In) (NP (ADJP (FW in) (FW vitro)) (NNS studies))) (, ,) (NP (NN M1)) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB cause) (NP (NP (NNS increases)) (VP (VBG ranging) (PP (IN from) (NP (QP (CD 13) (CC -) (CD 50)) (NN %))) (PP (IN in) (NP (NP (DT the) (JJ free) (NN fraction)) (PP (IN of) (NP (NP (NP (NN diclofenac)) (CC and) (NP (NN ibuprofen))) (PP (IN at) (NP (NP (NNS concentrations)) (PP (IN in) (NP (DT the) (JJ clinical) (NN range))))))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d581.s11
+however/RB ,/, there/EX was/VBD extensive/JJ concomitant/JJ use/NN of/IN NSAIDs/NN in/IN clinical/JJ studies/NNS and/CC no/DT differential/JJ effect/NN was/VBD observed/VBN ./.
+
+(ROOT (S1 (S (S (ADVP (RB however)) (, ,) (S (NP (EX there)) (VP (VBD was) (NP (NP (JJ extensive) (JJ concomitant) (NN use)) (PP (IN of) (NP (NN NSAIDs))) (PP (IN in) (NP (JJ clinical) (NNS studies)))))) (CC and) (S (NP (DT no) (JJ differential) (NN effect)) (VP (VBD was) (VP (VBN observed))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s12
+Tolbutamide/NN :/: In/IN in/FW vitro/FW studies/NNS ,/, M1/NN was/VBD shown/VBN to/TO cause/VB increases/NNS ranging/VBG from/IN 13/CD -/CC 50/CD %/NN in/IN the/DT free/JJ fraction/NN of/IN tolbutamide/NN at/IN concentrations/NNS in/IN the/DT clinical/JJ range/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Tolbutamide)) (: :) (S (PP (IN In) (NP (ADJP (FW in) (FW vitro)) (NNS studies))) (, ,) (NP (NN M1)) (VP (VBD was) (VP (VBN shown) (S (VP (TO to) (VP (VB cause) (NP (NP (NNS increases)) (VP (VBG ranging) (PP (IN from) (NP (QP (CD 13) (CC -) (CD 50)) (NN %))) (PP (IN in) (NP (NP (DT the) (JJ free) (NN fraction)) (PP (IN of) (NP (NN tolbutamide))))) (PP (IN at) (NP (NP (NNS concentrations)) (PP (IN in) (NP (DT the) (JJ clinical) (NN range))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d581.s14
+Rifampin/NN Following/VBG concomitant/JJ administration/NN of/IN a/DT single/JJ dose/NN of/IN ARAVA/NN to/TO subjects/NNS receiving/VBG multiple/JJ doses/NNS of/IN rifampin/NN ,/, M1/NN peak/NN levels/NNS were/VBD increased/VBN (/-LRB- ~40/CD %/NN )/-RRB- over/IN those/DT seen/VBN when/WRB ARAVA/NN was/VBD given/VBN alone/RB ./.
+
+(ROOT (S1 (S (S (S (NP (NN Rifampin)) (VP (VBG Following) (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (DT a) (JJ single) (NN dose)) (PP (IN of) (NP (NN ARAVA)))))) (PP (TO to) (NP (NP (NNS subjects)) (VP (VBG receiving) (NP (NP (JJ multiple) (NNS doses)) (PP (IN of) (NP (NN rifampin))))))))) (, ,) (S (NP (NN M1) (NN peak) (NNS levels)) (VP (VBD were) (VP (VBN increased) (PRN (-LRB- -LRB-) (NP (CD ~40) (NN %)) (-RRB- -RRB-)) (PP (IN over) (NP (NP (DT those)) (VP (VBN seen) (SBAR (WHADVP (WRB when)) (S (NP (NN ARAVA)) (VP (VBD was) (VP (VBN given) (ADVP (RB alone))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s15
+Because/IN of/IN the/DT potential/NN for/IN ARAVA/NN levels/NNS to/TO continue/VBP to/TO increase/VB with/IN multiple/JJ dosing/NN ,/, caution/NN should/MD be/VB used/VBN if/IN patients/NNS are/VBP to/TO be/VB receiving/VBG both/CC ARAVA/NN and/CC rifampin/NN ./.
+
+(ROOT (S1 (S (S (PP (IN Because) (PP (IN of) (NP (NP (DT the) (NN potential)) (PP (IN for) (NP (NN ARAVA) (NNS levels))) (S (VP (TO to) (VP (VBP continue) (S (VP (TO to) (VP (VB increase) (PP (IN with) (NP (JJ multiple) (NN dosing)))))))))))) (, ,) (NP (NN caution)) (VP (MD should) (VP (VB be) (VP (VBN used) (SBAR (IN if) (S (NP (NNS patients)) (VP (VBP are) (S (VP (TO to) (VP (VB be) (VP (VBG receiving) (NP (CC both) (NP (NN ARAVA)) (CC and) (NP (NN rifampin)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d581.s16
+Warfarin/JJ Increased/VBN INR/NN (/-LRB- International/NNP Normalized/VBN Ratio/NN )/-RRB- when/WRB ARAVA/NN and/CC warfarin/NN were/VBD co-administered/VBN has/VBZ been/VBN rarely/RB reported/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (JJ Warfarin) (VBN Increased) (NN INR)) (PRN (-LRB- -LRB-) (NP (NP (NNP International)) (VBN Normalized) (NN Ratio)) (-RRB- -RRB-))) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN ARAVA)) (CC and) (NP (NN warfarin))) (VP (VBD were) (VP (VBN co-administered)))))) (VP (VBZ has) (VP (VBN been) (ADVP (RB rarely)) (VP (VBN reported))))) (. .))))
+
+Sentence Id: DrugDDI.d379.s0
+Clinical/JJ interaction/NN studies/NNS with/IN cimetidine/NN and/CC warfarin/NN indicated/VBD that/IN the/DT coadministration/NN of/IN Femara/NN with/IN these/DT drugs/NNS does/VBZ not/RB result/VB in/IN clinically-/JJ significant/JJ drug/NN interactions/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Clinical) (NN interaction) (NNS studies)) (PP (IN with) (NP (NP (NN cimetidine)) (CC and) (NP (NN warfarin))))) (VP (VBD indicated) (SBAR (IN that) (S (NP (NP (DT the) (NN coadministration)) (PP (IN of) (NP (NN Femara))) (PP (IN with) (NP (DT these) (NNS drugs)))) (VP (VBZ does) (RB not) (VP (VB result) (PP (IN in) (NP (JJ clinically-) (JJ significant) (NN drug) (NNS interactions))))))))) (. .))))
+
+Sentence Id: DrugDDI.d379.s1
+(/-LRB- See/VB CLINICAL/JJ PHARMACOLOGY/NN )/-RRB- Coadministration/NN of/IN Femara/NN and/CC tamoxifen/NN 20/CD mg/NN daily/RB resulted/VBD in/IN a/DT reduction/NN of/IN letrozole/NN plasma/NN levels/NNS by/IN 38/CD %/NN on/IN average/NN ./.
+
+(ROOT (S1 (S (NP (NP (S (-LRB- -LRB-) (VP (VB See) (NP (JJ CLINICAL) (NN PHARMACOLOGY))) (-RRB- -RRB-)) (NP (NN Coadministration)) (PP (IN of) (NP (NN Femara)))) (CC and) (NP (NP (NN tamoxifen) (CD 20) (NN mg)) (ADVP (RB daily)))) (VP (VBD resulted) (PP (IN in) (NP (NP (DT a) (NN reduction)) (PP (IN of) (NP (NN letrozole) (NN plasma) (NNS levels))) (PP (IN by) (NP (NP (CD 38) (NN %)) (PP (IN on) (NP (NN average)))))))) (. .))))
+
+Sentence Id: DrugDDI.d379.s2
+There/EX is/VBZ no/DT clinical/JJ experience/VBP to/TO date/VB on/IN the/DT use/NN of/IN Femara/NN in/IN combination/NN with/IN other/JJ anticancer/JJ agents/NNS ./.
+
+(ROOT (S1 (S (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (JJ clinical) (VBP experience)) (S (VP (TO to) (VP (VB date) (PP (IN on) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NN Femara))) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (JJ other) (JJ anticancer) (NNS agents))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d379.s3
+Drug/NN /Laboratory/NN Test-Interactions/NN None/NN observed/VBN ./.
+
+(ROOT (S1 (S (S (NP (NN Drug) (NN /Laboratory) (NN Test-Interactions) (NN None)) (VP (VBN observed))) (. .))))
+
+Sentence Id: DrugDDI.d341.s0
+Folic/JJ acid/NN in/IN large/JJ amounts/NNS may/MD counteract/VB the/DT antiepileptic/JJ effect/NN of/IN phenobarbital/NN ,/, phenytoin/NN and/CC primidone/NN ,/, and/CC increase/VB the/DT frequency/NN of/IN seizures/NNS in/IN susceptible/JJ pediatric/JJ patients/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Folic) (NN acid)) (PP (IN in) (NP (JJ large) (NNS amounts)))) (VP (MD may) (VP (VP (VB counteract) (NP (NP (DT the) (JJ antiepileptic) (NN effect)) (PP (IN of) (NP (NP (NN phenobarbital)) (, ,) (NP (NN phenytoin)) (CC and) (NP (NN primidone)))))) (, ,) (CC and) (VP (VB increase) (NP (NP (DT the) (NN frequency)) (PP (IN of) (NP (NNS seizures))) (PP (IN in) (NP (JJ susceptible) (JJ pediatric) (NNS patients)))))))) (. .))))
+
+Sentence Id: DrugDDI.d341.s1
+Preliminary/JJ animal/JJ and/CC human/JJ studies/NNS have/VBP shown/VBN that/IN small/JJ quantities/NNS of/IN systemically/RB administered/VBN leucovorin/NN enter/VBP the/DT CSF/NN primarily/RB as/IN 5-methyltetrahydro-folate/NN and/CC ,/, in/IN humans/NNS ,/, remain/VBP 1/CD to/TO 3/CD orders/NNS of/IN magnitude/NN lower/JJR than/IN the/DT usual/JJ methotrexate/NN concentrations/NNS following/VBG intrathecal/JJ administration/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Preliminary) (ADJP (ADJP (JJ animal)) (CC and) (ADJP (JJ human))) (NNS studies)) (VP (VBP have) (VP (VBN shown) (PP (IN that) (S (NP (NP (JJ small) (NNS quantities)) (PP (IN of) (NP (ADJP (RB systemically) (VBN administered)) (NN leucovorin)))) (VP (VP (VBP enter) (NP (DT the) (NN CSF)) (PP (ADVP (RB primarily)) (IN as) (NP (NN 5-methyltetrahydro-folate)))) (CC and) (, ,) (PP (IN in) (NP (NNS humans))) (, ,) (VP (VBP remain) (NP (NP (QP (CD 1) (TO to) (CD 3)) (NNS orders)) (PP (IN of) (NP (NN magnitude))) (ADJP (JJR lower) (PP (IN than) (NP (NP (DT the) (JJ usual) (NN methotrexate) (NNS concentrations)) (VP (VBG following) (NP (JJ intrathecal) (NN administration)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d341.s2
+However/RB ,/, high/JJ doses/NNS of/IN leucovorin/NN may/MD reduce/VB the/DT efficacy/NN of/IN intrathecally/RB administered/VBN methotrexate/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB However)) (, ,) (NP (NP (JJ high) (NNS doses)) (PP (IN of) (NP (NN leucovorin)))) (VP (MD may) (VP (VB reduce) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (ADJP (RB intrathecally) (VBN administered)) (NN methotrexate))))))) (. .))))
+
+Sentence Id: DrugDDI.d341.s3
+Leucovorin/NN may/MD enhance/VB the/DT toxicity/NN of/IN 5-/CD fluorouracil/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Leucovorin)) (VP (MD may) (VP (VB enhance) (NP (NP (DT the) (NN toxicity)) (PP (IN of) (NP (CD 5-) (NN fluorouracil))))))) (. .))))
+
+Sentence Id: DrugDDI.d484.s0
+Although/IN BETAGAN/NN used/VBN alone/RB has/VBZ little/JJ or/CC no/DT effect/NN on/IN pupil/NN size/NN ,/, mydriasis/NNS resulting/VBG from/IN concomitant/JJ therapy/NN with/IN BETAGAN/NN and/CC epinephrine/NN may/MD occur/VB ./.
+
+(ROOT (S1 (S (S (SBAR (IN Although) (S (NP (NP (NN BETAGAN)) (VP (VBN used) (ADVP (RB alone)))) (VP (VBZ has) (NP (NP (ADJP (JJ little))) (CC or) (NP (NP (DT no) (NN effect)) (PP (IN on) (NP (NN pupil) (NN size)))))))) (, ,) (NP (NP (NNS mydriasis)) (VP (VBG resulting) (PP (IN from) (NP (NP (JJ concomitant) (NN therapy)) (PP (IN with) (NP (NP (NN BETAGAN)) (CC and) (NP (NN epinephrine)))))))) (VP (MD may) (VP (VB occur)))) (. .))))
+
+Sentence Id: DrugDDI.d484.s1
+Close/JJ observation/NN of/IN the/DT patient/NN is/VBZ recommended/VBN when/WRB a/DT beta-blocker/NN is/VBZ administered/VBN to/TO patients/NNS receiving/VBG catecholamine-depleting/JJ drugs/NNS such/JJ as/IN reserpine/NN ,/, because/IN of/IN possible/JJ additive/JJ effects/NNS and/CC the/DT production/NN of/IN hypotension/NN and/or/CC marked/JJ bradycardia/NN ,/, which/WDT may/MD produce/VB vertigo/NN ,/, syncope/NN or/CC postural/JJ hypotension/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Close) (NN observation)) (PP (IN of) (NP (DT the) (NN patient)))) (VP (VBZ is) (VP (VBN recommended) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN beta-blocker)) (VP (VBZ is) (VP (VBN administered) (PP (TO to) (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NP (JJ catecholamine-depleting) (NNS drugs)) (PP (JJ such) (IN as) (NP (NN reserpine))) (, ,) (PP (IN because) (PP (IN of) (NP (NP (JJ possible) (JJ additive) (NNS effects)) (CC and) (NP (NP (DT the) (NN production)) (PP (IN of) (NP (NP (NN hypotension)) (CC and/or) (NP (JJ marked) (NN bradycardia)))))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB produce) (NP (NP (NN vertigo)) (, ,) (NP (NN syncope)) (CC or) (NP (JJ postural) (NN hypotension)))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d484.s2
+Patients/NNS receiving/VBG beta-adrenergic/JJ blocking/NN agents/NNS along/IN with/IN either/CC oral/JJ or/CC intravenous/JJ calcium/NN antagonist/NN s/NN should/MD be/VB monitored/VBN for/IN possible/JJ atrioventricular/JJ conduction/NN disturbances/NNS ,/, left/JJ ventricular/NN failure/NN and/CC hypotension/NN ./.
+
+(ROOT (S1 (S (NP (NP (NNS Patients)) (VP (VBG receiving) (NP (JJ beta-adrenergic) (NN blocking) (NNS agents)) (PP (IN along) (PP (IN with) (NP (ADJP (CC either) (ADJP (JJ oral)) (CC or) (ADJP (JJ intravenous))) (NN calcium) (NN antagonist) (NN s)))))) (VP (MD should) (VP (VB be) (VP (VBN monitored) (PP (IN for) (NP (NP (JJ possible) (JJ atrioventricular) (NN conduction) (NNS disturbances)) (, ,) (NP (NP (JJ left) (NN ventricular)) (NN failure)) (CC and) (NP (NN hypotension))))))) (. .))))
+
+Sentence Id: DrugDDI.d484.s4
+The/DT concomitant/JJ use/NN of/IN beta-adrenergic/JJ blocking/NN agents/NNS with/IN digitalis/NN and/CC calcium/NN antagonist/NN s/NN may/MD have/VB additive/JJ effects/NNS on/IN prolonging/VBG atrioventricular/JJ conduction/NN time/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (JJ concomitant) (NN use)) (PP (IN of) (NP (NP (JJ beta-adrenergic) (NN blocking) (NNS agents)) (PP (IN with) (NP (NP (NN digitalis)) (CC and) (NP (NN calcium) (NN antagonist) (NN s))))))) (VP (MD may) (VP (VB have) (NP (JJ additive) (NNS effects)) (PP (IN on) (S (VP (VBG prolonging) (NP (JJ atrioventricular) (NN conduction) (NN time)))))))) (. .))))
+
+Sentence Id: DrugDDI.d484.s5
+Phenothiazine/JJ -related/JJ compounds/NNS and/CC beta-adrenergic/JJ blocking/NN agents/NNS may/MD have/VB additive/JJ hypotensite/JJ effects/NNS due/JJ to/TO the/DT inhibition/NN of/IN each/DT other/JJ @/NN s/NN metabolism/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Phenothiazine) (JJ -related) (NNS compounds)) (CC and) (NP (JJ beta-adrenergic) (NN blocking) (NNS agents))) (VP (MD may) (VP (VB have) (NP (JJ additive) (JJ hypotensite) (NNS effects)) (PP (JJ due) (TO to) (NP (NP (DT the) (NN inhibition)) (PP (IN of) (NP (DT each) (JJ other) (NN @) (NN s) (NN metabolism)))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s0
+No/DT significant/JJ drug-drug/JJ pharmacokinetic/JJ interactions/NNS have/VBP been/VBN found/VBN in/IN interaction/NN studies/NNS with/IN hydrochlorothiazide/NN ,/, digoxin/NN ,/, warfarin/NN ,/, cimetidine/NN and/CC phenobarbital/NN ./.
+
+(ROOT (S1 (S (S (NP (DT No) (JJ significant) (JJ drug-drug) (JJ pharmacokinetic) (NNS interactions)) (VP (VBP have) (VP (VBN been) (VP (VBN found) (PP (IN in) (NP (NP (NN interaction) (NNS studies)) (PP (IN with) (NP (NP (NN hydrochlorothiazide)) (, ,) (NP (NN digoxin)) (, ,) (NP (NN warfarin)) (, ,) (NP (NN cimetidine)) (CC and) (NP (NN phenobarbital)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s1
+Rifampin/NN ,/, an/DT inducer/NN of/IN drug/NN metabolism/NN ,/, decreased/VBD the/DT concentrations/NNS of/IN losartan/NN and/CC its/PRP$ active/JJ metabolite/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Rifampin)) (, ,) (NP (NP (DT an) (NN inducer)) (PP (IN of) (NP (NN drug) (NN metabolism)))) (, ,)) (VP (VBD decreased) (NP (NP (DT the) (NNS concentrations)) (PP (IN of) (NP (NP (NN losartan)) (CC and) (NP (PRP$ its) (JJ active) (NN metabolite))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s2
+In/IN humans/NNS ,/, two/CD inhibitors/NNS of/IN P450/NN 3A4/NN have/VBP been/VBN studied/VBN ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (NNS humans))) (, ,) (NP (NP (CD two) (NNS inhibitors)) (PP (IN of) (NP (NN P450) (NN 3A4)))) (VP (VBP have) (VP (VBN been) (VP (VBN studied))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s3
+Ketoconazole/NN did/VBD not/RB affect/VB the/DT conversion/NN of/IN losartan/NN to/TO the/DT active/JJ metabolite/NN after/IN intravenous/JJ administration/NN of/IN losartan/NN ,/, and/CC erythromycin/NN had/VBD no/DT clinically/RB significant/JJ effect/NN after/IN oral/JJ administration/NN ./.
+
+(ROOT (S1 (S (S (S (NP (NN Ketoconazole)) (VP (VBD did) (RB not) (VP (VB affect) (NP (NP (DT the) (NN conversion)) (PP (IN of) (NP (NN losartan))) (PP (TO to) (NP (NP (DT the) (JJ active) (NN metabolite)) (PP (IN after) (NP (NP (JJ intravenous) (NN administration)) (PP (IN of) (NP (NN losartan))))))))))) (, ,) (CC and) (S (NP (NN erythromycin)) (VP (VBD had) (NP (DT no) (ADJP (RB clinically) (JJ significant)) (NN effect)) (PP (IN after) (NP (JJ oral) (NN administration)))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s4
+Fluconazole/NN ,/, an/DT inhibitor/NN of/IN P450/NN 2C9/NNS ,/, decreased/VBD active/JJ metabolite/NN concentration/NN and/CC increased/VBD losartan/NN concentration/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Fluconazole)) (, ,) (NP (NP (DT an) (NN inhibitor)) (PP (IN of) (NP (NN P450) (NNS 2C9)))) (, ,)) (VP (VP (VBD decreased) (NP (JJ active) (NN metabolite) (NN concentration))) (CC and) (VP (VBD increased) (NP (NN losartan) (NN concentration))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s5
+The/DT pharmacodynamic/JJ consequences/NNS of/IN concomitant/JJ use/NN of/IN losartan/NN and/CC inhibitors/NNS of/IN P450/NN 2C9/NNS have/VBP not/RB been/VBN examined/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (JJ pharmacodynamic) (NNS consequences)) (PP (IN of) (NP (NP (JJ concomitant) (NN use)) (PP (IN of) (NP (NP (NN losartan)) (CC and) (NP (NP (NNS inhibitors)) (PP (IN of) (NP (NN P450) (NNS 2C9))))))))) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN examined))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s6
+Subjects/NNS who/WP do/VBP not/RB metabolize/VB losartan/NN to/TO active/JJ metabolite/NN have/VBP been/VBN shown/VBN to/TO have/VB a/DT specific/JJ ,/, rare/JJ defect/NN in/IN cytochrome/NN P450/NN 2C9/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Subjects)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB not) (VP (VB metabolize) (NP (NP (NN losartan)) (PP (TO to) (NP (JJ active) (NN metabolite))))))))) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB have) (NP (DT a) (ADJP (ADJP (JJ specific)) (, ,) (ADJP (JJ rare))) (NN defect)) (PP (IN in) (NP (NN cytochrome) (NN P450) (NN 2C9)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s7
+These/DT data/NNS suggest/VBP that/IN the/DT conversion/NN of/IN losartan/NN to/TO its/PRP$ active/JJ metabolite/NN is/VBZ mediated/VBN primarily/RB by/IN P450/NN 2C9/NN and/CC not/RB P450/NN 3A4/NN ./.
+
+(ROOT (S1 (S (S (NP (DT These) (NNS data)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (DT the) (NN conversion)) (PP (IN of) (NP (NN losartan))) (PP (TO to) (NP (PRP$ its) (JJ active) (NN metabolite)))) (VP (VP (VBZ is) (VP (VBN mediated) (ADVP (RB primarily)) (PP (IN by) (NP (NN P450) (NN 2C9))))) (CC and) (VP (ADVP (RB not)) (NP (NN P450) (NN 3A4)))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s8
+As/IN with/IN other/JJ drugs/NNS that/WDT block/VBP angiotensin/NN II/CD or/CC its/PRP$ effects/NNS ,/, concomitant/JJ use/NN of/IN potassium-sparing/JJ diuretics/NNS (/-LRB- e.g./FW ,/, spironolactone/NN ,/, triamterene/NN ,/, amiloride/NN )/-RRB- ,/, potassium/NN supplement/NN s/NNS ,/, or/CC salt/NN substitutes/VBZ containing/VBG potassium/NN may/MD lead/VB to/TO increases/NNS in/IN serum/NN potassium/NN ./.
+
+(ROOT (S1 (S (PP (IN As) (PP (IN with) (NP (NP (JJ other) (NNS drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP block) (NP (NP (NN angiotensin) (CD II)) (CC or) (NP (PRP$ its) (NNS effects))))))))) (, ,) (NP (NP (JJ concomitant) (NN use)) (PP (IN of) (NP (NP (NP (JJ potassium-sparing) (NNS diuretics)) (PRN (-LRB- -LRB-) (PP (FW e.g.) (, ,) (NP (NP (NN spironolactone)) (, ,) (NP (NN triamterene)) (, ,) (NP (NN amiloride)))) (-RRB- -RRB-))) (, ,) (NP (NN potassium) (NN supplement) (NNS s)) (, ,) (CC or) (NP (NP (NN salt) (VBZ substitutes)) (VP (VBG containing) (NP (NN potassium))))))) (VP (MD may) (VP (VB lead) (PP (TO to) (NP (NP (NNS increases)) (PP (IN in) (NP (NN serum) (NN potassium))))))) (. .))))
+
+Sentence Id: DrugDDI.d112.s9
+As/IN with/IN other/JJ antihypertensive/JJ agents/NNS ,/, the/DT antihypertensive/JJ effect/NN of/IN losartan/NN may/MD be/VB blunted/VBN by/IN the/DT non-steroidal/JJ anti-inflammatory/JJ drug/NN indomethacin/NN ./.
+
+(ROOT (S1 (S (S (PP (IN As) (PP (IN with) (NP (JJ other) (JJ antihypertensive) (NNS agents)))) (, ,) (NP (NP (DT the) (JJ antihypertensive) (NN effect)) (PP (IN of) (NP (NN losartan)))) (VP (MD may) (VP (VB be) (VP (VBN blunted) (PP (IN by) (NP (NP (DT the) (JJ non-steroidal) (JJ anti-inflammatory) (NN drug)) (NN indomethacin))))))) (. .))))
+
+Sentence Id: DrugDDI.d464.s0
+When/WRB administered/VBN concurrently/RB ,/, the/DT following/VBG drugs/NNS may/MD interact/VB with/IN beta-adrenergic/JJ receptor/NN blocking/NN agents/NNS :/: Anesthetics/NN ,/, general/JJ :/: exaggeration/NN of/IN the/DT hypotension/NN induced/VBN by/IN general/JJ anesthetics/NNS ./.
+
+(ROOT (S1 (S (S (SBAR (WHADVP (WRB When)) (S (VP (VBN administered) (ADVP (RB concurrently))))) (, ,) (NP (DT the) (VBG following) (NNS drugs)) (VP (MD may) (VP (VB interact) (PP (IN with) (NP (NP (JJ beta-adrenergic) (NN receptor) (NN blocking) (NNS agents)) (: :) (NP (NP (NN Anesthetics)) (, ,) (NP (ADJP (JJ general))) (: :) (NP (NP (NN exaggeration)) (PP (IN of) (NP (NP (DT the) (NN hypotension)) (VP (VBN induced) (PP (IN by) (NP (JJ general) (NNS anesthetics))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d464.s1
+Antidiabetic/JJ drugs/NNS (/-LRB- oral/JJ agents/NNS and/CC insulin/NN )/-RRB- :/: hypoglycemia/NN or/CC hyperglycemia/NN ;/: ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (JJ Antidiabetic) (NNS drugs)) (PRN (-LRB- -LRB-) (NP (NP (JJ oral) (NNS agents)) (CC and) (NP (NN insulin))) (-RRB- -RRB-))) (: :) (NP (NP (NN hypoglycemia)) (CC or) (NP (NN hyperglycemia))) (: ;))) (. .))))
+
+Sentence Id: DrugDDI.d464.s2
+adjust/VB dosage/NN of/IN antidiabetic/JJ drug/NN accordingly/RB ./.
+
+(ROOT (S1 (S (S (VP (VB adjust) (NP (NP (NN dosage)) (PP (IN of) (NP (JJ antidiabetic) (NN drug)))) (ADVP (RB accordingly)))) (. .))))
+
+Sentence Id: DrugDDI.d464.s3
+Catecholamine-depleting/JJ drugs/NNS (/-LRB- e.g./FW ,/, reserpine/NN )/-RRB- :/: additive/JJ effect/NN ;/: ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Catecholamine-depleting) (NNS drugs)) (PRN (-LRB- -LRB-) (PP (FW e.g.) (, ,) (NP (NN reserpine))) (-RRB- -RRB-))) (: :) (NP (JJ additive) (NN effect)) (: ;)) (. .))))
+
+Sentence Id: DrugDDI.d464.s5
+Response/NN to/TO Treatment/NN for/IN Anaphylactic/JJ Reaction/NN :/: While/IN taking/VBG beta-blockers/NN ,/, patients/NNS with/IN a/DT history/NN of/IN severe/JJ anaphylactic/JJ reaction/NN to/TO a/DT variety/NN of/IN allergens/NNS may/MD be/VB more/RBR reactive/JJ to/TO repeated/JJ challenge/NN ,/, either/CC accidental/JJ ,/, diagnostic/JJ ,/, or/CC therapeutic/JJ ./.
+
+(ROOT (S1 (S (NP (NP (NP (NN Response)) (PP (TO to) (NP (NP (NN Treatment)) (PP (IN for) (NP (JJ Anaphylactic) (NN Reaction)))))) (: :) (S (SBAR (IN While) (S (VP (VBG taking) (NP (NN beta-blockers))))) (, ,) (NP (NP (NNS patients)) (PP (IN with) (NP (NP (DT a) (NN history)) (PP (IN of) (NP (NP (JJ severe) (JJ anaphylactic) (NN reaction)) (PP (TO to) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS allergens)))))))))) (VP (MD may) (VP (VB be) (ADJP (ADJP (RBR more) (JJ reactive) (PP (TO to) (NP (JJ repeated) (NN challenge)))) (, ,) (CC either) (ADJP (JJ accidental)) (, ,) (ADJP (JJ diagnostic)) (, ,) (CC or) (ADJP (JJ therapeutic)))))) (. .)))))
+
+Sentence Id: DrugDDI.d464.s6
+Such/JJ patients/NNS may/MD be/VB unresponsive/JJ to/TO the/DT usual/JJ doses/NNS of/IN epinephrine/NN used/VBN to/TO treat/VB allergic/JJ reaction/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Such) (NNS patients)) (VP (MD may) (VP (VB be) (ADJP (JJ unresponsive) (PP (TO to) (NP (NP (DT the) (JJ usual) (NNS doses)) (PP (IN of) (NP (NN epinephrine))) (VP (VBN used) (S (VP (TO to) (VP (VB treat) (NP (JJ allergic) (NN reaction)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s0
+Elevated/JJ plasma/NN levels/NNS of/IN theophylline/NN have/VBP been/VBN reported/VBN with/IN concomitant/JJ quinolone/NN use/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Elevated) (NN plasma) (NNS levels)) (PP (IN of) (NP (NN theophylline)))) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (PP (IN with) (NP (JJ concomitant) (NN quinolone) (NN use))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s1
+There/EX have/VBP been/VBN reports/NNS of/IN theophylline/NN -related/JJ side/JJ effects/NNS in/IN patients/NNS on/IN concomitant/JJ therapy/NN with/IN quinolones/NNS and/CC theophylline/NN ./.
+
+(ROOT (S1 (S (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (NNS reports)) (PP (IN of) (NP (NP (ADJP (NN theophylline) (JJ -related)) (JJ side) (NNS effects)) (PP (IN in) (NP (NP (NNS patients)) (PP (IN on) (NP (NP (JJ concomitant) (NN therapy)) (PP (IN with) (NP (NP (NNS quinolones)) (CC and) (NP (NN theophylline)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s2
+Therefore/RB ,/, monitoring/NN of/IN theophylline/NN plasma/NN levels/NNS should/MD be/VB considered/VBN and/CC dosage/NN of/IN theophylline/NN adjusted/VBN ,/, as/IN required/VBN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (NP (NP (NN monitoring)) (PP (IN of) (NP (NN theophylline) (NN plasma) (NNS levels)))) (VP (MD should) (VP (VB be) (VP (VP (VBN considered)) (CC and) (VP (NP (NP (NN dosage)) (PP (IN of) (NP (NP (NN theophylline)) (VP (VBN adjusted))))) (, ,) (SBAR (IN as) (S (VP (VBN required))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s3
+Quinolones/NNS have/VBP been/VBN shown/VBN to/TO interfere/VB with/IN the/DT metabolism/NN of/IN caffeine/NN ./.
+
+(ROOT (S1 (S (S (NP (NNS Quinolones)) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB interfere) (PP (IN with) (NP (NP (DT the) (NN metabolism)) (PP (IN of) (NP (NN caffeine)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s4
+This/DT may/MD lead/VB to/TO reduced/VBN clearance/NN of/IN caffeine/NN and/CC the/DT prolongation/NN of/IN its/PRP$ plasma/NN half-life/NN ./.
+
+(ROOT (S1 (S (S (NP (DT This)) (VP (MD may) (VP (VB lead) (PP (TO to) (NP (NP (NP (VBN reduced) (NN clearance)) (PP (IN of) (NP (NN caffeine)))) (CC and) (NP (NP (DT the) (NN prolongation)) (PP (IN of) (NP (PRP$ its) (NN plasma) (NN half-life))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s5
+Quinolones/NNS ,/, including/VBG nalidixic/JJ acid/NN ,/, may/MD enhance/VB the/DT effects/NNS of/IN the/DT oral/JJ anticoagulant/NN warfarin/NN or/CC its/PRP$ derivatives/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Quinolones)) (, ,) (PP (VBG including) (NP (JJ nalidixic) (NN acid))) (, ,)) (VP (MD may) (VP (VB enhance) (NP (NP (DT the) (NNS effects)) (PP (IN of) (NP (NP (DT the) (JJ oral) (NN anticoagulant) (NN warfarin)) (CC or) (NP (PRP$ its) (NNS derivatives)))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s7
+Nitrofurantoin/NN interferes/VBZ with/IN the/DT therapeutic/JJ action/NN of/IN nalidixic/JJ acid/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Nitrofurantoin)) (VP (VBZ interferes) (PP (IN with) (NP (NP (DT the) (JJ therapeutic) (NN action)) (PP (IN of) (NP (JJ nalidixic) (NN acid))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s8
+Antacids/NNS containing/VBG magnesium/NN ,/, aluminum/NN ,/, or/CC calcium/NN ;/: ./.
+
+(ROOT (S1 (S (S (NP (NNS Antacids)) (VP (VBG containing) (NP (NP (NN magnesium)) (, ,) (NP (NN aluminum)) (, ,) (CC or) (NP (NN calcium)))) (: ;)) (. .))))
+
+Sentence Id: DrugDDI.d485.s9
+sucralfate/VBP or/CC divalent/JJ or/CC trivalent/JJ cations/NNS such/JJ as/IN iron/NN ;/: ./.
+
+(ROOT (S1 (S (S (VP (VBP sucralfate) (NP (NP (ADJP (CC or) (ADJP (JJ divalent)) (CC or) (ADJP (JJ trivalent))) (NNS cations)) (PP (JJ such) (IN as) (NP (NN iron) (: ;)))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s10
+multivitamins/NNS containing/VBG zinc/NN ;/: ./.
+
+(ROOT (S1 (S (S (NP (NNS multivitamins)) (VP (VBG containing) (NP (NN zinc))) (: ;)) (. .))))
+
+Sentence Id: DrugDDI.d485.s11
+and/CC Videx/NN @/NN ,/, (/-LRB- Didanosine/NN )/-RRB- ,/, chewable//NN buffer/NN ed/NN tablets/NNS or/CC the/DT pediatric/JJ powder/NN for/IN oral/JJ solution/NN may/MD substantially/RB interfere/VB with/IN the/DT absorption/NN of/IN quinolones/NNS ,/, resulting/VBG in/IN systemic/JJ levels/NNS considerably/RB lower/JJR than/IN desired/VBN ./.
+
+(ROOT (S1 (S (S (NP (CC and) (NP (NP (NN Videx) (NN @)) (, ,) (NP (-LRB- -LRB-) (NN Didanosine) (-RRB- -RRB-)) (, ,) (NP (NN chewable/) (NN buffer) (NN ed) (NNS tablets))) (CC or) (NP (NP (DT the) (JJ pediatric) (NN powder)) (PP (IN for) (NP (JJ oral) (NN solution))))) (VP (MD may) (ADVP (RB substantially)) (VP (VB interfere) (PP (IN with) (NP (NP (DT the) (NN absorption)) (PP (IN of) (NP (NNS quinolones))))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (JJ systemic) (NNS levels)) (ADJP (ADJP (RB considerably) (JJR lower)) (SBAR (IN than) (S (VP (VBN desired)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s12
+These/DT agents/NNS should/MD not/RB be/VB taken/VBN within/IN the/DT two/CD hour/NN period/NN before/IN or/CC within/IN the/DT two-hour/JJ period/NN after/IN nalidixic/JJ acid/NN administration/NN ./.
+
+(ROOT (S1 (S (S (NP (DT These) (NNS agents)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN taken) (PP (IN within) (NP (DT the) (ADJP (CD two) (NN hour)) (NN period))) (PP (PP (IN before)) (CC or) (PP (IN within) (NP (DT the) (JJ two-hour) (NN period))) (PP (IN after) (NP (NP (JJ nalidixic) (NN acid)) (NN administration)))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s13
+Elevated/JJ serum/NN levels/NNS of/IN cyclosporine/NN have/VBP been/VBN reported/VBN with/IN the/DT concomitant/JJ use/NN of/IN some/DT quinolones/NN and/CC cyclosporine/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Elevated) (NN serum) (NNS levels)) (PP (IN of) (NP (NN cyclosporine)))) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (PP (IN with) (NP (NP (DT the) (JJ concomitant) (NN use)) (PP (IN of) (NP (DT some) (NP (NP (NN quinolones)) (CC and) (NP (NN cyclosporine))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d485.s14
+Therefore/RB ,/, cyclosporine/NN serum/NN levels/NNS should/MD be/VB monitored/VBN and/CC appropriate/JJ cyclosporine/NN dosage/NN adjustments/NNS made/VBD when/WRB these/DT drugs/NNS are/VBP used/VBN concomitantly/RB ./.
+
+(ROOT (S1 (S (S (S (ADVP (RB Therefore)) (, ,) (NP (NN cyclosporine) (NN serum) (NNS levels)) (VP (MD should) (VP (VB be) (VP (VBN monitored))))) (CC and) (S (NP (JJ appropriate) (NN cyclosporine) (NN dosage) (NNS adjustments)) (VP (VBD made) (SBAR (WHADVP (WRB when)) (S (NP (DT these) (NNS drugs)) (VP (VBP are) (VP (VBN used) (ADVP (RB concomitantly))))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s0
+In/FW vitro/FW drug/NN metabolism/NN studies/NNS indicate/VBP that/IN Starlix/NN is/VBZ predominantly/RB metabolized/VBN by/IN the/DT cytochrome/NN P450/NN isozyme/NN CYP2C9/NN (/-LRB- 70/CD %/NN )/-RRB- and/CC to/TO a/DT lesser/JJR extent/NN CYP3A4/NN (/-LRB- 30%)./NN
+
+(ROOT (S1 (S (NP (ADJP (FW In) (FW vitro)) (NN drug) (NN metabolism) (NNS studies)) (VP (VBP indicate) (SBAR (IN that) (S (NP (NN Starlix)) (VP (VBZ is) (ADVP (RB predominantly)) (VP (VBN metabolized) (PP (PP (IN by) (NP (NP (DT the) (NN cytochrome) (NN P450) (NN isozyme) (NN CYP2C9)) (PRN (-LRB- -LRB-) (NP (CD 70) (NN %)) (-RRB- -RRB-)))) (CC and) (PP (TO to) (NP (DT a) (JJR lesser) (NN extent))) (NP (NN CYP3A4))) (PRN (-LRB- -LRB-) (NP (NN 30%-RRB-.)))))))))))
+
+Sentence Id: DrugDDI.d249.s1
+Starlix/NN is/VBZ a/DT potential/JJ inhibitor/NN of/IN the/DT CYP2C9/NN isoenzyme/NN in/FW vivo/FW as/IN indicated/VBN by/IN its/PRP$ ability/NN to/TO inhibit/VB the/DT in/FW vitro/FW metabolism/NN of/IN tolbutamide/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Starlix)) (VP (VBZ is) (NP (NP (DT a) (JJ potential) (NN inhibitor)) (PP (IN of) (NP (DT the) (NN CYP2C9) (NN isoenzyme)))) (ADVP (FW in) (FW vivo)) (SBAR (IN as) (S (VP (VBN indicated) (PP (IN by) (NP (PRP$ its) (NN ability) (S (VP (TO to) (VP (VB inhibit) (NP (NP (DT the) (ADJP (FW in) (FW vitro)) (NN metabolism)) (PP (IN of) (NP (NN tolbutamide)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s2
+Inhibition/NN of/IN CYP3A4/JJ metabolic/JJ reactions/NNS was/VBD not/RB detected/VBN in/IN in/FW vitro/FW experiments/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Inhibition)) (PP (IN of) (NP (JJ CYP3A4) (JJ metabolic) (NNS reactions)))) (VP (VBD was) (RB not) (VP (VBN detected) (PP (IN in) (NP (ADJP (FW in) (FW vitro)) (NNS experiments)))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s3
+Glyburide/NN :/: In/IN a/DT randomized/JJ ,/, multiple-dose/JJ crossover/NN study/NN ,/, patients/NNS with/IN Type/NN 2/CD diabetes/NNS were/VBD administered/VBN 120/CD mg/NN Starlix/NN three/CD times/NNS a/DT day/NN before/IN meals/NN for/IN 1/CD day/NN in/IN combination/NN with/IN glyburide/NN 10/CD mg/NN daily/RB ./.
+
+(ROOT (S1 (S (NP (NP (NN Glyburide)) (: :) (S (PP (IN In) (NP (DT a) (ADJP (ADJP (JJ randomized)) (, ,) (ADJP (JJ multiple-dose))) (NN crossover) (NN study))) (, ,) (NP (NP (NNS patients)) (PP (IN with) (NP (NN Type) (CD 2) (NNS diabetes)))) (VP (VBD were) (VP (VBN administered) (NP (NP (CD 120) (NN mg) (NN Starlix) (CD three) (NNS times)) (NP (NP (DT a) (NN day)) (PP (IN before) (NP (NN meals))) (PP (IN for) (NP (CD 1) (NN day))))) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (NN glyburide) (CD 10) (NN mg)) (ADVP (RB daily))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d249.s5
+Metformin/NN :/: When/WRB Starlix/NN 120/CD mg/NN three/CD times/NNS daily/RB before/IN meals/NN was/VBD administered/VBN in/IN combination/NN with/IN metformin/NN 500/CD mg/NN three/CD times/NNS daily/JJ to/TO patients/NNS with/IN Type/NN 2/CD diabetes/NNS ,/, there/EX were/VBD no/DT clinically/RB relevant/JJ changes/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Metformin)) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (NP (NN Starlix) (CD 120) (NN mg)) (ADVP (NP (CD three) (NNS times)) (RB daily) (PP (IN before) (NP (NN meals))))) (VP (VBD was) (VP (VBN administered) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (NN metformin) (CD 500) (NN mg) (CD three) (NNS times)) (ADJP (JJ daily) (PP (TO to) (NP (NP (NNS patients)) (PP (IN with) (NP (NN Type) (CD 2) (NNS diabetes)))))))))))))) (, ,) (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (ADJP (RB clinically) (JJ relevant)) (NNS changes)) (PP (IN in) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (DT either) (NN agent)))))))) (. .)))))
+
+Sentence Id: DrugDDI.d249.s6
+Digoxin/NN :/: When/WRB Starlix/NN 120/CD mg/NN before/IN meals/NN was/VBD administered/VBN in/IN combination/NN with/IN a/DT single/JJ 1-mg/JJ dose/NN of/IN digoxin/NN to/TO healthy/JJ volunteers/NNS ,/, there/EX were/VBD no/DT clinically/RB relevant/JJ changes/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Digoxin)) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (NP (NN Starlix) (CD 120) (NN mg)) (PP (IN before) (NP (NN meals)))) (VP (VBD was) (VP (VBN administered) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (DT a) (JJ single) (JJ 1-mg) (NN dose)) (PP (IN of) (NP (NN digoxin))) (PP (TO to) (NP (JJ healthy) (NNS volunteers))))))))))) (, ,) (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (ADJP (RB clinically) (JJ relevant)) (NNS changes)) (PP (IN in) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (DT either) (NN agent)))))))) (. .)))))
+
+Sentence Id: DrugDDI.d249.s7
+Warfarin/NN :/: When/WRB healthy/JJ subjects/NNS were/VBD administered/VBN Starlix/NN 120/CD mg/NN three/CD times/NNS daily/RB before/IN meals/NN for/IN four/CD days/NNS in/IN combination/NN with/IN a/DT single/JJ dose/NN of/IN warfarin/NN 30/CD mg/NN on/IN day/NN 2/CD ,/, there/EX were/VBD no/DT alterations/NNS in/IN the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Warfarin)) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (JJ healthy) (NNS subjects)) (VP (VBD were) (VP (VBN administered) (ADVP (NP (NN Starlix) (CD 120) (NN mg) (CD three) (NNS times)) (RB daily)) (PP (IN before) (NP (NN meals))) (PP (IN for) (NP (NP (CD four) (NNS days)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (DT a) (JJ single) (NN dose)) (PP (IN of) (NP (NP (NN warfarin) (CD 30) (NN mg)) (PP (IN on) (NP (NN day) (CD 2))))))))))))))) (, ,) (NP (EX there)) (VP (VBD were) (NP (DT no) (NNS alterations)) (PP (IN in) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (DT either) (NN agent))))))) (. .)))))
+
+Sentence Id: DrugDDI.d249.s9
+Diclofenac/NN :/: Administration/NN of/IN morning/NN and/CC lunch/NN doses/NNS of/IN Starlix/NN 120/CD mg/NN in/IN combination/NN with/IN a/DT single/JJ 75-mg/NN dose/NN of/IN diclofenac/NN in/IN healthy/JJ volunteers/NNS resulted/VBD in/IN no/DT significant/JJ changes/NNS to/TO the/DT pharmacokinetics/NNS of/IN either/DT agent/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Diclofenac)) (: :) (S (NP (NP (NN Administration)) (PP (IN of) (NP (NP (NP (NP (NN morning)) (CC and) (NP (NN lunch))) (NNS doses)) (PP (IN of) (NP (NP (NN Starlix) (CD 120) (NN mg)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (DT a) (JJ single) (NN 75-mg) (NN dose)) (PP (IN of) (NP (NN diclofenac))) (PP (IN in) (NP (JJ healthy) (NNS volunteers)))))))))))) (VP (VBD resulted) (PP (IN in) (NP (NP (DT no) (JJ significant) (NNS changes)) (PP (TO to) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (DT either) (NN agent))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d249.s10
+Nateglinide/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN proteins/NNS (/-LRB- 98/CD %/NN )/-RRB- ,/, mainly/RB albumin/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Nateglinide)) (VP (VBZ is) (ADVP (RB highly)) (VP (VBN bound) (PP (TO to) (NP (NP (NP (NN plasma) (NNS proteins)) (PRN (-LRB- -LRB-) (NP (CD 98) (NN %)) (-RRB- -RRB-))) (, ,) (NP (ADVP (RB mainly)) (NP (NN albumin)))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s11
+In/FW vitro/FW displacement/NN studies/NNS with/IN highly/RB protein/NN -bound/JJ drugs/NNS such/JJ as/IN furosemide/NN ,/, propranolol/NN ,/, captopril/NN ,/, nicardipine/NN ,/, pravastatin/NN ,/, glyburide/NN ,/, warfarin/NN ,/, phenytoin/NN ,/, acetylsalicylic/JJ acid/NN ,/, tolbutamide/NN ,/, and/CC metformin/NN showed/VBD no/DT influence/NN on/IN the/DT extent/NN of/IN nateglinide/JJ protein/NN binding/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (ADJP (FW In) (FW vitro)) (NN displacement) (NNS studies)) (PP (IN with) (NP (NP (ADJP (RB highly) (NN protein) (JJ -bound)) (NNS drugs)) (PP (JJ such) (IN as) (NP (NP (NN furosemide)) (, ,) (NP (NN propranolol)) (, ,) (NP (NN captopril)) (, ,) (NP (NN nicardipine)) (, ,) (NP (NN pravastatin)) (, ,) (NP (NN glyburide)) (, ,) (NP (NN warfarin)) (, ,) (NP (NN phenytoin)) (, ,) (NP (JJ acetylsalicylic) (NN acid)) (, ,) (NP (NN tolbutamide)) (, ,) (CC and) (NP (NN metformin))))))) (VP (VBD showed) (NP (NP (DT no) (NN influence)) (PP (IN on) (NP (NP (DT the) (NN extent)) (PP (IN of) (NP (JJ nateglinide) (NN protein) (NN binding)))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s12
+Similarly/RB ,/, nateglinide/NN had/VBD no/DT influence/NN on/IN the/DT serum/NN protein/NN binding/NN of/IN propranolol/NN ,/, glyburide/NN ,/, nicardipine/NN ,/, warfarin/NN ,/, phenytoin/NN ,/, acetylsalicylic/JJ acid/NN ,/, and/CC tolbutamide/NN in/FW vitro/FW ./.
+
+(ROOT (S1 (S (ADVP (RB Similarly)) (, ,) (NP (NN nateglinide)) (VP (VBD had) (NP (DT no) (NN influence)) (PP (IN on) (NP (NP (DT the) (NN serum) (NN protein) (NN binding)) (PP (IN of) (NP (NP (NN propranolol)) (, ,) (NP (NN glyburide)) (, ,) (NP (NN nicardipine)) (, ,) (NP (NN warfarin)) (, ,) (NP (NN phenytoin)) (, ,) (NP (JJ acetylsalicylic) (NN acid)) (, ,) (CC and) (NP (NN tolbutamide)))))) (ADVP (FW in) (FW vitro))) (. .))))
+
+Sentence Id: DrugDDI.d249.s14
+Certain/JJ drugs/NNS ,/, including/VBG nonsteroidal/JJ anti-inflammatory/JJ agents/NNS (/-LRB- NSAIDs/NNS )/-RRB- ,/, salicylates/NNS ,/, monoamine/NN oxidase/NN inhibitors/NNS ,/, and/CC non-selective/JJ beta-adrenergic-blocking/JJ agents/NNS may/MD potentiate/VB the/DT hypoglycemic/JJ action/NN of/IN Starlix/NN and/CC other/JJ oral/JJ antidiabetic/JJ drugs/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Certain) (NNS drugs)) (, ,) (PP (VBG including) (NP (NP (NP (JJ nonsteroidal) (JJ anti-inflammatory) (NNS agents)) (PRN (-LRB- -LRB-) (NP (NNS NSAIDs)) (-RRB- -RRB-))) (, ,) (NP (NNS salicylates)) (, ,) (NP (NP (NN monoamine) (NN oxidase)) (NNS inhibitors)) (, ,) (CC and) (NP (JJ non-selective) (JJ beta-adrenergic-blocking) (NNS agents))))) (VP (MD may) (VP (VB potentiate) (NP (NP (DT the) (JJ hypoglycemic) (NN action)) (PP (IN of) (NP (NP (NN Starlix)) (CC and) (NP (JJ other) (JJ oral) (JJ antidiabetic) (NNS drugs)))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s15
+Certain/JJ drugs/NNS including/VBG thiazides/NNS ,/, corticosteroids/NNS ,/, thyroid/NN products/NNS ,/, and/CC sympathomimetics/NNS may/MD reduce/VB the/DT hypoglycemic/JJ action/NN of/IN Starlix/NN and/CC other/JJ oral/JJ antidiabetic/JJ drugs/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Certain) (NNS drugs)) (PP (VBG including) (NP (NP (NNS thiazides)) (, ,) (NP (NNS corticosteroids)) (, ,) (NP (NN thyroid) (NNS products)) (, ,) (CC and) (NP (NNS sympathomimetics))))) (VP (MD may) (VP (VB reduce) (NP (NP (DT the) (JJ hypoglycemic) (NN action)) (PP (IN of) (NP (NP (NN Starlix)) (CC and) (NP (JJ other) (JJ oral) (JJ antidiabetic) (NNS drugs)))))))) (. .))))
+
+Sentence Id: DrugDDI.d249.s16
+When/WRB these/DT drugs/NNS are/VBP administered/VBN to/TO or/CC withdrawn/VBN from/IN patients/NNS receiving/VBG Starlix/NN ,/, the/DT patient/NN should/MD be/VB observed/VBN closely/RB for/IN changes/NNS in/IN glycemic/JJ control/NN ./.
+
+(ROOT (S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (DT these) (NNS drugs)) (VP (VBP are) (VP (VP (VBN administered) (PP (TO to))) (CC or) (VP (VBN withdrawn) (PP (IN from) (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NN Starlix)))))))))) (, ,) (NP (DT the) (NN patient)) (VP (MD should) (VP (VB be) (VP (VBN observed) (ADVP (RB closely)) (PP (IN for) (NP (NP (NNS changes)) (PP (IN in) (NP (JJ glycemic) (NN control))))))))) (. .))))
+
+Sentence Id: DrugDDI.d312.s0
+In/IN clinical/JJ studies/NNS ,/, Tilade/NN has/VBZ been/VBN co-administered/VBN with/IN other/JJ anti-asthma/NN medications/NNS ,/, including/VBG inhaled/JJ and/CC oral/JJ bronchodilators/NNS ,/, and/CC inhaled/JJ corticosteroids/NNS ,/, with/IN no/DT evidence/NN of/IN increased/VBN frequency/NN of/IN adverse/JJ events/NNS or/CC laboratory/NN abnormalities/NNS ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (JJ clinical) (NNS studies))) (, ,) (NP (NN Tilade)) (VP (VBZ has) (VP (VBN been) (VP (VBN co-administered) (PP (IN with) (NP (NP (NP (JJ other) (NN anti-asthma) (NNS medications)) (, ,) (PP (VBG including) (NP (JJ inhaled) (CC and) (JJ oral) (NNS bronchodilators))) (, ,)) (CC and) (NP (JJ inhaled) (NNS corticosteroids)))) (, ,) (PP (IN with) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (VBN increased) (NN frequency)) (PP (IN of) (NP (NP (JJ adverse) (NNS events)) (CC or) (NP (NN laboratory) (NNS abnormalities)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d336.s0
+Caution/NN should/MD be/VB taken/VBN in/IN concurrent/JJ or/CC serial/JJ use/NN of/IN other/JJ neurotoxic/JJ and//NN or/CC nephrotoxic/JJ drugs/NNS because/IN of/IN possible/JJ enhancement/NN of/IN the/DT nephrotoxicity/NN and/or/CC ototoxicity/NN of/IN neomycin/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Caution)) (VP (MD should) (VP (VB be) (VP (VBN taken) (PP (IN in) (NP (NP (ADJP (ADJP (JJ concurrent)) (CC or) (ADJP (JJ serial))) (NN use)) (PP (IN of) (NP (NP (JJ other) (JJ neurotoxic) (NN and/) (CC or) (JJ nephrotoxic) (NNS drugs)) (PP (IN because) (PP (IN of) (NP (NP (JJ possible) (NN enhancement)) (PP (IN of) (NP (NP (DT the) (NP (NN nephrotoxicity)) (CC and/or) (NP (NN ototoxicity))) (PP (IN of) (NP (NN neomycin)))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d336.s1
+Caution/NN should/MD also/RB be/VB taken/VBN in/IN concurrent/JJ or/CC serial/JJ use/NN of/IN other/JJ aminoglycosides/NNS and/CC polymyxins/NNS because/IN they/PRP may/MD enhance/VB neomycin/NN @/NN s/NN nephrotoxicity/NN and/or/CC ototoxicity/NN and/CC potentiate/VB neomycin/NN sulfate/NN @/NN s/NN neuromuscular/JJ blocking/VBG effects/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Caution)) (VP (MD should) (ADVP (RB also)) (VP (VB be) (VP (VBN taken) (PP (IN in) (NP (NP (ADJP (ADJP (JJ concurrent)) (CC or) (ADJP (JJ serial))) (NN use)) (PP (IN of) (NP (NP (JJ other) (NNS aminoglycosides)) (CC and) (NP (NNS polymyxins)))))) (SBAR (IN because) (S (NP (PRP they)) (VP (MD may) (VP (VP (VB enhance) (NP (NP (NN neomycin) (NN @) (NN s) (NN nephrotoxicity)) (CC and/or) (NP (NN ototoxicity)))) (CC and) (VP (VB potentiate) (NP (ADJP (NN neomycin) (NN sulfate) (NN @) (NN s) (JJ neuromuscular)) (VBG blocking) (NNS effects))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d336.s2
+Oral/JJ neomycin/NN inhibits/VBZ the/DT gastrointestinal/JJ absorption/NN of/IN penicillin/NN V/NN ,/, oral/JJ vitamin/NN B-12/NN ,/, methotrexate/NN and/CC 5-fluorouracil/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Oral) (NN neomycin)) (VP (VBZ inhibits) (NP (NP (NP (DT the) (JJ gastrointestinal) (NN absorption)) (PP (IN of) (NP (NN penicillin) (NN V)))) (, ,) (NP (JJ oral) (NN vitamin) (NN B-12)) (, ,) (NP (NP (NN methotrexate)) (CC and) (NP (NN 5-fluorouracil)))))) (. .))))
+
+Sentence Id: DrugDDI.d336.s3
+The/DT gastrointestinal/JJ absorption/NN of/IN digoxin/NN also/RB appears/VBZ to/TO be/VB inhibited/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (JJ gastrointestinal) (NN absorption)) (PP (IN of) (NP (NN digoxin)))) (ADVP (RB also)) (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (VP (VBN inhibited))))))) (. .))))
+
+Sentence Id: DrugDDI.d336.s5
+Oral/JJ neomycin/NN sulfate/NN may/MD enhance/VB the/DT effect/NN of/IN coumarin/NN in/IN anticoagulants/NNS by/IN decreasing/VBG vitamin/NN K/NN availability/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Oral) (NN neomycin) (NN sulfate)) (VP (MD may) (VP (VB enhance) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NN coumarin))) (PP (IN in) (NP (NNS anticoagulants)))) (PP (IN by) (S (VP (VBG decreasing) (NP (NN vitamin) (NN K) (NN availability)))))))) (. .))))
+
+Sentence Id: DrugDDI.d266.s0
+Beta-adrenergic/JJ Blocking/NN Agents/NNS :/: Experience/VBP in/IN over/IN 1400/CD patients/NNS in/IN a/DT non-comparative/JJ clinical/JJ trial/NN has/VBZ shown/VBN that/IN concomitant/JJ administration/NN of/IN nifedipine/NN and/CC beta-blocking/JJ agent/NN s/NNS is/VBZ usually/RB well/RB tolerated/VBN ,/, but/CC there/EX have/VBP been/VBN occasional/JJ literature/NN reports/NNS suggesting/VBG that/IN the/DT combination/NN may/MD increase/VBP the/DT likelihood/NN of/IN congestive/JJ heart/NN failure/NN ,/, severe/JJ hypotension/NN or/CC exacerbation/NN of/IN angina/NN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Beta-adrenergic) (NN Blocking) (NNS Agents)) (: :) (S (VP (VBP Experience) (PP (IN in) (NP (QP (IN over) (CD 1400)) (NNS patients))) (SBAR (IN in) (S (NP (DT a) (JJ non-comparative) (JJ clinical) (NN trial)) (VP (VBZ has) (VP (VBN shown) (SBAR (IN that) (S (S (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (NN nifedipine)) (CC and) (NP (JJ beta-blocking) (NN agent) (NNS s))))) (VP (VBZ is) (ADVP (RB usually)) (VP (ADVP (RB well)) (VBN tolerated)))) (, ,) (CC but) (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (JJ occasional) (NN literature) (NNS reports)) (VP (VBG suggesting) (SBAR (IN that) (S (NP (DT the) (NN combination)) (VP (MD may) (VP (VBP increase) (NP (NP (DT the) (NN likelihood)) (PP (IN of) (NP (NP (JJ congestive) (NN heart) (NN failure)) (, ,) (NP (JJ severe) (NN hypotension)) (CC or) (NP (NP (NN exacerbation)) (PP (IN of) (NP (NN angina)))))))))))))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s1
+Long/JJ Acting/NN Nitrates/NNS :/: Nifedipine/NN may/MD be/VB safely/RB co-administered/VBN with/IN nitrates/NNS ,/, but/CC there/EX have/VBP been/VBN no/DT controlled/JJ studies/NNS to/TO evaluate/VB the/DT antianginal/JJ effectiveness/NN of/IN this/DT combination/NN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Long) (NN Acting) (NNS Nitrates)) (: :) (S (S (NP (NN Nifedipine)) (VP (MD may) (VP (VB be) (ADVP (RB safely)) (VP (VBN co-administered) (PP (IN with) (NP (NNS nitrates))))))) (, ,) (CC but) (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (DT no) (JJ controlled) (NNS studies)) (S (VP (TO to) (VP (VB evaluate) (NP (NP (DT the) (JJ antianginal) (NN effectiveness)) (PP (IN of) (NP (DT this) (NN combination))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s2
+Digitalis/NN :/: Immediate/JJ Release/NN Capsules/NNS :/: Since/IN there/EX have/VBP been/VBN isolated/VBN reports/NNS of/IN patients/NNS with/IN elevated/JJ digoxin/NN levels/NNS ,/, and/CC there/EX is/VBZ a/DT possible/JJ interaction/NN between/IN digoxin/NN and/CC nifedipine/NN ,/, it/PRP is/VBZ recommended/VBN that/IN digoxin/NN levels/NNS be/VB monitored/VBN when/WRB initiating/VBG ,/, adjusting/VBG ,/, and/CC discontinuing/VBG nifedipine/NN to/TO avoid/VB possible/JJ over-/NN or/CC under-digitalization/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Digitalis) (: :) (NP (JJ Immediate) (NN Release) (NNS Capsules))) (: :) (S (SBAR (IN Since) (S (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (VBN isolated) (NNS reports)) (PP (IN of) (NP (NP (NNS patients)) (PP (IN with) (NP (JJ elevated) (NN digoxin) (NNS levels))))))))) (, ,) (CC and) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ possible) (NN interaction)) (PP (IN between) (NP (NP (NN digoxin)) (CC and) (NP (NN nifedipine))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN recommended) (SBAR (IN that) (S (NP (NN digoxin) (NNS levels)) (VP (VB be) (VP (VBN monitored) (SBAR (WHADVP (WRB when)) (S (VP (VP (VBG initiating)) (, ,) (VP (VBG adjusting)) (, ,) (CC and) (VP (VBG discontinuing) (NP (NN nifedipine)) (S (VP (TO to) (VP (VB avoid) (NP (NP (JJ possible) (NN over-)) (CC or) (NP (NN under-digitalization))))))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s3
+Extended/JJ Release/NN Tablets/NNS :/: Administration/NN of/IN nifedipine/NN with/IN digoxin/NN increased/VBD digoxin/NN levels/NNS in/IN 9/CD of/IN 12/CD normal/JJ volunteers/NNS ./.
+
+(ROOT (S1 (S (NP (NP (JJ Extended) (NN Release) (NNS Tablets)) (: :) (S (NP (NP (NN Administration)) (PP (IN of) (NP (NN nifedipine))) (PP (IN with) (NP (NN digoxin)))) (VP (VBD increased) (NP (NN digoxin) (NNS levels)) (PP (IN in) (NP (NP (CD 9)) (PP (IN of) (NP (CD 12) (JJ normal) (NNS volunteers))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s7
+Since/IN there/EX have/VBP been/VBN isolated/VBN reports/NNS of/IN patients/NNS with/IN elevated/JJ digoxin/NN levels/NNS ,/, it/PRP is/VBZ recommended/VBN that/IN digoxin/NN levels/NNS be/VB monitored/VBN when/WRB initiating/VBG ,/, adjusting/VBG ,/, and/CC discontinuing/VBG nifedipine/NN to/TO avoid/VB possible/JJ over-/NN or/CC under-digitalization/NN ./.
+
+(ROOT (S1 (S (S (SBAR (IN Since) (S (NP (EX there)) (VP (VBP have) (VP (VBN been) (NP (NP (VBN isolated) (NNS reports)) (PP (IN of) (NP (NP (NNS patients)) (PP (IN with) (NP (JJ elevated) (NN digoxin) (NNS levels)))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN recommended) (SBAR (IN that) (S (NP (NN digoxin) (NNS levels)) (VP (VB be) (VP (VBN monitored) (SBAR (WHADVP (WRB when)) (S (VP (VP (VBG initiating)) (, ,) (VP (VBG adjusting)) (, ,) (CC and) (VP (VBG discontinuing) (NP (NN nifedipine)) (S (VP (TO to) (VP (VB avoid) (NP (NP (JJ possible) (NN over-)) (CC or) (NP (NN under-digitalization))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d266.s8
+Quinidine/NN :/: Immediate/JJ Release/NN Capsules/NNS :/: There/EX have/VBP been/VBN rare/JJ reports/NNS of/IN an/DT interaction/NN between/IN quinidine/NN and/CC nifedipine/NN (/-LRB- with/IN a/DT decreased/VBN plasma/NN level/NN of/IN quinidine/NN )/-RRB- ./.
+
+(ROOT (S1 (S (NP (NP (NN Quinidine) (: :) (NP (JJ Immediate) (NN Release) (NNS Capsules))) (: :) (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (JJ rare) (NNS reports)) (PP (IN of) (NP (NP (DT an) (NN interaction)) (PP (IN between) (NP (NP (NN quinidine)) (CC and) (NP (NN nifedipine)))) (-LRB- -LRB-) (PP (IN with) (NP (NP (DT a) (VBN decreased) (NN plasma) (NN level)) (PP (IN of) (NP (NN quinidine))))) (-RRB- -RRB-))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s9
+Coumarin/NN Anticoagulant/NN s/NNS :/: There/EX have/VBP been/VBN rare/JJ reports/NNS of/IN increased/VBN prothrombin/NN time/NN in/IN patients/NNS taking/VBG coumarin/NN anticoagulant/NN s/NNS to/TO whom/WP nifedipine/NN was/VBD administered/VBN ./.
+
+(ROOT (S1 (S (NP (NP (NN Coumarin) (NN Anticoagulant) (NNS s)) (: :) (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (JJ rare) (NNS reports)) (PP (IN of) (NP (VBN increased) (NN prothrombin) (NN time))) (PP (IN in) (NP (NP (NNS patients)) (VP (VBG taking) (NP (NP (NN coumarin) (NN anticoagulant) (NNS s)) (SBAR (WHPP (TO to) (WHNP (WP whom))) (S (NP (NN nifedipine)) (VP (VBD was) (VP (VBN administered))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s10
+However/RB ,/, the/DT relationship/NN to/TO nifedipine/NN therapy/NN is/VBZ uncertain/JJ ./.
+
+(ROOT (S1 (S (S (ADVP (RB However)) (, ,) (NP (NP (DT the) (NN relationship)) (PP (TO to) (NP (NN nifedipine) (NN therapy)))) (VP (VBZ is) (ADJP (JJ uncertain)))) (. .))))
+
+Sentence Id: DrugDDI.d266.s11
+Cimetidine/NN :/: A/DT study/NN in/IN 6/CD healthy/JJ volunteers/NNS has/VBZ shown/VBN a/DT significant/JJ increase/NN in/IN peak/NN nifedipine/NN plasma/NN levels/NNS (/-LRB- 80/CD %/NN )/-RRB- and/CC area-under-the-curve/JJ (/-LRB- 74/CD %/NN )/-RRB- after/IN a/DT 1/CD week/NN course/NN of/IN cimetidine/NN at/IN 1000/CD mg/NN per/IN day/NN and/CC nifedipine/NN at/IN 40/CD mg/NN per/IN day/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Cimetidine)) (: :) (S (NP (NP (DT A) (NN study)) (PP (IN in) (NP (CD 6) (JJ healthy) (NNS volunteers)))) (VP (VBZ has) (VP (VBN shown) (NP (NP (DT a) (JJ significant) (NN increase)) (PP (IN in) (NP (NP (NP (NN peak) (NN nifedipine) (NN plasma) (NNS levels)) (PRN (-LRB- -LRB-) (NP (CD 80) (NN %)) (-RRB- -RRB-))) (CC and) (NP (NP (JJ area-under-the-curve)) (PRN (-LRB- -LRB-) (NP (CD 74) (NN %)) (-RRB- -RRB-)))))) (PP (IN after) (NP (NP (DT a) (CD 1) (NN week) (NN course)) (PP (IN of) (NP (NP (NN cimetidine)) (PP (IN at) (NP (NP (CD 1000) (NN mg)) (PP (IN per) (NP (NP (NN day)) (CC and) (NP (NN nifedipine)))) (PP (IN at) (NP (NP (CD 40) (NN mg)) (PP (IN per) (NP (NN day)))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d266.s12
+Ranitidine/NN produced/VBD smaller/JJR ,/, non-significant/JJ increases/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Ranitidine)) (VP (VBD produced) (NP (ADJP (ADJP (JJR smaller)) (, ,) (ADJP (JJ non-significant))) (NNS increases)))) (. .))))
+
+Sentence Id: DrugDDI.d266.s13
+The/DT effect/NN may/MD be/VB mediated/VBN by/IN the/DT known/JJ inhibition/NN of/IN cimetidine/NN on/IN hepatic/JJ cytochrome/NN P-450/NN ,/, the/DT enzyme/NN system/NN probably/RB responsible/JJ for/IN the/DT first-pass/NN metabolism/NN of/IN nifedipine/NN ./.
+
+(ROOT (S1 (S (S (NP (DT The) (NN effect)) (VP (MD may) (VP (VB be) (VP (VBN mediated) (PP (IN by) (NP (NP (DT the) (JJ known) (NN inhibition)) (PP (IN of) (NP (NN cimetidine))) (PP (IN on) (NP (NP (JJ hepatic) (NN cytochrome) (NN P-450)) (, ,) (NP (NP (DT the) (NN enzyme) (NN system)) (ADJP (ADVP (RB probably)) (JJ responsible) (PP (IN for) (NP (NP (DT the) (NN first-pass) (NN metabolism)) (PP (IN of) (NP (NN nifedipine))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d266.s14
+If/IN nifedipine/NN therapy/NN is/VBZ initiated/VBN in/IN a/DT patient/NN currently/RB receiving/VBG cimetidine/NN ,/, cautious/JJ titration/NN is/VBZ advised/VBN ./.
+
+(ROOT (S1 (S (S (SBAR (IN If) (S (NP (NN nifedipine) (NN therapy)) (VP (VBZ is) (VP (VBN initiated) (PP (IN in) (NP (NP (DT a) (NN patient)) (VP (ADVP (RB currently)) (VBG receiving) (NP (NN cimetidine))))))))) (, ,) (NP (JJ cautious) (NN titration)) (VP (VBZ is) (VP (VBN advised)))) (. .))))
+
+Sentence Id: DrugDDI.d234.s0
+A/DT 30/CD to/TO 45/CD %/NN increase/NN in/IN AUC/NN and/CC Cmax/NN of/IN nisoldipine/NN was/VBD observed/VBN with/IN concomitant/JJ administration/NN of/IN cimetidine/NN 400/CD mg/NN twice/RB daily/RB ./.
+
+(ROOT (S1 (S (S (NP (NP (DT A) (CD 30) (TO to) (CD 45) (NN %) (NN increase)) (PP (IN in) (NP (NP (NP (NN AUC)) (CC and) (NP (NN Cmax))) (PP (IN of) (NP (NN nisoldipine)))))) (VP (VBD was) (VP (VBN observed) (PP (IN with) (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (NN cimetidine) (CD 400) (NN mg)) (ADVP (RB twice) (RB daily))))))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s1
+Ranitidine/NN 150/CD mg/NN twice/RB daily/RB did/VBD not/RB interact/VB significantly/RB with/IN nisoldipine/NN (/-LRB- AUC/NN was/VBD decreased/VBN by/IN 15-20/CD %/NN )./CD
+
+(ROOT (S1 (S (S (NP (NP (NN Ranitidine) (CD 150) (NN mg)) (ADVP (RB twice) (RB daily))) (VP (VBD did) (RB not) (VP (VB interact) (ADVP (RB significantly)) (PP (IN with) (NP (NN nisoldipine)))))) (S (-LRB- -LRB-) (NP (NN AUC)) (VP (VBD was) (VP (VBN decreased) (PP (IN by) (NP (CD 15-20) (NN %) (CD -RRB-.)))))))))
+
+Sentence Id: DrugDDI.d234.s2
+No/DT pharmacodynamic/JJ effects/NNS of/IN either/DT histamine/NN H2/NN receptor/NN antagonist/NN were/VBD observed/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT No) (JJ pharmacodynamic) (NNS effects)) (PP (IN of) (NP (DT either) (NN histamine) (NN H2) (NN receptor) (NN antagonist)))) (VP (VBD were) (VP (VBN observed)))) (. .))))
+
+Sentence Id: DrugDDI.d234.s3
+Coadministration/NN of/IN phenytoin/NN with/IN 40/CD mg/NN SULAR/NN tablets/NNS in/IN epileptic/JJ patients/NNS lowered/VBD the/DT nisoldipine/NN plasma/NN concentrations/NNS to/TO undetectable/JJ levels/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Coadministration)) (PP (IN of) (NP (NN phenytoin))) (PP (IN with) (NP (NP (CD 40) (NN mg) (NN SULAR) (NNS tablets)) (PP (IN in) (NP (JJ epileptic) (NNS patients)))))) (VP (VBD lowered) (NP (DT the) (NN nisoldipine) (NN plasma) (NNS concentrations)) (PP (TO to) (NP (JJ undetectable) (NNS levels))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s4
+Coadministration/NN of/IN SULAR/NN with/IN phenytoin/NN or/CC any/DT known/JJ CYP3A4/NN inducer/NN should/MD be/VB avoided/VBN and/CC alternative/JJ antihypertensive/JJ therapy/NN should/MD be/VB considered/VBN ./.
+
+(ROOT (S1 (S (S (S (NP (NP (NN Coadministration)) (PP (IN of) (NP (NN SULAR))) (PP (IN with) (NP (NP (NN phenytoin)) (CC or) (NP (DT any) (JJ known) (NN CYP3A4) (NN inducer))))) (VP (MD should) (VP (VB be) (VP (VBN avoided))))) (CC and) (S (NP (JJ alternative) (JJ antihypertensive) (NN therapy)) (VP (MD should) (VP (VB be) (VP (VBN considered)))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s5
+Pharmacokinetic/JJ interactions/NNS between/IN nisoldipine/NN and/CC beta-blockers/NNS (/-LRB- atenolol/NN ,/, propranolol/NN )/-RRB- were/VBD variable/JJ and/CC not/RB significant/JJ ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Pharmacokinetic) (NNS interactions)) (PP (IN between) (NP (NP (NN nisoldipine)) (CC and) (NP (NP (NNS beta-blockers)) (PRN (-LRB- -LRB-) (NP (NP (NN atenolol)) (, ,) (NP (NN propranolol))) (-RRB- -RRB-)))))) (VP (VBD were) (ADJP (ADJP (JJ variable)) (CC and) (ADJP (RB not) (JJ significant))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s6
+Propranolol/NN attenuated/VBD the/DT heart/NN rate/NN increase/NN following/VBG administration/NN of/IN immediate/JJ release/NN nisoldipine/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Propranolol)) (VP (VBD attenuated) (NP (DT the) (NN heart) (NN rate) (NN increase)) (PP (VBG following) (NP (NP (NN administration)) (PP (IN of) (NP (JJ immediate) (NN release) (NN nisoldipine))))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s7
+The/DT blood/NN pressure/NN effect/NN of/IN SULAR/NN tended/VBD to/TO be/VB greater/JJR in/IN patients/NNS on/IN atenolol/NN than/IN in/IN patients/NNS on/IN no/DT other/JJ antihypertensive/JJ therapy/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN blood) (NN pressure) (NN effect)) (PP (IN of) (NP (NN SULAR)))) (VP (VBD tended) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJR greater)) (PP (IN in) (NP (NP (NNS patients)) (PP (IN on) (NP (NN atenolol))))) (PP (IN than) (PP (IN in) (NP (NP (NNS patients)) (PP (IN on) (NP (DT no) (JJ other) (JJ antihypertensive) (NN therapy)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d234.s8
+Quinidine/NN at/IN 648/CD mg/NN bid/NN decreased/VBD the/DT bioavailability/NN (/-LRB- AUC/NN )/-RRB- of/IN nisoldipine/NN by/IN 26/CD %/NN ,/, but/CC not/RB the/DT peak/JJ concentration/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Quinidine)) (PP (IN at) (NP (ADJP (CD 648) (NN mg)) (NN bid)))) (VP (VBD decreased) (NP (NP (NP (DT the) (NN bioavailability)) (PRN (-LRB- -LRB-) (NP (NN AUC)) (-RRB- -RRB-))) (PP (IN of) (NP (NN nisoldipine)))) (PP (IN by) (NP (CD 26) (NN %))) (, ,) (CONJP (CC but) (RB not)) (NP (DT the) (JJ peak) (NN concentration)))) (. .))))
+
+Sentence Id: DrugDDI.d234.s9
+The/DT immediate/JJ release/NN ,/, but/CC not/RB the/DT coat-core/JJ formulation/NN of/IN nisoldipine/NN increased/VBD plasma/NN quinidine/NN concentrations/NNS by/IN about/RB 20/CD %./NN
+
+(ROOT (S1 (S (NP (NP (DT The) (JJ immediate) (NN release)) (, ,) (CONJP (CC but) (RB not)) (S (NP (NP (DT the) (JJ coat-core) (NN formulation)) (PP (IN of) (NP (NN nisoldipine)))) (VP (VBD increased) (NP (NN plasma) (NN quinidine) (NNS concentrations)) (PP (IN by) (NP (QP (RB about) (CD 20)) (NN %.)))))))))
+
+Sentence Id: DrugDDI.d234.s11
+No/DT significant/JJ interactions/NNS were/VBD found/VBN between/IN nisoldipine/NN and/CC warfarin/NN or/CC digoxin/NN ./.
+
+(ROOT (S1 (S (S (NP (DT No) (JJ significant) (NNS interactions)) (VP (VBD were) (VP (VBN found) (PP (IN between) (NP (NP (NN nisoldipine)) (CC and) (NP (NN warfarin)) (CC or) (NP (NN digoxin))))))) (. .))))
+
+Sentence Id: DrugDDI.d306.s0
+Tizoxanide/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN protein/NN (/-LRB- 99.9/CD %)./NN
+
+(ROOT (S1 (S (NP (NN Tizoxanide)) (VP (VBZ is) (ADVP (RB highly)) (VP (VBN bound) (PP (TO to) (NP (NN plasma) (NN protein))) (PRN (-LRB- -LRB-) (NP (CD 99.9) (NN %-RRB-.))))))))
+
+Sentence Id: DrugDDI.d306.s1
+Therefore/RB ,/, caution/NN should/MD be/VB used/VBN when/WRB administering/VBG nitazoxanide/NN concurrently/RB with/IN other/JJ highly/RB plasma/NN protein-bound/JJ drugs/NNS with/IN narrow/JJ therapeutic/JJ indices/NNS ,/, as/IN competition/NN for/IN binding/NN sites/NNS may/MD occur/VB (/-LRB- e.g./FW ,/, warfarin/NN )/-RRB- ./.
+
+(ROOT (S1 (S (ADVP (RB Therefore)) (, ,) (NP (NN caution)) (VP (MD should) (VP (VB be) (VP (VBN used) (SBAR (WHADVP (WRB when)) (S (VP (VBG administering) (NP (NP (NN nitazoxanide)) (PP (ADVP (RB concurrently)) (IN with) (NP (JJ other) (ADJP (RB highly) (NN plasma) (JJ protein-bound)) (NNS drugs)))) (PP (IN with) (NP (JJ narrow) (JJ therapeutic) (NNS indices)))))) (, ,) (SBAR (IN as) (S (NP (NP (NN competition)) (PP (IN for) (NP (NN binding) (NNS sites)))) (VP (MD may) (VP (VB occur)))))) (PRN (-LRB- -LRB-) (PP (FW e.g.) (, ,) (NP (NN warfarin))) (-RRB- -RRB-)))) (. .))))
+
+Sentence Id: DrugDDI.d306.s2
+In/FW vitro/FW metabolism/NN studies/NNS have/VBP demonstrated/VBN that/IN tizoxanide/NN has/VBZ no/DT significant/JJ inhibitory/JJ effect/NN on/IN cytochrome/NN P450/NN enzymes/NNS ./.
+
+(ROOT (S1 (S (S (NP (ADJP (FW In) (FW vitro)) (NN metabolism) (NNS studies)) (VP (VBP have) (VP (VBN demonstrated) (SBAR (IN that) (S (NP (NN tizoxanide)) (VP (VBZ has) (NP (DT no) (JJ significant) (JJ inhibitory) (NN effect)) (PP (IN on) (NP (NN cytochrome) (NN P450) (NNS enzymes))))))))) (. .))))
+
+Sentence Id: DrugDDI.d306.s3
+Although/IN no/DT drug-drug/JJ interaction/NN studies/NNS have/VBP been/VBN conducted/VBN in/FW vivo/FW ,/, it/PRP is/VBZ expected/VBN that/IN no/DT significant/JJ interaction/NN would/MD occur/VB when/WRB nitazoxanide/NN is/VBZ co-administered/VBN with/IN drugs/NNS that/WDT either/RB are/VBP metabolized/VBN by/IN or/CC inhibit/VB cytochrome/NN P450/NN enzymes/NNS ./.
+
+(ROOT (S1 (S (SBAR (IN Although) (S (NP (DT no) (JJ drug-drug) (NN interaction) (NNS studies)) (VP (VBP have) (VP (VBN been) (VP (VBN conducted) (ADVP (FW in) (FW vivo))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (DT no) (JJ significant) (NN interaction)) (VP (MD would) (VP (VB occur) (SBAR (WHADVP (WRB when)) (S (NP (NN nitazoxanide)) (VP (VBZ is) (VP (VBN co-administered) (PP (IN with) (NP (NP (NNS drugs)) (SBAR (WHNP (WDT that)) (S (ADVP (RB either)) (VP (VP (VBP are) (VP (VBN metabolized) (PP (IN by)))) (CC or) (VP (VB inhibit) (NP (NN cytochrome) (NN P450) (NNS enzymes)))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s0
+Oxcarbazepine/NN can/MD inhibit/VB CYP2C19/NN and/CC induce/VB CYP3A4/NN /5/NN with/IN potentially/RB important/JJ effects/NNS on/IN plasma/NN concentrations/NNS of/IN other/JJ drugs/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Oxcarbazepine)) (VP (MD can) (VP (VP (VB inhibit) (NP (NN CYP2C19))) (CC and) (VP (VB induce) (NP (NP (NN CYP3A4) (NN /5)) (PP (IN with) (NP (NP (ADJP (RB potentially) (JJ important)) (NNS effects)) (PP (IN on) (NP (NP (NN plasma) (NNS concentrations)) (PP (IN of) (NP (JJ other) (NNS drugs)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s1
+In/IN addition/NN ,/, several/JJ AED/JJ @/NN s/NNS that/WDT are/VBP cytochrome/NN P450/NN inducers/NNS can/MD decrease/VB plasma/NN concentrations/NNS of/IN oxcarbazepine/NN and/CC MHD/NN ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (JJ several) (JJ AED) (NN @) (NNS s)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (NP (NN cytochrome) (NN P450) (NNS inducers)))))) (VP (MD can) (VP (VB decrease) (NP (NP (NN plasma) (NNS concentrations)) (PP (IN of) (NP (NP (NN oxcarbazepine)) (CC and) (NP (NN MHD)))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s2
+Oxcarbazepine/NN was/VBD evaluated/VBN in/IN human/JJ liver/NN microsomes/NNS to/TO determine/VB its/PRP$ capacity/NN to/TO inhibit/VB the/DT major/JJ cytochrome/NN P450/NN enzymes/NNS responsible/JJ for/IN the/DT metabolism/NN of/IN other/JJ drugs/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Oxcarbazepine)) (VP (VBD was) (VP (VBN evaluated) (PP (IN in) (NP (JJ human) (NN liver) (NNS microsomes))) (S (VP (TO to) (VP (VB determine) (NP (PRP$ its) (NN capacity) (S (VP (TO to) (VP (VB inhibit) (NP (NP (DT the) (JJ major) (NN cytochrome) (NN P450) (NNS enzymes)) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (NN metabolism)) (PP (IN of) (NP (JJ other) (NNS drugs))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s3
+Results/NNS demonstrate/VBP that/IN oxcarbazepine/NN and/CC its/PRP$ pharmacologically/RB active/JJ 10-monohydroxy/NN metabolite/NN (/-LRB- MHD/NN )/-RRB- have/VBP little/JJ or/CC no/DT capacity/NN to/TO function/VB as/IN inhibitors/NNS for/IN most/JJS of/IN the/DT human/JJ cytochrome/NN P450/NN enzymes/NNS evaluated/VBN (/-LRB- CYP1A2/NN ,/, CYP2A6/NN ,/, CYP2C9/NN ,/, CYP2D6/NN ,/, CYP2E1/NN ,/, CYP4A9/NN and/CC CYP4A11/NN )/-RRB- with/IN the/DT exception/NN of/IN CYP2C19/NN and/CC CYP3A4/NN /5/NN ./.
+
+(ROOT (S1 (S (NP (NNS Results)) (VP (VBP demonstrate) (SBAR (IN that) (S (NP (NP (NN oxcarbazepine)) (CC and) (NP (NP (PRP$ its) (ADJP (RB pharmacologically) (JJ active)) (NN 10-monohydroxy) (NN metabolite)) (PRN (-LRB- -LRB-) (NP (NN MHD)) (-RRB- -RRB-)))) (VP (VBP have) (NP (NP (ADJP (JJ little))) (CC or) (NP (DT no) (NN capacity) (S (VP (TO to) (VP (VB function) (PP (IN as) (NP (NP (NNS inhibitors)) (PP (IN for) (NP (NP (JJS most)) (PP (IN of) (NP (NP (DT the) (JJ human) (NN cytochrome) (NN P450) (NNS enzymes)) (VP (VBN evaluated) (PRN (-LRB- -LRB-) (NP (NP (NN CYP1A2)) (, ,) (NP (NN CYP2A6)) (, ,) (NP (NN CYP2C9)) (, ,) (NP (NN CYP2D6)) (, ,) (NP (NN CYP2E1)) (, ,) (NP (NN CYP4A9)) (CC and) (NP (NN CYP4A11))) (-RRB- -RRB-)) (PP (IN with) (NP (NP (DT the) (NN exception)) (PP (IN of) (NP (NP (NN CYP2C19)) (CC and) (NP (NN CYP3A4) (NN /5)))))))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s4
+Although/IN inhibition/NN of/IN CYP/NN 3A4/5/NN by/IN OXC/NN and/CC MHD/NN did/VBD occur/VB at/IN high/JJ concentrations/NNS ,/, it/PRP is/VBZ not/RB likely/JJ to/TO be/VB of/IN clinical/JJ significance/NN ./.
+
+(ROOT (S1 (S (S (SBAR (IN Although) (S (NP (NP (NN inhibition)) (PP (IN of) (NP (NN CYP) (NN 3A4/5))) (PP (IN by) (NP (NP (NN OXC)) (CC and) (NP (NN MHD))))) (VP (VBD did) (VP (VB occur) (PP (IN at) (NP (JJ high) (NNS concentrations))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (JJ likely) (S (VP (TO to) (VP (VB be) (PP (IN of) (NP (JJ clinical) (NN significance))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s5
+The/DT inhibition/NN of/IN CYP-2C19/NN by/IN OXC/NN and/CC MHD/NN ,/, however/RB ,/, is/VBZ clinically/RB relevant/JJ ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN inhibition)) (PP (IN of) (NP (NN CYP-2C19))) (PP (IN by) (NP (NP (NN OXC)) (CC and) (NP (NN MHD))))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ is) (ADJP (RB clinically) (JJ relevant)))) (. .))))
+
+Sentence Id: DrugDDI.d20.s6
+In/FW vitro/FW ,/, the/DT UDP-glucuronyl/JJ transferase/NN level/NN was/VBD increased/VBN ,/, indicating/VBG induction/NN of/IN this/DT enzyme/NN ./.
+
+(ROOT (S1 (S (S (ADVP (FW In) (FW vitro)) (, ,) (NP (DT the) (JJ UDP-glucuronyl) (NN transferase) (NN level)) (VP (VBD was) (VP (VBN increased) (, ,) (S (VP (VBG indicating) (NP (NP (NN induction)) (PP (IN of) (NP (DT this) (NN enzyme))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s7
+Increases/NNS of/IN 22/CD %/NN with/IN MHD/NN and/CC 47/CD %/NN with/IN oxcarbazepine/NN were/VBD observed/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Increases)) (PP (IN of) (NP (NP (NP (CD 22) (NN %)) (PP (IN with) (NP (NN MHD)))) (CC and) (NP (NP (CD 47) (NN %)) (PP (IN with) (NP (NN oxcarbazepine))))))) (VP (VBD were) (VP (VBN observed)))) (. .))))
+
+Sentence Id: DrugDDI.d20.s8
+As/IN MHD/NN ,/, the/DT predominant/JJ plasma/NN substrate/NN ,/, is/VBZ only/RB a/DT weak/JJ inducer/NN of/IN UDP-glucuronyl/NN transferase/NN ,/, it/PRP is/VBZ unlikely/JJ to/TO have/VB an/DT effect/NN on/IN drugs/NNS that/WDT are/VBP mainly/RB eliminated/VBN by/IN conjugation/NN through/IN UDP-glucuronyl/JJ transferase/NN (/-LRB- e.g./FW ,/, valproic/JJ acid/NN ,/, lamotrigine/NN )/-RRB- ./.
+
+(ROOT (S1 (S (SBAR (IN As) (S (NP (NP (NN MHD)) (, ,) (NP (DT the) (JJ predominant) (NN plasma) (NN substrate)) (, ,)) (VP (VBZ is) (ADVP (RB only)) (NP (NP (DT a) (JJ weak) (NN inducer)) (PP (IN of) (NP (NN UDP-glucuronyl) (NN transferase))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB have) (NP (DT an) (NN effect)) (PP (IN on) (NP (NP (NNS drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (ADVP (RB mainly)) (VP (VBN eliminated) (PP (IN by) (NP (NN conjugation))) (PP (IN through) (NP (NP (JJ UDP-glucuronyl) (NN transferase)) (PRN (-LRB- -LRB-) (PP (FW e.g.) (, ,) (NP (JJ valproic) (NN acid))) (, ,) (NP (NN lamotrigine)) (-RRB- -RRB-))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s9
+In/IN addition/NN ,/, oxcarbazepine/NN and/CC MHD/NN induce/VBP a/DT subgroup/NN of/IN the/DT cytochrome/NN P450/NN 3A/NN family/NN (/-LRB- CYP3A4/NN and/CC CYP3A5/NN )/-RRB- responsible/JJ for/IN the/DT metabolism/NN of/IN dihydropyridine/NN calcium/NN antagonist/NN s/NN and/CC oral/JJ contraceptives/NNS ,/, resulting/VBG in/IN a/DT lower/JJR plasma/NN concentration/NN of/IN these/DT drugs/NNS ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (NN addition))) (, ,) (NP (NP (NN oxcarbazepine)) (CC and) (NP (NN MHD))) (VP (VBP induce) (NP (NP (DT a) (NN subgroup)) (PP (IN of) (NP (NP (NP (DT the) (NN cytochrome) (NN P450) (NN 3A) (NN family)) (PRN (-LRB- -LRB-) (NP (NP (NN CYP3A4)) (CC and) (NP (NN CYP3A5))) (-RRB- -RRB-))) (ADJP (JJ responsible) (PP (IN for) (NP (NP (DT the) (NN metabolism)) (PP (IN of) (NP (NP (NN dihydropyridine) (NN calcium) (NN antagonist) (NN s)) (CC and) (NP (JJ oral) (NNS contraceptives)))))))))) (, ,) (S (VP (VBG resulting) (PP (IN in) (NP (NP (DT a) (JJR lower) (NN plasma) (NN concentration)) (PP (IN of) (NP (DT these) (NNS drugs))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s10
+As/IN binding/NN of/IN MHD/NN to/TO plasma/NN proteins/NNS is/VBZ low/JJ (/-LRB- 40/CD %/NN )/-RRB- ,/, clinically/RB significant/JJ interactions/NNS with/IN other/JJ drugs/NNS through/IN competition/NN for/IN protein/NN binding/NN sites/NNS are/VBP unlikely/JJ ./.
+
+(ROOT (S1 (S (S (SBAR (IN As) (S (NP (NP (NN binding)) (PP (IN of) (NP (NN MHD))) (PP (TO to) (NP (NN plasma) (NNS proteins)))) (VP (VBZ is) (ADJP (ADJP (JJ low)) (PRN (-LRB- -LRB-) (NP (CD 40) (NN %)) (-RRB- -RRB-)))))) (, ,) (NP (NP (ADJP (RB clinically) (JJ significant)) (NNS interactions)) (PP (IN with) (NP (JJ other) (NNS drugs))) (PP (IN through) (NP (NP (NN competition)) (PP (IN for) (NP (NN protein) (NN binding) (NNS sites)))))) (VP (VBP are) (ADJP (JJ unlikely)))) (. .))))
+
+Sentence Id: DrugDDI.d20.s11
+Antiepileptic/JJ drugs/NNS Potential/JJ interactions/NNS between/IN Trileptal/NNP and/CC other/JJ AEDs/NNS were/VBD assessed/VBN in/IN clinical/JJ studies/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Antiepileptic) (NNS drugs)) (NP (NP (JJ Potential) (NNS interactions)) (PP (IN between) (NP (NP (NNP Trileptal)) (CC and) (NP (JJ other) (NNS AEDs)))))) (VP (VBD were) (VP (VBN assessed) (PP (IN in) (NP (JJ clinical) (NNS studies)))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s12
+The/DT effect/NN of/IN these/DT interactions/NNS on/IN mean/JJ AUCs/NNS and/CC Cmin/NN are/VBP summarized/VBN in/IN Table/NN 2/CD :/: Table/NN 2/CD :/: Summary/NN of/IN AED/JJ interactions/NNS with/IN Trileptal/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN effect)) (PP (IN of) (NP (DT these) (NNS interactions))) (PP (IN on) (NP (NP (JJ mean) (NNS AUCs)) (CC and) (NP (NN Cmin))))) (VP (VBP are) (VP (VBN summarized) (PP (IN in) (NP (NP (NN Table) (CD 2) (: :) (NP (NN Table) (CD 2)) (: :) (NP (NN Summary))) (PP (IN of) (NP (NP (JJ AED) (NNS interactions)) (PP (IN with) (NP (NN Trileptal)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s15
+Trileptal/JJ dose/NN (/-LRB- mg/day/NN )/-RRB- ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Trileptal) (NN dose)) (PRN (-LRB- -LRB-) (NP (NN mg/day)) (-RRB- -RRB-)))) (. .))))
+
+Sentence Id: DrugDDI.d20.s16
+Influence/NN of/IN Trileptal/NN on/IN AED/JJ Concentration/NN (/-LRB- Mean/NN change/NN ,/, 90/CD %/NN Confidence/NN Interval/NN )/-RRB- ./.
+
+(ROOT (S1 (S (NP (NP (NN Influence)) (PP (IN of) (NP (NN Trileptal))) (PP (IN on) (NP (NP (JJ AED) (NN Concentration)) (PRN (-LRB- -LRB-) (NP (NP (NN Mean) (NN change)) (, ,) (NP (ADJP (CD 90) (NN %)) (NN Confidence) (NN Interval))) (-RRB- -RRB-)))) (. .)))))
+
+Sentence Id: DrugDDI.d20.s18
+Carbamazepine/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Carbamazepine)) (. .)))))
+
+Sentence Id: DrugDDI.d20.s22
+Phenobarbital/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Phenobarbital)) (. .)))))
+
+Sentence Id: DrugDDI.d20.s26
+Phenytoin/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Phenytoin)) (. .)))))
+
+Sentence Id: DrugDDI.d20.s31
+Valproic/JJ acid/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Valproic) (NN acid))) (. .))))
+
+Sentence Id: DrugDDI.d20.s35
+1-/CD nc/NN denotes/VBZ a/DT mean/JJ change/NN of/IN less/JJR than/IN 10/CD %/NN 2-/CD Pediatrics/NN 3-/CD Mean/NN increase/NN in/IN adults/NNS at/IN high/JJ Trileptal/NN doses/NNS In/FW vivo/FW ,/, the/DT plasma/NN levels/NNS of/IN phenytoin/NN increased/VBD by/IN up/RB to/TO 40/CD %/NN ,/, when/WRB Trileptal/NN was/VBD given/VBN at/IN doses/NNS above/IN 1200/CD mg/day/NN ./.
+
+(ROOT (S1 (S (S (NP (CD 1-) (NN nc)) (VP (VBZ denotes) (NP (NP (DT a) (JJ mean) (NN change)) (PP (IN of) (NP (NP (QP (JJR less) (IN than) (CD 10)) (NN %) (CD 2-) (NN Pediatrics) (CD 3-) (NN Mean) (NN increase)) (PP (IN in) (NP (NNS adults))) (PP (IN at) (NP (JJ high) (NN Trileptal) (NNS doses)))))) (ADVP (FW In) (FW vivo)))) (, ,) (S (NP (NP (DT the) (NN plasma) (NNS levels)) (PP (IN of) (NP (NN phenytoin)))) (VP (VBD increased) (PP (IN by) (NP (QP (RB up) (TO to) (CD 40)) (NN %))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NN Trileptal)) (VP (VBD was) (VP (VBN given) (PP (IN at) (NP (NP (NNS doses)) (PP (IN above) (NP (CD 1200) (NN mg/day))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s36
+Therefore/RB ,/, when/WRB using/VBG doses/NNS of/IN Trileptal/NN greater/JJR than/IN 1200/CD mg/day/NN during/IN adjunctive/JJ therapy/NN ,/, a/DT decrease/NN in/IN the/DT dose/NN of/IN phenytoin/NN may/MD be/VB required/VBN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBG using) (NP (NP (NNS doses)) (PP (IN of) (NP (NN Trileptal))) (ADJP (QP (JJR greater) (IN than) (CD 1200)) (NN mg/day))) (PP (IN during) (NP (JJ adjunctive) (NN therapy)))))) (, ,) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NP (DT the) (NN dose)) (PP (IN of) (NP (NN phenytoin)))))) (VP (MD may) (VP (VB be) (VP (VBN required))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s37
+The/DT increase/NN of/IN phenobarbital/NN level/NN ,/, however/RB ,/, is/VBZ small/JJ (/-LRB- 15/CD %/NN )/-RRB- when/WRB given/VBN with/IN Trileptal/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN increase)) (PP (IN of) (NP (NN phenobarbital) (NN level)))) (, ,) (ADVP (RB however)) (, ,) (VP (VBZ is) (ADJP (ADJP (JJ small)) (PRN (-LRB- -LRB-) (NP (CD 15) (NN %)) (-RRB- -RRB-))) (SBAR (WHADVP (WRB when)) (S (VP (VBN given) (PP (IN with) (NP (NN Trileptal)))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s38
+Strong/JJ inducers/NNS of/IN cytochrome/NN P450/NN enzymes/NNS (/-LRB- i.e./FW carbamazepine/NN ,/, phenytoin/NN and/CC phenobarbital/NN )/-RRB- have/VBP been/VBN shown/VBN to/TO decrease/VB the/DT plasma/NN levels/NNS of/IN MHD/NN (/-LRB- 29-40%)./NN
+
+(ROOT (S1 (S (NP (NP (JJ Strong) (NNS inducers)) (PP (IN of) (NP (NP (NN cytochrome) (NN P450) (NNS enzymes)) (PRN (-LRB- -LRB-) (PP (FW i.e.)) (NP (NP (NN carbamazepine)) (, ,) (NP (NN phenytoin)) (CC and) (NP (NN phenobarbital))) (-RRB- -RRB-))))) (VP (VBP have) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB decrease) (NP (NP (DT the) (NN plasma) (NNS levels)) (PP (IN of) (NP (NN MHD)))) (PRN (-LRB- -LRB-) (NP (NN 29-40%-RRB-.))))))))))))
+
+Sentence Id: DrugDDI.d20.s39
+No/DT autoinduction/NN has/VBZ been/VBN observed/VBN with/IN Trileptal/NN ./.
+
+(ROOT (S1 (S (S (NP (DT No) (NN autoinduction)) (VP (VBZ has) (VP (VBN been) (VP (VBN observed) (PP (IN with) (NP (NN Trileptal))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s40
+Hormonal/JJ contraceptives/NNS Co-administration/NN of/IN Trileptal/NN with/IN an/DT oral/JJ contraceptive/NN has/VBZ been/VBN shown/VBN to/TO influence/VB the/DT plasma/NN concentrations/NNS of/IN the/DT two/CD hormonal/JJ components/NNS ,/, ethinylestradiol/NN (/-LRB- EE/NN )/-RRB- and/CC levonorgestrel/NN (/-LRB- LNG)./NN
+
+(ROOT (S1 (S (NP (NP (JJ Hormonal) (NNS contraceptives)) (S (NP (NP (NN Co-administration)) (PP (IN of) (NP (NN Trileptal))) (PP (IN with) (NP (DT an) (JJ oral) (NN contraceptive)))) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB influence) (NP (NP (DT the) (NN plasma) (NNS concentrations)) (PP (IN of) (NP (NP (DT the) (CD two) (JJ hormonal) (NNS components)) (, ,) (NP (NP (NP (NN ethinylestradiol)) (PRN (-LRB- -LRB-) (NP (NN EE)) (-RRB- -RRB-))) (CC and) (NP (NP (NN levonorgestrel)) (PRN (-LRB- -LRB-) (NP (NN LNG-RRB-.)))))))))))))))))))
+
+Sentence Id: DrugDDI.d20.s43
+Therefore/RB ,/, concurrent/JJ use/NN of/IN Trileptal/NN with/IN hormonal/JJ contraceptives/NNS may/MD render/VB these/DT contraceptives/NNS less/RBR effective/JJ ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (NP (NP (JJ concurrent) (NN use)) (PP (IN of) (NP (NN Trileptal))) (PP (IN with) (NP (JJ hormonal) (NNS contraceptives)))) (VP (MD may) (VP (VB render) (S (NP (DT these) (NNS contraceptives)) (ADJP (RBR less) (JJ effective)))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s44
+Studies/NNS with/IN other/JJ oral/JJ or/CC implant/JJ contraceptives/NNS have/VBP not/RB been/VBN conducted/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Studies)) (PP (IN with) (NP (JJ other) (ADJP (ADJP (JJ oral)) (CC or) (ADJP (JJ implant))) (NNS contraceptives)))) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN conducted))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s45
+Calcium/NN Antagonist/NN s/NN After/IN repeated/JJ co-administration/NN of/IN Trileptal/NN ,/, the/DT AUC/NN of/IN felodipine/NN was/VBD lowered/VBN by/IN 28/CD %/NN [90/CD %/NN CI/NN :/: 20-33/CD ]./NN
+
+(ROOT (S1 (S (PP (NP (NN Calcium) (NN Antagonist) (NN s)) (IN After) (NP (NP (JJ repeated) (NN co-administration)) (PP (IN of) (NP (NN Trileptal))))) (, ,) (NP (NP (DT the) (NN AUC)) (PP (IN of) (NP (NN felodipine)))) (VP (VBD was) (VP (VBN lowered) (PP (IN by) (NP (NP (CD 28) (NN %)) (NP (ADJP (CD -LSB-90) (NN %)) (NN CI)))))) (: :) (NP (CD 20-33) (NN -RSB-.)))))
+
+Sentence Id: DrugDDI.d20.s46
+Verapamil/NN produced/VBD a/DT decrease/NN of/IN 20/CD %/NN [90/CD %/NN CI/CD :/: 18-27/CD ]/-RRB- of/IN the/DT plasma/NN levels/NNS of/IN MHD/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Verapamil)) (VP (VBD produced) (NP (NP (DT a) (NN decrease)) (PP (IN of) (NP (NP (CD 20) (NN %) (CD -LSB-90) (NN %) (CD CI) (: :) (CD 18-27) (-RRB- -RSB-)) (PP (IN of) (NP (NP (DT the) (NN plasma) (NNS levels)) (PP (IN of) (NP (NN MHD)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s47
+Other/JJ drug/NN interactions/NNS Cimetidine/NN ,/, erythromycin/NN and/CC dextropropoxyphene/NN had/VBD no/DT effect/NN on/IN the/DT pharmacokinetics/NNS of/IN MHD/NN ./.
+
+(ROOT (S1 (S (S (NP (JJ Other) (NN drug) (NNS interactions) (NP (NP (NN Cimetidine)) (, ,) (NP (NN erythromycin)) (CC and) (NP (NN dextropropoxyphene)))) (VP (VBD had) (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (DT the) (NNS pharmacokinetics)) (PP (IN of) (NP (NN MHD))))))) (. .))))
+
+Sentence Id: DrugDDI.d20.s48
+Results/NNS with/IN warfarin/NN wshow/VBP no/DT evidence/NN of/IN interaction/NN with/IN either/CC single/JJ or/CC repeated/JJ doses/NNS of/IN Trileptal/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Results)) (PP (IN with) (NP (NN warfarin)))) (VP (VBP wshow) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NN interaction)) (PP (IN with) (NP (NP (ADJP (CC either) (ADJP (JJ single)) (CC or) (ADJP (JJ repeated))) (NNS doses)) (PP (IN of) (NP (NN Trileptal)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s0
+In/IN a/DT Phase/NN :/: I/NN trial/NN using/VBG escalating/JJ doses/NNS of/IN TAXOL/NN (/-LRB- 110-200/CD mg/m2/NN )/-RRB- and/CC cisplatin/NN (/-LRB- 50/CD or/CC 75/CD mg/m2/NN )/-RRB- given/VBN as/IN sequential/JJ infusions/NNS ,/, myelosuppression/NN was/VBD more/RBR profound/JJ when/WRB TAXOL/NN was/VBD given/VBN after/IN cisplatin/NN than/IN with/IN the/DT alternate/JJ sequence/NN (/-LRB- ie/FW ,/, TAXOL/NN before/IN cisplatin/NN )/-RRB- ./.
+
+(ROOT (S1 (S (PP (IN In) (NP (NP (DT a) (NN Phase) (: :) (NN I) (NN trial)) (VP (VBG using) (NP (NP (NP (JJ escalating) (NNS doses)) (PP (IN of) (NP (NP (NP (NN TAXOL)) (PRN (-LRB- -LRB-) (NP (CD 110-200) (NN mg/m2)) (-RRB- -RRB-))) (CC and) (NP (NP (NN cisplatin)) (PRN (-LRB- -LRB-) (NP (QP (CD 50) (CC or) (CD 75)) (NN mg/m2)) (-RRB- -RRB-)))))) (VP (VBN given) (PP (IN as) (NP (JJ sequential) (NNS infusions)))))))) (, ,) (NP (NN myelosuppression)) (VP (VBD was) (ADJP (RBR more) (JJ profound)) (SBAR (WHADVP (WRB when)) (S (NP (NN TAXOL)) (VP (VBD was) (VP (VBN given) (PP (IN after) (NP (NN cisplatin))) (PP (IN than) (PP (IN with) (NP (NP (DT the) (JJ alternate) (NN sequence)) (PRN (-LRB- -LRB-) (PP (FW ie)) (, ,) (NP (NP (NN TAXOL)) (PP (IN before) (NP (NN cisplatin)))) (-RRB- -RRB-)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s1
+Pharmacokinetic/JJ data/NNS from/IN these/DT patients/NNS demonstrated/VBD a/DT decrease/NN in/IN paclitaxel/NN clearance/NN of/IN approximately/RB 33/CD %/NN when/WRB TAXOL/NN was/VBD administered/VBN following/VBG cisplatin/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Pharmacokinetic) (NNS data)) (PP (IN from) (NP (DT these) (NNS patients)))) (VP (VBD demonstrated) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NP (NN paclitaxel) (NN clearance)) (PP (IN of) (NP (QP (RB approximately) (CD 33)) (NN %)))))) (SBAR (WHADVP (WRB when)) (S (NP (NN TAXOL)) (VP (VBD was) (VP (VBN administered) (PP (VBG following) (NP (NN cisplatin))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s2
+The/DT metabolism/NN of/IN TAXOL/NN is/VBZ catalyzed/VBN by/IN cytochrome/NN P450/NN isoen-zymes/NNS CYP2C8/NN and/CC CYP3A4/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN metabolism)) (PP (IN of) (NP (NN TAXOL)))) (VP (VBZ is) (VP (VBN catalyzed) (PP (IN by) (NP (NN cytochrome) (NN P450) (NNS isoen-zymes) (NP (NP (NN CYP2C8)) (CC and) (NP (NN CYP3A4)))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s3
+In/IN the/DT absence/NN of/IN formal/JJ clinical/JJ drug/NN interaction/NN studies/NNS ,/, caution/NN should/MD be/VB exercised/VBN when/WRB administering/VBG TAXOL/NN concomitantly/RB with/IN known/JJ substrates/NNS or/CC inhibitors/NNS of/IN the/DT cytochrome/NN P450/NN isoenzymes/NNS CYP2C8/NN and/CC CYP3A4/NN ./.
+
+(ROOT (S1 (S (S (PP (IN In) (DT the) (NN absence) (IN of) (NP (JJ formal) (JJ clinical) (NN drug) (NN interaction) (NNS studies))) (, ,) (NP (NN caution)) (VP (MD should) (VP (VB be) (VP (VBN exercised) (SBAR (WHADVP (WRB when)) (S (VP (VBG administering) (NP (NP (NN TAXOL)) (ADVP (RB concomitantly))) (PP (IN with) (NP (NP (JJ known) (NNS substrates)) (CC or) (NP (NP (NNS inhibitors)) (PP (IN of) (NP (DT the) (NN cytochrome) (NN P450) (NNS isoenzymes) (NP (NP (NN CYP2C8)) (CC and) (NP (NN CYP3A4))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s4
+Potential/JJ interactions/NNS between/IN TAXOL/NN ,/, a/DT substrate/NN of/IN CYP3A4/NN ,/, and/CC protease/NN inhibitors/NNS (/-LRB- ritonavir/NN ,/, saquinavir/NN ,/, indinavir/NN ,/, and/CC nelfinavir/NN )/-RRB- ,/, which/WDT are/VBP substrates/NNS and/or/CC inhibitors/NNS of/IN CYP3A4/NN ,/, have/VBP not/RB been/VBN evaluated/VBN in/IN clinical/JJ trials/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Potential) (NNS interactions)) (PP (IN between) (NP (NP (NP (NN TAXOL)) (, ,) (NP (NP (DT a) (NN substrate)) (PP (IN of) (NP (NN CYP3A4)))) (, ,)) (CC and) (NP (NP (NN protease) (NNS inhibitors)) (PRN (-LRB- -LRB-) (NP (NP (NN ritonavir)) (, ,) (NP (NN saquinavir)) (, ,) (NP (NN indinavir)) (, ,) (CC and) (NP (NN nelfinavir))) (-RRB- -RRB-))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP are) (NP (NP (NP (NNS substrates)) (CC and/or) (NP (NNS inhibitors))) (PP (IN of) (NP (NN CYP3A4))))))) (, ,)) (VP (VBP have) (RB not) (VP (VBN been) (VP (VBN evaluated) (PP (IN in) (NP (JJ clinical) (NNS trials))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s5
+Reports/NNS in/IN the/DT literature/NN suggest/VBP that/IN plasma/NN levels/NNS of/IN doxorubicin/NN (/-LRB- and/CC its/PRP$ active/JJ metabolite/NN doxorubicinol/NN )/-RRB- may/MD be/VB increased/VBN when/WRB paclitaxel/NN and/CC doxorubicin/NN are/VBP used/VBN in/IN combination/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Reports)) (PP (IN in) (NP (DT the) (NN literature)))) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (NP (NN plasma) (NNS levels)) (PP (IN of) (NP (NN doxorubicin)))) (-LRB- -LRB-) (CC and) (NP (PRP$ its) (JJ active) (NN metabolite) (NN doxorubicinol)) (-RRB- -RRB-)) (VP (MD may) (VP (VB be) (VP (VBN increased) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN paclitaxel)) (CC and) (NP (NN doxorubicin))) (VP (VBP are) (VP (VBN used) (PP (IN in) (NP (NN combination)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s6
+Hematology/NNP :/: TAXOL/NN therapy/NN should/MD not/RB be/VB administered/VBN to/TO patients/NNS with/IN baseline/NN neutrophil/NN counts/NNS of/IN less/JJR than/IN 1,500/CD cells/mm3/NN ./.
+
+(ROOT (S1 (S (NP (NP (NNP Hematology)) (: :) (S (NP (NN TAXOL) (NN therapy)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN administered) (PP (TO to) (NP (NP (NNS patients)) (PP (IN with) (NP (NP (NN baseline) (NN neutrophil) (NNS counts)) (PP (IN of) (NP (QP (JJR less) (IN than) (CD 1,500)) (NN cells/mm3))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d480.s7
+In/IN order/NN to/TO monitor/VB the/DT occurrence/NN of/IN myelotoxicity/NN ,/, it/PRP is/VBZ recommended/VBN that/IN frequent/JJ peripheral/JJ blood/NN cell/NN counts/NNS be/VB performed/VBN on/IN all/DT patients/NNS receiving/VBG TAXOL/NN ./.
+
+(ROOT (S1 (S (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB monitor) (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (NN myelotoxicity)))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN recommended) (SBAR (IN that) (S (NP (JJ frequent) (JJ peripheral) (NN blood) (NN cell) (NNS counts)) (VP (VB be) (VP (VBN performed) (PP (IN on) (NP (NP (DT all) (NNS patients)) (VP (VBG receiving) (NP (NN TAXOL)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s8
+Patients/NNS should/MD not/RB be/VB re-treated/VBN with/IN subsequent/JJ cycles/NNS of/IN TAXOL/NN until/IN neutrophils/NNS recover/VBP to/TO a/DT level/NN 1500/CD cells/mm3/NN and/CC platelets/NNS recover/VBP to/TO a/DT level/NN 100,000/CD cells/mm3/NN ./.
+
+(ROOT (S1 (S (S (NP (NNS Patients)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN re-treated) (PP (IN with) (NP (NP (JJ subsequent) (NNS cycles)) (PP (IN of) (NP (NN TAXOL))))) (SBAR (IN until) (S (S (NP (NNS neutrophils)) (VP (VBP recover) (PP (TO to) (NP (NP (DT a) (NN level)) (ADJP (CD 1500) (NN cells/mm3)))))) (CC and) (S (NP (NNS platelets)) (VP (VBP recover) (PP (TO to) (NP (NP (DT a) (NN level)) (ADJP (CD 100,000) (NN cells/mm3)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s9
+In/IN the/DT case/NN of/IN severe/JJ neutropenia/NN (/-LRB- 500/CD cells/mm3/NN for/IN seven/CD days/NNS or/CC more/JJR )/-RRB- during/IN a/DT course/NN of/IN TAXOL/NN therapy/NN ,/, a/DT 20/CD %/NN reduction/NN in/IN dose/NN for/IN subsequent/JJ courses/NNS of/IN therapy/NN is/VBZ recommended/VBN ./.
+
+(ROOT (S1 (S (PP (IN In) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (NP (JJ severe) (NN neutropenia)) (PRN (-LRB- -LRB-) (NP (CD 500) (NN cells/mm3)) (PP (IN for) (NP (NP (CD seven) (NNS days)) (CC or) (NP (JJR more)))) (-RRB- -RRB-)))) (PP (IN during) (NP (NP (DT a) (NN course)) (PP (IN of) (NP (NN TAXOL) (NN therapy))))))) (, ,) (NP (NP (DT a) (CD 20) (NN %) (NN reduction)) (PP (IN in) (NP (NN dose))) (PP (IN for) (NP (NP (JJ subsequent) (NNS courses)) (PP (IN of) (NP (NN therapy)))))) (VP (VBZ is) (VP (VBN recommended))) (. .))))
+
+Sentence Id: DrugDDI.d480.s10
+For/IN patients/NNS with/IN advanced/JJ HIV/NN disease/NN and/CC poor-risk/JJ AIDS-related/JJ Kaposi/NN @/NN s/NN sarcoma/NN ,/, TAXOL/NN ,/, at/IN the/DT recommended/VBN dose/NN for/IN this/DT disease/NN ,/, can/MD be/VB initiated/VBN and/CC repeated/VBN if/IN the/DT neutrophil/NN count/NN is/VBZ at/IN least/JJS 1000/CD cells/mm3/NN ./.
+
+(ROOT (S1 (S (S (PP (IN For) (NP (NP (NNS patients)) (PP (IN with) (NP (NP (JJ advanced) (NN HIV) (NN disease)) (CC and) (NP (JJ poor-risk) (JJ AIDS-related) (NN Kaposi) (NN @) (NN s) (NN sarcoma)))))) (, ,) (NP (NP (NN TAXOL)) (, ,) (PP (IN at) (NP (NP (DT the) (VBN recommended) (NN dose)) (PP (IN for) (NP (DT this) (NN disease))))) (, ,)) (VP (MD can) (VP (VB be) (VP (VP (VBN initiated)) (CC and) (VP (VBN repeated) (SBAR (IN if) (S (NP (DT the) (NN neutrophil) (NN count)) (VP (VBZ is) (NP (QP (IN at) (JJS least) (CD 1000)) (NN cells/mm3)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s11
+Hypersensitivity/NN Reactions/NNS :/: Patients/NNS with/IN a/DT history/NN of/IN severe/JJ hypersensitivity/NN reactions/NNS to/TO products/NNS containing/VBG Cremophor/NN @/NN EL/NN (/-LRB- eg/NN ,/, cyclosporin/NN for/IN injection/NN concentrate/NN and/CC teniposide/NN for/IN injection/NN concentrate/NN )/-RRB- should/MD not/RB be/VB treated/VBN with/IN TAXOL/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Hypersensitivity) (NNS Reactions)) (: :) (S (NP (NP (NNS Patients)) (PP (IN with) (NP (NP (DT a) (NN history)) (PP (IN of) (NP (NP (JJ severe) (NN hypersensitivity) (NNS reactions)) (PP (TO to) (NP (NP (NNS products)) (VP (VBG containing) (NP (NP (NN Cremophor) (NN @) (NN EL)) (PRN (-LRB- -LRB-) (NP (NP (NN eg)) (, ,) (NP (NP (NN cyclosporin)) (PP (IN for) (NP (NP (NN injection)) (NP (NN concentrate)) (CC and) (NP (NN teniposide)))) (PP (IN for) (NP (NN injection) (NN concentrate))))) (-RRB- -RRB-))))))))))) (VP (MD should) (RB not) (VP (VB be) (VP (VBN treated) (PP (IN with) (NP (NN TAXOL))))))) (. .)))))
+
+Sentence Id: DrugDDI.d480.s12
+In/IN order/NN to/TO avoid/VB the/DT occurrence/NN of/IN severe/JJ hypersensitivity/NN reactions/NNS ,/, all/DT patients/NNS treated/VBN with/IN TAXOL/NN should/MD be/VB premedicated/VBN with/IN corticosteroids/NNS (/-LRB- such/JJ as/IN dexamethasone/NN )/-RRB- ,/, diphen/NN -hydramine/NN and/CC H2/NN antagonists/NNS (/-LRB- such/JJ as/IN cimetidine/NN or/CC ranitidine/NN )/-RRB- ./.
+
+(ROOT (S1 (S (S (SBAR (IN In) (NN order) (S (VP (TO to) (VP (VB avoid) (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (JJ severe) (NN hypersensitivity) (NNS reactions)))))))) (, ,) (NP (NP (DT all) (NNS patients)) (VP (VBN treated) (PP (IN with) (NP (NN TAXOL))))) (VP (MD should) (VP (VB be) (VP (VBN premedicated) (PP (IN with) (NP (NP (NP (NNS corticosteroids)) (PRN (-LRB- -LRB-) (ADJP (JJ such) (PP (IN as) (NP (NN dexamethasone)))) (-RRB- -RRB-))) (, ,) (NP (NN diphen) (NN -hydramine)) (CC and) (NP (NP (NN H2) (NNS antagonists)) (PRN (-LRB- -LRB-) (ADJP (JJ such) (PP (IN as) (NP (NP (NN cimetidine)) (CC or) (NP (NN ranitidine))))) (-RRB- -RRB-))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s14
+However/RB ,/, severe/JJ reactions/NNS ,/, such/JJ as/IN hypotension/NN requiring/VBG treatment/NN ,/, dyspnea/NN requiring/VBG bronchodilators/NNS ,/, angioedema/NN ,/, or/CC generalized/JJ urticaria/NN require/VBP immediate/JJ discontinuation/NN of/IN TAXOL/NN and/CC aggressive/JJ symptomatic/JJ therapy/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB However)) (, ,) (NP (NP (JJ severe) (NNS reactions)) (, ,) (PP (JJ such) (IN as) (NP (NP (NN hypotension)) (VP (VBG requiring) (NP (NP (NN treatment)) (, ,) (NP (NP (NN dyspnea)) (VP (VBG requiring) (NP (NNS bronchodilators)))) (, ,) (NP (NN angioedema)) (, ,) (CC or) (NP (JJ generalized) (NN urticaria))))))) (VP (VBP require) (NP (NP (JJ immediate) (NN discontinuation)) (PP (IN of) (NP (NP (NN TAXOL)) (CC and) (NP (JJ aggressive) (JJ symptomatic) (NN therapy))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s15
+Patients/NNS who/WP have/VBP developed/VBN severe/JJ hypersensitivity/NN reactions/NNS should/MD not/RB be/VB rechallenged/VBN with/IN TAXOL/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Patients)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN developed) (NP (JJ severe) (NN hypersensitivity) (NNS reactions))))))) (VP (MD should) (RB not) (VP (VB be) (VP (VBN rechallenged) (PP (IN with) (NP (NN TAXOL))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s16
+Cardiovascular/NN :/: Hypotension/NN ,/, bradycardia/NN ,/, and/CC hypertension/NN have/VBP been/VBN observed/VBN during/IN administration/NN of/IN TAXOL/NN ,/, but/CC generally/RB do/VBP not/RB require/VB treatment/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Cardiovascular)) (: :) (S (S (NP (NP (NN Hypotension)) (, ,) (NP (NN bradycardia)) (, ,) (CC and) (NP (NN hypertension))) (VP (VBP have) (VP (VBN been) (VP (VBN observed) (PP (IN during) (NP (NP (NN administration)) (PP (IN of) (NP (NN TAXOL))))))))) (, ,) (CC but) (S (ADVP (RB generally)) (VP (VBP do) (RB not) (VP (VB require) (NP (NN treatment)))))) (. .)))))
+
+Sentence Id: DrugDDI.d480.s17
+Occasionally/RB TAXOL/NN infusions/NNS must/MD be/VB interrupted/VBN or/CC discontinued/VBD because/IN of/IN initial/JJ or/CC recurrent/JJ hypertension/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Occasionally)) (NP (NN TAXOL) (NNS infusions)) (VP (VP (MD must) (VP (VB be) (VP (VBN interrupted)))) (CC or) (VP (VBD discontinued) (PP (IN because) (IN of) (NP (ADJP (ADJP (JJ initial)) (CC or) (ADJP (JJ recurrent))) (NN hypertension)))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s18
+Frequent/JJ vital/JJ sign/NN monitoring/NN ,/, particularly/RB during/IN the/DT first/JJ hour/NN of/IN TAXOL/NN infusion/NN ,/, is/VBZ recommended/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Frequent) (JJ vital) (NN sign) (NN monitoring)) (, ,) (ADVP (RB particularly)) (PP (IN during) (NP (NP (DT the) (JJ first) (NN hour)) (PP (IN of) (NP (NN TAXOL) (NN infusion))))) (, ,)) (VP (VBZ is) (VP (VBN recommended)))) (. .))))
+
+Sentence Id: DrugDDI.d480.s20
+Nervous/JJ System/NN :/: Although/IN the/DT occurrence/NN of/IN peripheral/JJ neuropathy/NN is/VBZ frequent/JJ ,/, the/DT development/NN of/IN severe/JJ symptomatology/NN is/VBZ unusual/JJ and/CC requires/VBZ a/DT dose/NN reduction/NN of/IN 20/CD %/NN for/IN all/DT subsequentcourses/NNS of/IN TAXOL/NN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Nervous) (NN System)) (: :) (S (SBAR (IN Although) (S (NP (NP (DT the) (NN occurrence)) (PP (IN of) (NP (JJ peripheral) (NN neuropathy)))) (VP (VBZ is) (ADJP (JJ frequent))))) (, ,) (NP (NP (DT the) (NN development)) (PP (IN of) (NP (JJ severe) (NN symptomatology)))) (VP (VP (VBZ is) (ADJP (JJ unusual))) (CC and) (VP (VBZ requires) (NP (NP (DT a) (NN dose) (NN reduction)) (PP (IN of) (NP (CD 20) (NN %))) (PP (IN for) (NP (NP (DT all) (NNS subsequentcourses)) (PP (IN of) (NP (NN TAXOL))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d480.s21
+TAXOL/NN contains/VBZ dehydrated/JJ alcohol/NN USP/NN ,/, 396/CD mg/mL/NN ;/: ./.
+
+(ROOT (S1 (S (S (NP (NN TAXOL)) (VP (VBZ contains) (NP (NP (JJ dehydrated) (NN alcohol) (NN USP)) (, ,) (NP (CD 396) (NN mg/mL)))) (: ;)) (. .))))
+
+Sentence Id: DrugDDI.d480.s22
+consideration/NN should/MD be/VB given/VBN to/TO possible/JJ CNS/NNS and/CC other/JJ effects/NNS of/IN alcohol/NN ./.
+
+(ROOT (S1 (S (S (NP (NN consideration)) (VP (MD should) (VP (VB be) (VP (VBN given) (PP (TO to) (NP (NP (NP (JJ possible) (NNS CNS)) (CC and) (NP (JJ other) (NNS effects))) (PP (IN of) (NP (NN alcohol))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s23
+Hepatic/JJ :/: There/EX is/VBZ limited/JJ evidence/NN that/IN the/DT myelotoxicity/NN of/IN TAXOL/NN may/MD be/VB exacerbated/JJ in/IN patients/NNS with/IN serum/NN total/JJ bilirubin/NN 2/CD times/NNS ULN/NN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Hepatic)) (: :) (S (NP (EX There)) (VP (VBZ is) (NP (JJ limited) (NN evidence) (SBAR (IN that) (S (NP (NP (DT the) (NN myelotoxicity)) (PP (IN of) (NP (NN TAXOL)))) (VP (MD may) (VP (VB be) (ADJP (JJ exacerbated) (PP (IN in) (NP (NP (NNS patients)) (PP (IN with) (NP (NN serum) (JJ total) (NN bilirubin) (CD 2) (NNS times) (NN ULN))))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d480.s24
+Extreme/JJ caution/NN should/MD be/VB exercised/VBN when/WRB administering/VBG TAXOL/NN to/TO such/JJ patients/NNS ,/, with/IN dose/NN reduction/NN as/IN recommended/VBN in/IN DOSAGE/NN AND/CC ADMINISTRATION/NN ,/, Table/NN 17/CD ./.
+
+(ROOT (S1 (S (S (NP (JJ Extreme) (NN caution)) (VP (MD should) (VP (VB be) (VP (VBN exercised) (SBAR (WHADVP (WRB when)) (S (VP (VBG administering) (NP (NP (NN TAXOL)) (PP (TO to) (NP (JJ such) (NNS patients))))))) (, ,) (PP (IN with) (NP (NN dose) (NN reduction))) (SBAR (IN as) (S (VP (VBN recommended) (PP (IN in) (NP (NP (NN DOSAGE)) (CC AND) (NP (NP (NN ADMINISTRATION)) (, ,) (NP (NN Table) (CD 17)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s27
+Recurrence/NN of/IN skin/NN reactions/NNS at/IN a/DT site/NN of/IN previous/JJ extravasation/NN following/VBG administration/NN of/IN TAXOL/NN at/IN a/DT different/JJ site/NN ,/, ie/FW ,/, recall/NN ,/, has/VBZ been/VBN reported/VBN rarely/RB ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Recurrence)) (PP (IN of) (NP (NN skin) (NNS reactions))) (PP (IN at) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ previous) (NN extravasation))) (PP (VBG following) (NP (NP (NN administration)) (PP (IN of) (NP (NN TAXOL))) (PP (IN at) (NP (DT a) (JJ different) (NN site))))))) (, ,) (PP (FW ie) (, ,) (NP (NN recall))) (, ,)) (VP (VBZ has) (VP (VBN been) (VP (VBN reported) (ADVP (RB rarely)))))) (. .))))
+
+Sentence Id: DrugDDI.d480.s28
+Rare/JJ reports/NNS of/IN more/RBR severe/JJ events/NNS such/JJ as/IN phlebitis/NN ,/, cellulitis/NN ,/, induration/NN ,/, skin/NN exfoliation/NN ,/, necrosis/NN ,/, and/CC fibrosis/NN have/VBP been/VBN received/VBN as/IN part/NN of/IN the/DT continuing/VBG surveillance/NN of/IN TAXOL/NN safety/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Rare) (NNS reports)) (PP (IN of) (NP (NP (ADJP (RBR more) (JJ severe)) (NNS events)) (PP (JJ such) (IN as) (NP (NP (NN phlebitis)) (, ,) (NP (NN cellulitis)) (, ,) (NP (NN induration)) (, ,) (NP (NN skin) (NN exfoliation)) (, ,) (NP (NN necrosis)) (, ,) (CC and) (NP (NN fibrosis))))))) (VP (VBP have) (VP (VBN been) (VP (VBN received) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT the) (VBG continuing) (NN surveillance)) (PP (IN of) (NP (NN TAXOL) (NN safety))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s0
+Aminoglycosides/NNS :/: The/DT mixing/NN of/IN piperacillin/NN with/IN an/DT aminoglycoside/NN in/IN vitro/FW can/MD result/VB in/IN substantial/JJ inactivation/NN of/IN the/DT aminoglycoside/NN ./.
+
+(ROOT (S1 (S (NP (NP (NNS Aminoglycosides)) (: :) (S (NP (NP (DT The) (NN mixing)) (PP (IN of) (NP (NN piperacillin))) (PP (IN with) (NP (NP (DT an) (NN aminoglycoside)) (PP (IN in) (NP (FW vitro)))))) (VP (MD can) (VP (VB result) (PP (IN in) (NP (NP (JJ substantial) (NN inactivation)) (PP (IN of) (NP (DT the) (NN aminoglycoside)))))))) (. .)))))
+
+Sentence Id: DrugDDI.d235.s1
+Vecuronium/NN :/: When/WRB used/VBN in/IN the/DT perioperative/JJ period/NN ,/, piperacillin/NN has/VBZ been/VBN implicated/VBN in/IN the/DT prolongation/NN of/IN the/DT neuromuscular/JJ blockade/NN of/IN vecuronium/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Vecuronium)) (: :) (S (SBAR (WHADVP (WRB When)) (S (VP (VBN used) (PP (IN in) (NP (DT the) (JJ perioperative) (NN period)))))) (, ,) (NP (NN piperacillin)) (VP (VBZ has) (VP (VBN been) (VP (VBN implicated) (PP (IN in) (NP (NP (DT the) (NN prolongation)) (PP (IN of) (NP (NP (DT the) (JJ neuromuscular) (NN blockade)) (PP (IN of) (NP (NN vecuronium))))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d235.s2
+Caution/NN is/VBZ indicated/VBN when/WRB piperacillin/NN is/VBZ used/VBN perioperatively/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Caution)) (VP (VBZ is) (VP (VBN indicated) (SBAR (WHADVP (WRB when)) (S (NP (NN piperacillin)) (VP (VBZ is) (VP (VBN used) (NP (NN perioperatively))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s3
+In/IN one/CD controlled/JJ clinical/JJ study/NN ,/, the/DT ureidopenicillins/NNS ,/, including/VBG piperacillin/NN ,/, were/VBD reported/VBN to/TO prolong/VB the/DT action/NN of/IN vecuronium/NN ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (CD one) (JJ controlled) (JJ clinical) (NN study))) (, ,) (NP (NP (DT the) (NNS ureidopenicillins)) (, ,) (PP (VBG including) (NP (NN piperacillin))) (, ,)) (VP (VBD were) (VP (VBN reported) (S (VP (TO to) (VP (VB prolong) (NP (NP (DT the) (NN action)) (PP (IN of) (NP (NN vecuronium)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s4
+Due/JJ to/TO their/PRP$ similar/JJ mechanism/NN of/IN action/NN ,/, it/PRP is/VBZ expected/VBN that/IN the/DT neuromuscular/JJ blockade/NN produced/VBN by/IN any/DT of/IN the/DT non-depolarizing/JJ muscle/NN relaxants/NNS could/MD be/VB prolonged/VBD in/IN the/DT presence/NN of/IN piperacillin/NN ./.
+
+(ROOT (S1 (S (S (PP (JJ Due) (TO to) (NP (NP (PRP$ their) (JJ similar) (NN mechanism)) (PP (IN of) (NP (NN action))))) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN expected) (SBAR (IN that) (S (NP (NP (DT the) (JJ neuromuscular) (NN blockade)) (VP (VBN produced) (PP (IN by) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (JJ non-depolarizing) (NN muscle) (NNS relaxants))))))) (VP (MD could) (VP (VB be) (VP (VBD prolonged) (PP (IN in) (NP (NP (DT the) (NN presence)) (PP (IN of) (NP (NN piperacillin))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s5
+Probenecid/NN :/: The/DT oral/JJ combination/NN of/IN probenecid/NN before/IN intramuscular/JJ injection/NN of/IN PIPRACIL/NN produces/VBZ an/DT increase/NN in/IN piperacillin/JJ peak/JJ serum/NN level/NN of/IN about/RB 30/CD %./NN
+
+(ROOT (S1 (S (NP (NP (NN Probenecid)) (: :) (S (NP (NP (DT The) (JJ oral) (NN combination)) (PP (IN of) (NP (NN probenecid))) (PP (IN before) (NP (NP (JJ intramuscular) (NN injection)) (PP (IN of) (NP (NN PIPRACIL)))))) (VP (VBZ produces) (NP (NP (DT an) (NN increase)) (PP (IN in) (NP (NP (JJ piperacillin) (JJ peak) (NN serum) (NN level)) (PP (IN of) (NP (QP (RB about) (CD 30)) (NN %.))))))))))))
+
+Sentence Id: DrugDDI.d235.s6
+Anticoagulants/NNS Coagulation/NN parameters/NNS should/MD be/VB tested/VBN more/RBR frequently/RB and/CC monitored/VBN regularly/RB during/IN simultaneous/JJ administration/NN of/IN high/JJ doses/NNS of/IN heparin/NN ,/, oral/JJ anticoagulants/NNS ,/, or/CC other/JJ drugs/NNS that/WDT may/MD affect/VB the/DT blood/NN coagulation/NN system/NN or/CC the/DT thrombocyte/JJ function/NN ./.
+
+(ROOT (S1 (S (S (NP (NNS Anticoagulants) (NN Coagulation) (NNS parameters)) (VP (MD should) (VP (VB be) (VP (VP (VBN tested) (ADVP (RBR more) (RB frequently))) (CC and) (VP (VBN monitored) (ADVP (RB regularly)) (PP (IN during) (NP (NP (NP (JJ simultaneous) (NN administration)) (PP (IN of) (NP (NP (JJ high) (NNS doses)) (PP (IN of) (NP (NN heparin)))))) (, ,) (NP (JJ oral) (NNS anticoagulants)) (, ,) (CC or) (NP (NP (JJ other) (NNS drugs)) (SBAR (WHNP (WDT that)) (S (VP (MD may) (VP (VB affect) (NP (DT the) (NN blood) (NN coagulation) (NN system))))))) (CC or) (NP (DT the) (JJ thrombocyte) (NN function))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s7
+Methotrexate/NN Piperacillin/NN sodium/NN may/MD reduce/VB the/DT excretion/NN of/IN methotrexate/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Methotrexate) (NN Piperacillin) (NN sodium)) (VP (MD may) (VP (VB reduce) (NP (NP (DT the) (NN excretion)) (PP (IN of) (NP (NN methotrexate))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s8
+Therefore/RB ,/, serum/NN levels/NNS of/IN methotrexate/NN should/MD be/VB monitored/VBN in/IN patients/NNS to/TO avoid/VB drug/NN toxicity/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (NP (NP (NN serum) (NNS levels)) (PP (IN of) (NP (NN methotrexate)))) (VP (MD should) (VP (VB be) (VP (VBN monitored) (PP (IN in) (NP (NNS patients))))) (S (VP (TO to) (VP (VB avoid) (NP (NN drug) (NN toxicity))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s9
+Drug/NN /Laboratory/NN Test/NN Interactions/NNS :/: As/IN with/IN other/JJ penicillins/NNS ,/, the/DT administration/NN of/IN PIPRACIL/NN may/MD result/VB in/IN a/DT false-positive/JJ reaction/NN for/IN glucose/NN in/IN the/DT urine/NN using/VBG a/DT copper/NN -reduction/NN method/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Drug) (NN /Laboratory) (NN Test) (NNS Interactions)) (: :) (S (PP (IN As) (PP (IN with) (NP (JJ other) (NNS penicillins)))) (, ,) (NP (NP (DT the) (NN administration)) (PP (IN of) (NP (NN PIPRACIL)))) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (DT a) (JJ false-positive) (NN reaction)) (PP (IN for) (NP (NN glucose))) (PP (IN in) (NP (NP (DT the) (NN urine)) (VP (VBG using) (NP (DT a) (NN copper) (NN -reduction) (NN method)))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d235.s10
+It/PRP is/VBZ recommended/VBN that/IN glucose/NN tests/NNS based/VBN on/IN enzymatic/JJ glucose/NN oxidase/NN reactions/NNS be/VB used/VBN ./.
+
+(ROOT (S1 (S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN recommended) (SBAR (IN that) (S (NP (NP (NN glucose) (NNS tests)) (VP (VBN based) (PP (IN on) (NP (JJ enzymatic) (NN glucose) (NN oxidase) (NNS reactions))))) (VP (VB be) (VP (VBN used)))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s11
+There/EX have/VBP been/VBN reports/NNS of/IN positive/JJ test/NN results/NNS using/VBG the/DT Bio-Rad/JJ Laboratories/NNS Platelia/NN Aspergillus/NN EIA/NN test/NN in/IN patients/NNS receiving/VBG piperacillin/NN //: tazobactam/NN injection/NN who/WP were/VBD subsequently/RB found/VBN to/TO be/VB free/JJ of/IN Aspergillus/JJ infection/NN ./.
+
+(ROOT (S1 (S (NP (EX There)) (VP (VBP have) (VP (VBN been) (NP (NP (NNS reports)) (PP (IN of) (NP (JJ positive) (NN test) (NNS results)))) (S (VP (VBG using) (NP (NP (DT the) (NP (JJ Bio-Rad) (NNS Laboratories)) (NN Platelia) (NN Aspergillus) (NN EIA) (NN test)) (PP (IN in) (NP (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NN piperacillin) (: /) (NN tazobactam) (NN injection)))) (SBAR (WHNP (WP who)) (S (VP (VBD were) (ADVP (RB subsequently)) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ free) (PP (IN of) (NP (JJ Aspergillus) (NN infection)))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s12
+Cross-reactions/NNS with/IN non-Aspergillus/JJ polysaccharides/NNS and/CC polyfuranoses/NNS with/IN the/DT Bio-Rad/JJ Laboratories/NNS Platelia/FW Aspergillus/FW EIA/NN test/NN have/VBP been/VBN reported/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (NNS Cross-reactions)) (PP (IN with) (NP (JJ non-Aspergillus) (NNS polysaccharides)))) (CC and) (NP (NP (NNS polyfuranoses)) (PP (IN with) (NP (DT the) (JJ Bio-Rad) (NNS Laboratories)))) (NP (ADJP (FW Platelia) (FW Aspergillus)) (NN EIA) (NN test))) (VP (VBP have) (VP (VBN been) (VP (VBN reported))))) (. .))))
+
+Sentence Id: DrugDDI.d235.s13
+Therefore/RB ,/, positive/JJ test/NN results/NNS in/IN patients/NNS receiving/VBG piperacillin/NN should/MD be/VB interpreted/VBN cautiously/RB and/CC confirmed/VBN by/IN other/JJ diagnostic/JJ methods/NNS ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (NP (NP (JJ positive) (NN test) (NNS results)) (PP (IN in) (NP (NP (NNS patients)) (VP (VBG receiving) (NP (NN piperacillin)))))) (VP (MD should) (VP (VB be) (VP (VP (VBN interpreted) (ADVP (RB cautiously))) (CC and) (VP (VBN confirmed) (PP (IN by) (NP (JJ other) (JJ diagnostic) (NNS methods)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s0
+Effect/NN of/IN other/JJ drugs/NNS on/IN Vardenafil/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Effect)) (PP (IN of) (NP (JJ other) (NNS drugs))) (PP (IN on) (NP (NN Vardenafil))) (. .)))))
+
+Sentence Id: DrugDDI.d253.s1
+In/FW vitro/FW studies/NNS :/: Studies/NNS in/IN human/JJ liver/NN microsomes/NNS showed/VBD that/IN vardenafil/NN is/VBZ metabolized/VBN primarily/RB by/IN cytochrome/NN P450/NN (/-LRB- CYP/NN )/-RRB- isoforms/NNS 3A4/5/NN ,/, and/CC to/TO a/DT lesser/JJR degree/NN by/IN CYP2C9/NN ./.
+
+(ROOT (S1 (S (NP (NP (ADJP (FW In) (FW vitro)) (NNS studies)) (: :) (S (NP (NP (NNS Studies)) (PP (IN in) (NP (JJ human) (NN liver) (NNS microsomes)))) (VP (VBD showed) (SBAR (IN that) (S (NP (NN vardenafil)) (VP (VBZ is) (VP (VP (VBN metabolized) (ADVP (RB primarily)) (PP (IN by) (NP (NP (NP (NN cytochrome) (NN P450)) (PRN (-LRB- -LRB-) (NP (NN CYP)) (-RRB- -RRB-))) (NNS isoforms) (NN 3A4/5)))) (, ,) (CC and) (PP (TO to) (NP (DT a) (JJR lesser) (NN degree))) (PP (IN by) (NP (NN CYP2C9))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d253.s2
+Therefore/RB ,/, inhibitors/NNS of/IN these/DT enzymes/NNS are/VBP expected/VBN to/TO reduce/VB vardenafil/NN clearance/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Therefore)) (, ,) (NP (NP (NNS inhibitors)) (PP (IN of) (NP (DT these) (NNS enzymes)))) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB reduce) (NP (NN vardenafil) (NN clearance)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s3
+In/FW vivo/FW studies/NNS :/: Cytochrome/NN P450/NN Inhibitors/NNS ./.
+
+(ROOT (S1 (S (S (NP (ADJP (FW In) (FW vivo)) (NNS studies)) (: :) (NP (NN Cytochrome) (NN P450) (NNS Inhibitors))) (. .))))
+
+Sentence Id: DrugDDI.d253.s4
+Cimetidine/NN (/-LRB- 400/CD mg/NN b.i.d./NN )/-RRB- had/VBD no/DT effect/NN on/IN vardenafil/NN bioavailability/NN (/-LRB- AUC/NN )/-RRB- and/CC maximum/NN concentration/NN (/-LRB- Cmax/NN )/-RRB- of/IN vardenafil/NN when/WRB co-administered/VBN with/IN 20/CD mg/NN Vardenafil/NN in/IN healthy/JJ volunteers/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Cimetidine)) (PRN (-LRB- -LRB-) (NP (ADJP (CD 400) (NN mg)) (NN b.i.d.)) (-RRB- -RRB-))) (VP (VBD had) (NP (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (NP (NN vardenafil) (NN bioavailability)) (PRN (-LRB- -LRB-) (NP (NN AUC)) (-RRB- -RRB-))) (CC and) (NP (NP (NN maximum) (NN concentration)) (PRN (-LRB- -LRB-) (NP (NN Cmax)) (-RRB- -RRB-))))) (PP (IN of) (NP (NN vardenafil)))) (SBAR (WHADVP (WRB when)) (S (VP (VBN co-administered) (PP (IN with) (NP (CD 20) (NN mg) (NN Vardenafil))) (PP (IN in) (NP (JJ healthy) (NNS volunteers)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s5
+Erythromycin/NN (/-LRB- 500/CD mg/NN t.i.d/CD )/-RRB- produced/VBD a/DT 4-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 3-fold/JJ increase/NN in/IN Cmax/NN when/WRB co-administered/VBN with/IN Vardenafil/NN 5/CD mg/NN in/IN healthy/JJ volunteers/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Erythromycin)) (PRN (-LRB- -LRB-) (NP (CD 500) (NN mg) (CD t.i.d)) (-RRB- -RRB-))) (VP (VBD produced) (NP (NP (NP (DT a) (JJ 4-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN AUC)))) (CC and) (NP (NP (DT a) (JJ 3-fold) (NN increase)) (PP (IN in) (NP (NN Cmax))))) (SBAR (WHADVP (WRB when)) (S (VP (VBN co-administered) (PP (IN with) (NP (NP (NN Vardenafil) (CD 5) (NN mg)) (PP (IN in) (NP (JJ healthy) (NNS volunteers)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s6
+It/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 5/CD mg/NN dose/NN of/IN Vardenafil/NN in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN erythromycin/NN ./.
+
+(ROOT (S1 (S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN recommended) (S (VP (RB not) (TO to) (VP (VB exceed) (NP (NP (DT a) (JJ single) (ADJP (CD 5) (NN mg)) (NN dose)) (PP (IN of) (NP (NN Vardenafil)))) (PP (IN in) (NP (NP (DT a) (JJ 24-hour) (NN period)) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NN erythromycin)))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s7
+Ketoconazole/NN (/-LRB- 200/CD mg/NN once/RB daily/JJ )/-RRB- produced/VBD a/DT 10-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 4-fold/JJ increase/NN in/IN Cmax/NN when/WRB co-administered/VBN with/IN Vardenafil/NN (/-LRB- 5/CD mg/NN )/-RRB- in/IN healthy/JJ volunteers/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Ketoconazole)) (PRN (-LRB- -LRB-) (NP (NP (CD 200) (NN mg)) (ADJP (RB once) (JJ daily))) (-RRB- -RRB-))) (VP (VBD produced) (NP (NP (NP (DT a) (JJ 10-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN AUC)))) (CC and) (NP (NP (DT a) (JJ 4-fold) (NN increase)) (PP (IN in) (NP (NN Cmax))))) (SBAR (WHADVP (WRB when)) (S (VP (VBN co-administered) (PP (IN with) (NP (NP (NP (NN Vardenafil)) (PRN (-LRB- -LRB-) (NP (CD 5) (NN mg)) (-RRB- -RRB-))) (PP (IN in) (NP (JJ healthy) (NNS volunteers)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s8
+A/DT 5-mg/JJ Vardenafil/NN dose/NN should/MD not/RB be/VB exceeded/VBD when/WRB used/VBN in/IN combination/NN with/IN 200/CD mg/NN once/IN daily/JJ ketoconazole/NN ./.
+
+(ROOT (S1 (S (S (NP (DT A) (JJ 5-mg) (NN Vardenafil) (NN dose)) (VP (MD should) (RB not) (VP (VB be) (VP (VBD exceeded) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (CD 200) (NN mg)) (PP (IN once) (NP (JJ daily) (NN ketoconazole)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s9
+Since/IN higher/JJR doses/NNS of/IN ketoconazole/NN (/-LRB- 400/CD mg/NN daily/RB )/-RRB- may/MD result/VB in/IN higher/JJR increases/NNS in/IN Cmax/NN and/CC AUC/NN ,/, a/DT single/JJ 2.5/CD mg/NN dose/NN of/IN Vardenafil/NN should/MD not/RB be/VB exceeded/VBD in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN ketoconazole/NN 400/CD mg/NN daily/RB ./.
+
+(ROOT (S1 (S (S (SBAR (IN Since) (S (NP (NP (NP (JJR higher) (NNS doses)) (PP (IN of) (NP (NN ketoconazole)))) (PRN (-LRB- -LRB-) (NP (NP (CD 400) (NN mg)) (ADVP (RB daily))) (-RRB- -RRB-))) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (JJR higher) (NNS increases)) (PP (IN in) (NP (NP (NN Cmax)) (CC and) (NP (NN AUC)))))))))) (, ,) (NP (NP (DT a) (JJ single) (ADJP (CD 2.5) (NN mg)) (NN dose)) (PP (IN of) (NP (NN Vardenafil)))) (VP (MD should) (RB not) (VP (VB be) (VP (VBD exceeded) (PP (IN in) (NP (DT a) (JJ 24-hour) (NN period))) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NP (NN ketoconazole) (CD 400) (NN mg)) (ADVP (RB daily))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s10
+HIV/NN Protease/NN Inhibitors/NNS :/: Indinavir/NN (/-LRB- 800/CD mg/NN t.i.d./NN )/-RRB- co-administered/VBN with/IN Vardenafil/NN 10/CD mg/NN resulted/VBD in/IN a/DT 16-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN ,/, a/DT 7-fold/JJ increase/NN in/IN vardenafil/NN Cmax/NN and/CC a/DT 2-fold/JJ increase/NN in/IN vardenafil/NN half-life/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (NN HIV) (NN Protease) (NNS Inhibitors)) (: :) (NP (NP (NN Indinavir)) (PRN (-LRB- -LRB-) (NP (ADJP (CD 800) (NN mg)) (NN t.i.d.)) (-RRB- -RRB-)))) (VP (VBN co-administered) (PP (IN with) (NP (NP (NN Vardenafil)) (ADJP (CD 10) (NN mg)))))) (VP (VBD resulted) (PP (IN in) (NP (NP (NP (DT a) (JJ 16-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN AUC)))) (, ,) (NP (NP (DT a) (JJ 7-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN Cmax)))) (CC and) (NP (NP (DT a) (JJ 2-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN half-life)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s11
+It/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 2.5/CD mg/NN Vardenafil/NN dose/NN in/IN a/DT 24-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN indinavir/NN ./.
+
+(ROOT (S1 (S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN recommended) (S (VP (RB not) (TO to) (VP (VB exceed) (NP (DT a) (JJ single) (ADJP (CD 2.5) (NN mg)) (NN Vardenafil) (NN dose)) (PP (IN in) (NP (NP (DT a) (JJ 24-hour) (NN period)) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NN indinavir)))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s12
+Ritonavir/NN (/-LRB- 600/CD mg/NN b.i.d./NN )/-RRB- co-administered/VBN with/IN Vardenafil/NN 5/CD mg/NN resulted/VBD in/IN a/DT 49-fold/JJ increase/NN in/IN vardenafil/NN AUC/NN and/CC a/DT 13-fold/RB increase/NN in/IN vardenafil/NN Cmax/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NP (NN Ritonavir)) (PRN (-LRB- -LRB-) (NP (ADJP (CD 600) (NN mg)) (NN b.i.d.)) (-RRB- -RRB-))) (VP (VBN co-administered) (PP (IN with) (NP (NN Vardenafil) (CD 5) (NN mg))))) (VP (VBD resulted) (PP (IN in) (NP (NP (NP (DT a) (JJ 49-fold) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN AUC)))) (CC and) (NP (NP (DT a) (ADJP (RB 13-fold)) (NN increase)) (PP (IN in) (NP (NN vardenafil) (NN Cmax)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s13
+The/DT interaction/NN is/VBZ a/DT consequence/NN of/IN blocking/VBG hepatic/JJ metabolism/NN of/IN vardenafil/NN by/IN ritonavir/NN ,/, a/DT highly/RB potent/JJ CYP3A4/NN inhibitor/NN ,/, which/WDT also/RB inhibits/VBZ CYP2C9/NN ./.
+
+(ROOT (S1 (S (S (NP (DT The) (NN interaction)) (VP (VBZ is) (NP (NP (DT a) (NN consequence)) (PP (IN of) (S (VP (VBG blocking) (NP (NP (JJ hepatic) (NN metabolism)) (PP (IN of) (NP (NN vardenafil)))) (PP (IN by) (NP (NP (NN ritonavir)) (, ,) (NP (NP (DT a) (ADJP (RB highly) (JJ potent)) (NN CYP3A4) (NN inhibitor)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ inhibits) (NP (NN CYP2C9)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s14
+Ritonavir/NN significantly/RB prolonged/VBD the/DT half-life/NN of/IN vardenafil/NN to/TO 26/CD hours/NNS ./.
+
+(ROOT (S1 (S (S (NP (NN Ritonavir)) (ADVP (RB significantly)) (VP (VBD prolonged) (NP (NP (DT the) (NN half-life)) (PP (IN of) (NP (NN vardenafil))) (PP (TO to) (NP (CD 26) (NNS hours)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s15
+Consequently/RB ,/, it/PRP is/VBZ recommended/VBN not/RB to/TO exceed/VB a/DT single/JJ 2.5/CD mg/NN Vardenafil/NN dose/NN in/IN a/DT 72-hour/JJ period/NN when/WRB used/VBN in/IN combination/NN with/IN ritonavir/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB Consequently)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN recommended) (S (VP (RB not) (TO to) (VP (VB exceed) (NP (DT a) (JJ single) (ADJP (CD 2.5) (NN mg)) (NN Vardenafil) (NN dose)) (PP (IN in) (NP (NP (DT a) (JJ 72-hour) (NN period)) (SBAR (WHADVP (WRB when)) (S (VP (VBN used) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NN ritonavir)))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s16
+Other/JJ Drug/NN Interactions/NNS :/: No/DT pharmacokinetic/JJ interactions/NNS were/VBD observed/VBN between/IN vardenafil/NN and/CC the/DT following/JJ drugs/NNS :/: glyburide/NN ,/, warfarin/NN ,/, digoxin/NN ,/, Maalox/NN ,/, and/CC ranitidine/NN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Other) (NN Drug) (NNS Interactions)) (: :) (S (NP (DT No) (JJ pharmacokinetic) (NNS interactions)) (VP (VBD were) (VP (VBN observed) (PP (IN between) (NP (NP (NN vardenafil)) (CC and) (NP (DT the) (JJ following) (NNS drugs))))))) (: :) (NP (NP (NN glyburide)) (, ,) (NP (NN warfarin)) (, ,) (NP (NN digoxin)) (, ,) (NP (NN Maalox)) (, ,) (CC and) (NP (NN ranitidine))) (. .)))))
+
+Sentence Id: DrugDDI.d253.s17
+In/IN the/DT warfarin/JJ study/NN ,/, vardenafil/NN had/VBD no/DT effect/NN on/IN the/DT prothrombin/NN time/NN or/CC other/JJ pharmacodynamic/JJ parameters/NNS ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (DT the) (JJ warfarin) (NN study))) (, ,) (NP (NN vardenafil)) (VP (VBD had) (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (DT the) (NN prothrombin) (NN time)) (CC or) (NP (JJ other) (JJ pharmacodynamic) (NNS parameters)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s18
+Effects/NNS of/IN Vardenafil/NN on/IN other/JJ drugs/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Effects)) (PP (IN of) (NP (NN Vardenafil))) (PP (IN on) (NP (JJ other) (NNS drugs))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s19
+In/FW vitro/FW studies/NNS :/: Vardenafil/NN and/CC its/PRP$ metabolites/NNS had/VBD no/DT effect/NN on/IN CYP1A2/NN ,/, 2A6/NN ,/, and/CC 2E1/NN (/-LRB- Ki/NN 100uM/NN )/-RRB- ./.
+
+(ROOT (S1 (S (NP (NP (ADJP (FW In) (FW vitro)) (NNS studies)) (: :) (S (NP (NP (NN Vardenafil)) (CC and) (NP (PRP$ its) (NNS metabolites))) (VP (VBD had) (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (NN CYP1A2)) (, ,) (NP (NN 2A6)) (, ,) (CC and) (NP (NP (NN 2E1)) (PRN (-LRB- -LRB-) (NP (NN Ki) (NN 100uM)) (-RRB- -RRB-))))))) (. .)))))
+
+Sentence Id: DrugDDI.d253.s20
+Weak/JJ inhibitory/JJ effects/NNS toward/IN other/JJ isoforms/NNS (/-LRB- CYP2C8/NN ,/, 2C9/NN ,/, 2C19/NN ,/, 2D6/NN ,/, 3A4/NN )/-RRB- were/VBD found/VBN ,/, but/CC Ki/NN values/NNS were/VBD in/IN excess/NN of/IN plasma/NN concentrations/NNS achieved/VBN following/VBG dosing/NN ./.
+
+(ROOT (S1 (S (S (S (NP (NP (JJ Weak) (JJ inhibitory) (NNS effects)) (PP (IN toward) (NP (NP (JJ other) (NNS isoforms)) (PRN (-LRB- -LRB-) (NP (NP (NN CYP2C8)) (, ,) (NP (NN 2C9)) (, ,) (NP (NN 2C19)) (, ,) (NP (NN 2D6)) (, ,) (NP (NN 3A4))) (-RRB- -RRB-))))) (VP (VBD were) (VP (VBN found)))) (, ,) (CC but) (S (NP (NN Ki) (NNS values)) (VP (VBD were) (PP (IN in) (NP (NP (NN excess)) (PP (IN of) (NP (NP (NN plasma) (NNS concentrations)) (VP (VBN achieved) (PP (VBG following) (NP (NN dosing))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s21
+The/DT most/RBS potent/JJ inhibitory/JJ activity/NN was/VBD observed/VBN for/IN vardenafil/NN metabolite/NN M1/NN ,/, which/WDT had/VBD a/DT Ki/NN of/IN 1.4/CD uM/NN toward/IN CYP3A4/NN ,/, which/WDT is/VBZ about/RB 20/CD times/NNS higher/JJR than/IN the/DT M1/NN Cmax/NN values/NNS after/IN an/DT 80/CD mg/NN Vardenafil/NN dose/NN ./.
+
+(ROOT (S1 (S (S (NP (DT The) (ADJP (RBS most) (JJ potent)) (JJ inhibitory) (NN activity)) (VP (VBD was) (VP (VBN observed) (PP (IN for) (NP (NP (NN vardenafil) (NN metabolite) (NN M1)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD had) (NP (NP (DT a) (NN Ki)) (PP (IN of) (NP (NP (CD 1.4) (NN uM)) (PP (IN toward) (NP (NN CYP3A4))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (ADJP (QP (RB about) (CD 20) (NNS times)) (JJR higher)) (PP (IN than) (NP (NP (DT the) (NN M1) (NN Cmax) (NNS values)) (PP (IN after) (NP (DT an) (ADJP (CD 80) (NN mg)) (NN Vardenafil) (NN dose)))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s22
+In/FW vivo/FW studies/NNS :/: Nitrates/NNS :/: The/DT blood/NN pressure/NN lowering/JJ effects/NNS of/IN sublingual/JJ nitrates/NNS (/-LRB- 0.4/CD mg/NN )/-RRB- taken/VBN 1/CD and/CC 4/CD hours/NNS after/IN vardenafil/NN and/CC increases/NNS in/IN heart/NN rate/NN when/WRB taken/VBN at/IN 1/CD ,/, 4/CD and/CC 8/CD hours/NNS were/VBD potentiated/VBN by/IN a/DT 20/CD mg/NN dose/NN of/IN Vardenafil/NN in/IN healthy/JJ middle-aged/JJ subjects/NNS ./.
+
+(ROOT (S1 (S (S (NP (NP (ADJP (FW In) (FW vivo)) (NNS studies)) (: :) (NP (NNS Nitrates)) (: :) (NP (NP (DT The) (NN blood) (NN pressure) (JJ lowering) (NNS effects)) (PP (IN of) (NP (NP (NP (JJ sublingual) (NNS nitrates)) (PRN (-LRB- -LRB-) (NP (CD 0.4) (NN mg)) (-RRB- -RRB-))) (VP (VBN taken) (PP (NP (QP (CD 1) (CC and) (CD 4)) (NNS hours)) (IN after) (NP (NN vardenafil))))))) (CC and) (NP (NP (NNS increases)) (PP (IN in) (NP (NP (NN heart) (NN rate)) (SBAR (WHADVP (WRB when)) (S (VP (VBN taken) (PP (IN at) (NP (QP (CD 1) (, ,) (CD 4) (CC and) (CD 8)) (NNS hours)))))))))) (VP (VBD were) (VP (VBN potentiated) (PP (IN by) (NP (NP (DT a) (ADJP (CD 20) (NN mg)) (NN dose)) (PP (IN of) (NP (NP (NN Vardenafil)) (PP (IN in) (NP (JJ healthy) (JJ middle-aged) (NNS subjects)))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s23
+These/DT effects/NNS were/VBD not/RB observed/VBN when/WRB Vardenafil/NN 20/CD mg/NN was/VBD taken/VBN 24/CD hours/NNS before/IN the/DT NTG/NN ./.
+
+(ROOT (S1 (S (S (NP (DT These) (NNS effects)) (VP (VBD were) (RB not) (VP (VBN observed)) (SBAR (WHADVP (WRB when)) (S (NP (NN Vardenafil) (CD 20) (NN mg)) (VP (VBD was) (VP (VBN taken) (PP (NP (CD 24) (NNS hours)) (IN before) (NP (DT the) (NN NTG))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s24
+Potentiation/NN of/IN the/DT hypotensive/JJ effects/NNS of/IN nitrates/NNS for/IN patients/NNS with/IN ischemic/JJ heart/NN disease/NN has/VBZ not/RB been/VBN evaluated/VBN ,/, and/CC concomitant/JJ use/NN of/IN Vardenafil/NN and/CC nitrates/NNS is/VBZ contraindicated/VBN ./.
+
+(ROOT (S1 (S (S (S (NP (NP (NN Potentiation)) (PP (IN of) (NP (NP (DT the) (JJ hypotensive) (NNS effects)) (PP (IN of) (NP (NNS nitrates))) (PP (IN for) (NP (NP (NNS patients)) (PP (IN with) (NP (JJ ischemic) (NN heart) (NN disease)))))))) (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN evaluated))))) (, ,) (CC and) (S (NP (NP (JJ concomitant) (NN use)) (PP (IN of) (NP (NP (NN Vardenafil)) (CC and) (NP (NNS nitrates))))) (VP (VBZ is) (VP (VBN contraindicated))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s25
+Nifedipine/NN :/: Vardenafil/NN 20/CD mg/NN ,/, when/WRB co-administered/VBN with/IN slow-release/JJ nifedipine/NN 30/CD mg/NN or/CC 60/CD mg/NN once/RB daily/RB ,/, did/VBD not/RB affect/VB the/DT relative/JJ bioavailability/NN (/-LRB- AUC/NN )/-RRB- or/CC maximum/JJ concentration/NN (/-LRB- Cmax/NN )/-RRB- of/IN nifedipine/NN ,/, a/DT drug/NN that/WDT is/VBZ metabolized/VBN via/IN CYP3A4/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Nifedipine)) (: :) (NP (NP (NN Vardenafil)) (ADJP (CD 20) (NN mg))) (, ,) (SBAR (WHADVP (WRB when)) (S (VP (VBN co-administered) (PP (IN with) (NP (NP (JJ slow-release) (NN nifedipine) (CD 30) (NN mg)) (CC or) (NP (NP (CD 60) (NN mg)) (ADVP (RB once) (RB daily)))))))) (, ,)) (VP (VBD did) (RB not) (VP (VB affect) (NP (NP (NP (DT the) (JJ relative) (NN bioavailability)) (PRN (-LRB- -LRB-) (NP (NN AUC)) (-RRB- -RRB-))) (CC or) (NP (NP (NP (JJ maximum) (NN concentration)) (PRN (-LRB- -LRB-) (NP (NN Cmax)) (-RRB- -RRB-))) (PP (IN of) (NP (NP (NN nifedipine)) (, ,) (NP (NP (DT a) (NN drug)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN metabolized) (PP (IN via) (NP (NN CYP3A4))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s26
+Nifedipine/NN did/VBD not/RB alter/VB the/DT plasma/NN levels/NNS of/IN Vardenafil/NN when/WRB taken/VBN in/IN combination/NN ./.
+
+(ROOT (S1 (S (S (NP (NN Nifedipine)) (VP (VBD did) (RB not) (VP (VB alter) (NP (NP (DT the) (NN plasma) (NNS levels)) (PP (IN of) (NP (NN Vardenafil))))) (SBAR (WHADVP (WRB when)) (S (VP (VBN taken) (PP (IN in) (NP (NN combination)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s27
+In/IN these/DT patients/NNS whose/WP$ hypertension/NN was/VBD controlled/VBN with/IN nifedipine/NN ,/, Vardenafil/NN 20/CD mg/NN produced/VBD mean/JJ additional/JJ supine/NN systolic/diastolic/JJ blood/NN pressure/NN reductions/NNS of/IN 6/5/CD mm/NN Hg/NN compared/VBN to/TO placebo/NN ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (NP (DT these) (NNS patients)) (SBAR (WHNP (WP$ whose) (NN hypertension)) (S (VP (VBD was) (VP (VBN controlled) (PP (IN with) (NP (NN nifedipine))))))))) (, ,) (NP (NP (NN Vardenafil)) (ADJP (CD 20) (NN mg))) (VP (VBD produced) (NP (NP (NP (JJ mean) (JJ additional) (NN supine) (JJ systolic/diastolic) (NN blood) (NN pressure)) (NNS reductions)) (PP (IN of) (NP (ADJP (CD 6/5) (NN mm)) (NN Hg)))) (PP (VBN compared) (PP (TO to) (NP (NN placebo)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s28
+Alpha-blockers/NNS :/: When/WRB Vardenafil/NN 10/CD or/CC 20/CD mg/NN was/VBD given/VBN to/TO healthy/JJ volunteers/NNS either/CC simultaneously/RB or/CC 6/CD hours/NNS after/IN a/DT 10/CD mg/NN dose/NN of/IN terazosin/NN ,/, significant/JJ hypotension/NN developed/VBD in/IN a/DT substantial/JJ number/NN of/IN subjects/NNS ./.
+
+(ROOT (S1 (S (NP (NP (NNS Alpha-blockers)) (: :) (S (SBAR (WHADVP (WRB When)) (S (NP (NN Vardenafil) (CD 10) (CC or) (CD 20) (NN mg)) (VP (VBD was) (UCP (VP (VBN given) (PP (TO to) (NP (JJ healthy) (NNS volunteers)))) (CC either) (ADVP (RB simultaneously)) (CC or) (PP (NP (CD 6) (NNS hours)) (IN after) (NP (NP (DT a) (ADJP (CD 10) (NN mg)) (NN dose)) (PP (IN of) (NP (NN terazosin))))))))) (, ,) (NP (JJ significant) (NN hypotension)) (VP (VBD developed) (PP (IN in) (NP (NP (DT a) (JJ substantial) (NN number)) (PP (IN of) (NP (NNS subjects))))))) (. .)))))
+
+Sentence Id: DrugDDI.d253.s29
+With/IN simultaneous/JJ dosing/NN of/IN Vardenafil/NN 10/CD mg/NN and/CC terazosin/NN 10/CD mg/NN ,/, 6/CD of/IN 8/CD subjects/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN of/IN less/JJR than/IN 85/CD mm/NN Hg/NN ./.
+
+(ROOT (S1 (S (S (PP (IN With) (NP (NP (JJ simultaneous) (NN dosing)) (PP (IN of) (NP (NP (NN Vardenafil) (CD 10) (NN mg)) (CC and) (NP (NN terazosin) (CD 10) (NN mg)))))) (, ,) (NP (QP (CD 6) (IN of) (CD 8)) (NNS subjects)) (VP (VBN experienced) (NP (NP (DT a) (JJ standing) (JJ systolic) (NN blood) (NN pressure)) (PP (IN of) (NP (QP (JJR less) (IN than) (CD 85)) (NN mm) (NN Hg)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s30
+With/IN simultaneous/JJ dosing/NN of/IN Vardenafil/NN 20/CD mg/NN and/CC terazosin/NN 10/CD mg/NN ,/, 2/CD of/IN 9/CD subjects/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN of/IN less/JJR than/IN 85/CD mm/NN Hg/NN ./.
+
+(ROOT (S1 (S (S (PP (IN With) (NP (NP (JJ simultaneous) (NN dosing)) (PP (IN of) (NP (NP (NN Vardenafil) (CD 20) (NN mg)) (CC and) (NP (NN terazosin) (CD 10) (NN mg)))))) (, ,) (NP (QP (CD 2) (IN of) (CD 9)) (NNS subjects)) (VP (VBN experienced) (NP (NP (DT a) (JJ standing) (JJ systolic) (NN blood) (NN pressure)) (PP (IN of) (NP (QP (JJR less) (IN than) (CD 85)) (NN mm) (NN Hg)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s31
+When/WRB Vardenafil/NN dosing/NN was/VBD separated/VBN from/IN terazosin/NN 10/CD mg/NN by/IN 6/CD hours/NNS ,/, 7/CD of/IN 28/CD subjects/NNS who/WP received/VBD 20/CD mg/NN of/IN Vardenafil/NN experienced/VBN a/DT decrease/NN in/IN standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+(ROOT (S1 (S (S (SBAR (WHADVP (WRB When)) (S (NP (NN Vardenafil) (NN dosing)) (VP (VBD was) (VP (VBN separated) (PP (IN from) (NP (NN terazosin) (CD 10) (NN mg))) (PP (IN by) (NP (CD 6) (NNS hours))))))) (, ,) (NP (NP (QP (CD 7) (IN of) (CD 28)) (NNS subjects)) (SBAR (WHNP (WP who)) (S (VP (VBD received) (NP (NP (CD 20) (NN mg)) (PP (IN of) (NP (NN Vardenafil)))))))) (VP (VBN experienced) (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NP (JJ standing) (JJ systolic) (NN blood) (NN pressure)) (PP (IN below) (NP (ADJP (CD 85) (NN mm)) (NN Hg)))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s32
+In/IN a/DT similar/JJ study/NN with/IN tamsulosin/NN in/IN healthy/JJ volunteers/NNS ,/, 1/CD of/IN 24/CD subjects/NNS dosed/VBN with/IN Vardenafil/NN 20/CD mg/NN and/CC tamsulosin/NN 0.4/CD mg/NN separated/VBN by/IN 6/CD hours/NNS experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+(ROOT (S1 (S (PP (IN In) (NP (NP (DT a) (JJ similar) (NN study)) (PP (IN with) (NP (NN tamsulosin))) (PP (IN in) (NP (JJ healthy) (NNS volunteers))))) (, ,) (NP (NP (QP (CD 1) (IN of) (CD 24)) (NNS subjects)) (VP (VBN dosed) (PP (IN with) (NP (NP (NP (NN Vardenafil) (CD 20) (NN mg)) (CC and) (NP (NN tamsulosin) (CD 0.4) (NN mg))) (VP (VBN separated) (PP (IN by) (NP (CD 6) (NNS hours)))))))) (VP (VBN experienced) (NP (NP (DT a) (JJ standing) (JJ systolic) (NN blood) (NN pressure)) (PP (IN below) (NP (ADJP (CD 85) (NN mm)) (NN Hg))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s33
+Two/CD of/IN 16/CD subjects/NNS dosed/VBN simultaneously/RB with/IN Vardenafil/NN 10/CD mg/NN and/CC tamsulosin/NN 0.4/CD mg/NN experienced/VBN a/DT standing/JJ systolic/JJ blood/NN pressure/NN below/IN 85/CD mm/NN Hg/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (CD Two)) (PP (IN of) (NP (NP (CD 16) (NNS subjects)) (VP (VBN dosed) (ADVP (RB simultaneously)) (PP (IN with) (NP (NP (NN Vardenafil) (CD 10) (NN mg)) (CC and) (NP (NN tamsulosin) (CD 0.4) (NN mg)))))))) (VP (VBN experienced) (NP (NP (DT a) (JJ standing) (JJ systolic) (NN blood) (NN pressure)) (PP (IN below) (NP (ADJP (CD 85) (NN mm)) (NN Hg)))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s34
+The/DT administration/NN of/IN lower/JJR doses/NNS of/IN Vardenafil/NN with/IN alpha-blockers/NNS has/VBZ not/RB been/VBN completely/RB evaluated/VBN to/TO determine/VB if/IN they/PRP can/MD be/VB safely/RB administered/VBN together/RB ./.
+
+(ROOT (S1 (S (S (NP (NP (DT The) (NN administration)) (PP (IN of) (NP (NP (JJR lower) (NNS doses)) (PP (IN of) (NP (NP (NN Vardenafil)) (PP (IN with) (NP (NNS alpha-blockers)))))))) (VP (VBZ has) (RB not) (VP (VBN been) (ADVP (RB completely)) (VP (VBN evaluated) (S (VP (TO to) (VP (VB determine) (SBAR (IN if) (S (NP (PRP they)) (VP (MD can) (VP (VB be) (ADVP (RB safely)) (VP (VBN administered) (ADVP (RB together)))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s35
+Based/VBN on/IN these/DT data/NNS ,/, Vardenafil/NN should/MD not/RB be/VB used/VBN in/IN patients/NNS on/IN alpha-blocker/NN therapy/NN ./.
+
+(ROOT (S1 (S (S (PP (VBN Based) (PP (IN on) (NP (DT these) (NNS data)))) (, ,) (NP (NN Vardenafil)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (NP (NNS patients)) (PP (IN on) (NP (NN alpha-blocker) (NN therapy))))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s36
+Ritonavir/NN and/CC indinavir/NN :/: Upon/IN concomitant/JJ administration/NN of/IN 5/CD mg/NN of/IN Vardenafil/NN with/IN 600/CD mg/NN BID/NN ritonavir/NN ,/, the/DT Cmax/NN and/CC AUC/NN of/IN ritonavir/NN were/VBD reduced/VBN by/IN approximately/RB 20/CD %./NN
+
+(ROOT (S1 (S (NP (NP (NP (NN Ritonavir)) (CC and) (NP (NN indinavir))) (: :) (S (PP (IN Upon) (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (CD 5) (NN mg)) (PP (IN of) (NP (NN Vardenafil))) (PP (IN with) (NP (ADJP (CD 600) (NN mg)) (NN BID) (NN ritonavir))))))) (, ,) (NP (NP (DT the) (NP (NN Cmax)) (CC and) (NP (NN AUC))) (PP (IN of) (NP (NN ritonavir)))) (VP (VBD were) (VP (VBN reduced) (PP (IN by) (NP (QP (RB approximately) (CD 20)) (NN %.))))))))))
+
+Sentence Id: DrugDDI.d253.s37
+Upon/IN administration/NN of/IN 10/CD mg/NN of/IN Vardenafil/NN with/IN 800/CD mg/NN TID/NN indinavir/NN ,/, the/DT Cmax/NN and/CC AUC/NN of/IN indinavir/NN were/VBD reduced/VBN by/IN 40/CD %/NN and/CC 30/CD %/NN ,/, respectively/RB ./.
+
+(ROOT (S1 (S (S (PP (IN Upon) (NP (NP (NN administration)) (PP (IN of) (NP (NP (CD 10) (NN mg)) (PP (IN of) (NP (NN Vardenafil))) (PP (IN with) (NP (ADJP (CD 800) (NN mg)) (NN TID) (NN indinavir))))))) (, ,) (NP (NP (DT the) (NP (NN Cmax)) (CC and) (NP (NN AUC))) (PP (IN of) (NP (NN indinavir)))) (VP (VBD were) (VP (VBN reduced) (PP (IN by) (NP (NP (CD 40) (NN %)) (CC and) (NP (CD 30) (NN %)) (, ,) (ADVP (RB respectively))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s38
+Alcohol/NN :/: Alcohol/NN (/-LRB- 0.5/CD g/kg/NN body/NN weight/NN :/: approximately/RB 40/CD mL/NN of/IN absolute/JJ alcohol/NN in/IN a/DT 70/CD kg/NN person/NN )/-RRB- and/CC vardenafil/NN plasma/NN levels/NNS were/VBD not/RB altered/VBN when/WRB dosed/VBN simultaneously/RB ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Alcohol)) (: :) (NP (NP (NN Alcohol)) (PRN (-LRB- -LRB-) (NP (CD 0.5) (NN g/kg) (NN body) (NN weight)) (: :) (NP (NP (QP (RB approximately) (CD 40)) (NN mL)) (PP (IN of) (NP (NP (JJ absolute) (NN alcohol)) (PP (IN in) (NP (DT a) (CD 70) (NN kg) (NN person)))))) (-RRB- -RRB-))) (CC and) (NP (NN vardenafil) (NN plasma) (NNS levels))) (VP (VBD were) (RB not) (VP (VBN altered)) (SBAR (WHADVP (WRB when)) (S (VP (VBN dosed) (ADVP (RB simultaneously))))))) (. .))))
+
+Sentence Id: DrugDDI.d253.s39
+Vardenafil/NN (/-LRB- 20/CD mg/NN )/-RRB- did/VBD not/RB potentiate/VB the/DT hypotensive/JJ effects/NNS of/IN alcohol/NN during/IN the/DT 4-hour/JJ observation/NN period/NN in/IN healthy/JJ volunteers/NNS when/WRB administered/VBN with/IN alcohol/NN (/-LRB- 0.5/CD g/kg/NN body/NN weight/NN )./CD
+
+(ROOT (S1 (S (NP (NP (NP (NN Vardenafil)) (PRN (-LRB- -LRB-) (NP (CD 20) (NN mg)) (-RRB- -RRB-))) (VP (VBD did) (RB not) (VP (VB potentiate) (NP (NP (DT the) (JJ hypotensive) (NNS effects)) (PP (IN of) (NP (NN alcohol))) (PP (IN during) (NP (NP (DT the) (JJ 4-hour) (NN observation) (NN period)) (PP (IN in) (NP (JJ healthy) (NNS volunteers))))))) (SBAR (WHADVP (WRB when)) (S (VP (VBN administered) (PP (IN with) (NP (NN alcohol))) (PRN (-LRB- -LRB-) (NP (CD 0.5) (NN g/kg) (NN body) (NN weight) (CD -RRB-.)))))))))))
+
+Sentence Id: DrugDDI.d253.s40
+Aspirin/NN :/: Vardenafil/NN (/-LRB- 10/CD mg/NN and/CC 20/CD mg/NN )/-RRB- did/VBD not/RB potentiate/VB the/DT increase/NN in/IN bleeding/JJ time/NN caused/VBN by/IN aspirin/NN (/-LRB- two/CD 81/CD mg/NN tablets/NNS )./CD
+
+(ROOT (S1 (S (NP (NP (NN Aspirin)) (: :) (S (NP (NP (NN Vardenafil)) (PRN (-LRB- -LRB-) (NP (NP (CD 10) (NN mg)) (CC and) (NP (CD 20) (NN mg))) (-RRB- -RRB-))) (VP (VBD did) (RB not) (VP (VB potentiate) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (JJ bleeding) (NN time)) (VP (VBN caused) (PP (IN by) (NP (NN aspirin) (-LRB- -LRB-) (CD two) (CD 81) (NN mg) (NNS tablets) (CD -RRB-.))))))))))))))
+
+Sentence Id: DrugDDI.d253.s41
+Other/JJ interactions/NNS :/: Vardenafil/NN had/VBD no/DT effect/NN on/IN the/DT pharmacodynamics/NNS of/IN glyburide/NN (/-LRB- glucose/NN and/CC insulin/NN concentrations/NNS )/-RRB- and/CC warfarin/NN (/-LRB- prothrombin/NN time/NN or/CC other/JJ pharmacodynamic/JJ parameters/NNS )./NN
+
+(ROOT (S1 (S (NP (NP (JJ Other) (NNS interactions)) (: :) (S (NP (NN Vardenafil)) (VP (VBD had) (NP (DT no) (NN effect)) (PP (IN on) (NP (NP (DT the) (NNS pharmacodynamics)) (PP (IN of) (NP (NP (NP (NN glyburide)) (PRN (-LRB- -LRB-) (NP (NP (NP (NN glucose)) (CC and) (NP (NN insulin))) (NNS concentrations)) (-RRB- -RRB-))) (CC and) (NP (NN warfarin)) (-LRB- -LRB-) (NP (NN prothrombin) (NN time)) (CC or) (NP (JJ other) (JJ pharmacodynamic) (NNS parameters)) (NP (NN -RRB-.))))))))))))
+
+Sentence Id: DrugDDI.d528.s0
+Zidovudine/NN :/: There/EX is/VBZ no/DT significant/JJ pharmacokinetic/JJ interaction/NN between/IN ZDV/NN and/CC zalcitabine/NN which/WDT has/VBZ been/VBN confirmed/VBN clinically/RB ./.
+
+(ROOT (S1 (S (S (NP (NN Zidovudine)) (: :) (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (JJ significant) (JJ pharmacokinetic) (NN interaction)) (PP (IN between) (NP (NP (NN ZDV)) (CC and) (NP (NN zalcitabine)))) (SBAR (WHNP (WDT which)) (S (VP (VBZ has) (VP (VBN been) (VP (VBN confirmed) (ADVP (RB clinically))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s1
+Zalcitabine/NN also/RB has/VBZ no/DT significant/JJ effect/NN on/IN the/DT intracellular/JJ phosphorylation/NN of/IN ZDV/NN ,/, as/IN shown/VBN in/FW vitro/FW in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS or/CC in/IN two/CD other/JJ cell/NN lines/NNS (/-LRB- U937/NN and/CC Molt-4/NN )./NN
+
+(ROOT (S1 (S (NP (NN Zalcitabine)) (ADVP (RB also)) (VP (VBZ has) (NP (DT no) (JJ significant) (NN effect)) (PP (IN on) (NP (NP (DT the) (JJ intracellular) (NN phosphorylation)) (PP (IN of) (NP (NN ZDV))))) (, ,) (SBAR (IN as) (S (VP (VBN shown) (ADVP (FW in) (FW vitro)) (PP (PP (IN in) (NP (JJ peripheral) (NN blood) (JJ mononuclear) (NNS cells))) (CC or) (PP (IN in) (NP (NP (CD two) (JJ other) (NN cell) (NNS lines)) (PRN (-LRB- -LRB-) (NP (NP (NN U937)) (CC and) (NP (NN Molt-4)) (NP (NN -RRB-.))))))))))))))
+
+Sentence Id: DrugDDI.d528.s2
+In/IN the/DT same/JJ study/NN it/PRP was/VBD shown/VBN that/IN didanosine/NN and/CC stavudine/NN had/VBD no/DT significant/JJ effect/NN on/IN the/DT intracellular/JJ phosphorylation/NN of/IN zalcitabine/NN in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS ./.
+
+(ROOT (S1 (S (S (PP (IN In) (NP (DT the) (JJ same) (NN study))) (NP (PRP it)) (VP (VBD was) (VP (VBN shown) (SBAR (IN that) (S (NP (NP (NN didanosine)) (CC and) (NP (NN stavudine))) (VP (VBD had) (NP (DT no) (JJ significant) (NN effect)) (PP (IN on) (NP (NP (DT the) (JJ intracellular) (NN phosphorylation)) (PP (IN of) (NP (NN zalcitabine))) (PP (IN in) (NP (JJ peripheral) (NN blood) (JJ mononuclear) (NNS cells))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s3
+Lamivudine/NN :/: In/FW vitro/FW studies/NNS in/IN peripheral/JJ blood/NN mononuclear/JJ cells/NNS ,/, U937/NN and/CC Molt-4/NN cells/NNS revealed/VBD that/IN lamivudine/NN significantly/RB inhibited/VBD zalcitabine/NN phosphorylation/NN in/IN a/DT dose/NN dependent/JJ manner/NN ./.
+
+(ROOT (S1 (S (NP (NP (NN Lamivudine)) (: :) (S (NP (NP (ADJP (FW In) (FW vitro)) (NNS studies)) (PP (IN in) (NP (NP (JJ peripheral) (NN blood) (JJ mononuclear) (NNS cells)) (, ,) (NP (NN U937)) (CC and) (NP (NN Molt-4) (NNS cells))))) (VP (VBD revealed) (SBAR (IN that) (S (NP (NN lamivudine)) (ADVP (RB significantly)) (VP (VBD inhibited) (NP (NN zalcitabine) (NN phosphorylation)) (PP (IN in) (NP (DT a) (ADJP (NN dose) (JJ dependent)) (NN manner)))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s4
+Effects/NNS were/VBD already/RB seen/VBN with/IN doses/NNS corresponding/VBG to/TO relevant/JJ plasma/NN levels/NNS in/IN humans/NNS ,/, and/CC the/DT intracellular/JJ phosphorylation/NN of/IN zalcitabine/NN to/TO its/PRP$ three/CD metabolites/NNS (/-LRB- including/VBG the/DT active/JJ zalcitabine/NN triphosphate/NN metabolite/NN )/-RRB- was/VBD significantly/RB inhibited/VBN ./.
+
+(ROOT (S1 (S (S (S (NP (NNS Effects)) (VP (VBD were) (ADVP (RB already)) (VP (VBN seen) (PP (IN with) (NP (NP (NNS doses)) (VP (VBG corresponding) (PP (TO to) (NP (NP (JJ relevant) (NN plasma) (NNS levels)) (PP (IN in) (NP (NNS humans))))))))))) (, ,) (CC and) (S (NP (NP (DT the) (JJ intracellular) (NN phosphorylation)) (PP (IN of) (NP (NN zalcitabine))) (PP (TO to) (NP (NP (PRP$ its) (CD three) (NNS metabolites)) (PRN (-LRB- -LRB-) (VP (VBG including) (NP (DT the) (JJ active) (NN zalcitabine) (NN triphosphate) (NN metabolite))) (-RRB- -RRB-))))) (VP (VBD was) (ADVP (RB significantly)) (VP (VBN inhibited))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s5
+Zalcitabine/NN inhibited/VBD lamivudine/NN phosphorylation/NN at/IN high/JJ concentration/NN ratios/NNS (/-LRB- 10/CD and/CC 100/CD )/-RRB- ;/: ./.
+
+(ROOT (S1 (S (S (NP (NN Zalcitabine)) (VP (VBD inhibited) (NP (NN lamivudine) (NN phosphorylation)) (PP (IN at) (NP (JJ high) (NN concentration) (NNS ratios))) (PRN (-LRB- -LRB-) (QP (CD 10) (CC and) (CD 100)) (-RRB- -RRB-))) (: ;)) (. .))))
+
+Sentence Id: DrugDDI.d528.s6
+however/RB ,/, it/PRP is/VBZ considered/VBN to/TO be/VB unlikely/JJ that/IN this/DT decrease/NN of/IN phosphorylated/VBN lamivudine/NN concentration/NN is/VBZ of/IN clinical/JJ significance/NN ,/, as/IN lamivudine/NN is/VBZ a/DT more/RBR efficient/JJ substrate/NN for/IN deoxycytidine/NN kinase/NN than/IN zalcitabine/NN ./.
+
+(ROOT (S1 (S (S (ADVP (RB however)) (, ,) (NP (PRP it)) (VP (VBZ is) (VP (VBN considered) (S (VP (TO to) (VP (VB be) (ADJP (JJ unlikely) (SBAR (IN that) (S (NP (NP (DT this) (NN decrease)) (PP (IN of) (NP (VBN phosphorylated) (NN lamivudine) (NN concentration)))) (VP (VBZ is) (PP (IN of) (NP (JJ clinical) (NN significance))) (, ,) (SBAR (IN as) (S (NP (NN lamivudine)) (VP (VBZ is) (NP (NP (DT a) (ADJP (RBR more) (JJ efficient)) (NN substrate)) (PP (IN for) (NP (NN deoxycytidine) (NN kinase))) (PP (IN than) (NP (NN zalcitabine))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s7
+These/DT in/FW vitro/FW studies/NNS suggest/VBP that/IN concomitant/JJ administration/NN of/IN zalcitabine/NN and/CC lamivudine/NN in/IN humans/NNS may/MD result/VB in/IN sub-therapeutic/JJ concentrations/NNS of/IN active/JJ phosphorylated/JJ zalcitabine/NN ,/, which/WDT may/MD lead/VB to/TO a/DT decreased/VBN antiretroviral/JJ effect/NN of/IN zalcitabine/NN ./.
+
+(ROOT (S1 (S (S (NP (DT These) (ADJP (FW in) (FW vitro)) (NNS studies)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (JJ concomitant) (NN administration)) (PP (IN of) (NP (NP (NN zalcitabine)) (CC and) (NP (NN lamivudine)))) (PP (IN in) (NP (NNS humans)))) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (JJ sub-therapeutic) (NNS concentrations)) (PP (IN of) (NP (NP (JJ active) (JJ phosphorylated) (NN zalcitabine)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (MD may) (VP (VB lead) (PP (TO to) (NP (NP (DT a) (VBN decreased) (JJ antiretroviral) (NN effect)) (PP (IN of) (NP (NN zalcitabine))))))))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s9
+Concomitant/JJ use/NN of/IN zalcitabine/NN and/CC lamivudine/NN is/VBZ not/RB recommended/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Concomitant) (NN use)) (PP (IN of) (NP (NP (NN zalcitabine)) (CC and) (NP (NN lamivudine))))) (VP (VBZ is) (RB not) (VP (VBN recommended)))) (. .))))
+
+Sentence Id: DrugDDI.d528.s10
+Saquinavir/NN :/: The/DT combination/NN of/IN HIVID/NN ,/, saquinavir/NN ,/, and/CC ZDV/NN has/VBZ been/VBN studied/VBN (/-LRB- as/IN triple/JJ combination/NN )/-RRB- in/IN adults/NNS ./.
+
+(ROOT (S1 (S (NP (NP (NN Saquinavir)) (: :) (S (NP (NP (DT The) (NN combination)) (PP (IN of) (NP (NP (NN HIVID)) (, ,) (NP (NN saquinavir)) (, ,) (CC and) (NP (NN ZDV))))) (VP (VBZ has) (VP (VBN been) (VP (VBN studied) (PRN (-LRB- -LRB-) (PP (IN as) (NP (JJ triple) (NN combination))) (-RRB- -RRB-)) (PP (IN in) (NP (NNS adults))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s11
+Pharmacokinetic/JJ data/NNS suggest/VBP that/IN absorption/NN ,/, metabolism/NN ,/, and/CC elimination/NN of/IN each/DT of/IN these/DT drugs/NNS are/VBP unchanged/JJ when/WRB they/PRP are/VBP used/VBN together/RB ./.
+
+(ROOT (S1 (S (S (NP (JJ Pharmacokinetic) (NNS data)) (VP (VBP suggest) (SBAR (IN that) (S (NP (NP (NP (NN absorption)) (, ,) (NP (NN metabolism)) (, ,) (CC and) (NP (NN elimination))) (PP (IN of) (NP (NP (DT each)) (PP (IN of) (NP (DT these) (NNS drugs)))))) (VP (VBP are) (ADJP (JJ unchanged)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (VP (VBN used) (ADVP (RB together))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s12
+Drugs/NNS Associated/VBN With/IN Peripheral/JJ Neuropathy/NN :/: The/DT concomitant/JJ use/NN of/IN HIVID/NN with/IN drugs/NNS that/WDT have/VBP the/DT potential/NN to/TO cause/VB peripheral/JJ neuropathy/NN should/MD be/VB avoided/VBN where/WRB possible/JJ ./.
+
+(ROOT (S1 (S (NP (NP (NP (NNS Drugs)) (VP (VBN Associated) (PP (IN With) (NP (JJ Peripheral) (NN Neuropathy))))) (: :) (S (NP (NP (DT The) (JJ concomitant) (NN use)) (PP (IN of) (NP (NN HIVID))) (PP (IN with) (NP (NP (NNS drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (DT the) (NN potential) (S (VP (TO to) (VP (VB cause) (NP (JJ peripheral) (NN neuropathy)))))))))))) (VP (MD should) (VP (VB be) (VP (VBN avoided) (SBAR (WHADVP (WRB where)) (FRAG (JJ possible))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s13
+Drugs/NNS that/WDT have/VBP been/VBN associated/VBN with/IN peripheral/JJ neuropathy/NN include/VBP antiretroviral/JJ nucleoside/NN analogues/NNS ,/, chloramphenicol/NN ,/, cisplatin/NN ,/, dapsone/NN ,/, disulfiram/NN ,/, ethionamide/NN ,/, glutethimide/NN ,/, gold/NN ,/, hydralazine/NN ,/, iodoquinol/NN ,/, isoniazid/NN ,/, metronidazole/NN ,/, nitrofurantoin/NN ,/, phenytoin/NN ,/, ribavirin/NN ,/, and/CC vincristine/NN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Drugs)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (VP (VBN been) (VP (VBN associated) (PP (IN with) (NP (JJ peripheral) (NN neuropathy))) (S (VP (VBP include) (NP (NP (NP (JJ antiretroviral) (NN nucleoside) (NNS analogues)) (, ,) (NP (NN chloramphenicol)) (, ,) (NP (NN cisplatin))) (, ,) (NP (NP (NN dapsone)) (, ,) (NP (NN disulfiram)) (, ,) (NP (NN ethionamide)) (, ,) (NP (NN glutethimide)) (, ,) (NP (NN gold)) (, ,) (NP (NN hydralazine)) (, ,) (NP (NN iodoquinol)) (, ,) (NP (NN isoniazid)) (, ,) (NP (NN metronidazole)) (, ,) (NP (NN nitrofurantoin)) (, ,) (NP (NN phenytoin)) (, ,) (NP (NN ribavirin)) (, ,) (CC and) (NP (NN vincristine))))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s14
+Concomitant/JJ use/NN of/IN HIVID/NN with/IN didanosine/NN is/VBZ not/RB recommended/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (JJ Concomitant) (NN use)) (PP (IN of) (NP (NN HIVID))) (PP (IN with) (NP (NN didanosine)))) (VP (VBZ is) (RB not) (VP (VBN recommended)))) (. .))))
+
+Sentence Id: DrugDDI.d528.s15
+Intravenous/JJ Pentamidin/NN e/NN :/: Treatment/NN with/IN HIVID/NN should/MD be/VB interrupted/VBN when/WRB the/DT use/NN of/IN a/DT drug/NN that/WDT has/VBZ the/DT potential/NN to/TO cause/VB pancreatitis/NN is/VBZ required/VBN ./.
+
+(ROOT (S1 (S (NP (NP (JJ Intravenous) (NN Pentamidin) (NN e)) (: :) (S (NP (NP (NN Treatment)) (PP (IN with) (NP (NN HIVID)))) (VP (MD should) (VP (VB be) (VP (VBN interrupted))) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (DT a) (NN drug)) (SBAR (WHNP (WDT that)) (S (VP (VBZ has) (NP (DT the) (NN potential) (S (VP (TO to) (VP (VB cause) (NP (NN pancreatitis)))))))))))) (VP (VBZ is) (VP (VBN required))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s16
+Death/NN due/IN to/TO fulminant/JJ pancreatitis/NN possibly/RB related/JJ to/TO intravenous/JJ pentamidin/NN e/NN and/CC HIVID/NN has/VBZ been/VBN reported/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NN Death)) (PP (IN due) (TO to) (NP (JJ fulminant) (NN pancreatitis))) (ADJP (ADVP (RB possibly)) (JJ related) (PP (TO to) (NP (NP (JJ intravenous) (NN pentamidin) (NN e)) (CC and) (NP (NN HIVID)))))) (VP (VBZ has) (VP (VBN been) (VP (VBN reported))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s17
+If/IN intravenous/JJ pentamidin/NN e/NN is/VBZ required/VBN to/TO treat/VB Pneumocystis/NN carinii/NN pneumonia/NNS ,/, treatment/NN with/IN HIVID/NN should/MD be/VB interrupted/VBN ./.
+
+(ROOT (S1 (S (S (SBAR (IN If) (S (NP (JJ intravenous) (NN pentamidin) (NN e)) (VP (VBZ is) (VP (VBN required) (S (VP (TO to) (VP (VB treat) (NP (NN Pneumocystis) (NN carinii) (NNS pneumonia))))))))) (, ,) (NP (NP (NN treatment)) (PP (IN with) (NP (NN HIVID)))) (VP (MD should) (VP (VB be) (VP (VBN interrupted))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s18
+Amphotericin/NN ,/, Foscarnet/NN ,/, and/CC Aminoglycosides/NN :/: Drugs/NNS such/JJ as/IN amphotericin/NN ,/, foscarnet/NN ,/, and/CC aminoglycosides/NNS may/MD increase/VB the/DT risk/NN of/IN developing/VBG peripheral/JJ neuropathy/NN or/CC other/JJ HIVID/NN -associated/JJ adverse/JJ events/NNS by/IN interfering/VBG with/IN the/DT renal/JJ clearance/NN of/IN zalcitabine/NN (/-LRB- thereby/RB raising/VBG systemic/JJ exposure/NN )./NN
+
+(ROOT (S1 (S (NP (NP (NP (NN Amphotericin)) (, ,) (NP (NN Foscarnet)) (, ,) (CC and) (NP (NN Aminoglycosides))) (: :) (S (NP (NP (NNS Drugs)) (PP (JJ such) (IN as) (NP (NP (NN amphotericin)) (, ,) (NP (NN foscarnet)) (, ,) (CC and) (NP (NNS aminoglycosides))))) (VP (VP (MD may) (VP (VB increase) (NP (NP (DT the) (NN risk)) (PP (IN of) (NP (VBG developing) (ADJP (NP (NP (JJ peripheral) (NN neuropathy)) (CC or) (NP (JJ other) (NN HIVID))) (JJ -associated)) (JJ adverse) (NNS events)))) (PP (IN by) (S (VP (VBG interfering) (PP (IN with) (NP (NP (DT the) (JJ renal) (NN clearance)) (PP (IN of) (NP (NN zalcitabine)))))))))) (-LRB- -LRB-) (S (ADVP (RB thereby)) (VP (VBG raising) (NP (JJ systemic) (NN exposure) (NN -RRB-.))))))))))
+
+Sentence Id: DrugDDI.d528.s19
+Patients/NNS who/WP require/VBP the/DT use/NN of/IN one/CD of/IN these/DT drugs/NNS with/IN HIVID/NN should/MD have/VBP frequent/JJ clinical/JJ and/CC laboratory/JJ monitoring/NN with/IN dosage/JJ adjustment/NN for/IN any/DT significant/JJ change/NN in/IN renal/JJ function/NN ./.
+
+(ROOT (S1 (S (NP (NP (NNS Patients)) (SBAR (WHNP (WP who)) (S (VP (VBP require) (NP (NP (DT the) (NN use)) (PP (IN of) (NP (NP (CD one)) (PP (IN of) (NP (DT these) (NNS drugs))))) (PP (IN with) (NP (NN HIVID)))))))) (VP (MD should) (VP (VBP have) (NP (JJ frequent) (ADJP (ADJP (JJ clinical)) (CC and) (ADJP (JJ laboratory))) (NN monitoring)) (PP (IN with) (NP (NP (JJ dosage) (NN adjustment)) (PP (IN for) (NP (NP (DT any) (JJ significant) (NN change)) (PP (IN in) (NP (JJ renal) (NN function))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s20
+Probenecid/NN or/CC Cimetidine/NN :/: Concomitant/JJ administration/NN of/IN probenecid/NN or/CC cimetidine/NN decreases/VBZ the/DT elimination/NN of/IN zalcitabine/NN ,/, most/RBS likely/RB by/IN inhibition/NN of/IN renal/JJ tubular/JJ secretion/NN of/IN zalcitabine/NN ./.
+
+(ROOT (S1 (S (NP (NP (NP (NN Probenecid)) (CC or) (NP (NN Cimetidine))) (: :) (S (NP (NP (JJ Concomitant) (NN administration)) (PP (IN of) (NP (NP (NN probenecid)) (CC or) (NP (NN cimetidine))))) (VP (VBZ decreases) (NP (NP (DT the) (NN elimination)) (PP (IN of) (NP (NN zalcitabine)))) (, ,) (PP (ADVP (RBS most) (RB likely)) (IN by) (NP (NP (NN inhibition)) (PP (IN of) (NP (NP (JJ renal) (JJ tubular) (NN secretion)) (PP (IN of) (NP (NN zalcitabine))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s21
+Patients/NNS receiving/VBG these/DT drugs/NNS in/IN combination/NN with/IN zalcitabine/NN should/MD be/VB monitored/VBN for/IN signs/NNS of/IN toxicity/NN and/CC the/DT dose/NN of/IN zalcitabine/NN reduced/VBD if/IN warranted/VBN ./.
+
+(ROOT (S1 (S (S (NP (NP (NNS Patients)) (VP (VBG receiving) (NP (DT these) (NNS drugs)) (PP (IN in) (NP (NP (NN combination)) (PP (IN with) (NP (NN zalcitabine))))))) (VP (MD should) (VP (VB be) (VP (VBN monitored) (PP (IN for) (NP (NP (NNS signs)) (PP (IN of) (NP (NN toxicity))))))))) (CC and) (S (NP (NP (DT the) (NN dose)) (PP (IN of) (NP (NN zalcitabine)))) (VP (VBD reduced) (SBAR (IN if) (S (VP (VBN warranted)))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s22
+Magnesium/NN /Aluminum-containing/JJ Antacid/JJ Products/NNS :/: Absorption/NN of/IN zalcitabine/NN is/VBZ moderately/RB reduced/VBN (/-LRB- approximately/RB 25/CD %/NN )/-RRB- when/WRB coadministered/VBN with/IN magnesium/NN /aluminum-containing/NN antacid/JJ products/NNS ./.
+
+(ROOT (S1 (S (NP (NP (NN Magnesium) (JJ /Aluminum-containing) (JJ Antacid) (NNS Products)) (: :) (S (NP (NP (NN Absorption)) (PP (IN of) (NP (NN zalcitabine)))) (VP (VBZ is) (ADVP (RB moderately)) (VP (VBN reduced) (PRN (-LRB- -LRB-) (NP (QP (RB approximately) (CD 25)) (NN %)) (-RRB- -RRB-)) (SBAR (WHADVP (WRB when)) (S (VP (VBN coadministered) (PP (IN with) (NP (NN magnesium) (NN /aluminum-containing) (JJ antacid) (NNS products))))))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s23
+The/DT clinical/JJ significance/NN of/IN this/DT reduction/NN is/VBZ not/RB known/VBN ,/, hence/RB zalcitabine/NN is/VBZ not/RB recommended/VBN to/TO be/VB ingested/VBN simultaneously/RB with/IN magnesium/NN //: aluminum-containing/JJ antacids/NNS ./.
+
+(ROOT (S1 (S (S (S (NP (NP (DT The) (JJ clinical) (NN significance)) (PP (IN of) (NP (DT this) (NN reduction)))) (VP (VBZ is) (RB not) (VP (VBN known)))) (, ,) (ADVP (RB hence)) (S (NP (NN zalcitabine)) (VP (VBZ is) (RB not) (VP (VBN recommended) (S (VP (TO to) (VP (VB be) (VP (VBN ingested) (ADVP (RB simultaneously)) (PP (IN with) (NP (NP (NN magnesium)) (: /) (NP (JJ aluminum-containing) (NNS antacids)))))))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s24
+Metoclopramide/NN :/: Bioavailability/NN is/VBZ mildly/RB reduced/VBN (/-LRB- approximately/RB 10/CD %/NN )/-RRB- when/WRB zalcitabine/NN and/CC metoclopramide/NN are/VBP coadministered/VBN ./.
+
+(ROOT (S1 (S (S (NP (NN Metoclopramide) (: :) (NN Bioavailability)) (VP (VBZ is) (ADVP (RB mildly)) (VP (VBN reduced) (PRN (-LRB- -LRB-) (NP (QP (RB approximately) (CD 10)) (NN %)) (-RRB- -RRB-)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN zalcitabine)) (CC and) (NP (NN metoclopramide))) (VP (VBP are) (VP (VBN coadministered)))))))) (. .))))
+
+Sentence Id: DrugDDI.d528.s25
+Doxorubicin/NN :/: Doxorubicin/NN caused/VBD a/DT decrease/NN in/IN zalcitabine/NN phosphorylation/NN (/-LRB- 50/CD %/NN inhibition/NN of/IN total/JJ phosphate/NN formation/NN )/-RRB- in/IN U937/Molt/NN 4/CD cells/NNS ./.
+
+(ROOT (S1 (S (NP (NP (NN Doxorubicin)) (: :) (S (NP (NN Doxorubicin)) (VP (VBD caused) (NP (NP (NP (DT a) (NN decrease)) (PP (IN in) (NP (NN zalcitabine) (NN phosphorylation)))) (-LRB- -LRB-) (NP (NP (ADJP (CD 50) (NN %)) (NN inhibition)) (PP (IN of) (NP (JJ total) (NN phosphate) (NN formation)))) (-RRB- -RRB-)) (PP (IN in) (NP (NN U937/Molt) (CD 4) (NNS cells))))) (. .)))))
+
+Sentence Id: DrugDDI.d528.s26
+Although/IN there/EX may/MD be/VB decreased/VBN zalcitabine/NN activity/NN because/IN of/IN lessened/JJ active/JJ metabolite/NN formation/NN ,/, the/DT clinical/JJ relevance/NN of/IN these/DT in/FW vitro/FW results/NNS are/VBP not/RB known/VBN ./.
+
+(ROOT (S1 (S (S (SBAR (IN Although) (S (NP (EX there)) (VP (MD may) (VP (VB be) (NP (VBN decreased) (NN zalcitabine) (NN activity)) (PP (IN because) (IN of) (NP (JJ lessened) (JJ active) (NN metabolite) (NN formation))))))) (, ,) (NP (NP (DT the) (JJ clinical) (NN relevance)) (PP (IN of) (NP (DT these) (ADJP (FW in) (FW vitro)) (NNS results)))) (VP (VBP are) (RB not) (VP (VBN known)))) (. .))))
+

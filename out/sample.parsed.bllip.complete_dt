@@ -1,0 +1,656 @@
+Sentence Id: DrugDDI.d505.s0
+No/DT formal/JJ drug/NN /drug/NN interaction/NN studies/NNS with/IN Plenaxis/NN @/NN were/VBD performed/VBN ./.
+
+det(studies-6, No-1)
+amod(studies-6, formal-2)
+nn(studies-6, drug-3)
+nn(studies-6, /drug-4)
+nn(studies-6, interaction-5)
+nsubjpass(performed-11, studies-6)
+nn(@-9, Plenaxis-8)
+prep_with(studies-6, @-9)
+auxpass(performed-11, were-10)
+root(ROOT-0, performed-11)
+
+Sentence Id: DrugDDI.d505.s1
+Cytochrome/NN P-450/NN is/VBZ not/RB known/VBN to/TO be/VB involved/VBN in/IN the/DT metabolism/NN of/IN Plenaxis/NN @./NNS
+
+nn(P-450-2, Cytochrome-1)
+root(ROOT-0, P-450-2)
+xsubj(involved-8, P-450-2)
+auxpass(known-5, is-3)
+neg(known-5, not-4)
+dep(P-450-2, known-5)
+aux(involved-8, to-6)
+auxpass(involved-8, be-7)
+xcomp(known-5, involved-8)
+det(metabolism-11, the-10)
+prep_in(involved-8, metabolism-11)
+nn(@.-14, Plenaxis-13)
+prep_of(metabolism-11, @.-14)
+
+Sentence Id: DrugDDI.d505.s2
+Plenaxis/NN @/NN is/VBZ highly/RB bound/VBN to/TO plasma/NN proteins/NNS (/-LRB- 96/CD to/TO 99/CD %)./NN
+
+nn(@-2, Plenaxis-1)
+root(ROOT-0, @-2)
+auxpass(bound-5, is-3)
+advmod(bound-5, highly-4)
+dep(@-2, bound-5)
+nn(proteins-8, plasma-7)
+prep_to(bound-5, proteins-8)
+number(99-12, 96-10)
+dep(99-12, to-11)
+num(%-RRB-.-13, 99-12)
+dep(@-2, %-RRB-.-13)
+
+Sentence Id: DrugDDI.d505.s3
+Laboratory/NN Tests/NNS Response/NN to/TO Plenaxis/NN @/NN should/MD be/VB monitored/VBN by/IN measuring/VBG serum/NN total/JJ testosterone/NN concentrations/NNS just/RB prior/RB to/TO administration/NN on/IN Day/NN 29/CD and/CC every/DT 8/CD weeks/NNS thereafter/RB ./.
+
+nn(Tests-2, Laboratory-1)
+nsubjpass(monitored-9, Tests-2)
+dep(Tests-2, Response-3)
+nn(@-6, Plenaxis-5)
+prep_to(Response-3, @-6)
+aux(monitored-9, should-7)
+auxpass(monitored-9, be-8)
+root(ROOT-0, monitored-9)
+agent(monitored-9, measuring-11)
+nn(concentrations-15, serum-12)
+amod(concentrations-15, total-13)
+nn(concentrations-15, testosterone-14)
+dobj(measuring-11, concentrations-15)
+advmod(concentrations-15, just-16)
+prep_prior_to(concentrations-15, administration-19)
+prep_on(measuring-11, Day-21)
+num(Day-21, 29-22)
+det(weeks-26, every-24)
+num(weeks-26, 8-25)
+conj_and(Day-21, weeks-26)
+advmod(weeks-26, thereafter-27)
+
+Sentence Id: DrugDDI.d505.s4
+Serum/NN transaminase/NN levels/NNS should/MD be/VB obtained/VBN before/IN starting/VBG treatment/NN with/IN Plenaxis/NN @/NN and/CC periodically/RB during/IN treatment/NN ./.
+
+nn(levels-3, Serum-1)
+nn(levels-3, transaminase-2)
+nsubjpass(obtained-6, levels-3)
+aux(obtained-6, should-4)
+auxpass(obtained-6, be-5)
+root(ROOT-0, obtained-6)
+conj_and(obtained-6, obtained-6)
+prepc_before(obtained-6, starting-8)
+dobj(starting-8, treatment-9)
+nn(@-12, Plenaxis-11)
+prep_with(treatment-9, @-12)
+advmod(obtained-6, periodically-14)
+conj(obtained-6, periodically-14)
+prep_during(obtained-6, treatment-16)
+
+Sentence Id: DrugDDI.d103.s0
+Certain/JJ drugs/NNS tend/VBP to/TO produce/VB hyperglycemia/NN and/CC may/MD lead/VB to/TO loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+amod(drugs-2, Certain-1)
+nsubj(tend-3, drugs-2)
+xsubj(produce-5, drugs-2)
+root(ROOT-0, tend-3)
+aux(produce-5, to-4)
+xcomp(tend-3, produce-5)
+dobj(produce-5, hyperglycemia-6)
+aux(lead-9, may-8)
+conj_and(tend-3, lead-9)
+prep_to(lead-9, loss-11)
+nn(control-15, blood-13)
+nn(control-15, glucose-14)
+prep_of(loss-11, control-15)
+
+Sentence Id: DrugDDI.d103.s1
+These/DT drugs/NNS include/VBP the/DT thiazides/NNS and/CC other/JJ diuretics/NNS ,/, corticosteroids/NNS ,/, phenothiazines/NNS ,/, thyroid/NN products/NNS ,/, estrogens/NNS ,/, oral/JJ contraceptives/NNS ,/, phenytoin/NN ,/, nicotinic/JJ acid/NN ,/, sympathomimetics/NNS ,/, calcium/NN channel-blocking/JJ drugs/NNS ,/, and/CC isoniazid/NN ./.
+
+det(drugs-2, These-1)
+nsubj(include-3, drugs-2)
+root(ROOT-0, include-3)
+det(thiazides-5, the-4)
+dobj(include-3, thiazides-5)
+amod(diuretics-8, other-7)
+conj_and(thiazides-5, diuretics-8)
+conj_and(diuretics-8, corticosteroids-10)
+conj_and(diuretics-8, phenothiazines-12)
+nn(products-15, thyroid-14)
+conj_and(diuretics-8, products-15)
+conj_and(diuretics-8, estrogens-17)
+amod(contraceptives-20, oral-19)
+conj_and(diuretics-8, contraceptives-20)
+conj_and(diuretics-8, phenytoin-22)
+amod(acid-25, nicotinic-24)
+conj_and(diuretics-8, acid-25)
+conj_and(diuretics-8, sympathomimetics-27)
+nn(drugs-31, calcium-29)
+amod(drugs-31, channel-blocking-30)
+conj_and(diuretics-8, drugs-31)
+conj_and(diuretics-8, isoniazid-34)
+
+Sentence Id: DrugDDI.d103.s2
+When/WRB such/JJ drugs/NNS are/VBP administered/VBN to/TO a/DT patient/NN receiving/VBG Acarbose/NN ,/, the/DT patient/NN should/MD be/VB closely/RB observed/VBN for/IN loss/NN of/IN blood/NN glucose/NN control/NN ./.
+
+advmod(administered-5, When-1)
+amod(drugs-3, such-2)
+nsubjpass(administered-5, drugs-3)
+auxpass(administered-5, are-4)
+advcl(observed-17, administered-5)
+det(patient-8, a-7)
+prep_to(administered-5, patient-8)
+partmod(patient-8, receiving-9)
+dobj(receiving-9, Acarbose-10)
+det(patient-13, the-12)
+nsubjpass(observed-17, patient-13)
+aux(observed-17, should-14)
+auxpass(observed-17, be-15)
+advmod(observed-17, closely-16)
+root(ROOT-0, observed-17)
+prep_for(observed-17, loss-19)
+nn(control-23, blood-21)
+nn(control-23, glucose-22)
+prep_of(loss-19, control-23)
+
+Sentence Id: DrugDDI.d103.s3
+When/WRB such/JJ drugs/NNS are/VBP withdrawn/VBN from/IN patients/NNS receiving/VBG Acarbose/NN in/IN combination/NN with/IN sulfonylureas/NN or/CC insulin/NN ,/, patients/NNS should/MD be/VB observed/VBN closely/RB for/IN any/DT evidence/NN of/IN hypoglycemia/NN ./.
+
+advmod(withdrawn-5, When-1)
+amod(drugs-3, such-2)
+nsubjpass(withdrawn-5, drugs-3)
+auxpass(withdrawn-5, are-4)
+advcl(observed-20, withdrawn-5)
+prep_from(withdrawn-5, patients-7)
+partmod(patients-7, receiving-8)
+dobj(receiving-8, Acarbose-9)
+prep_in(receiving-8, combination-11)
+prep_with(combination-11, sulfonylureas-13)
+conj_or(sulfonylureas-13, insulin-15)
+nsubjpass(observed-20, patients-17)
+aux(observed-20, should-18)
+auxpass(observed-20, be-19)
+root(ROOT-0, observed-20)
+advmod(observed-20, closely-21)
+det(evidence-24, any-23)
+prep_for(observed-20, evidence-24)
+prep_of(evidence-24, hypoglycemia-26)
+
+Sentence Id: DrugDDI.d103.s4
+Intestinal/JJ adsorbents/NNS (/-LRB- e./FW g./FW ,/, charcoal/NN )/-RRB- and/CC digestive/JJ enzyme/NN preparations/NNS containing/VBG carbohydrate-splitting/JJ enzymes/NNS (/-LRB- e./FW g./FW ,/, amylase/NN ,/, pancreatin/NN )/-RRB- may/MD reduce/VB the/DT effect/NN of/IN Acarbose/NN and/CC should/MD not/RB be/VB taken/VBN concomitantly/RB ./.
+
+amod(adsorbents-2, Intestinal-1)
+nsubj(reduce-25, adsorbents-2)
+nn(g.-5, e.-4)
+dep(adsorbents-2, g.-5)
+appos(g.-5, charcoal-7)
+amod(preparations-12, digestive-10)
+nn(preparations-12, enzyme-11)
+conj_and(adsorbents-2, preparations-12)
+partmod(preparations-12, containing-13)
+amod(enzymes-15, carbohydrate-splitting-14)
+dobj(containing-13, enzymes-15)
+nn(g.-18, e.-17)
+dep(preparations-12, g.-18)
+appos(g.-18, amylase-20)
+appos(g.-18, pancreatin-22)
+aux(reduce-25, may-24)
+root(ROOT-0, reduce-25)
+det(effect-27, the-26)
+dobj(reduce-25, effect-27)
+prep_of(effect-27, Acarbose-29)
+aux(taken-34, should-31)
+neg(taken-34, not-32)
+auxpass(taken-34, be-33)
+conj_and(reduce-25, taken-34)
+advmod(taken-34, concomitantly-35)
+
+Sentence Id: DrugDDI.d103.s5
+Acarbose/NN has/VBZ been/VBN shown/VBN to/TO change/VB the/DT bioavailabillty/NN digoxin/NN when/WRB they/PRP are/VBP co-administered/VBN ,/, which/WDT may/MD require/VB digoxin/NN dose/NN adjustment/NN ./.
+
+nsubjpass(shown-4, Acarbose-1)
+xsubj(change-6, Acarbose-1)
+aux(shown-4, has-2)
+auxpass(shown-4, been-3)
+root(ROOT-0, shown-4)
+aux(change-6, to-5)
+xcomp(shown-4, change-6)
+det(digoxin-9, the-7)
+nn(digoxin-9, bioavailabillty-8)
+dobj(change-6, digoxin-9)
+advmod(co-administered-13, when-10)
+nsubjpass(co-administered-13, they-11)
+auxpass(co-administered-13, are-12)
+advcl(change-6, co-administered-13)
+nsubj(require-17, which-15)
+aux(require-17, may-16)
+ccomp(co-administered-13, require-17)
+nn(adjustment-20, digoxin-18)
+nn(adjustment-20, dose-19)
+dobj(require-17, adjustment-20)
+
+Sentence Id: DrugDDI.d103.s6
+Studies/NNS in/IN healthy/JJ volunteers/NNS have/VBP shown/VBN that/IN Acarbose/NN has/VBZ no/DT effect/NN on/IN either/CC the/DT pharmacokinetics/NNS or/CC pharmacodynamics/NNS of/IN digoxin/NN ,/, nifedipine/NN ,/, propranolol/NN ,/, or/CC ranitidine/NN ./.
+
+nsubj(shown-6, Studies-1)
+amod(volunteers-4, healthy-3)
+prep_in(Studies-1, volunteers-4)
+aux(shown-6, have-5)
+root(ROOT-0, shown-6)
+complm(has-9, that-7)
+nsubj(has-9, Acarbose-8)
+ccomp(shown-6, has-9)
+det(effect-11, no-10)
+dobj(has-9, effect-11)
+preconj(pharmacokinetics-15, either-13)
+dep(pharmacokinetics-15, the-14)
+prep_on(has-9, pharmacokinetics-15)
+conj_or(pharmacokinetics-15, pharmacodynamics-17)
+prep_of(pharmacokinetics-15, digoxin-19)
+conj_or(digoxin-19, nifedipine-21)
+conj_or(digoxin-19, propranolol-23)
+conj_or(digoxin-19, ranitidine-26)
+
+Sentence Id: DrugDDI.d103.s7
+Acarbose/NN did/VBD not/RB interfere/VB with/IN the/DT absorption/NN or/CC disposition/NN of/IN the/DT sulfonylurea/NN glyburide/NN in/IN diabetic/JJ patients/NNS ./.
+
+nsubj(interfere-4, Acarbose-1)
+aux(interfere-4, did-2)
+neg(interfere-4, not-3)
+root(ROOT-0, interfere-4)
+dep(absorption-7, the-6)
+prep_with(interfere-4, absorption-7)
+conj_or(absorption-7, disposition-9)
+det(glyburide-13, the-11)
+nn(glyburide-13, sulfonylurea-12)
+prep_of(absorption-7, glyburide-13)
+amod(patients-16, diabetic-15)
+prep_in(absorption-7, patients-16)
+
+Sentence Id: DrugDDI.d103.s8
+Acarbose/NN may/MD affect/VB digoxin/NN bioavailabillty/NN and/CC may/MD require/VB dose/NN adjustment/NN of/IN digoxin/NN by/IN 16/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 8-23/CD %/NN )/-RRB- ,/, decrease/VB mean/NN C/NN max/NN digoxin/NN by/IN 26/CD %/NN (/-LRB- 90/CD %/NN confidence/NN interval/NN :/: 16-34/CD %/NN )/-RRB- and/CC decrease/VB mean/JJ trough/NN concentrations/NNS of/IN digoxin/NN by/IN 9/CD %/NN (/-LRB- 90/CD %/NN confidence/NN limit/NN :/: 19/CD %/NN decrease/NN to/TO 2/CD %/NN increase/NN )./NN
+
+nsubj(affect-3, Acarbose-1)
+aux(affect-3, may-2)
+root(ROOT-0, affect-3)
+nn(bioavailabillty-5, digoxin-4)
+dobj(affect-3, bioavailabillty-5)
+aux(require-8, may-7)
+conj_and(affect-3, require-8)
+nn(adjustment-10, dose-9)
+dobj(require-8, adjustment-10)
+prep_of(adjustment-10, digoxin-12)
+num(%-15, 16-14)
+prep_by(require-8, %-15)
+num(%-23, 90-17)
+nn(%-23, %-18)
+nn(%-23, confidence-19)
+nn(%-23, interval-20)
+num(%-23, 8-23-22)
+appos(%-15, %-23)
+conj_and(require-8, decrease-26)
+nn(digoxin-30, mean-27)
+nn(digoxin-30, C-28)
+nn(digoxin-30, max-29)
+dobj(decrease-26, digoxin-30)
+num(%-33, 26-32)
+prep_by(decrease-26, %-33)
+num(%-41, 90-35)
+nn(%-41, %-36)
+nn(%-41, confidence-37)
+nn(%-41, interval-38)
+num(%-41, 16-34-40)
+appos(%-33, %-41)
+conj_and(require-8, decrease-44)
+amod(concentrations-47, mean-45)
+nn(concentrations-47, trough-46)
+dobj(decrease-44, concentrations-47)
+prep_of(concentrations-47, digoxin-49)
+num(%-52, 9-51)
+prep_by(decrease-44, %-52)
+num(limit-57, 90-54)
+nn(limit-57, %-55)
+nn(limit-57, confidence-56)
+dep(%-52, limit-57)
+number(%-60, 19-59)
+amod(decrease-61, %-60)
+dep(affect-3, decrease-61)
+number(%-64, 2-63)
+amod(increase-65, %-64)
+nn(-RRB-.-66, increase-65)
+prep_to(decrease-61, -RRB-.-66)
+
+Sentence Id: DrugDDI.d103.s9
+The/DT amount/NN of/IN metformin/NN absorbed/VBD while/IN taking/VBG Acarbose/NN was/VBD bioequivalent/JJ to/TO the/DT amount/NN absorbed/VBN when/WRB taking/VBG placebo/NN ,/, as/IN indicated/VBN by/IN the/DT plasma/NN AUC/NN values/NNS ./.
+
+det(amount-2, The-1)
+nsubj(absorbed-5, amount-2)
+prep_of(amount-2, metformin-4)
+root(ROOT-0, absorbed-5)
+mark(bioequivalent-10, while-6)
+prep_taking(bioequivalent-10, Acarbose-8)
+cop(bioequivalent-10, was-9)
+advcl(absorbed-5, bioequivalent-10)
+det(amount-13, the-12)
+prep_to(bioequivalent-10, amount-13)
+partmod(amount-13, absorbed-14)
+advmod(taking-16, when-15)
+advcl(absorbed-14, taking-16)
+dobj(taking-16, placebo-17)
+mark(indicated-20, as-19)
+advcl(bioequivalent-10, indicated-20)
+det(values-25, the-22)
+nn(values-25, plasma-23)
+nn(values-25, AUC-24)
+prep_by(indicated-20, values-25)
+
+Sentence Id: DrugDDI.d103.s10
+However/RB ,/, the/DT peak/JJ plasma/NN level/NN of/IN metformin/NN was/VBD reduced/VBN by/IN approximately/RB 20/CD %/NN when/WRB taking/VBG Acarbose/NN due/IN to/TO a/DT slight/JJ delay/NN in/IN the/DT absorption/NN of/IN metformin/NN ./.
+
+advmod(reduced-10, However-1)
+det(level-6, the-3)
+amod(level-6, peak-4)
+nn(level-6, plasma-5)
+nsubjpass(reduced-10, level-6)
+prep_of(level-6, metformin-8)
+auxpass(reduced-10, was-9)
+root(ROOT-0, reduced-10)
+quantmod(20-13, approximately-12)
+num(%-14, 20-13)
+agent(reduced-10, %-14)
+advmod(taking-16, when-15)
+advcl(reduced-10, taking-16)
+dobj(taking-16, Acarbose-17)
+det(delay-22, a-20)
+amod(delay-22, slight-21)
+prep_due_to(taking-16, delay-22)
+det(absorption-25, the-24)
+prep_in(delay-22, absorption-25)
+prep_of(absorption-25, metformin-27)
+
+Sentence Id: DrugDDI.d103.s11
+There/EX is/VBZ little/JJ if/IN any/DT clinically/RB significant/JJ interaction/NN between/IN Acarbose/NN and/CC metformin/NN ./.
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+acomp(is-2, little-3)
+det(interaction-8, any-5)
+advmod(significant-7, clinically-6)
+amod(interaction-8, significant-7)
+prep_if(little-3, interaction-8)
+prep_between(interaction-8, Acarbose-10)
+conj_and(Acarbose-10, metformin-12)
+
+Sentence Id: DrugDDI.d518.s0
+Catecholamine-depleting/JJ drugs/NNS ,/, such/JJ as/IN reserpine/NN ,/, may/MD have/VB an/DT additive/JJ effect/NN when/WRB given/VBN with/IN beta-blocking/JJ agent/NN s/NNS ./.
+
+amod(drugs-2, Catecholamine-depleting-1)
+nsubj(have-9, drugs-2)
+prep_such_as(drugs-2, reserpine-6)
+aux(have-9, may-8)
+root(ROOT-0, have-9)
+det(effect-12, an-10)
+amod(effect-12, additive-11)
+dobj(have-9, effect-12)
+advmod(given-14, when-13)
+advcl(have-9, given-14)
+amod(s-18, beta-blocking-16)
+nn(s-18, agent-17)
+prep_with(given-14, s-18)
+
+Sentence Id: DrugDDI.d518.s1
+Patients/NNS treated/VBN with/IN acebutolol/NN plus/CC catecholamine/NN depletors/NNS should/MD ,/, therefore/RB ,/, be/VB observed/VBN closely/RB for/IN evidence/NN of/IN marked/JJ bradycardia/NN or/CC hypotension/NN which/WDT may/MD present/VBP as/IN vertigo/NN ,/, syncope/presyncope/NN ,/, or/CC orthostatic/JJ changes/NNS in/IN blood/NN pressure/NN without/IN compensatory/JJ tachycardia/NN ./.
+
+nsubjpass(observed-13, Patients-1)
+partmod(Patients-1, treated-2)
+prep_with(treated-2, acebutolol-4)
+nn(depletors-7, catecholamine-6)
+conj_plus(acebutolol-4, depletors-7)
+aux(observed-13, should-8)
+advmod(observed-13, therefore-10)
+auxpass(observed-13, be-12)
+root(ROOT-0, observed-13)
+advmod(observed-13, closely-14)
+prep_for(observed-13, evidence-16)
+amod(bradycardia-19, marked-18)
+prep_of(evidence-16, bradycardia-19)
+nsubj(present-24, bradycardia-19)
+conj_or(bradycardia-19, hypotension-21)
+aux(present-24, may-23)
+rcmod(bradycardia-19, present-24)
+prep_as(present-24, vertigo-26)
+conj_or(vertigo-26, syncope/presyncope-28)
+amod(changes-32, orthostatic-31)
+conj_or(vertigo-26, changes-32)
+nn(pressure-35, blood-34)
+prep_in(changes-32, pressure-35)
+amod(tachycardia-38, compensatory-37)
+prep_without(changes-32, tachycardia-38)
+
+Sentence Id: DrugDDI.d518.s2
+Exaggerated/JJ hypertensive/JJ responses/NNS have/VBP been/VBN reported/VBN from/IN the/DT combined/JJ use/NN of/IN beta-adrenergic/JJ antagonist/NN s/NN and/CC alpha-adrenergic/JJ stimulants/NNS ,/, including/VBG those/DT contained/VBN in/IN proprietary/JJ cold/JJ remedies/NNS and/CC vasoconstrictive/JJ nasal/JJ drops/NN ./.
+
+amod(responses-3, Exaggerated-1)
+amod(responses-3, hypertensive-2)
+nsubjpass(reported-6, responses-3)
+aux(reported-6, have-4)
+auxpass(reported-6, been-5)
+root(ROOT-0, reported-6)
+det(use-10, the-8)
+amod(use-10, combined-9)
+prep_from(reported-6, use-10)
+amod(s-14, beta-adrenergic-12)
+nn(s-14, antagonist-13)
+prep_of(use-10, s-14)
+amod(stimulants-17, alpha-adrenergic-16)
+conj_and(s-14, stimulants-17)
+prep_including(reported-6, those-20)
+partmod(those-20, contained-21)
+amod(remedies-25, proprietary-23)
+amod(remedies-25, cold-24)
+prep_in(contained-21, remedies-25)
+amod(drops-29, vasoconstrictive-27)
+amod(drops-29, nasal-28)
+conj_and(remedies-25, drops-29)
+
+Sentence Id: DrugDDI.d518.s3
+Patients/NNS receiving/VBG beta-blockers/NN should/MD be/VB warned/VBN of/IN this/DT potential/JJ hazard/NN ./.
+
+nsubjpass(warned-6, Patients-1)
+partmod(Patients-1, receiving-2)
+dobj(receiving-2, beta-blockers-3)
+aux(warned-6, should-4)
+auxpass(warned-6, be-5)
+root(ROOT-0, warned-6)
+det(hazard-10, this-8)
+amod(hazard-10, potential-9)
+prep_of(warned-6, hazard-10)
+
+Sentence Id: DrugDDI.d518.s4
+Blunting/NN of/IN the/DT antihypertensive/JJ effect/NN of/IN beta-adrenoceptor/NN blocking/NN agent/NN s/NNS by/IN nonsteroidal/JJ anti-inflammatory/JJ drugs/NNS has/VBZ been/VBN reported/VBN ./.
+
+nsubjpass(reported-17, Blunting-1)
+det(effect-5, the-3)
+amod(effect-5, antihypertensive-4)
+prep_of(Blunting-1, effect-5)
+nn(s-10, beta-adrenoceptor-7)
+nn(s-10, blocking-8)
+nn(s-10, agent-9)
+prep_of(effect-5, s-10)
+amod(drugs-14, nonsteroidal-12)
+amod(drugs-14, anti-inflammatory-13)
+prep_by(Blunting-1, drugs-14)
+aux(reported-17, has-15)
+auxpass(reported-17, been-16)
+root(ROOT-0, reported-17)
+
+Sentence Id: DrugDDI.d518.s5
+No/DT significant/JJ interactions/NNS with/IN digoxin/NN ,/, hydrochlorothiazide/NN ,/, hydralazine/NN ,/, sulfinpyrazone/NN ,/, oral/JJ contraceptives/NNS ,/, tolbutamide/NN ,/, or/CC warfarin/NN have/VBP been/VBN observed/VBN ./.
+
+det(interactions-3, No-1)
+amod(interactions-3, significant-2)
+nsubjpass(observed-22, interactions-3)
+prep_with(interactions-3, digoxin-5)
+conj_or(digoxin-5, hydrochlorothiazide-7)
+conj_or(digoxin-5, hydralazine-9)
+conj_or(digoxin-5, sulfinpyrazone-11)
+amod(contraceptives-14, oral-13)
+conj_or(digoxin-5, contraceptives-14)
+conj_or(digoxin-5, tolbutamide-16)
+conj_or(digoxin-5, warfarin-19)
+aux(observed-22, have-20)
+auxpass(observed-22, been-21)
+root(ROOT-0, observed-22)
+
+Sentence Id: DrugDDI.d452.s0
+DIAMOX/NN modifies/VBZ phenytoin/NN metabolism/NN with/IN increased/VBN serum/NN levels/NNS of/IN phenytoin/NN ./.
+
+nsubj(modifies-2, DIAMOX-1)
+root(ROOT-0, modifies-2)
+nn(metabolism-4, phenytoin-3)
+dobj(modifies-2, metabolism-4)
+amod(levels-8, increased-6)
+nn(levels-8, serum-7)
+prep_with(modifies-2, levels-8)
+prep_of(levels-8, phenytoin-10)
+
+Sentence Id: DrugDDI.d452.s1
+This/DT may/MD increase/VB or/CC enhance/VB the/DT occurrence/NN of/IN osteomalacia/NN in/IN some/DT patients/NNS receiving/VBG chronic/JJ phenytoin/NN therapy/NN ./.
+
+nsubj(increase-3, This-1)
+aux(increase-3, may-2)
+root(ROOT-0, increase-3)
+conj_or(increase-3, enhance-5)
+det(occurrence-7, the-6)
+dobj(enhance-5, occurrence-7)
+prep_of(occurrence-7, osteomalacia-9)
+det(patients-12, some-11)
+prep_in(occurrence-7, patients-12)
+partmod(patients-12, receiving-13)
+amod(therapy-16, chronic-14)
+nn(therapy-16, phenytoin-15)
+dobj(receiving-13, therapy-16)
+
+Sentence Id: DrugDDI.d452.s3
+By/IN decreasing/VBG the/DT gastrointestinal/JJ absorption/NN of/IN primidone/NN ,/, DIAMOX/NN may/MD decrease/VB serum/NN concentrations/NNS of/IN primidone/NN and/CC its/PRP$ metabolites/NNS ,/, with/IN a/DT consequent/JJ possible/JJ decrease/NN in/IN anticonvulsant/JJ effect/NN ./.
+
+prepc_by(decrease-11, decreasing-2)
+det(absorption-5, the-3)
+amod(absorption-5, gastrointestinal-4)
+dobj(decreasing-2, absorption-5)
+prep_of(absorption-5, primidone-7)
+nsubj(decrease-11, DIAMOX-9)
+aux(decrease-11, may-10)
+root(ROOT-0, decrease-11)
+nn(concentrations-13, serum-12)
+dobj(decrease-11, concentrations-13)
+prep_of(concentrations-13, primidone-15)
+poss(metabolites-18, its-17)
+conj_and(primidone-15, metabolites-18)
+det(decrease-24, a-21)
+amod(decrease-24, consequent-22)
+amod(decrease-24, possible-23)
+prep_with(decrease-11, decrease-24)
+amod(effect-27, anticonvulsant-26)
+prep_in(decrease-24, effect-27)
+
+Sentence Id: DrugDDI.d452.s4
+Caution/NN is/VBZ advised/JJ when/WRB beginning/VBG ,/, discontinuing/VBG ,/, or/CC changing/VBG the/DT dose/NN of/IN DIAMOX/NN in/IN patients/NNS receiving/VBG primidone/NN ./.
+
+nsubj(advised-3, Caution-1)
+cop(advised-3, is-2)
+root(ROOT-0, advised-3)
+advmod(beginning-5, when-4)
+advcl(advised-3, beginning-5)
+conj_or(beginning-5, discontinuing-7)
+conj_or(beginning-5, changing-10)
+det(dose-12, the-11)
+dobj(changing-10, dose-12)
+prep_of(dose-12, DIAMOX-14)
+prep_in(dose-12, patients-16)
+partmod(patients-16, receiving-17)
+dobj(receiving-17, primidone-18)
+
+Sentence Id: DrugDDI.d452.s5
+Because/IN of/IN possible/JJ additive/JJ effects/NNS with/IN other/JJ carbonic/JJ anhydrase/NN inhibitors/NNS ,/, concomitant/JJ use/NN is/VBZ not/RB advisable/JJ ./.
+
+prepc_because_of(advisable-16, of-2)
+amod(effects-5, possible-3)
+amod(effects-5, additive-4)
+pobj(advisable-16, effects-5)
+amod(inhibitors-10, other-7)
+amod(anhydrase-9, carbonic-8)
+nn(inhibitors-10, anhydrase-9)
+prep_with(effects-5, inhibitors-10)
+amod(use-13, concomitant-12)
+nsubj(advisable-16, use-13)
+cop(advisable-16, is-14)
+neg(advisable-16, not-15)
+root(ROOT-0, advisable-16)
+
+Sentence Id: DrugDDI.d452.s6
+Acetazolamide/NN may/MD increase/VB the/DT effects/NNS of/IN other/JJ folic/JJ acid/NN antagonists/NNS ./.
+
+nsubj(increase-3, Acetazolamide-1)
+aux(increase-3, may-2)
+root(ROOT-0, increase-3)
+det(effects-5, the-4)
+dobj(increase-3, effects-5)
+amod(antagonists-10, other-7)
+amod(antagonists-10, folic-8)
+nn(antagonists-10, acid-9)
+prep_of(effects-5, antagonists-10)
+
+Sentence Id: DrugDDI.d452.s7
+Acetazolamide/NN may/MD increase/VB or/CC decrease/VB blood/NN glucose/NN levels/NNS ./.
+
+nsubj(increase-3, Acetazolamide-1)
+aux(increase-3, may-2)
+root(ROOT-0, increase-3)
+conj_or(increase-3, decrease-5)
+nn(levels-8, blood-6)
+nn(levels-8, glucose-7)
+dobj(decrease-5, levels-8)
+
+Sentence Id: DrugDDI.d452.s8
+Consideration/NN should/MD be/VB taken/VBN in/IN patients/NNS being/VBG treated/VBN with/IN antidiabetic/JJ agents/NNS ./.
+
+nsubjpass(taken-4, Consideration-1)
+aux(taken-4, should-2)
+auxpass(taken-4, be-3)
+root(ROOT-0, taken-4)
+prep_in(taken-4, patients-6)
+auxpass(treated-8, being-7)
+partmod(patients-6, treated-8)
+amod(agents-11, antidiabetic-10)
+prep_with(treated-8, agents-11)
+
+Sentence Id: DrugDDI.d452.s9
+Acetazolamide/NN decreases/VBZ urinary/JJ excretion/NN of/IN amphetamine/NN and/CC may/MD enhance/VB the/DT magnitude/NN and/CC duration/NN of/IN their/PRP$ effect/NN ./.
+
+nsubj(decreases-2, Acetazolamide-1)
+root(ROOT-0, decreases-2)
+amod(excretion-4, urinary-3)
+dobj(decreases-2, excretion-4)
+prep_of(excretion-4, amphetamine-6)
+aux(enhance-9, may-8)
+conj_and(decreases-2, enhance-9)
+det(magnitude-11, the-10)
+dobj(enhance-9, magnitude-11)
+conj_and(magnitude-11, duration-13)
+poss(effect-16, their-15)
+prep_of(magnitude-11, effect-16)
+
+Sentence Id: DrugDDI.d452.s10
+Acetazolamide/NN reduces/VBZ urinary/JJ excretion/NN of/IN quinidine/NN and/CC may/MD enhance/VB its/PRP$ effect/NN ./.
+
+nsubj(reduces-2, Acetazolamide-1)
+root(ROOT-0, reduces-2)
+amod(excretion-4, urinary-3)
+dobj(reduces-2, excretion-4)
+prep_of(excretion-4, quinidine-6)
+aux(enhance-9, may-8)
+conj_and(reduces-2, enhance-9)
+poss(effect-11, its-10)
+dobj(enhance-9, effect-11)
+
